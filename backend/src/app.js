@@ -1,13 +1,11 @@
 require('dotenv').config();
 const express = require('express');
 const cors = require('cors');
-
-const swaggerJsDoc = require('swagger-jsdoc');
 const swaggerUi = require('swagger-ui-express');
-
 const authRoutes = require('./routes/auth');
 const productRoutes = require('./routes/products');
 const orderRoutes = require('./routes/orders');
+const restaurantsRoutes = require('./routes/restaurants');
 const swaggerSpec = require('./swagger');
 
 const app = express();
@@ -29,6 +27,7 @@ app.use('/api/auth', authRoutes);
 app.use('/api/products', productRoutes);
 app.use('/api/orders', orderRoutes);
 app.use('/api/track', orderRoutes);
+app.use('/api/restaurants', restaurantsRoutes);
 // Error handling middleware
 app.use((err, req, res, next) => {
   console.error(err.stack);

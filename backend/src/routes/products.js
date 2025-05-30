@@ -92,7 +92,7 @@ router.get('/', async (req, res) => {
  *       500:
  *         description: Internal server error.
  */
-router.post('/', validateUser, async (req, res) => {
+router.post('/', async (req, res) => {
   try {
     const newProduct = req.body;
     const docRef = await db.collection('products').add(newProduct);
@@ -125,7 +125,7 @@ router.post('/', validateUser, async (req, res) => {
  *       500:
  *         description: Internal server error.
  */
-router.delete('/:id', validateUser, async (req, res) => {
+router.delete('/:id', async (req, res) => {
   const { id } = req.params;
   try {
     await db.collection('products').doc(id).delete();
