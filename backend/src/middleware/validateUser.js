@@ -1,18 +1,25 @@
-const { admin } = require('../services/firebase');
+const jwt = require('jsonwebtoken');
+const bcrypt = require('bcryptjs');
+const bodyParser = require('body-parser');
+const { db } = require('../services/firebase');
 
-// Middleware to validate user token
+const JWT_SECRET_KEY = process.env.JWT_SECRET_KEY;
+
 const validateUser = async (req, res, next) => {
-  const token = req.headers.authorization?.split(' ')[1]; // Extract token from Authorization header
+  const token = req.headers.authorization?.split(' ')[1];
   if (!token) {
     return res.status(401).json({ error: 'Authorization token is required' });
   }
 
   try {
-    const decodedToken = await admin.auth().verifyIdToken(token);
-    req.user = decodedToken; // Attach decoded token to the request object
+    const decoded = jwt.verify(token, JWT_SECRET_KEY);
+    const userRef = db.collection('users').doc(decoded.email);
+    const userDoc = await userRef.get();
+
+    req.user = userDoc.exists ? userDoc.data() : null;
     next();
   } catch (err) {
-    res.status(401).json({ error: 'Invalid or expired token' });
+    res.status(401).json({ error: err });
   }
 };
 

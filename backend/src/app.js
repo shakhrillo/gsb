@@ -6,7 +6,7 @@ const authRoutes = require('./routes/auth');
 const productRoutes = require('./routes/products');
 const orderRoutes = require('./routes/orders');
 const restaurantsRoutes = require('./routes/restaurants');
-const swaggerSpec = require('./swagger');
+const swaggerSpec = require('./swagger/swaggerSpec');
 
 const app = express();
 

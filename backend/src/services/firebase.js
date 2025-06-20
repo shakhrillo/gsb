@@ -20,4 +20,8 @@ db.settings({
   ssl: false
 });
 
-module.exports = { admin, db };
+// Auth
+const auth = admin.auth();
+auth.useEmulator && auth.useEmulator('localhost', 9099);
+
+module.exports = { admin, db, auth };
