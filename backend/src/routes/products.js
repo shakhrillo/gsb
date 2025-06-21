@@ -1,13 +1,13 @@
 const express = require('express');
 const router = express.Router();
 const { db } = require('../services/firebase');
-const validateUser = require('../middleware/validateUser');
+const { validateUser, validateUserPass } = require('../middleware/validateUser');
 
-router.get('/', validateUser, async (req, res) => {
+router.get('/', validateUserPass, async (req, res) => {
   try {
     const user = req.user;
     let collectionProducts = await db.collection('products');
-    if (user.type === 'merchant') {
+    if (user && user.type === 'merchant') {
       collectionProducts = collectionProducts.where('merchantUid', '==', user.email);
     } else {
       const merchantUid = req.query.merchantUid;

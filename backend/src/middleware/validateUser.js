@@ -23,4 +23,25 @@ const validateUser = async (req, res, next) => {
   }
 };
 
-module.exports = validateUser;
+const validateUserPass = async (req, res, next) => {
+  const token = req.headers.authorization?.split(' ')[1];
+
+  
+  try {
+    if (token) {
+      const decoded = jwt.verify(token, JWT_SECRET_KEY);
+      const userRef = db.collection('users').doc(decoded.email);
+      const userDoc = await userRef.get();
+  
+      req.user = userDoc.exists ? userDoc.data() : null;
+    }
+    next();
+  } catch (err) {
+    res.status(401).json({ error: err });
+  }
+};
+
+module.exports = {
+  validateUser,
+  validateUserPass
+};

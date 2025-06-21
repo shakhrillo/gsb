@@ -6,7 +6,7 @@ const JWT_SECRET_KEY = process.env.JWT_SECRET_KEY;
 
 const router = express.Router();
 const { db } = require('../services/firebase');
-const validateUser = require('../middleware/validateUser');
+const { validateUser } = require('../middleware/validateUser');
 
 router.post('/login', async (req, res) => {
 

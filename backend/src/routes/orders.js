@@ -1,7 +1,7 @@
 const express = require('express');
 const router = express.Router();
 const { db } = require('../services/firebase');
-const validateUser = require('../middleware/validateUser');
+const { validateUser } = require('../middleware/validateUser');
 
 router.post('/', validateUser, async (req, res) => {
   try {

@@ -3,14 +3,15 @@ const express = require('express');
 const cors = require('cors');
 const swaggerUi = require('swagger-ui-express');
 const authRoutes = require('./routes/auth');
+const merchantsRoutes = require('./routes/merchants');
 const fileRoutes = require('./routes/file');
 const productRoutes = require('./routes/products');
 const orderRoutes = require('./routes/orders');
 const restaurantsRoutes = require('./routes/restaurants');
 const swaggerSpec = require('./swagger/swaggerSpec');
 
-const telegramBotInit = require('./services/telegram').telegramBotInit;
-telegramBotInit();
+// const telegramBotInit = require('./services/telegram').telegramBotInit;
+// telegramBotInit();
 
 const app = express();
 
@@ -28,6 +29,7 @@ app.get('/', (req, res) => {
 
 // API routes
 app.use('/api/auth', authRoutes);
+app.use('/api/merchants', merchantsRoutes);
 app.use('/api/file', fileRoutes);
 app.use('/api/products', productRoutes);
 app.use('/api/orders', orderRoutes);
