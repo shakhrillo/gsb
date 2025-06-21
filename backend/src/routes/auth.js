@@ -8,14 +8,13 @@ const JWT_SECRET_KEY = process.env.JWT_SECRET_KEY;
 
 const router = express.Router();
 const { admin, auth, db } = require('../services/firebase');
+const validateUser = require('../middleware/validateUser');
 
-// Auth login with email and password
 router.post('/login', async (req, res) => {
 
   try {
     const { email, password } = req.body;
 
-    // Fetch user from Firestore
     const userRef = db.collection('users').doc(email);
     const userDoc = await userRef.get();
   
@@ -23,12 +22,13 @@ router.post('/login', async (req, res) => {
   
     const user = userDoc.data();
     const valid = await bcrypt.compare(password, user.password);
-  
+    
     if (!valid) return res.status(401).json({ message: 'Invalid credentials' });
-  
-    // Sign JWT
+    
     const token = jwt.sign({ email }, JWT_SECRET_KEY, { expiresIn: '300h' });
-    res.json({ ...user, password: null, token });
+    
+    delete user.password;
+    res.json({ ...user, token });
   } catch (err) {
     console.error('Login error:', err);
     res.status(401).json({ error: 'Invalid credentials' });
@@ -42,6 +42,37 @@ router.post('/register', async (req, res) => {
   await db.collection('users').doc(email).set({ email, password: hashed });
 
   res.status(201).json({ message: 'User registered' });
+});
+
+router.put('/update', validateUser, async (req, res) => {
+  const user = req.user;
+  let data = req.body;
+  data = Object.fromEntries(Object.entries(data).filter(([key]) => key !== 'email' && key !== 'password'));
+  console.log('Update data:', data);
+
+  try {
+    await db.collection('users').doc(user.email).update(data);
+    res.status(200).json({ message: 'User updated' });
+  } catch (err) {
+    console.error('Update error:', err);
+    res.status(500).json({ error: 'Failed to update user' });
+  }
+});
+
+router.get('/profile', validateUser, async (req, res) => {
+  const user = req.user;
+
+  try {
+    const userDoc = await db.collection('users').doc(user.email).get();
+    if (!userDoc.exists) return res.status(404).json({ message: 'User not found' });
+
+    const userData = userDoc.data();
+    delete userData.password;
+    res.status(200).json(userData);
+  } catch (err) {
+    console.error('Profile fetch error:', err);
+    res.status(500).json({ error: 'Failed to fetch profile' });
+  }
 });
 
 router.post('/verify-token', async (req, res) => {
