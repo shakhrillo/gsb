@@ -20,7 +20,7 @@ router.get('/', validateUser, async (req, res) => {
     if (snapshot.empty) {
       return res.status(404).json({ message: 'No products found' });
     }
-    const products = snapshot.docs.map(doc => ({ id: doc.id, ...doc.data() }));
+    const products = snapshot.docs.map(doc => ({ ...doc.data(), id: doc.id }));
     res.json(products);
   } catch (err) {
     res.status(500).json({ error: err.message });
@@ -45,6 +45,30 @@ router.post('/', validateUser, async (req, res) => {
   } catch (err) {
     console.error('Error adding product:', err);
     res.status(400).json({ error: err.message });
+  }
+});
+
+router.put('/:id', validateUser, async (req, res) => {
+  const { id } = req.params;
+  const updatedData = req.body;
+  
+  try {
+    const user = req.user;
+    const productDoc = await db.collection('products').doc(id).get();
+    
+    if (!productDoc.exists) {
+      return res.status(404).json({ error: 'Product not found' });
+    }
+    
+    const productData = productDoc.data();
+    if (productData.merchantUid !== user.email) {
+      return res.status(403).json({ error: 'You do not have permission to update this product' });
+    }
+    
+    await db.collection('products').doc(id).update(updatedData);
+    res.status(200).json({ message: 'Product updated successfully' });
+  } catch (err) {
+    res.status(500).json({ error: err.message });
   }
 });
 
