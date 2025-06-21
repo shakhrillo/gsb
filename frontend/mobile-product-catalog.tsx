@@ -288,19 +288,23 @@ export default function Component() {
 
                   <div className="p-3">
                     <h3 className="font-medium text-sm text-gray-900 line-clamp-2 mb-2">{product.name}</h3>
+                    {/* subtitle */}
+                    <div className="text-xs text-gray-500 mb-2">
+                      {product.description || "No description available."}
+                    </div>
 
                     <div className="flex items-center gap-1 mb-2">
                       <div className="flex items-center">
                         <Star className="h-3 w-3 fill-yellow-400 text-yellow-400" />
-                        <span className="text-xs text-gray-600 ml-1">{product.rating}</span>
+                        <span className="text-xs text-gray-600 ml-1">{product.rating || '-'}</span>
                       </div>
-                      <span className="text-xs text-gray-400">({product.reviews})</span>
+                      <span className="text-xs text-gray-400">({product.reviews || '0'})</span>
                     </div>
 
                     <div className="flex items-center gap-2">
                       <span className="font-bold text-gray-900">${product.price}</span>
-                      {product.originalPrice && (
-                        <span className="text-xs text-gray-500 line-through">${product.originalPrice}</span>
+                      {product.unitOfMeasure && (
+                        <span className="text-xs text-gray-500">${product.unitOfMeasure}</span>
                       )}
                     </div>
                   </div>
