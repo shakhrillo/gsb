@@ -9,6 +9,9 @@ const orderRoutes = require('./routes/orders');
 const restaurantsRoutes = require('./routes/restaurants');
 const swaggerSpec = require('./swagger/swaggerSpec');
 
+const telegramBotInit = require('./services/telegram').telegramBotInit;
+telegramBotInit();
+
 const app = express();
 
 // Middleware

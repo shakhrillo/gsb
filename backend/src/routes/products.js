@@ -30,14 +30,17 @@ router.get('/', validateUser, async (req, res) => {
 router.post('/', validateUser, async (req, res) => {
   try {
     const user = req.user;
+    
     if (user.type !== 'merchant') {
       return res.status(403).json({ error: 'Only merchants can add products' });
     }
+
     const newProduct = req.body;
     const docRef = await db.collection('products').add({
       ...newProduct,
       merchantUid: user.email
     });
+    
     res.status(201).json({ id: docRef.id });
   } catch (err) {
     console.error('Error adding product:', err);
@@ -48,7 +51,6 @@ router.post('/', validateUser, async (req, res) => {
 router.delete('/:id', validateUser, async (req, res) => {
   const { id } = req.params;
   try {
-    // Only owner of the product can delete it
     const user = req.user;
     const productDoc = await db.collection('products').doc(id).get();
     if (!productDoc.exists) {

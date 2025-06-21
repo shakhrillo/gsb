@@ -2,14 +2,13 @@ const express = require('express');
 const multer = require('multer');
 const router = express.Router();
 const validateUser = require('../middleware/validateUser');
-const environment = process.env.APP_ENVIRONMENT;
 const uploadFile = require('../services/uploadFile');
 
 const multerStorage = multer.memoryStorage();
 const upload = multer({ 
   storage: multerStorage,
   limits: {
-    fileSize: 5 * 1024 * 1024 // 5MB limit
+    fileSize: 20 * 1024 * 1024
   }
 });
 
