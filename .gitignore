@@ -1,5 +1,6 @@
 node_modules/
-backend/**.json
+backend/gsb**.json
+backend/yolda**.json
 .env
 
 # Local Netlify folder
