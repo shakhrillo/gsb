@@ -2,12 +2,10 @@ const express = require('express');
 
 const jwt = require('jsonwebtoken');
 const bcrypt = require('bcryptjs');
-const bodyParser = require('body-parser');
-
 const JWT_SECRET_KEY = process.env.JWT_SECRET_KEY;
 
 const router = express.Router();
-const { admin, auth, db } = require('../services/firebase');
+const { db } = require('../services/firebase');
 const validateUser = require('../middleware/validateUser');
 
 router.post('/login', async (req, res) => {
@@ -36,12 +34,23 @@ router.post('/login', async (req, res) => {
 });
 
 router.post('/register', async (req, res) => {
-  const { email, password } = req.body;
+  const { email, password, type } = req.body;
+
+  // check user exists
+  const userRef = db.collection('users').doc(email);
+  const userDoc = await userRef.get();
+  if (userDoc.exists) {
+    return res.status(400).json({ message: 'User already exists' });
+  }
 
   const hashed = await bcrypt.hash(password, 10);
-  await db.collection('users').doc(email).set({ email, password: hashed });
+  await db.collection('users').doc(email).set({ email, type, password: hashed });
 
-  res.status(201).json({ message: 'User registered' });
+  res.status(201).json({
+    message: 'User registered successfully',
+    email,
+    type
+  });
 });
 
 router.put('/update', validateUser, async (req, res) => {
@@ -72,17 +81,6 @@ router.get('/profile', validateUser, async (req, res) => {
   } catch (err) {
     console.error('Profile fetch error:', err);
     res.status(500).json({ error: 'Failed to fetch profile' });
-  }
-});
-
-router.post('/verify-token', async (req, res) => {
-  const { token } = req.body;
-
-  try {
-    const decodedToken = await admin.auth().verifyIdToken(token);
-    res.status(200).json({ uid: decodedToken.uid });
-  } catch (err) {
-    res.status(401).json({ error: 'Invalid token' });
   }
 });
 
