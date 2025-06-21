@@ -12,6 +12,9 @@ router.post('/login', async (req, res) => {
 
   try {
     const { email, password } = req.body;
+    if (!email || !password) {
+      return res.status(400).json({ message: 'Email and password are required' });
+    }
 
     const userRef = db.collection('users').doc(email);
     const userDoc = await userRef.get();
@@ -35,8 +38,7 @@ router.post('/login', async (req, res) => {
 
 router.post('/register', async (req, res) => {
   const { email, password, type } = req.body;
-
-  // check user exists
+  
   const userRef = db.collection('users').doc(email);
   const userDoc = await userRef.get();
   if (userDoc.exists) {
@@ -57,7 +59,6 @@ router.put('/update', validateUser, async (req, res) => {
   const user = req.user;
   let data = req.body;
   data = Object.fromEntries(Object.entries(data).filter(([key]) => key !== 'email' && key !== 'password'));
-  console.log('Update data:', data);
 
   try {
     await db.collection('users').doc(user.email).update(data);
