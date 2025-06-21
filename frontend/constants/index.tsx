@@ -1,2 +1,2 @@
-export const API_URL = "http://128.199.0.177";
+export const API_URL = "https://scrappio.site";
 // export const API_URL = "http://localhost:2000";

@@ -1,12 +1,58 @@
 "use client"
 
+declare global {
+  interface Window {
+    Telegram?: {
+      WebApp?: {
+        initDataUnsafe?: {
+          user?: {
+            username?: string;
+          };
+        };
+        ready?: () => void;
+        close?: () => void;
+      };
+    };
+  }
+}
+
 import Image from "next/image"
 import { Badge } from "@/components/ui/badge"
 import { Button } from "@/components/ui/button"
 import { Card, CardContent } from "@/components/ui/card"
-import { Heart, Star, ArrowLeft, ChevronRight, MapPin, Clock, PlusCircle, PlusSquareIcon, PlusIcon } from "lucide-react"
-import { useEffect, useState } from "react"
+import { Heart, Star, ArrowLeft, ChevronRight, MapPin, Clock, PlusCircle, PlusSquareIcon, PlusIcon, Check, CheckCircle, CheckCheck, CheckIcon, CheckCircle2, CheckSquare } from "lucide-react"
+import { use, useEffect, useState } from "react"
 import { getMerchants, getProducts } from "./services/api.services"
+
+// function Header() {
+//   useEffect(() => {
+//     const script = document.createElement('script');
+//     script.src = 'https://telegram.org/js/telegram-web-app.js';
+//     // script.async = true;
+//     // script.setAttribute('data-telegram-login', 'YourBotUsername'); // change this
+//     // script.setAttribute('data-size', 'large');
+//     // script.setAttribute('data-userpic', 'true');
+//     // script.setAttribute('data-request-access', 'write');
+//     // script.setAttribute('data-onauth', 'onTelegramAuth(user)');
+//     // document.getElementById('telegram-login')?.appendChild(script);
+//     document.body.appendChild(script);
+//   }, []);
+
+//   useEffect(() => {
+//     setInterval(() => {
+//       console.log('user', window)
+//     }, 10000);
+//   }, []);
+
+//   return (
+//     <div>
+//       <h1>Login with Telegram</h1>
+//       <div id="telegram-login">
+//         {window.Telegram.WebApp.initDataUnsafe?.user}
+//       </div>
+//     </div>
+//   );
+// }  
 
 const merchantCategories = [
   { id: "all", label: "All", active: true },
@@ -193,18 +239,6 @@ export default function Component() {
   // const merchantProducts = selectedMerchant ? productsByMerchant[selectedMerchant] || [] : []
 
   useEffect(() => {
-    const script = document.createElement('script');
-    script.src = 'https://telegram.org/js/telegram-widget.js?7';
-    script.async = true;
-    script.setAttribute('data-telegram-login', 'yulda_uz_bot'); // Replace
-    script.setAttribute('data-size', 'large');
-    script.setAttribute('data-userpic', 'true');
-    script.setAttribute('data-request-access', 'write');
-    script.setAttribute('data-onauth', 'onTelegramAuth(user)');
-    document.getElementById('telegram-login-button')?.appendChild(script);
-  }, []);
-
-  useEffect(() => {
     if (!selectedMerchantData) return;
 
     getProducts(selectedMerchantData?.id || "")
@@ -261,7 +295,7 @@ export default function Component() {
                 <CardContent className="p-0">
                   <div className="relative">
                     <Image
-                      src={product.photo || "/placeholder.svg"}
+                      src={product.photo}
                       alt={product.name}
                       width={200}
                       height={200}
@@ -290,11 +324,18 @@ export default function Component() {
                       className="absolute top-2 right-2 h-8 w-8 p-0 bg-white/80 hover:bg-white rounded-full"
                       onClick={() => toggleFavorite(product.id)}
                     >
-                      <PlusIcon
+                      {/* <PlusIcon
                         className={`h-4 w-4 ${
                           favorites.includes(product.id) ? "fill-red-500 text-red-500" : "text-gray-600"
                         }`}
-                      />
+                      /> */}
+                      {
+                        favorites.includes(product.id) ? (
+                          <Check className="h-4 w-4 text-red-500" />
+                        ) : (
+                          <PlusIcon className="h-4 w-4 text-gray-600" />
+                        )
+                      }
                     </Button>
                   </div>
 
@@ -338,24 +379,7 @@ export default function Component() {
   // Merchants View
   return (
     <div className="min-h-screen bg-gray-50">
-      <div>
-        <h1>Login with Telegram</h1>
-        <div id="telegram-login-button" />
-        <script
-          dangerouslySetInnerHTML={{
-            __html: `
-              function onTelegramAuth(user) {
-                fetch('/api/auth', {
-                  method: 'POST',
-                  headers: { 'Content-Type': 'application/json' },
-                  body: JSON.stringify(user)
-                }).then(res => res.json())
-                  .then(data => console.log('User verified:', data));
-              }
-            `,
-          }}
-        />
-      </div>
+      {/* <Header /> */}
       {/* Sticky Filter Header */}
       <div className="sticky top-0 z-10 bg-white border-b border-gray-200 px-4 py-3">
         <div className="flex gap-2 overflow-x-auto scrollbar-hide pb-1">
