@@ -1,6 +1,5 @@
 {
   "hosting": {
-    "apphosting": true,
     "source": "./backend"
   }
 }
