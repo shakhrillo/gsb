@@ -168,8 +168,8 @@ class TransactionService {
 
     if (tx.state > 0) {
       await txRef.update({
-        state: -Math.abs(tx.state),
-        reason: params.reason,
+        state: -Math.abs(tx.state || 0),
+        reason: params.reason || 0,
         cancel_time: currentTime,
       })
     }
