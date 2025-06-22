@@ -108,7 +108,9 @@ class TransactionService {
 		}
 
 		// const newTransaction = await transactionModel.create({
-		const newTransaction = await db.collection("transactions").add({
+		const newTransaction = await db.collection("transactions").doc(
+      params.id
+    ).set({
 			id: params.id,
 			state: TransactionState.Pending,
 			amount,
