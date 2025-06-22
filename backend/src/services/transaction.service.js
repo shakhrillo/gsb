@@ -62,9 +62,9 @@ class TransactionService {
 
 		// let transaction = await transactionModel.findOne({ id: params.id })
     let transaction = null;
-    const transactionSnap = await db.collection("transactions").where("id", "==", params.id).get();
-    if (!transactionSnap.empty) {
-      transaction = transactionSnap.docs[0].data();
+    const transactionSnap = await db.collection("transactions").doc(params.id).get();
+    if (transactionSnap.exists) {
+      transaction = transactionSnap.data();
     }
     console.log('Transaction found:', transaction);
     // let transactionSnap = await db.collection("transactions").doc(params.id).get()
@@ -108,7 +108,7 @@ class TransactionService {
 		}
 
 		// const newTransaction = await transactionModel.create({
-		const newTransaction = await db.collection("transactions").doc(params.id).set({
+		const newTransaction = await db.collection("transactions").add({
 			id: params.id,
 			state: TransactionState.Pending,
 			amount,
