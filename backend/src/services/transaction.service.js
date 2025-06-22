@@ -34,6 +34,9 @@ class TransactionService {
   }
 
   async checkTransaction(params, id) {
+    console.log('-'.repeat(50))
+    console.log('checkTransaction', params, id)
+    console.log('-'.repeat(50))
 		// const transaction = await transactionModel.findOne({ id: params.id })
     const transactionRef = db.collection("transactions").doc(params.id)
     const transactionSnap = await transactionRef.get()
@@ -54,7 +57,11 @@ class TransactionService {
   async createTransaction(params, id) {
 		let { account, time, amount } = params
 
-		amount = Math.floor(amount / 100)
+    console.log('-'.repeat(50))
+    console.log('createTransaction', params, id)
+    console.log('-'.repeat(50))
+
+		amount = Math.floor(amount)
 
 		await this.checkPerformTransaction(params, id)
 
