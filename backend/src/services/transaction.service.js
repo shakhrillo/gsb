@@ -173,6 +173,22 @@ class TransactionService {
     }
   }
 
+  async cancelTransaction(transactionId) {
+    if (!transactionId || typeof transactionId !== 'string') {
+        throw new Error('Invalid transactionId: must be a non-empty string');
+    }
+
+    const transactionDoc = this.firestore.collection('transactions').doc(transactionId);
+
+    // Proceed with the rest of the logic
+    const transaction = await transactionDoc.get();
+    if (!transaction.exists) {
+        throw new Error('Transaction not found');
+    }
+
+    // Additional cancellation logic...
+  }
+
   async getStatement(params) {
     const { from, to } = params
     const txs = await db.collection("transactions")
