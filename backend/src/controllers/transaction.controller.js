@@ -13,9 +13,7 @@ class TransactionController {
 				}
 				case PaymeMethod.CheckTransaction: {
 					const result = await transactionService.checkTransaction(params, id)
-					return res.json({
-						ok: true,
-					 })
+					return res.json({ result, id })
 				}
 				case PaymeMethod.CreateTransaction: {
 					const result = await transactionService.createTransaction(params, id)

@@ -34,18 +34,17 @@ class TransactionService {
   }
 
   async checkTransaction(params, id) {
-    console.log('-'.repeat(50))
-    console.log('checkTransaction', params, id)
-    console.log('-'.repeat(50))
 		// const transaction = await transactionModel.findOne({ id: params.id })
     const transactionRef = db.collection("transactions").doc(params.id)
     const transactionSnap = await transactionRef.get()
     const transaction = transactionSnap.exists ? transactionSnap.data() : null
-    console.log('transaction__', transaction);
+    console.log('=======')
+    console.log('checkTransaction', transaction, params, id)
+    console.log('=======')
 		if (!transaction) {
 			throw new TransactionError(PaymeError.TransactionNotFound, id)
 		}
-    console.log('should return here')
+    
 		return {
 			create_time: transaction.create_time,
 			perform_time: transaction.perform_time,
