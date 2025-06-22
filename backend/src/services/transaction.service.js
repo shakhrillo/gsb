@@ -52,7 +52,7 @@ class TransactionService {
 
   async createTransaction(params, id) {
     const { account, time, amount: rawAmount } = params
-    const amount = Math.floor(rawAmount / 100)
+    const amount = Math.floor(rawAmount)
 
     await this.checkPerformTransaction(params, id)
 
