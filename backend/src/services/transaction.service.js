@@ -44,14 +44,23 @@ class TransactionService {
 		if (!transaction) {
 			throw new TransactionError(PaymeError.TransactionNotFound, id)
 		}
-    
-		return {
-			create_time: transaction.create_time,
-			perform_time: transaction.perform_time,
-			cancel_time: transaction.cancel_time,
+
+    console.log('res', {
+			create_time: transaction.create_time || 0,
+			perform_time: transaction.perform_time || 0,
+			cancel_time: transaction.cancel_time || 0,
 			transaction: transaction.id,
 			state: transaction.state,
-			reason: transaction.reason,
+			reason: transaction.reason || null
+		})
+
+		return {
+			create_time: transaction.create_time || 0,
+			perform_time: transaction.perform_time || 0,
+			cancel_time: transaction.cancel_time || 0,
+			transaction: transaction.id,
+			state: transaction.state,
+			reason: transaction.reason || null
 		}
 	}
 
