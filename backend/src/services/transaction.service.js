@@ -67,6 +67,9 @@ class TransactionService {
       transaction = transactionSnap.data();
     }
 		if (transaction) {
+      if (transaction.state === TransactionState.Paid) throw new TransactionError(PaymeError.AlreadyDone, id)
+      if (transaction.state === TransactionState.Pending) throw new TransactionError(PaymeError.Pending, id)
+
 			if (transaction.state !== TransactionState.Pending) {
 				throw new TransactionError(PaymeError.CantDoOperation, id)
 			}
@@ -89,20 +92,20 @@ class TransactionService {
 		}
 
 		// transaction = await transactionModel.findOne({ user: account.user_id, product: account.product_id, provider: 'payme' })
-    const existingTransactionSnap = await db.collection("transactions")
-      .where("user", "==", account.user_id)
-      .where("product", "==", account.product_id)
-      .where("provider", "==", 'payme')
-      .get();
+    // const existingTransactionSnap = await db.collection("transactions")
+    //   .where("user", "==", account.user_id)
+    //   .where("product", "==", account.product_id)
+    //   .where("provider", "==", 'payme')
+    //   .get();
 
-    transaction = existingTransactionSnap.empty ? null : existingTransactionSnap.docs[0].data()
+    // transaction = existingTransactionSnap.empty ? null : existingTransactionSnap.docs[0].data()
     
-    console.log('Existing transaction:', transaction);
+    // console.log('Existing transaction:', transaction);
 
-		if (transaction) {
-			if (transaction.state === TransactionState.Paid) throw new TransactionError(PaymeError.AlreadyDone, id)
-			if (transaction.state === TransactionState.Pending) throw new TransactionError(PaymeError.Pending, id)
-		}
+		// if (transaction) {
+		// 	if (transaction.state === TransactionState.Paid) throw new TransactionError(PaymeError.AlreadyDone, id)
+		// 	if (transaction.state === TransactionState.Pending) throw new TransactionError(PaymeError.Pending, id)
+		// }
 
 		// const newTransaction = await transactionModel.create({
 		const newTransaction = await db.collection("transactions").doc(
