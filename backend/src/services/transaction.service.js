@@ -54,80 +54,71 @@ class TransactionService {
 	}
 
   async createTransaction(params, id) {
-		let { account, time, amount } = params
-
-		amount = Math.floor(amount)
-
-		await this.checkPerformTransaction(params, id)
-
-		// let transaction = await transactionModel.findOne({ id: params.id })
-    let transaction = null;
-    const transactionSnap = await db.collection("transactions").doc(params.id).get();
+    let { account, time, amount } = params;
+    amount = Math.floor(amount);
+  
+    // Check if the transaction can be performed (CheckPerformTransaction)
+    await this.checkPerformTransaction(params, id);
+  
+    const transactionRef = db.collection("transactions").doc(params.id);
+    const transactionSnap = await transactionRef.get();
+  
     if (transactionSnap.exists) {
-      transaction = transactionSnap.data();
+      const transaction = transactionSnap.data();
+  
+      // Step: Проверка состояния транзакции
+      if (transaction.state === TransactionState.Paid)
+        throw new TransactionError(PaymeError.AlreadyDone, id);
+  
+      if (transaction.state === TransactionState.Pending) {
+        const currentTime = Date.now();
+        const isNotExpired = (currentTime - transaction.create_time) < 12 * 60 * 1000;
+  
+        // Step: Проверка времени создания транзакции
+        if (!isNotExpired) {
+          // Timeout — Отменить транзакцию
+          await transactionRef.set(
+            {
+              state: TransactionState.PendingCanceled,
+              reason: 4,
+            },
+            { merge: true }
+          );
+          throw new TransactionError(PaymeError.CantDoOperation, id);
+        }
+  
+        // Still valid pending transaction
+        return {
+          create_time: transaction.create_time,
+          transaction: transaction.id,
+          state: TransactionState.Pending,
+        };
+      }
+  
+      // Unknown or invalid state
+      throw new TransactionError(PaymeError.CantDoOperation, id);
     }
-		if (transaction) {
-      if (transaction.state === TransactionState.Paid) throw new TransactionError(PaymeError.AlreadyDone, id)
-      if (transaction.state === TransactionState.Pending) throw new TransactionError(PaymeError.Pending, id)
-
-			if (transaction.state !== TransactionState.Pending) {
-				throw new TransactionError(PaymeError.CantDoOperation, id)
-			}
-			const currentTime = Date.now()
-			const expirationTime = ((currentTime - transaction.create_time) / 60000) < 12
-			if (!expirationTime) {
-				// await transactionModel.findOneAndUpdate({ id: params.id }, { state: TransactionState.PendingCanceled, reason: 4 })
-        await db.collection("transactions").doc(params.id).set({
-          id: params.id,
-          state: TransactionState.PendingCanceled,
-          reason: 4
-        }, { merge: true })
-				throw new TransactionError(PaymeError.CantDoOperation, id)
-			}
-			return {
-				create_time: transaction.create_time,
-				transaction: transaction.id,
-				state: TransactionState.Pending,
-			}
-		}
-
-		// transaction = await transactionModel.findOne({ user: account.user_id, product: account.product_id, provider: 'payme' })
-    // const existingTransactionSnap = await db.collection("transactions")
-    //   .where("user", "==", account.user_id)
-    //   .where("product", "==", account.product_id)
-    //   .where("provider", "==", 'payme')
-    //   .get();
-
-    // transaction = existingTransactionSnap.empty ? null : existingTransactionSnap.docs[0].data()
-    
-    // console.log('Existing transaction:', transaction);
-
-		// if (transaction) {
-		// 	if (transaction.state === TransactionState.Paid) throw new TransactionError(PaymeError.AlreadyDone, id)
-		// 	if (transaction.state === TransactionState.Pending) throw new TransactionError(PaymeError.Pending, id)
-		// }
-
-		// const newTransaction = await transactionModel.create({
-		const newTransaction = await db.collection("transactions").doc(
-      params.id
-    ).set({
-			id: params.id,
-			state: TransactionState.Pending,
-			amount,
-			user: account.user_id,
-			product: account.product_id,
-			create_time: time,
-			provider: 'payme',
-		}, {
-      merge: true
-    })
-
-		return {
-			transaction: params.id,
-			state: TransactionState.Pending,
-			create_time: time
-		}
-	}
+  
+    // Step: Записать транзакцию в хранилище
+    await transactionRef.set(
+      {
+        id: params.id,
+        state: TransactionState.Pending,
+        amount,
+        user: account.user_id,
+        product: account.product_id,
+        create_time: time,
+        provider: "payme",
+      },
+      { merge: true }
+    );
+  
+    return {
+      transaction: params.id,
+      state: TransactionState.Pending,
+      create_time: time,
+    };
+  }  
 
   async performTransaction(params, id) {
     const currentTime = Date.now()
