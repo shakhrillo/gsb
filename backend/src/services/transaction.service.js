@@ -53,8 +53,15 @@ class TransactionService {
   async createTransaction(params, id) {
     try {
 
+      console.log('-'.repeat(50)); // Separator for clarity in logs
+      console.log('id:', id); // Add logging for debugging
+
       const { account, time, amount: rawAmount } = params
       const amount = Math.floor(rawAmount)
+
+      console.log('-'.repeat(50)); // Separator for clarity in logs
+      console.log('params received:', params); // Log the received parameters
+      console.log('-'.repeat(50)); // Separator for clarity in logs
   
       await this.checkPerformTransaction(params, id)
   
