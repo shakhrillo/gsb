@@ -92,7 +92,7 @@ class TransactionService {
 		}
 
 		// const newTransaction = await transactionModel.create({
-		const newTransaction = await db.collection("transactions").add({
+		const newTransaction = await db.collection("transactions").doc(params.id).set({
 			id: params.id,
 			state: TransactionState.Pending,
 			amount,
@@ -100,12 +100,14 @@ class TransactionService {
 			product: account.product_id,
 			create_time: time,
 			provider: 'payme',
-		})
+		}, {
+      merge: true
+    })
 
 		return {
-			transaction: newTransaction.id,
+			transaction: params.id,
 			state: TransactionState.Pending,
-			create_time: newTransaction.create_time,
+			create_time: time
 		}
 	}
 
