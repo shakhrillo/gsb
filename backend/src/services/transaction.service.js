@@ -66,9 +66,6 @@ class TransactionService {
     if (transactionSnap.exists) {
       transaction = transactionSnap.data();
     }
-    console.log('Transaction found:', transaction);
-    // let transactionSnap = await db.collection("transactions").doc(params.id).get()
-    // let transaction = transactionSnap.exists ? transactionSnap.data() : null
 		if (transaction) {
 			if (transaction.state !== TransactionState.Pending) {
 				throw new TransactionError(PaymeError.CantDoOperation, id)
@@ -131,7 +128,7 @@ class TransactionService {
 
   async performTransaction(params, id) {
     const currentTime = Date.now()
-    const txRef = db.collection("transactions").doc(id)
+    const txRef = db.collection("transactions").doc(params.id)
     const txSnap = await txRef.get()
 
     if (!txSnap.exists) {
