@@ -61,8 +61,14 @@ class TransactionService {
 		await this.checkPerformTransaction(params, id)
 
 		// let transaction = await transactionModel.findOne({ id: params.id })
-    let transactionSnap = await db.collection("transactions").doc(params.id).get()
-    let transaction = transactionSnap.exists ? transactionSnap.data() : null
+    let transaction = null;
+    const transactionSnap = await db.collection("transactions").where("id", "==", params.id).get();
+    if (!transactionSnap.empty) {
+      transaction = transactionSnap.docs[0].data();
+    }
+    console.log('Transaction found:', transaction);
+    // let transactionSnap = await db.collection("transactions").doc(params.id).get()
+    // let transaction = transactionSnap.exists ? transactionSnap.data() : null
 		if (transaction) {
 			if (transaction.state !== TransactionState.Pending) {
 				throw new TransactionError(PaymeError.CantDoOperation, id)
