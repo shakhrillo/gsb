@@ -41,9 +41,11 @@ class TransactionService {
     const transactionRef = db.collection("transactions").doc(params.id)
     const transactionSnap = await transactionRef.get()
     const transaction = transactionSnap.exists ? transactionSnap.data() : null
+    console.log('transaction__', transaction);
 		if (!transaction) {
 			throw new TransactionError(PaymeError.TransactionNotFound, id)
 		}
+    console.log('should return here')
 		return {
 			create_time: transaction.create_time,
 			perform_time: transaction.perform_time,
