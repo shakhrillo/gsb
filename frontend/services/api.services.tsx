@@ -1,6 +1,16 @@
 import axios from 'axios';
 import { API_URL } from '@/constants';
 
+export interface BasketItem {
+  id: number
+  name: string
+  price: number
+  image: string
+  merchantId: number
+  merchantName: string
+  quantity: number
+}
+
 export const getProducts = async (merchantUid: string): Promise<any[]> => {
   try {
     const response = await axios.get<any[]>(`${API_URL}/api/products?merchantUid=${merchantUid}`);
