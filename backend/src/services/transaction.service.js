@@ -65,7 +65,7 @@ class TransactionService {
   
       await this.checkPerformTransaction(params, id)
   
-      const txRef = db.collection("transactions").doc(id)
+      const txRef = db.collection("transactions").doc(String(id))
       const txSnap = await txRef.get()
   
       if (txSnap.exists) {
