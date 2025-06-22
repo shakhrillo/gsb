@@ -37,11 +37,12 @@ app.use('/api/products', productRoutes);
 app.use('/api/orders', orderRoutes);
 app.use('/api/track', orderRoutes);
 app.use('/api/restaurants', restaurantsRoutes);
+
 // Error handling middleware
-app.use((err, req, res, next) => {
-  console.error(err.stack);
-  res.status(500).send({ error: 'Something went wrong!' });
-});
+// app.use((err, req, res, next) => {
+//   console.error(err.stack);
+//   res.status(500).send({ error: 'Something went wrong!' });
+// });
 
 // Global error handling
 process.on('unhandledRejection', (reason, promise) => {
