@@ -34,21 +34,22 @@ class TransactionService {
   }
 
   async checkTransaction(params, id) {
-    const txSnap = await db.collection("transactions").doc(params.id).get()
-    if (!txSnap.exists) {
-      throw new TransactionError(PaymeError.TransactionNotFound, id)
-    }
-
-    const tx = txSnap.data()
-    return {
-      create_time: tx.create_time,
-      perform_time: tx.perform_time,
-      cancel_time: tx.cancel_time,
-      transaction: tx.id,
-      state: tx.state,
-      reason: tx.reason,
-    }
-  }
+		// const transaction = await transactionModel.findOne({ id: params.id })
+    const transactionRef = db.collection("transactions").doc(params.id)
+    const transactionSnap = await transactionRef.get()
+    const transaction = transactionSnap.exists ? transactionSnap.data() : null
+		if (!transaction) {
+			throw new TransactionError(PaymeError.TransactionNotFound, id)
+		}
+		return {
+			create_time: transaction.create_time,
+			perform_time: transaction.perform_time,
+			cancel_time: transaction.cancel_time,
+			transaction: transaction.id,
+			state: transaction.state,
+			reason: transaction.reason,
+		}
+	}
 
   async createTransaction(params, id) {
 		let { account, time, amount } = params
