@@ -95,13 +95,13 @@ class TransactionService {
     }
 
     await txRef.set({
-      id,
+      id: id || 'none',
       state: TransactionState.Pending,
-      amount,
-      user: account.user_id,
-      product: account.product_id,
-      create_time: time,
-      provider: "payme",
+      amount: amount || 0,
+      user: account.user_id || 'none',
+      product: account.product_id || 'none',
+      create_time: time || Date.now(),
+      provider: "payme"
     })
 
     return {
