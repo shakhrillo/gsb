@@ -5,7 +5,15 @@ const { db } = require('./firebase');
 class TransactionService {
   async checkPerformTransaction(params, id) {
     const { account, amount: rawAmount } = params
-    const amount = Math.floor(rawAmount / 100)
+
+    if (!account.user_id) {
+			throw new TransactionError(PaymeError.UserNotFound, id, PaymeData.UserId)
+		}
+		if (!account.product_id) {
+			throw new TransactionError(PaymeError.ProductNotFound, id, PaymeData.ProductId)
+		}
+
+    const amount = Math.floor(rawAmount)
 
     const userRef = db.collection("users").doc(account.user_id)
     const userSnap = await userRef.get()
