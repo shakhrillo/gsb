@@ -174,7 +174,9 @@ class TransactionService {
   }
 
   async cancelTransaction(transactionId) {
-    if (!transactionId || typeof transactionId !== 'string') {
+    console.log('cancelTransaction called with transactionId:', transactionId); // Add logging
+
+    if (!transactionId || typeof transactionId !== 'string' || transactionId.trim() === '') {
         throw new Error('Invalid transactionId: must be a non-empty string');
     }
 
