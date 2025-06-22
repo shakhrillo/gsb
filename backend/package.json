@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@google-cloud/storage": "^7.16.0",
+    "axios": "^1.10.0",
     "bcryptjs": "^3.0.2",
     "body-parser": "^2.2.0",
     "cors": "^2.8.5",
@@ -20,9 +21,9 @@
     "jsonwebtoken": "^9.0.2",
     "multer": "^2.0.1",
     "node-telegram-bot-api": "^0.66.0",
-    "yamljs": "^0.3.0",
     "swagger-jsdoc": "^6.2.8",
-    "swagger-ui-express": "^5.0.1"
+    "swagger-ui-express": "^5.0.1",
+    "yamljs": "^0.3.0"
   },
   "author": "",
   "license": "ISC",

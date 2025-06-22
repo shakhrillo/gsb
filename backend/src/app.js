@@ -4,6 +4,7 @@ const cors = require('cors');
 const swaggerUi = require('swagger-ui-express');
 const authRoutes = require('./routes/auth');
 const merchantsRoutes = require('./routes/merchants');
+const paymentsRoutes = require('./routes/payments');
 const fileRoutes = require('./routes/file');
 const productRoutes = require('./routes/products');
 const orderRoutes = require('./routes/orders');
@@ -30,6 +31,7 @@ app.get('/', (req, res) => {
 // API routes
 app.use('/api/auth', authRoutes);
 app.use('/api/merchants', merchantsRoutes);
+app.use('/api/payments', paymentsRoutes);
 app.use('/api/file', fileRoutes);
 app.use('/api/products', productRoutes);
 app.use('/api/orders', orderRoutes);
