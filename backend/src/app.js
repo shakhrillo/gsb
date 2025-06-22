@@ -10,6 +10,7 @@ const productRoutes = require('./routes/products');
 const orderRoutes = require('./routes/orders');
 const restaurantsRoutes = require('./routes/restaurants');
 const swaggerSpec = require('./swagger/swaggerSpec');
+const errorMiddleware = require('./middleware/error.middleware');
 
 // const telegramBotInit = require('./services/telegram').telegramBotInit;
 // telegramBotInit();
@@ -37,6 +38,8 @@ app.use('/api/products', productRoutes);
 app.use('/api/orders', orderRoutes);
 app.use('/api/track', orderRoutes);
 app.use('/api/restaurants', restaurantsRoutes);
+
+app.use(errorMiddleware)
 
 // Error handling middleware
 // app.use((err, req, res, next) => {
