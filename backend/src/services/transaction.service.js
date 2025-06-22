@@ -51,63 +51,69 @@ class TransactionService {
   }
 
   async createTransaction(params, id) {
-    const { account, time, amount: rawAmount } = params
-    const amount = Math.floor(rawAmount)
+    try {
 
-    await this.checkPerformTransaction(params, id)
-
-    const txRef = db.collection("transactions").doc(id)
-    const txSnap = await txRef.get()
-
-    if (txSnap.exists) {
-      const tx = txSnap.data()
-      if (tx.state !== TransactionState.Pending) {
-        throw new TransactionError(PaymeError.CantDoOperation, id)
+      const { account, time, amount: rawAmount } = params
+      const amount = Math.floor(rawAmount)
+  
+      await this.checkPerformTransaction(params, id)
+  
+      const txRef = db.collection("transactions").doc(id)
+      const txSnap = await txRef.get()
+  
+      if (txSnap.exists) {
+        const tx = txSnap.data()
+        if (tx.state !== TransactionState.Pending) {
+          throw new TransactionError(PaymeError.CantDoOperation, id)
+        }
+  
+        const expired = (Date.now() - tx.create_time) / 60000 >= 12
+        if (expired) {
+          await txRef.update({ state: TransactionState.PendingCanceled, reason: 4 })
+          throw new TransactionError(PaymeError.CantDoOperation, id)
+        }
+  
+        return {
+          create_time: tx.create_time,
+          transaction: id,
+          state: TransactionState.Pending,
+        }
       }
-
-      const expired = (Date.now() - tx.create_time) / 60000 >= 12
-      if (expired) {
-        await txRef.update({ state: TransactionState.PendingCanceled, reason: 4 })
-        throw new TransactionError(PaymeError.CantDoOperation, id)
+  
+      // Check duplicate
+      const existingQuery = await db.collection("transactions")
+        .where("user", "==", account.user_id)
+        .where("product", "==", account.product_id)
+        .where("provider", "==", "payme")
+        .limit(1)
+        .get()
+  
+      if (!existingQuery.empty) {
+        const existingTx = existingQuery.docs[0].data()
+        if (existingTx.state === TransactionState.Paid)
+          throw new TransactionError(PaymeError.AlreadyDone, id)
+        if (existingTx.state === TransactionState.Pending)
+          throw new TransactionError(PaymeError.Pending, id)
       }
-
+  
+      await txRef.set({
+        id: id || 'none',
+        state: TransactionState.Pending,
+        amount: amount || 0,
+        user: account.user_id || 'none',
+        product: account.product_id || 'none',
+        create_time: time || Date.now(),
+        provider: "payme"
+      })
+  
       return {
-        create_time: tx.create_time,
         transaction: id,
         state: TransactionState.Pending,
+        create_time: time,
       }
-    }
-
-    // Check duplicate
-    const existingQuery = await db.collection("transactions")
-      .where("user", "==", account.user_id)
-      .where("product", "==", account.product_id)
-      .where("provider", "==", "payme")
-      .limit(1)
-      .get()
-
-    if (!existingQuery.empty) {
-      const existingTx = existingQuery.docs[0].data()
-      if (existingTx.state === TransactionState.Paid)
-        throw new TransactionError(PaymeError.AlreadyDone, id)
-      if (existingTx.state === TransactionState.Pending)
-        throw new TransactionError(PaymeError.Pending, id)
-    }
-
-    await txRef.set({
-      id: id || 'none',
-      state: TransactionState.Pending,
-      amount: amount || 0,
-      user: account.user_id || 'none',
-      product: account.product_id || 'none',
-      create_time: time || Date.now(),
-      provider: "payme"
-    })
-
-    return {
-      transaction: id,
-      state: TransactionState.Pending,
-      create_time: time,
+    } catch (error) {
+      console.error('Error in createTransaction:', error)
+      throw new TransactionError(PaymeError.InternalError, id, error.message)
     }
   }
 
