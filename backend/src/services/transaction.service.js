@@ -38,21 +38,10 @@ class TransactionService {
     const transactionRef = db.collection("transactions").doc(params.id)
     const transactionSnap = await transactionRef.get()
     const transaction = transactionSnap.exists ? transactionSnap.data() : null
-    console.log('=======')
-    console.log('checkTransaction', transaction, params, id)
-    console.log('=======')
-		if (!transaction) {
+		
+    if (!transaction) {
 			throw new TransactionError(PaymeError.TransactionNotFound, id)
 		}
-
-    console.log('res', {
-			create_time: transaction.create_time || 0,
-			perform_time: transaction.perform_time || 0,
-			cancel_time: transaction.cancel_time || 0,
-			transaction: transaction.id,
-			state: transaction.state,
-			reason: transaction.reason || null
-		})
 
 		return {
 			create_time: transaction.create_time || 0,
@@ -67,10 +56,6 @@ class TransactionService {
   async createTransaction(params, id) {
 		let { account, time, amount } = params
 
-    console.log('-'.repeat(50))
-    console.log('createTransaction', params, id)
-    console.log('-'.repeat(50))
-
 		amount = Math.floor(amount)
 
 		await this.checkPerformTransaction(params, id)
@@ -83,7 +68,7 @@ class TransactionService {
 				throw new TransactionError(PaymeError.CantDoOperation, id)
 			}
 			const currentTime = Date.now()
-			const expirationTime = (currentTime - transaction.create_time) / 60000 < 12
+			const expirationTime = ((currentTime - transaction.create_time) / 60000) < 12
 			if (!expirationTime) {
 				// await transactionModel.findOneAndUpdate({ id: params.id }, { state: TransactionState.PendingCanceled, reason: 4 })
         await db.collection("transactions").doc(params.id).set({
@@ -101,8 +86,15 @@ class TransactionService {
 		}
 
 		// transaction = await transactionModel.findOne({ user: account.user_id, product: account.product_id, provider: 'payme' })
-    // const existingTransactionSnap = await db.collection("transactions")
-    //   .where("user", "==", account.user_id)
+    const existingTransactionSnap = await db.collection("transactions")
+      .where("user", "==", account.user_id)
+      .where("product", "==", account.product_id)
+      .where("provider", "==", 'payme')
+      .get();
+
+    transaction = existingTransactionSnap.empty ? null : existingTransactionSnap.docs[0].data()
+    
+    console.log('Existing transaction:', transaction);
 
 		if (transaction) {
 			if (transaction.state === TransactionState.Paid) throw new TransactionError(PaymeError.AlreadyDone, id)
