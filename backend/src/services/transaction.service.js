@@ -1,177 +1,205 @@
-// const { default: mongoose } = require('mongoose')
-const TransactionError = require('../errors/transaction.error')
-const { PaymeError, PaymeData, TransactionState } = require('../enum/transaction.enum')
-
-// const userModel = require('../models/user.model')
-// const productModel = require('../models/product.model')
-// const transactionModel = require('../models/transaction.model')
+const TransactionError = require("../errors/transaction.error")
+const { PaymeError, PaymeData, TransactionState } = require("../enum/transaction.enum")
+const { db } = require('./firebase');
 
 class TransactionService {
-	async checkPerformTransaction(params, id) {
-		let { account, amount } = params
+  async checkPerformTransaction(params, id) {
+    const { account, amount: rawAmount } = params
+    const amount = Math.floor(rawAmount / 100)
 
-		if (!mongoose.Types.ObjectId.isValid(account.user_id)) {
-			throw new TransactionError(PaymeError.UserNotFound, id, PaymeData.UserId)
-		}
-		if (!mongoose.Types.ObjectId.isValid(account.product_id)) {
-			throw new TransactionError(PaymeError.ProductNotFound, id, PaymeData.ProductId)
-		}
+    const userRef = db.collection("users").doc(account.user_id)
+    const userSnap = await userRef.get()
+    if (!userSnap.exists) {
+      throw new TransactionError(PaymeError.UserNotFound, id, PaymeData.UserId)
+    }
 
-		amount = Math.floor(amount / 100)
-		const user = await userModel.findById(account.user_id)
-		if (!user) {
-			throw new TransactionError(PaymeError.UserNotFound, id, PaymeData.UserId)
-		}
-		const product = await productModel.findById(account.product_id)
-		if (!product) {
-			throw new TransactionError(PaymeError.ProductNotFound, id, PaymeData.ProductId)
-		}
-		if (amount !== product.price) {
-			throw new TransactionError(PaymeError.InvalidAmount, id)
-		}
-	}
+    const productRef = db.collection("products").doc(account.product_id)
+    const productSnap = await productRef.get()
+    if (!productSnap.exists) {
+      throw new TransactionError(PaymeError.ProductNotFound, id, PaymeData.ProductId)
+    }
 
-	async checkTransaction(params, id) {
-		const transaction = await transactionModel.findOne({ id: params.id })
-		if (!transaction) {
-			throw new TransactionError(PaymeError.TransactionNotFound, id)
-		}
-		return {
-			create_time: transaction.create_time,
-			perform_time: transaction.perform_time,
-			cancel_time: transaction.cancel_time,
-			transaction: transaction.id,
-			state: transaction.state,
-			reason: transaction.reason,
-		}
-	}
+    const product = productSnap.data()
+    if (amount !== product.price) {
+      throw new TransactionError(PaymeError.InvalidAmount, id)
+    }
+  }
 
-	async createTransaction(params, id) {
-		let { account, time, amount } = params
+  async checkTransaction(params, id) {
+    const txSnap = await db.collection("transactions").doc(params.id).get()
+    if (!txSnap.exists) {
+      throw new TransactionError(PaymeError.TransactionNotFound, id)
+    }
 
-		amount = Math.floor(amount / 100)
+    const tx = txSnap.data()
+    return {
+      create_time: tx.create_time,
+      perform_time: tx.perform_time,
+      cancel_time: tx.cancel_time,
+      transaction: tx.id,
+      state: tx.state,
+      reason: tx.reason,
+    }
+  }
 
-		await this.checkPerformTransaction(params, id)
+  async createTransaction(params, id) {
+    const { account, time, amount: rawAmount } = params
+    const amount = Math.floor(rawAmount / 100)
 
-		let transaction = await transactionModel.findOne({ id: params.id })
-		if (transaction) {
-			if (transaction.state !== TransactionState.Pending) {
-				throw new TransactionError(PaymeError.CantDoOperation, id)
-			}
-			const currentTime = Date.now()
-			const expirationTime = (currentTime - transaction.create_time) / 60000 < 12
-			if (!expirationTime) {
-				await transactionModel.findOneAndUpdate({ id: params.id }, { state: TransactionState.PendingCanceled, reason: 4 })
-				throw new TransactionError(PaymeError.CantDoOperation, id)
-			}
-			return {
-				create_time: transaction.create_time,
-				transaction: transaction.id,
-				state: TransactionState.Pending,
-			}
-		}
+    await this.checkPerformTransaction(params, id)
 
-		transaction = await transactionModel.findOne({ user: account.user_id, product: account.product_id, provider: 'payme' })
-		if (transaction) {
-			if (transaction.state === TransactionState.Paid) throw new TransactionError(PaymeError.AlreadyDone, id)
-			if (transaction.state === TransactionState.Pending) throw new TransactionError(PaymeError.Pending, id)
-		}
+    const txRef = db.collection("transactions").doc(id)
+    const txSnap = await txRef.get()
 
-		const newTransaction = await transactionModel.create({
-			id: params.id,
-			state: TransactionState.Pending,
-			amount,
-			user: account.user_id,
-			product: account.product_id,
-			create_time: time,
-			provider: 'payme',
-		})
+    if (txSnap.exists) {
+      const tx = txSnap.data()
+      if (tx.state !== TransactionState.Pending) {
+        throw new TransactionError(PaymeError.CantDoOperation, id)
+      }
 
-		return {
-			transaction: newTransaction.id,
-			state: TransactionState.Pending,
-			create_time: newTransaction.create_time,
-		}
-	}
+      const expired = (Date.now() - tx.create_time) / 60000 >= 12
+      if (expired) {
+        await txRef.update({ state: TransactionState.PendingCanceled, reason: 4 })
+        throw new TransactionError(PaymeError.CantDoOperation, id)
+      }
 
-	async performTransaction(params, id) {
-		const currentTime = Date.now()
+      return {
+        create_time: tx.create_time,
+        transaction: id,
+        state: TransactionState.Pending,
+      }
+    }
 
-		const transaction = await transactionModel.findOne({ id: params.id })
-		if (!transaction) {
-			throw new TransactionError(PaymeError.TransactionNotFound, id)
-		}
-		if (transaction.state !== TransactionState.Pending) {
-			if (transaction.state !== TransactionState.Paid) {
-				throw new TransactionError(PaymeError.CantDoOperation, id)
-			}
-			return {
-				perform_time: transaction.perform_time,
-				transaction: transaction.id,
-				state: TransactionState.Paid,
-			}
-		}
-		const expirationTime = (currentTime - transaction.create_time) / 60000 < 12
-		if (!expirationTime) {
-			await transactionModel.findOneAndUpdate(
-				{ id: params.id },
-				{ state: TransactionState.PendingCanceled, reason: 4, cancel_time: currentTime }
-			)
-			throw new TransactionError(PaymeError.CantDoOperation, id)
-		}
+    // Check duplicate
+    const existingQuery = await db.collection("transactions")
+      .where("user", "==", account.user_id)
+      .where("product", "==", account.product_id)
+      .where("provider", "==", "payme")
+      .limit(1)
+      .get()
 
-		await transactionModel.findOneAndUpdate({ id: params.id }, { state: TransactionState.Paid, perform_time: currentTime })
+    if (!existingQuery.empty) {
+      const existingTx = existingQuery.docs[0].data()
+      if (existingTx.state === TransactionState.Paid)
+        throw new TransactionError(PaymeError.AlreadyDone, id)
+      if (existingTx.state === TransactionState.Pending)
+        throw new TransactionError(PaymeError.Pending, id)
+    }
 
-		return {
-			perform_time: currentTime,
-			transaction: transaction.id,
-			state: TransactionState.Paid,
-		}
-	}
+    await txRef.set({
+      id,
+      state: TransactionState.Pending,
+      amount,
+      user: account.user_id,
+      product: account.product_id,
+      create_time: time,
+      provider: "payme",
+    })
 
-	async cancelTransaction(params, id) {
-		const transaction = await transactionModel.findOne({ id: params.id })
+    return {
+      transaction: id,
+      state: TransactionState.Pending,
+      create_time: time,
+    }
+  }
 
-		if (!transaction) {
-			throw new TransactionError(PaymeError.TransactionNotFound, id)
-		}
+  async performTransaction(params, id) {
+    const currentTime = Date.now()
+    const txRef = db.collection("transactions").doc(id)
+    const txSnap = await txRef.get()
 
-		const currentTime = Date.now()
+    if (!txSnap.exists) {
+      throw new TransactionError(PaymeError.TransactionNotFound, id)
+    }
 
-		if (transaction.state > 0) {
-			await transactionModel.findOneAndUpdate(
-				{ id: params.id },
-				{ state: -Math.abs(transaction.state), reason: params.reason, cancel_time: currentTime }
-			)
-		}
+    const tx = txSnap.data()
 
-		return {
-			cancel_time: transaction.cancel_time || currentTime,
-			transaction: transaction.id,
-			state: -Math.abs(transaction.state),
-		}
-	}
+    if (tx.state !== TransactionState.Pending) {
+      if (tx.state !== TransactionState.Paid) {
+        throw new TransactionError(PaymeError.CantDoOperation, id)
+      }
+      return {
+        perform_time: tx.perform_time,
+        transaction: id,
+        state: TransactionState.Paid,
+      }
+    }
 
-	async getStatement(params) {
-		const { from, to } = params
-		const transactions = await transactionModel.find({ create_time: { $gte: from, $lte: to }, provider: 'payme' })
+    const expired = (currentTime - tx.create_time) / 60000 >= 12
+    if (expired) {
+      await txRef.update({
+        state: TransactionState.PendingCanceled,
+        reason: 4,
+        cancel_time: currentTime,
+      })
+      throw new TransactionError(PaymeError.CantDoOperation, id)
+    }
 
-		return transactions.map(transaction => ({
-			id: transaction.id,
-			time: transaction.create_time,
-			amount: transaction.amount,
-			account: {
-				user_id: transaction.user,
-				product_id: transaction.product,
-			},
-			create_time: transaction.create_time,
-			perform_time: transaction.perform_time,
-			cancel_time: transaction.cancel_time,
-			transaction: transaction.id,
-			state: transaction.state,
-			reason: transaction.reason,
-		}))
-	}
+    await txRef.update({
+      state: TransactionState.Paid,
+      perform_time: currentTime,
+    })
+
+    return {
+      perform_time: currentTime,
+      transaction: id,
+      state: TransactionState.Paid,
+    }
+  }
+
+  async cancelTransaction(params, id) {
+    const txRef = db.collection("transactions").doc(id)
+    const txSnap = await txRef.get()
+
+    if (!txSnap.exists) {
+      throw new TransactionError(PaymeError.TransactionNotFound, id)
+    }
+
+    const tx = txSnap.data()
+    const currentTime = Date.now()
+
+    if (tx.state > 0) {
+      await txRef.update({
+        state: -Math.abs(tx.state),
+        reason: params.reason,
+        cancel_time: currentTime,
+      })
+    }
+
+    return {
+      cancel_time: tx.cancel_time || currentTime,
+      transaction: id,
+      state: -Math.abs(tx.state),
+    }
+  }
+
+  async getStatement(params) {
+    const { from, to } = params
+    const txs = await db.collection("transactions")
+      .where("create_time", ">=", from)
+      .where("create_time", "<=", to)
+      .where("provider", "==", "payme")
+      .get()
+
+    return txs.docs.map(doc => {
+      const tx = doc.data()
+      return {
+        id: tx.id,
+        time: tx.create_time,
+        amount: tx.amount,
+        account: {
+          user_id: tx.user,
+          product_id: tx.product,
+        },
+        create_time: tx.create_time,
+        perform_time: tx.perform_time,
+        cancel_time: tx.cancel_time,
+        transaction: tx.id,
+        state: tx.state,
+        reason: tx.reason,
+      }
+    })
+  }
 }
 
 module.exports = new TransactionService()

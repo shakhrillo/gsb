@@ -1,7 +1,7 @@
 const express = require('express');
 const router = express.Router();
 const transactionController = require('../controllers/transaction.controller');
-const { paymeCheckToken } = require('../middlewares/payme.middleware');
+const { paymeCheckToken } = require('../middleware/payme.middleware');
 
 //!!! DIQQAT: Bularni o'zgaruvchi fayllarda (masalan, .env) saqlash kerak, kodda emas!
 // const PAYME_MERCHANT_ID = '6857d462ce1722a4c53ba5ca';

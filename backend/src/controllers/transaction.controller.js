@@ -1,5 +1,5 @@
 const { PaymeMethod } = require('../enum/transaction.enum')
-const transactionService = require('../service/transaction.service')
+const transactionService = require('../services/transaction.service')
 
 class TransactionController {
 	async payme(req, res, next) {
