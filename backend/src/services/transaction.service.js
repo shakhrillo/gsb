@@ -57,37 +57,37 @@ class TransactionService {
     let { account, time, amount } = params;
     amount = Math.floor(amount);
   
-    // Check if the transaction can be performed (CheckPerformTransaction)
+    // Step 1: Check if transaction can be performed (like product exists, amount correct, etc.)
     await this.checkPerformTransaction(params, id);
   
     const transactionRef = db.collection("transactions").doc(params.id);
     const transactionSnap = await transactionRef.get();
   
+    // Step 2: Check if this transaction (by ID) already exists
     if (transactionSnap.exists) {
       const transaction = transactionSnap.data();
   
-      // Step: Проверка состояния транзакции
-      if (transaction.state === TransactionState.Paid)
-        throw new TransactionError(PaymeError.AlreadyDone, id);
+      // Step 2.1: If it's paid — reject
+      if (transaction.state === TransactionState.Paid) {
+        throw new TransactionError(PaymeError.AlreadyDone, id); // -31099
+      }
   
+      // Step 2.2: If it's still pending, check if it's expired
       if (transaction.state === TransactionState.Pending) {
         const currentTime = Date.now();
-        const isNotExpired = (currentTime - transaction.create_time) < 12 * 60 * 1000;
+        const isNotExpired = (currentTime - transaction.create_time) < 12 * 60 * 1000; // 12 minutes
   
-        // Step: Проверка времени создания транзакции
         if (!isNotExpired) {
-          // Timeout — Отменить транзакцию
-          await transactionRef.set(
-            {
-              state: TransactionState.PendingCanceled,
-              reason: 4,
-            },
-            { merge: true }
-          );
-          throw new TransactionError(PaymeError.CantDoOperation, id);
+          // Expired — cancel it
+          await transactionRef.set({
+            state: TransactionState.PendingCanceled,
+            reason: 4,
+          }, { merge: true });
+  
+          throw new TransactionError(PaymeError.CantDoOperation, id); // -31008
         }
   
-        // Still valid pending transaction
+        // Still pending and valid — return existing transaction info
         return {
           create_time: transaction.create_time,
           transaction: transaction.id,
@@ -95,28 +95,39 @@ class TransactionService {
         };
       }
   
-      // Unknown or invalid state
-      throw new TransactionError(PaymeError.CantDoOperation, id);
+      // Unknown state
+      throw new TransactionError(PaymeError.CantDoOperation, id); // -31008
     }
   
-    // Step: Записать транзакцию в хранилище
-    await transactionRef.set(
-      {
-        id: params.id,
-        state: TransactionState.Pending,
-        amount,
-        user: account.user_id,
-        product: account.product_id,
-        create_time: time,
-        provider: "payme",
-      },
-      { merge: true }
-    );
+    // Step 3: This is a new transaction ID
+    // Before creating, check if there's an existing PENDING transaction for the same account
+    const existingQuery = await db.collection("transactions")
+      .where("user", "==", account.user_id)
+      .where("product", "==", account.product_id)
+      .where("state", "==", TransactionState.Pending)
+      .limit(1)
+      .get();
+  
+    if (!existingQuery.empty) {
+      // Existing pending transaction found for this account — reject!
+      throw new TransactionError(PaymeError.Pending, id); // -31099
+    }
+  
+    // Step 4: No conflict — create a new transaction
+    await transactionRef.set({
+      id: params.id,
+      state: TransactionState.Pending,
+      amount,
+      user: account.user_id,
+      product: account.product_id,
+      create_time: time,
+      provider: "payme",
+    }, { merge: true });
   
     return {
       transaction: params.id,
       state: TransactionState.Pending,
-      create_time: time,
+      create_time: time
     };
   }  
 
