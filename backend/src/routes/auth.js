@@ -8,81 +8,103 @@ const router = express.Router();
 const { db } = require('../services/firebase');
 const { validateUser } = require('../middleware/validateUser');
 
-router.post('/login', async (req, res) => {
-
-  try {
-    const { email, password } = req.body;
-    if (!email || !password) {
-      return res.status(400).json({ message: 'Email and password are required' });
-    }
-
-    const userRef = db.collection('users').doc(email);
-    const userDoc = await userRef.get();
-  
-    if (!userDoc.exists) return res.status(404).json({ message: 'User not found' });
-  
-    const user = userDoc.data();
-    const valid = await bcrypt.compare(password, user.password);
-    
-    if (!valid) return res.status(401).json({ message: 'Invalid credentials' });
-    
-    const token = jwt.sign({ email }, JWT_SECRET_KEY, { expiresIn: '300h' });
-    
-    delete user.password;
-    res.json({ ...user, token });
-  } catch (err) {
-    console.error('Login error:', err);
-    res.status(401).json({ error: 'Invalid credentials' });
-  }
-});
-
-router.post('/register', async (req, res) => {
-  const { email, password, type } = req.body;
-  
-  const userRef = db.collection('users').doc(email);
-  const userDoc = await userRef.get();
-  if (userDoc.exists) {
-    return res.status(400).json({ message: 'User already exists' });
+router.post('/send-otp', async (req, res) => {
+  const { phone } = req.body;
+  if (!phone) {
+    return res.status(400).json({ message: 'Phone number is required' });
   }
 
-  const hashed = await bcrypt.hash(password, 10);
-  await db.collection('users').doc(email).set({ email, type, password: hashed });
+  // Here you would integrate with an SMS service to send the OTP
+  // For example, using Twilio or another SMS gateway
 
-  res.status(201).json({
-    message: 'User registered successfully',
-    email,
-    type
+  // Simulating OTP sending
+  // const otp = Math.floor(100000 + Math.random() * 900000); // Generate a random 6-digit OTP
+  const otp = 123456;
+
+  // Store the OTP in memory or a cache for verification later
+  await db.collection('otps').doc(phone).set({
+    otp,
+    createdAt: new Date()
   });
+
+  // In a real application, you would save this OTP in the database or cache for verification later
+
+  res.status(200).json({ message: 'OTP sent successfully' });
 });
 
-router.put('/update', validateUser, async (req, res) => {
-  const user = req.user;
-  let data = req.body;
-  data = Object.fromEntries(Object.entries(data).filter(([key]) => key !== 'email' && key !== 'password'));
-
-  try {
-    await db.collection('users').doc(user.email).update(data);
-    res.status(200).json({ message: 'User updated' });
-  } catch (err) {
-    console.error('Update error:', err);
-    res.status(500).json({ error: 'Failed to update user' });
+router.post('/verify-otp', async (req, res) => {
+  let { phone, otp } = req.body;
+  if (!phone || !otp) {
+    return res.status(400).json({ message: 'Phone number and OTP are required' });
   }
+
+  if (typeof otp === 'string') {
+    otp = parseInt(otp, 10);
+  }
+
+  const otpDoc = await db.collection('otps').doc(phone).get();
+  if (!otpDoc.exists || otpDoc.data().otp !== otp) {
+    return res.status(400).json({ message: 'Invalid OTP' });
+  }
+
+  // Update or create user record in the database
+  const userRef = db.collection('users').where('phone', '==', phone).limit(1);
+  const userSnapshot = await userRef.get();
+  let userDoc;
+  if (userSnapshot.empty) {
+    // Create a new user if not exists
+    userDoc = await db.collection('users').add({
+      phone,
+      createdAt: new Date(),
+      lastLogin: new Date(),
+    });
+  } else {
+    // Update existing user
+    userDoc = userSnapshot.docs[0];
+    await userDoc.ref.update({ lastLogin: new Date() });
+  }
+
+  // OTP is valid, generate JWT token
+  const token = jwt.sign({ uid: userDoc.id }, JWT_SECRET_KEY, { expiresIn: '24h' });
+
+  // Optionally, you can delete the OTP after verification
+  await db.collection('otps').doc(phone).delete();
+
+  res.status(200).json({ message: 'OTP verified successfully', token });
 });
 
-router.get('/profile', validateUser, async (req, res) => {
+// Refresh token endpoint
+router.post('/refresh-token', validateUser, (req, res) => {
   const user = req.user;
+  const newToken = jwt.sign({ phone: user.phone }, JWT_SECRET_KEY, { expiresIn: '24h' });
+  res.status(200).json({ token: newToken });
+});
 
-  try {
-    const userDoc = await db.collection('users').doc(user.email).get();
-    if (!userDoc.exists) return res.status(404).json({ message: 'User not found' });
-
-    const userData = userDoc.data();
-    delete userData.password;
-    res.status(200).json(userData);
-  } catch (err) {
-    console.error('Profile fetch error:', err);
-    res.status(500).json({ error: 'Failed to fetch profile' });
+// Get current user
+router.get('/current-user', validateUser, (req, res) => {
+  const user = req.user;
+  if (!user) {
+    return res.status(404).json({ message: 'User not found' });
   }
+  res.status(200).json(user);
+});
+
+// Update current user everything in body except phone and createdAt
+router.put('/current-user', validateUser, async (req, res) => {
+  const user = req.user;
+  const updates = req.body;
+
+  // Ensure we don't update phone or createdAt
+  if (updates.phone || updates.createdAt) {
+    return res.status(400).json({ message: 'Cannot update phone or createdAt' });
+  }
+
+  const userRef = db.collection('users').doc(user.uid);
+  await userRef.update(updates);
+
+  // Fetch updated user data
+  const updatedUserDoc = await userRef.get();
+  res.status(200).json(updatedUserDoc.data());
 });
 
 module.exports = router;

@@ -13,10 +13,13 @@ const validateUser = async (req, res, next) => {
 
   try {
     const decoded = jwt.verify(token, JWT_SECRET_KEY);
-    const userRef = db.collection('users').doc(decoded.email);
+    const userRef = db.collection('users').doc(decoded.uid);
     const userDoc = await userRef.get();
 
-    req.user = userDoc.exists ? userDoc.data() : null;
+    req.user = userDoc.exists ? {
+      ...userDoc.data(),
+      uid: userDoc.id,
+    } : null;
     next();
   } catch (err) {
     res.status(401).json({ error: err });

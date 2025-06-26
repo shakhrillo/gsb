@@ -9,6 +9,7 @@ class TransactionService {
     if (!account.user_id) {
 			throw new TransactionError(PaymeError.UserNotFound, id, PaymeData.UserId)
 		}
+
 		if (!account.product_id) {
 			throw new TransactionError(PaymeError.ProductNotFound, id, PaymeData.ProductId)
 		}
@@ -56,73 +57,74 @@ class TransactionService {
   async createTransaction(params, id) {
     let { account, time, amount } = params;
     amount = Math.floor(amount);
-  
-    // Step 1: Validate invoice and status
-    await this.checkPerformTransaction(params, id);
-  
+
     const transactionRef = db.collection("transactions").doc(params.id);
     const transactionSnap = await transactionRef.get();
-  
-    // Step 2: If transaction with same ID exists
+
     if (transactionSnap.exists) {
+      // check status of existing transaction
       const transaction = transactionSnap.data();
-  
-      if (transaction.state === TransactionState.Paid) {
-        throw new TransactionError(PaymeError.AlreadyDone, id); // -31099
-      }
-  
+
       if (transaction.state === TransactionState.Pending) {
-        const now = Date.now();
-        const isNotExpired = (now - transaction.create_time) < 12 * 60 * 1000;
-  
-        if (!isNotExpired) {
-          // Expired
-          await transactionRef.set({
-            state: TransactionState.PendingCanceled,
-            reason: 4
-          }, { merge: true });
-  
-          throw new TransactionError(PaymeError.CantDoOperation, id); // -31008
-        }
-  
-        return {
-          transaction: transaction.id,
-          create_time: transaction.create_time,
-          state: TransactionState.Pending
-        };
+        throw new TransactionError(PaymeError.CantDoOperation, id); // -31008
       }
+
+      // check created date 
+      // Отмена транзакции по таймауту производится через 12 часов — 43 200 000 миллисекунд с момента создания транзакции в Payme Business. После отмены по таймауту транзакция переходит в состояние: “Транзакция отменена” (-1), с причиной: “Отмена по таймауту” (4).
+      const now = Date.now();
+      const isNotExpired = (now - transaction.create_time) < 12 * 60 * 60 * 1000; // 12 hours
+      if (!isNotExpired) {
+        // Expired
+        await transactionRef.set({
+          state: TransactionState.PendingCanceled,
+          reason: 4
+        }, { merge: true });
+
+        throw new TransactionError(PaymeError.CantDoOperation, id); // -31008
+      }
+
+      return {
+        transaction: params.id,
+        create_time: transaction.create_time,
+        state: TransactionState.Pending
+      };
+    } else {
+      await this.checkPerformTransaction(params, id);
+
+      // Save state = 1
+      // transactionRef.set({
+      //   state: TransactionState.Pending,
+      // }, { merge: true });
+
+      // Одноразовый счет. Например заказ в интернет магазине
+      // Бронирование заказа
+      // Блокировка заказа от
+      // изменений (Статус заказа "в
+      // ожидании оплаты")
+
+      const newTransaction = await transactionRef.set({
+        id: params.id,
+        state: TransactionState.Pending,
+        amount,
+        user: account.user_id,
+        product: account.product_id,
+        create_time: time,
+        provider: 'payme',
+      }, { merge: true });
   
-      throw new TransactionError(PaymeError.CantDoOperation, id); // Unknown state
+      return {
+        transaction: params.id,
+        state: TransactionState.Pending,
+        create_time: time
+      }
+
+      
+      // Только для адаптивных
+      // платежей
+      // Формирование списка
+      // получателей
+      
     }
-  
-    // Step 3: New transaction — ensure no existing pending for this account
-    const existingTxSnap = await db.collection("transactions")
-      .where("user", "==", account.user_id)
-      .where("product", "==", account.product_id)
-      .where("state", "==", TransactionState.Pending)
-      .limit(1)
-      .get();
-  
-    if (!existingTxSnap.empty) {
-      throw new TransactionError(PaymeError.Pending, id); // -31099
-    }
-  
-    // Step 4: All clear — create transaction
-    await transactionRef.set({
-      id: params.id,
-      state: TransactionState.Pending,
-      amount,
-      user: account.user_id,
-      product: account.product_id,
-      create_time: time,
-      provider: 'payme'
-    }, { merge: true });
-  
-    return {
-      transaction: params.id,
-      state: TransactionState.Pending,
-      create_time: time
-    };
   }
   
   async performTransaction(params, id) {
