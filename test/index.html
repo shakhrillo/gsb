@@ -1,26 +1,47 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+  <title>Leaflet Routing Example</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet-routing-machine/dist/leaflet-routing-machine.css" />
+
+  <style>
+    #map { height: 100vh; }
+  </style>
 </head>
 <body>
-    <script async src="https://telegram.org/js/telegram-widget.js?7"
-        data-telegram-login="auth_yolda_bot"
-        data-size="large"
-        data-userpic="false"
-        data-request-access="write"
-        data-userpic="false"
-        data-on-auth="onTelegramAuth">
-</script>
+  <div id="map"></div>
 
-<script type="text/javascript">
-  function onTelegramAuth(user) {
-    console.log(user);
-    // user.id, user.first_name, user.auth_date, user.hash, etc.
-  }
-</script>
+  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+  <script src="https://unpkg.com/leaflet-routing-machine/dist/leaflet-routing-machine.js"></script>
 
+  <script>
+    const map = L.map('map').setView([41.3111, 69.2797], 13); // Tashkent center
+
+    // Add OpenStreetMap tiles
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      attribution: '© OpenStreetMap contributors'
+    }).addTo(map);
+
+    // Add routing control
+    const routes = L.Routing.control({
+      waypoints: [
+        L.latLng(40.0308933, 64.3964072), // Start point (Tashkent)
+        L.latLng(40.0437994, 64.3979399)  // End point (a nearby area)
+      ],
+      routeWhileDragging: true
+    }).addTo(map);
+
+    // Calculate the distance and time
+    routes.on('routesfound', function(e) {
+      const route = e.routes[0];
+      const distance = route.summary.totalDistance / 1000; // Convert to km
+      const time = route.summary.totalTime / 60; // Convert to minutes
+      console.log(`Distance: ${distance.toFixed(2)} km, Time: ${time.toFixed(2)} min`);
+    });
+  </script>
 </body>
 </html>
