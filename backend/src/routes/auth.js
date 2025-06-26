@@ -76,7 +76,7 @@ router.post('/verify-otp', async (req, res) => {
 // Refresh token endpoint
 router.post('/refresh-token', validateUser, (req, res) => {
   const user = req.user;
-  const newToken = jwt.sign({ phone: user.phone }, JWT_SECRET_KEY, { expiresIn: '24h' });
+  const newToken = jwt.sign({ uid: user.uid }, JWT_SECRET_KEY, { expiresIn: '24h' });
   res.status(200).json({ token: newToken });
 });
 

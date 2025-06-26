@@ -1,21 +1,13 @@
 const express = require('express');
 const router = express.Router();
 const { db } = require('../services/firebase');
-const { validateUser, validateUserPass } = require('../middleware/validateUser');
+const { validateUser } = require('../middleware/validateUser');
 
-router.get('/', validateUserPass, async (req, res) => {
+router.get('/:merchantUid', async (req, res) => {
   try {
-    const user = req.user;
+    const merchantUid = req.params.merchantUid;
     let collectionProducts = await db.collection('products');
-    if (user && user.type === 'merchant') {
-      collectionProducts = collectionProducts.where('merchantUid', '==', user.email);
-    } else {
-      const merchantUid = req.query.merchantUid;
-      if (!merchantUid) {
-        return res.status(400).json({ error: 'Merchant UID is required for customers' });
-      }
-      collectionProducts = collectionProducts.where('merchantUid', '==', merchantUid);
-    }
+    collectionProducts = collectionProducts.where('merchantUid', '==', merchantUid);
     const snapshot = await collectionProducts.get();
     if (snapshot.empty) {
       return res.status(404).json({ message: 'No products found' });
