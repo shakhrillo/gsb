@@ -5,7 +5,7 @@ const { db } = require('../services/firebase');
 router.get('/', async (req, res) => {
   try {
     let collectionProducts = await db.collection('users');
-    collectionProducts = collectionProducts.where('type', '==', 'merchant');
+    collectionProducts = collectionProducts.where('isMerchant', '==', true);
     const snapshot = await collectionProducts.get();
     
     if (snapshot.empty) {
@@ -13,13 +13,13 @@ router.get('/', async (req, res) => {
     }
 
     const products = snapshot.docs.map(doc => {
-        const data = doc.data();
-        delete data.password;
-        
-        return {
-            ...data,
-            id: doc.id,
-        };
+      const data = doc.data();
+      delete data.password;
+      
+      return {
+        ...data,
+        id: doc.id,
+      };
     });
     res.json(products);
   } catch (err) {

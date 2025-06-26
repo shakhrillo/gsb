@@ -107,4 +107,33 @@ router.put('/current-user', validateUser, async (req, res) => {
   res.status(200).json(updatedUserDoc.data());
 });
 
+// Send request to become merchant
+router.post('/become-merchant', validateUser, async (req, res) => {
+  const user = req.user;
+  const { businessName, businessAddress, secret } = req.body;
+
+  if (!businessName || !businessAddress) {
+    return res.status(400).json({ message: 'Business name and address are required' });
+  }
+
+  // Check if the user is already a merchant
+  if (user.isMerchant) {
+    return res.status(400).json({ message: 'You are already a merchant' });
+  }
+  // Optional: Validate secret if needed
+  if (secret && secret !== process.env.MERCHANT_SECRET) {
+    return res.status(403).json({ message: 'Invalid secret' });
+  }
+
+  // Update user to indicate they want to become a merchant
+  await db.collection('users').doc(user.uid).update({
+    isMerchant: true,
+    businessName,
+    businessAddress,
+    merchantRequestDate: new Date(),
+  });
+
+  res.status(200).json({ message: 'Merchant request submitted successfully' });
+});
+
 module.exports = router;
