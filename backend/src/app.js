@@ -31,15 +31,15 @@ app.get('/', (req, res) => {
 });
 
 // API routes
-app.use('/api/auth', authRoutes);
-app.use('/api/merchants', merchantsRoutes);
-app.use('/api/cities', citiesRoutes);
-app.use('/api/payments', paymentsRoutes);
-app.use('/api/file', fileRoutes);
-app.use('/api/products', productRoutes);
-app.use('/api/orders', orderRoutes);
-app.use('/api/track', orderRoutes);
-app.use('/api/restaurants', restaurantsRoutes);
+app.use('/auth', authRoutes);
+app.use('/merchants', merchantsRoutes);
+app.use('/cities', citiesRoutes);
+app.use('/payments', paymentsRoutes);
+app.use('/file', fileRoutes);
+app.use('/products', productRoutes);
+app.use('/orders', orderRoutes);
+app.use('/track', orderRoutes);
+app.use('/restaurants', restaurantsRoutes);
 
 app.use(errorMiddleware)
 

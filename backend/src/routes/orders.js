@@ -8,13 +8,44 @@ router.post('/', validateUser, async (req, res) => {
     const orderData = req.body;
     const user = req.user;
     
-    if (!orderData.merchantUid) {
-      return res.status(400).json({ error: 'Merchant UID is required' });
-    }
     const orderRef = await db.collection('orders').add({
       ...orderData,
-      timestamp: new Date(),
-      customerUid: user.email
+      driver: {
+        uid: '-',
+        email: '-',
+        name: '-',
+        phone: '-',
+        car: {
+          plate: '-',
+          model: '-',
+          color: '-',
+        },
+        currentLocation: {
+          latitude: 0,
+          longitude: 0
+        },
+        status: 'in-progress', // 'accepted', 'in-progress', 'completed', 'cancelled'
+      },
+      user: {
+        uid: user.uid,
+        email: user.email || '-',
+        name: user.name || '-',
+        phone: user.phone || '-',
+      },
+      delivery: {
+        pickup: {
+          address: user.delivery?.address || '-',
+          city: user.delivery?.city || '-',
+          province: user.delivery?.province || '-',
+        },
+        dropoff: {
+          address: orderData.delivery?.address || '-',
+          city: orderData.delivery?.city || '-',
+          province: orderData.delivery?.province || '-',
+        },
+        fee: orderData.delivery?.fee || 0,
+      },
+      createdAt: new Date()
     });
     res.status(201).json({ id: orderRef.id });
   } catch (err) {

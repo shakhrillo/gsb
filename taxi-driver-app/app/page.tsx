@@ -4,8 +4,13 @@ import { useState } from "react"
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
 import { Button } from "@/components/ui/button"
 import { Badge } from "@/components/ui/badge"
-import { MapPin, Clock, User, Phone, Navigation, CheckCircle } from "lucide-react"
+import { MapPin, Clock, User, Phone, Navigation, CheckCircle, Menu } from "lucide-react"
 import dynamic from "next/dynamic"
+import DriverMenu from "./components/driver-menu"
+import EarningsPage from "./components/earnings-page"
+import WithdrawPage from "./components/withdraw-page"
+import ProfilePage from "./components/profile-page"
+import TripHeader from "./components/trip-header"
 
 // Dynamically import the map component to avoid SSR issues
 const LeafletMapWithRouting = dynamic(() => import("./components/leaflet-routing-map"), {
@@ -25,6 +30,17 @@ interface Order {
   distance: string
   estimatedTime: string
   status: "pending" | "accepted" | "completed"
+}
+
+interface DriverStats {
+  totalEarnings: number
+  todayEarnings: number
+  weeklyEarnings: number
+  monthlyEarnings: number
+  totalTrips: number
+  todayTrips: number
+  rating: number
+  availableBalance: number
 }
 
 const mockOrders: Order[] = [
@@ -71,8 +87,21 @@ const mockOrders: Order[] = [
 
 export default function TaxiDriverApp() {
   const [orders, setOrders] = useState<Order[]>(mockOrders)
-  const [currentView, setCurrentView] = useState<"orders" | "driving" | "success">("orders")
+  const [currentView, setCurrentView] = useState<
+    "orders" | "driving" | "success" | "earnings" | "withdraw" | "profile"
+  >("orders")
   const [activeOrder, setActiveOrder] = useState<Order | null>(null)
+  const [showMenu, setShowMenu] = useState(false)
+  const [driverStats, setDriverStats] = useState<DriverStats>({
+    totalEarnings: 2847.5,
+    todayEarnings: 127.25,
+    weeklyEarnings: 892.75,
+    monthlyEarnings: 2847.5,
+    totalTrips: 156,
+    todayTrips: 8,
+    rating: 4.8,
+    availableBalance: 2847.5,
+  })
 
   const handleAcceptOrder = (order: Order) => {
     setActiveOrder(order)
@@ -82,10 +111,39 @@ export default function TaxiDriverApp() {
 
   const handleCompleteOrder = () => {
     if (activeOrder) {
+      // Update driver stats
+      setDriverStats((prev) => ({
+        ...prev,
+        totalEarnings: prev.totalEarnings + activeOrder.fare,
+        todayEarnings: prev.todayEarnings + activeOrder.fare,
+        weeklyEarnings: prev.weeklyEarnings + activeOrder.fare,
+        monthlyEarnings: prev.monthlyEarnings + activeOrder.fare,
+        totalTrips: prev.totalTrips + 1,
+        todayTrips: prev.todayTrips + 1,
+        availableBalance: prev.availableBalance + activeOrder.fare,
+      }))
+
       setOrders((prev) => prev.filter((o) => o.id !== activeOrder.id))
       setActiveOrder(null)
-      setCurrentView("orders")
+      setCurrentView("success")
     }
+  }
+
+  const handleMenuItemClick = (view: string) => {
+    setCurrentView(view as any)
+    setShowMenu(false)
+  }
+
+  if (currentView === "earnings") {
+    return <EarningsPage driverStats={driverStats} onBack={() => setCurrentView("orders")} />
+  }
+
+  if (currentView === "withdraw") {
+    return <WithdrawPage driverStats={driverStats} onBack={() => setCurrentView("orders")} />
+  }
+
+  if (currentView === "profile") {
+    return <ProfilePage onBack={() => setCurrentView("orders")} />
   }
 
   if (currentView === "success") {
@@ -100,7 +158,11 @@ export default function TaxiDriverApp() {
               <p className="text-sm text-gray-500">Fare Earned</p>
               <p className="text-3xl font-bold text-green-600">${activeOrder?.fare}</p>
             </div>
-            <Button onClick={handleCompleteOrder} className="w-full">
+            <div className="bg-blue-50 p-4 rounded-lg mb-6">
+              <p className="text-sm text-blue-600">Today's Total</p>
+              <p className="text-xl font-bold text-blue-700">${driverStats.todayEarnings.toFixed(2)}</p>
+            </div>
+            <Button onClick={() => setCurrentView("orders")} className="w-full">
               Back to Orders
             </Button>
           </CardContent>
@@ -112,7 +174,10 @@ export default function TaxiDriverApp() {
   if (currentView === "driving" && activeOrder) {
     return (
       <div className="min-h-screen bg-gray-50">
-        <div className="h-[60vh] relative">
+        {/* Header with menu */}
+        <TripHeader activeOrder={activeOrder} />
+
+        <div className="h-[100vh] relative">
           <LeafletMapWithRouting
             pickupCoords={activeOrder.pickupCoords}
             dropoffCoords={activeOrder.dropoffCoords}
@@ -120,80 +185,45 @@ export default function TaxiDriverApp() {
             dropoffAddress={activeOrder.dropoffAddress}
           />
         </div>
-        <div className="p-4 bg-white">
-          <Card>
-            <CardHeader className="pb-3">
-              <div className="flex items-center justify-between">
-                <CardTitle className="text-lg">Active Trip</CardTitle>
-                <Badge variant="secondary" className="bg-green-100 text-green-700">
-                  Route Planned
-                </Badge>
-              </div>
-            </CardHeader>
-            <CardContent className="space-y-4">
-              <div className="flex items-center gap-3">
-                <User className="h-5 w-5 text-gray-500" />
-                <div>
-                  <p className="font-medium">{activeOrder.customerName}</p>
-                  <p className="text-sm text-gray-500 flex items-center gap-1">
-                    <Phone className="h-4 w-4" />
-                    {activeOrder.customerPhone}
-                  </p>
-                </div>
-              </div>
-
-              <div className="space-y-2">
-                <div className="flex items-start gap-3">
-                  <div className="h-3 w-3 bg-green-500 rounded-full mt-1"></div>
-                  <div>
-                    <p className="text-sm font-medium">Pickup</p>
-                    <p className="text-sm text-gray-600">{activeOrder.pickupAddress}</p>
-                  </div>
-                </div>
-                <div className="flex items-start gap-3">
-                  <div className="h-3 w-3 bg-red-500 rounded-full mt-1"></div>
-                  <div>
-                    <p className="text-sm font-medium">Dropoff</p>
-                    <p className="text-sm text-gray-600">{activeOrder.dropoffAddress}</p>
-                  </div>
-                </div>
-              </div>
-
-              <div className="flex justify-between items-center pt-2 border-t">
-                <div className="text-center">
-                  <p className="text-sm text-gray-500">Distance</p>
-                  <p className="font-medium">{activeOrder.distance}</p>
-                </div>
-                <div className="text-center">
-                  <p className="text-sm text-gray-500">Fare</p>
-                  <p className="font-medium">${activeOrder.fare}</p>
-                </div>
-                <div className="text-center">
-                  <p className="text-sm text-gray-500">ETA</p>
-                  <p className="font-medium">{activeOrder.estimatedTime}</p>
-                </div>
-              </div>
-
-              <div className="flex gap-2 pt-2">
-                <Button onClick={() => setCurrentView("success")} className="flex-1">
-                  Complete Trip
-                </Button>
-                <Button onClick={() => setCurrentView("orders")} variant="outline" className="flex-1">
-                  Cancel
-                </Button>
-              </div>
-            </CardContent>
-          </Card>
-        </div>
       </div>
     )
   }
 
   return (
     <div className="min-h-screen bg-gray-50">
-      <div className="bg-white shadow-sm border-b p-4">
+      {/* Header with menu */}
+      <div className="bg-white shadow-sm border-b p-4 flex items-center justify-between relative">
+        <Button variant="ghost" size="sm" onClick={() => setShowMenu(!showMenu)} className="p-2">
+          <Menu className="h-5 w-5" />
+        </Button>
         <h1 className="text-xl font-bold text-gray-900">Available Orders</h1>
-        <p className="text-sm text-gray-500">{orders.length} orders available</p>
+        <div className="text-sm text-green-600 font-medium">${driverStats.todayEarnings.toFixed(2)} today</div>
+
+        {showMenu && (
+          <DriverMenu
+            driverStats={driverStats}
+            onMenuItemClick={handleMenuItemClick}
+            onClose={() => setShowMenu(false)}
+          />
+        )}
+      </div>
+
+      {/* Quick stats bar */}
+      <div className="bg-white border-b p-4">
+        <div className="flex justify-between items-center text-sm">
+          <div className="text-center">
+            <p className="text-gray-500">Today's Trips</p>
+            <p className="font-bold text-blue-600">{driverStats.todayTrips}</p>
+          </div>
+          <div className="text-center">
+            <p className="text-gray-500">Rating</p>
+            <p className="font-bold text-yellow-600">⭐ {driverStats.rating}</p>
+          </div>
+          <div className="text-center">
+            <p className="text-gray-500">Available</p>
+            <p className="font-bold text-gray-600">{orders.length} orders</p>
+          </div>
+        </div>
       </div>
 
       <div className="p-4 space-y-4">
