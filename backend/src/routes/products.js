@@ -3,35 +3,24 @@ const router = express.Router();
 const { db } = require('../services/firebase');
 const { validateUser } = require('../middleware/validateUser');
 
-router.get('/:merchantUid', async (req, res) => {
-  try {
-    const merchantUid = req.params.merchantUid;
-    let collectionProducts = await db.collection('products');
-    collectionProducts = collectionProducts.where('merchantUid', '==', merchantUid);
-    const snapshot = await collectionProducts.get();
-    if (snapshot.empty) {
-      return res.status(404).json({ message: 'No products found' });
-    }
-    const products = snapshot.docs.map(doc => ({ ...doc.data(), id: doc.id }));
-    res.json(products);
-  } catch (err) {
-    res.status(500).json({ error: err.message });
-  }
-});
-
 router.post('/', validateUser, async (req, res) => {
   try {
     const user = req.user;
     
-    if (user.type !== 'merchant') {
+    if (!user.isMerchant) {
       return res.status(403).json({ error: 'Only merchants can add products' });
     }
 
     const newProduct = req.body;
-    const docRef = await db.collection('products').add({
-      ...newProduct,
-      merchantUid: user.email
-    });
+    const docRef = await db
+      .collection('merchants')
+      .doc(user.uid)
+      .collection('products')
+      .add({
+        ...newProduct,
+        createdAt: new Date(),
+        updatedAt: new Date()
+      });
     
     res.status(201).json({ id: docRef.id });
   } catch (err) {
