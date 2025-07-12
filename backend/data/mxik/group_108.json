@@ -1,0 +1,267 @@
+{
+  "metadata": {
+    "groupId": 108,
+    "fetchedAt": "2025-07-12T16:38:36.397Z",
+    "source": "https://tasnif.soliq.uz/api/cl-api/integration-mxik/references/group/code?group=108"
+  },
+  "data": {
+    "success": true,
+    "code": 200,
+    "reason": null,
+    "data": [
+      {
+        "mxikCode": "10802007001000000",
+        "nameUZ": "Футбол агенти хизматлари",
+        "nameLAT": "Futbol agenti xizmatlari",
+        "nameRU": "Услуги футбольного агента",
+        "groupCODE": "108",
+        "groupNameUZ": "ТАЪЛИМ ВА СПОРТ ТАЙЁРЛОВ ХИЗМАТЛАРИ",
+        "groupNameRU": "ОБРАЗОВАТЕЛЬНЫЕ УСЛУГИ И УСЛУГИ СПОРТИВНОЙ ПОДГОТОВКИ",
+        "groupNameLAT": "TA’LIM VA SPORT TAYYoRLOV XIZMATLARI"
+      },
+      {
+        "mxikCode": "10802001005000001",
+        "nameUZ": "Гимнастика спорт секциялари хизматлари бюджет ташкилотлари томонидан кўрсатиладиган",
+        "nameLAT": "Gimnastika sport seksiyalari xizmatlari byudjet tashkilotlari tomonidan ko’rsatiladigan",
+        "nameRU": "Услуги спортивных секций по обучению Гимнастики оказываемые бюджетными организациями",
+        "groupCODE": "108",
+        "groupNameUZ": "ТАЪЛИМ ВА СПОРТ ТАЙЁРЛОВ ХИЗМАТЛАРИ",
+        "groupNameRU": "ОБРАЗОВАТЕЛЬНЫЕ УСЛУГИ И УСЛУГИ СПОРТИВНОЙ ПОДГОТОВКИ",
+        "groupNameLAT": "TA’LIM VA SPORT TAYYoRLOV XIZMATLARI"
+      },
+      {
+        "mxikCode": "10899001002000000",
+        "nameUZ": "Логопед-дефектолог хизматлари",
+        "nameLAT": "Logoped-defektolog xizmatlari",
+        "nameRU": "Услуги логопеда-дефектолога",
+        "groupCODE": "108",
+        "groupNameUZ": "ТАЪЛИМ ВА СПОРТ ТАЙЁРЛОВ ХИЗМАТЛАРИ",
+        "groupNameRU": "ОБРАЗОВАТЕЛЬНЫЕ УСЛУГИ И УСЛУГИ СПОРТИВНОЙ ПОДГОТОВКИ",
+        "groupNameLAT": "TA’LIM VA SPORT TAYYoRLOV XIZMATLARI"
+      },
+      {
+        "mxikCode": "10801005001000000",
+        "nameUZ": "Касб-ҳунар таълими хизматлари",
+        "nameLAT": "Kasb-hunar talimi xizmatlari",
+        "nameRU": "Услуги профессионального образования",
+        "groupCODE": "108",
+        "groupNameUZ": "ТАЪЛИМ ВА СПОРТ ТАЙЁРЛОВ ХИЗМАТЛАРИ",
+        "groupNameRU": "ОБРАЗОВАТЕЛЬНЫЕ УСЛУГИ И УСЛУГИ СПОРТИВНОЙ ПОДГОТОВКИ",
+        "groupNameLAT": "TA’LIM VA SPORT TAYYoRLOV XIZMATLARI"
+      },
+      {
+        "mxikCode": "10801002001000000",
+        "nameUZ": "Мактабгача таълим хизматлари",
+        "nameLAT": "Maktabgacha talim xizmatlari",
+        "nameRU": "Услуги дошкольного образования",
+        "groupCODE": "108",
+        "groupNameUZ": "ТАЪЛИМ ВА СПОРТ ТАЙЁРЛОВ ХИЗМАТЛАРИ",
+        "groupNameRU": "ОБРАЗОВАТЕЛЬНЫЕ УСЛУГИ И УСЛУГИ СПОРТИВНОЙ ПОДГОТОВКИ",
+        "groupNameLAT": "TA’LIM VA SPORT TAYYoRLOV XIZMATLARI"
+      },
+      {
+        "mxikCode": "10802004001000000",
+        "nameUZ": "Жанг санъати ва яккакурашга тайёрлаш спорт секциялари хизматлари (спорт турлари бўйича)",
+        "nameLAT": "Jang sanati va yakkakurashga tayyorlash sport seksiyalari xizmatlari (sport turlari bo’yicha)",
+        "nameRU": "Услуги спортивных секций по подготовке к боевым искусствам и единоборствам (по видам спорта)",
+        "groupCODE": "108",
+        "groupNameUZ": "ТАЪЛИМ ВА СПОРТ ТАЙЁРЛОВ ХИЗМАТЛАРИ",
+        "groupNameRU": "ОБРАЗОВАТЕЛЬНЫЕ УСЛУГИ И УСЛУГИ СПОРТИВНОЙ ПОДГОТОВКИ",
+        "groupNameLAT": "TA’LIM VA SPORT TAYYoRLOV XIZMATLARI"
+      },
+      {
+        "mxikCode": "10899004001000000",
+        "nameUZ": "Тўгараклар, маҳорат дарслари, воркшопларни ташкил этиш хизматлари",
+        "nameLAT": "To’garaklar, mahorat darslari, vorkshoplarni tashkil etish xizmatlari",
+        "nameRU": "Услуги по организации кружков, мастер-классов, воркшопов",
+        "groupCODE": "108",
+        "groupNameUZ": "ТАЪЛИМ ВА СПОРТ ТАЙЁРЛОВ ХИЗМАТЛАРИ",
+        "groupNameRU": "ОБРАЗОВАТЕЛЬНЫЕ УСЛУГИ И УСЛУГИ СПОРТИВНОЙ ПОДГОТОВКИ",
+        "groupNameLAT": "TA’LIM VA SPORT TAYYoRLOV XIZMATLARI"
+      },
+      {
+        "mxikCode": "10802999001000000",
+        "nameUZ": "Спорт турлари бўйича спорт секциялари хизматлари (енгил атлетика, гимнастика, оғир атлетика, стол теннис, яккакурашдан ташқари)",
+        "nameLAT": "Sport turlari bo’yicha sport seksiyalari xizmatlari (engil atletika, gimnastika, og’ir atletika, stol tennis, yakkakurashdan tashqari)",
+        "nameRU": "Услуги спортивных секций по видам спорта (кроме гимнастики и легкой атлетики)",
+        "groupCODE": "108",
+        "groupNameUZ": "ТАЪЛИМ ВА СПОРТ ТАЙЁРЛОВ ХИЗМАТЛАРИ",
+        "groupNameRU": "ОБРАЗОВАТЕЛЬНЫЕ УСЛУГИ И УСЛУГИ СПОРТИВНОЙ ПОДГОТОВКИ",
+        "groupNameLAT": "TA’LIM VA SPORT TAYYoRLOV XIZMATLARI"
+      },
+      {
+        "mxikCode": "10802003001000000",
+        "nameUZ": "Оғир атлетика спорт секциялари хизматлари (спорт турлари бўйича)",
+        "nameLAT": "Og’ir atletika sport seksiyalari xizmatlari (sport turlari bo’yicha)",
+        "nameRU": "Услуги спортивных секций по тяжелой атлетике (по видам спорта)",
+        "groupCODE": "108",
+        "groupNameUZ": "ТАЪЛИМ ВА СПОРТ ТАЙЁРЛОВ ХИЗМАТЛАРИ",
+        "groupNameRU": "ОБРАЗОВАТЕЛЬНЫЕ УСЛУГИ И УСЛУГИ СПОРТИВНОЙ ПОДГОТОВКИ",
+        "groupNameLAT": "TA’LIM VA SPORT TAYYoRLOV XIZMATLARI"
+      },
+      {
+        "mxikCode": "10899003001000000",
+        "nameUZ": "Мусиқа асбобларини чалишни ўргатиш хизматлари (барча асбоблар турлари бўйича)",
+        "nameLAT": "Musiqa asboblarini chalishni o’rgatish xizmatlari (barcha asboblar turlari bo’yicha)",
+        "nameRU": "Услуги по обучению игре на музыкальных инструментах (на всех инструментах)",
+        "groupCODE": "108",
+        "groupNameUZ": "ТАЪЛИМ ВА СПОРТ ТАЙЁРЛОВ ХИЗМАТЛАРИ",
+        "groupNameRU": "ОБРАЗОВАТЕЛЬНЫЕ УСЛУГИ И УСЛУГИ СПОРТИВНОЙ ПОДГОТОВКИ",
+        "groupNameLAT": "TA’LIM VA SPORT TAYYoRLOV XIZMATLARI"
+      },
+      {
+        "mxikCode": "10802005001000000",
+        "nameUZ": "Стол тенниси спорт секциялари хизматлари",
+        "nameLAT": "Stol tennisi sport seksiyalari xizmatlari",
+        "nameRU": "Услуга по обучению настольному теннису",
+        "groupCODE": "108",
+        "groupNameUZ": "ТАЪЛИМ ВА СПОРТ ТАЙЁРЛОВ ХИЗМАТЛАРИ",
+        "groupNameRU": "ОБРАЗОВАТЕЛЬНЫЕ УСЛУГИ И УСЛУГИ СПОРТИВНОЙ ПОДГОТОВКИ",
+        "groupNameLAT": "TA’LIM VA SPORT TAYYoRLOV XIZMATLARI"
+      },
+      {
+        "mxikCode": "10899002001000000",
+        "nameUZ": "Ўқув ва таълим курслари, шу жумладан индивидуал репетиторлик хизматлари (барча йўналишлар бўйича)",
+        "nameLAT": "O’quv va talim kurslari, shu jumladan individual repetitorlik xizmatlari (barcha yo’nalishlar bo’yicha)",
+        "nameRU": "Услуги учебных и образовательных курсов, в том числе индивидуальное репетиторство (по всем направлениям)",
+        "groupCODE": "108",
+        "groupNameUZ": "ТАЪЛИМ ВА СПОРТ ТАЙЁРЛОВ ХИЗМАТЛАРИ",
+        "groupNameRU": "ОБРАЗОВАТЕЛЬНЫЕ УСЛУГИ И УСЛУГИ СПОРТИВНОЙ ПОДГОТОВКИ",
+        "groupNameLAT": "TA’LIM VA SPORT TAYYoRLOV XIZMATLARI"
+      },
+      {
+        "mxikCode": "10802003001000001",
+        "nameUZ": "Оғир атлетика спорт секциялари хизматлари (спорт турлари бўйича) бюджет ташкилотлари томонидан кўрсатилган",
+        "nameLAT": "Og’ir atletika sport seksiyalari xizmatlari (sport turlari bo’yicha) byudjet tashkilotlari tomonidan ko’rsatilgan",
+        "nameRU": "Услуги спортивных секций по тяжелой атлетике (по видам спорта) оказываемые бюджетными организациями",
+        "groupCODE": "108",
+        "groupNameUZ": "ТАЪЛИМ ВА СПОРТ ТАЙЁРЛОВ ХИЗМАТЛАРИ",
+        "groupNameRU": "ОБРАЗОВАТЕЛЬНЫЕ УСЛУГИ И УСЛУГИ СПОРТИВНОЙ ПОДГОТОВКИ",
+        "groupNameLAT": "TA’LIM VA SPORT TAYYoRLOV XIZMATLARI"
+      },
+      {
+        "mxikCode": "10802999001000001",
+        "nameUZ": "Спорт турлари бўйича спорт секциялари хизматлари (енгил атлетика, гимнастика, оғир атлетика, стол теннис, яккакурашдан ташқари) бюджет ташкилотлари томонидан кўрсатилган",
+        "nameLAT": "Sport turlari bo’yicha sport seksiyalari xizmatlari (engil atletika, gimnastika, og’ir atletika, stol tennis, yakkakurashdan tashqari) byudjet tashkilotlari tomonidan ko’rsatilgan",
+        "nameRU": "Услуги спортивных секций по видам спорта (кроме гимнастики и легкой атлетики) оказываемые бюджетными организациями",
+        "groupCODE": "108",
+        "groupNameUZ": "ТАЪЛИМ ВА СПОРТ ТАЙЁРЛОВ ХИЗМАТЛАРИ",
+        "groupNameRU": "ОБРАЗОВАТЕЛЬНЫЕ УСЛУГИ И УСЛУГИ СПОРТИВНОЙ ПОДГОТОВКИ",
+        "groupNameLAT": "TA’LIM VA SPORT TAYYoRLOV XIZMATLARI"
+      },
+      {
+        "mxikCode": "10899005002000000",
+        "nameUZ": "Хайдовчиларни малакасини ошириш хизматлари",
+        "nameLAT": "Xaydovchilarni malakasini oshirish xizmatlari",
+        "nameRU": "Услуги повышения квалификации водителей",
+        "groupCODE": "108",
+        "groupNameUZ": "ТАЪЛИМ ВА СПОРТ ТАЙЁРЛОВ ХИЗМАТЛАРИ",
+        "groupNameRU": "ОБРАЗОВАТЕЛЬНЫЕ УСЛУГИ И УСЛУГИ СПОРТИВНОЙ ПОДГОТОВКИ",
+        "groupNameLAT": "TA’LIM VA SPORT TAYYoRLOV XIZMATLARI"
+      },
+      {
+        "mxikCode": "10802001001000001",
+        "nameUZ": "Енгил атлетика спорт секциялари хизматлари (спорт турлари бўйича) бюджет ташкилотлари томонидан бюджет ташкилотлари томонидан кўрсатиладиган",
+        "nameLAT": "Yengil atletika sport seksiyalari xizmatlari (sport turlari bo’yicha) byudjet tashkilotlari tomonidan byudjet tashkilotlari tomonidan ko’rsatiladigan",
+        "nameRU": "Услуги спортивных секций по легкой атлетике (по видам спорта) оказываемые бюджетными организациями",
+        "groupCODE": "108",
+        "groupNameUZ": "ТАЪЛИМ ВА СПОРТ ТАЙЁРЛОВ ХИЗМАТЛАРИ",
+        "groupNameRU": "ОБРАЗОВАТЕЛЬНЫЕ УСЛУГИ И УСЛУГИ СПОРТИВНОЙ ПОДГОТОВКИ",
+        "groupNameLAT": "TA’LIM VA SPORT TAYYoRLOV XIZMATLARI"
+      },
+      {
+        "mxikCode": "10801004001000000",
+        "nameUZ": "Олий таълим сифатини ошириш хизматлари (ҳалқаро ёки республика дастурлари доирасида)",
+        "nameLAT": "Oliy talim sifatini oshirish xizmatlari (halqaro yoki respublika dasturlari doirasida)",
+        "nameRU": "Услуги по повышению качества высшего образования (в рамках международных или государственных программ)",
+        "groupCODE": "108",
+        "groupNameUZ": "ТАЪЛИМ ВА СПОРТ ТАЙЁРЛОВ ХИЗМАТЛАРИ",
+        "groupNameRU": "ОБРАЗОВАТЕЛЬНЫЕ УСЛУГИ И УСЛУГИ СПОРТИВНОЙ ПОДГОТОВКИ",
+        "groupNameLAT": "TA’LIM VA SPORT TAYYoRLOV XIZMATLARI"
+      },
+      {
+        "mxikCode": "10801001001000000",
+        "nameUZ": "Мактаб таълим хизматлари",
+        "nameLAT": "Maktab talim xizmatlari",
+        "nameRU": "Услуга школьного образования",
+        "groupCODE": "108",
+        "groupNameUZ": "ТАЪЛИМ ВА СПОРТ ТАЙЁРЛОВ ХИЗМАТЛАРИ",
+        "groupNameRU": "ОБРАЗОВАТЕЛЬНЫЕ УСЛУГИ И УСЛУГИ СПОРТИВНОЙ ПОДГОТОВКИ",
+        "groupNameLAT": "TA’LIM VA SPORT TAYYoRLOV XIZMATLARI"
+      },
+      {
+        "mxikCode": "10802001001000000",
+        "nameUZ": "Енгил атлетика спорт секциялари хизматлари (спорт турлари бўйича)",
+        "nameLAT": "Yengil atletika sport seksiyalari xizmatlari (sport turlari bo’yicha)",
+        "nameRU": "Услуги спортивных секций по легкой атлетике (по видам спорта)",
+        "groupCODE": "108",
+        "groupNameUZ": "ТАЪЛИМ ВА СПОРТ ТАЙЁРЛОВ ХИЗМАТЛАРИ",
+        "groupNameRU": "ОБРАЗОВАТЕЛЬНЫЕ УСЛУГИ И УСЛУГИ СПОРТИВНОЙ ПОДГОТОВКИ",
+        "groupNameLAT": "TA’LIM VA SPORT TAYYoRLOV XIZMATLARI"
+      },
+      {
+        "mxikCode": "10899001001000000",
+        "nameUZ": "Бошқа таълим соҳасидаги хизматлар",
+        "nameLAT": "Boshqa talim sohasidagi xizmatlar",
+        "nameRU": "Прочие образовательные услуги",
+        "groupCODE": "108",
+        "groupNameUZ": "ТАЪЛИМ ВА СПОРТ ТАЙЁРЛОВ ХИЗМАТЛАРИ",
+        "groupNameRU": "ОБРАЗОВАТЕЛЬНЫЕ УСЛУГИ И УСЛУГИ СПОРТИВНОЙ ПОДГОТОВКИ",
+        "groupNameLAT": "TA’LIM VA SPORT TAYYoRLOV XIZMATLARI"
+      },
+      {
+        "mxikCode": "10802001005000000",
+        "nameUZ": "Гимнастика спорт секциялари хизматлари",
+        "nameLAT": "Gimnastika sport seksiyalari xizmatlari",
+        "nameRU": "Услуги спортивных секций по обучению Гимнастики",
+        "groupCODE": "108",
+        "groupNameUZ": "ТАЪЛИМ ВА СПОРТ ТАЙЁРЛОВ ХИЗМАТЛАРИ",
+        "groupNameRU": "ОБРАЗОВАТЕЛЬНЫЕ УСЛУГИ И УСЛУГИ СПОРТИВНОЙ ПОДГОТОВКИ",
+        "groupNameLAT": "TA’LIM VA SPORT TAYYoRLOV XIZMATLARI"
+      },
+      {
+        "mxikCode": "10899005001000000",
+        "nameUZ": "Автомактаб хизматлари",
+        "nameLAT": "Avtomaktab xizmatlari",
+        "nameRU": "Услуги автошколы",
+        "groupCODE": "108",
+        "groupNameUZ": "ТАЪЛИМ ВА СПОРТ ТАЙЁРЛОВ ХИЗМАТЛАРИ",
+        "groupNameRU": "ОБРАЗОВАТЕЛЬНЫЕ УСЛУГИ И УСЛУГИ СПОРТИВНОЙ ПОДГОТОВКИ",
+        "groupNameLAT": "TA’LIM VA SPORT TAYYoRLOV XIZMATLARI"
+      },
+      {
+        "mxikCode": "10801003001000000",
+        "nameUZ": "Олий таълим хизматлари",
+        "nameLAT": "Oliy talim xizmatlari",
+        "nameRU": "Услуги высшего образования",
+        "groupCODE": "108",
+        "groupNameUZ": "ТАЪЛИМ ВА СПОРТ ТАЙЁРЛОВ ХИЗМАТЛАРИ",
+        "groupNameRU": "ОБРАЗОВАТЕЛЬНЫЕ УСЛУГИ И УСЛУГИ СПОРТИВНОЙ ПОДГОТОВКИ",
+        "groupNameLAT": "TA’LIM VA SPORT TAYYoRLOV XIZMATLARI"
+      },
+      {
+        "mxikCode": "10802005001000001",
+        "nameUZ": "Стол тенниси спорт секциялари хизматлари бюджет ташкилотлари томонидан кўрсатилган",
+        "nameLAT": "Stol tennisi sport seksiyalari xizmatlari byudjet tashkilotlari tomonidan ko’rsatilgan",
+        "nameRU": "Услуга по обучению настольному теннису оказываемые бюджетными организациями",
+        "groupCODE": "108",
+        "groupNameUZ": "ТАЪЛИМ ВА СПОРТ ТАЙЁРЛОВ ХИЗМАТЛАРИ",
+        "groupNameRU": "ОБРАЗОВАТЕЛЬНЫЕ УСЛУГИ И УСЛУГИ СПОРТИВНОЙ ПОДГОТОВКИ",
+        "groupNameLAT": "TA’LIM VA SPORT TAYYoRLOV XIZMATLARI"
+      },
+      {
+        "mxikCode": "10802004001000001",
+        "nameUZ": "Жанг санъати ва яккакурашга тайёрлаш спорт секциялари хизматлари (спорт турлари бўйича) бюджет ташкилотлари томонидан кўрсатилган",
+        "nameLAT": "Jang sanati va yakkakurashga tayyorlash sport seksiyalari xizmatlari (sport turlari bo’yicha) byudjet tashkilotlari tomonidan ko’rsatilgan",
+        "nameRU": "Услуги спортивных секций по подготовке к боевым искусствам и единоборствам (по видам спорта) оказываемые бюджетными организациями",
+        "groupCODE": "108",
+        "groupNameUZ": "ТАЪЛИМ ВА СПОРТ ТАЙЁРЛОВ ХИЗМАТЛАРИ",
+        "groupNameRU": "ОБРАЗОВАТЕЛЬНЫЕ УСЛУГИ И УСЛУГИ СПОРТИВНОЙ ПОДГОТОВКИ",
+        "groupNameLAT": "TA’LIM VA SPORT TAYYoRLOV XIZMATLARI"
+      }
+    ],
+    "recordTotal": 25,
+    "errors": null,
+    "permitted": false
+  }
+}

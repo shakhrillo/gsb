@@ -1,0 +1,257 @@
+{
+  "metadata": {
+    "groupId": 110,
+    "fetchedAt": "2025-07-12T16:38:44.258Z",
+    "source": "https://tasnif.soliq.uz/api/cl-api/integration-mxik/references/group/code?group=110"
+  },
+  "data": {
+    "success": true,
+    "code": 200,
+    "reason": null,
+    "data": [
+      {
+        "mxikCode": "11003001005000000",
+        "nameUZ": "Боулинг марказлари хизматлари",
+        "nameLAT": "Bouling markazlari xizmatlari",
+        "nameRU": "Услуги центров боулинга",
+        "groupCODE": "110",
+        "groupNameUZ": "САНЪАТ, ИЖОДКОРЛИК, СПОРТ, ДАМ ОЛИШ ВА КЎНГИЛ ОЧИШ",
+        "groupNameRU": "ИСКУССТВО, ТВОРЧЕСТВО, СПОРТ, ОТДЫХ И РАЗВЛЕЧЕНИЯ",
+        "groupNameLAT": "SAN’AT, IJODKORLIK, SPORT, DAM OLISh VA KO’NGIL OChISh"
+      },
+      {
+        "mxikCode": "11003001006000000",
+        "nameUZ": "Бильярд заллари хизматлари",
+        "nameLAT": "Bilyard zallari xizmatlari",
+        "nameRU": "Услуги бильярдных залов",
+        "groupCODE": "110",
+        "groupNameUZ": "САНЪАТ, ИЖОДКОРЛИК, СПОРТ, ДАМ ОЛИШ ВА КЎНГИЛ ОЧИШ",
+        "groupNameRU": "ИСКУССТВО, ТВОРЧЕСТВО, СПОРТ, ОТДЫХ И РАЗВЛЕЧЕНИЯ",
+        "groupNameLAT": "SAN’AT, IJODKORLIK, SPORT, DAM OLISh VA KO’NGIL OChISh"
+      },
+      {
+        "mxikCode": "11003001004000000",
+        "nameUZ": "Болалар учун кўнгилочар майдончалар хизматлари",
+        "nameLAT": "Bolalar uchun ko’ngilochar maydonchalar xizmatlari",
+        "nameRU": "Услуги развлекательных площадок для детей",
+        "groupCODE": "110",
+        "groupNameUZ": "САНЪАТ, ИЖОДКОРЛИК, СПОРТ, ДАМ ОЛИШ ВА КЎНГИЛ ОЧИШ",
+        "groupNameRU": "ИСКУССТВО, ТВОРЧЕСТВО, СПОРТ, ОТДЫХ И РАЗВЛЕЧЕНИЯ",
+        "groupNameLAT": "SAN’AT, IJODKORLIK, SPORT, DAM OLISh VA KO’NGIL OChISh"
+      },
+      {
+        "mxikCode": "11001002001000000",
+        "nameUZ": "Актёр хизматлари",
+        "nameLAT": "Aktyor xizmatlari",
+        "nameRU": "Услуги актеров",
+        "groupCODE": "110",
+        "groupNameUZ": "САНЪАТ, ИЖОДКОРЛИК, СПОРТ, ДАМ ОЛИШ ВА КЎНГИЛ ОЧИШ",
+        "groupNameRU": "ИСКУССТВО, ТВОРЧЕСТВО, СПОРТ, ОТДЫХ И РАЗВЛЕЧЕНИЯ",
+        "groupNameLAT": "SAN’AT, IJODKORLIK, SPORT, DAM OLISh VA KO’NGIL OChISh"
+      },
+      {
+        "mxikCode": "11003001999000000",
+        "nameUZ": "Бошқа томоша-кўнгилочар, дам олиш ва кўнгилочар тадбирларини ташкил этиш хизматлари",
+        "nameLAT": "Boshqa tomosha-ko’ngilochar, dam olish va ko’ngilochar tadbirlarini tashkil etish xizmatlari",
+        "nameRU": "Услуги зрелищно-развлекательные и по организации отдыха и развлечений прочие",
+        "groupCODE": "110",
+        "groupNameUZ": "САНЪАТ, ИЖОДКОРЛИК, СПОРТ, ДАМ ОЛИШ ВА КЎНГИЛ ОЧИШ",
+        "groupNameRU": "ИСКУССТВО, ТВОРЧЕСТВО, СПОРТ, ОТДЫХ И РАЗВЛЕЧЕНИЯ",
+        "groupNameLAT": "SAN’AT, IJODKORLIK, SPORT, DAM OLISh VA KO’NGIL OChISh"
+      },
+      {
+        "mxikCode": "11099001001000000",
+        "nameUZ": "Бошқа санъат ва дам олиш хизматлар",
+        "nameLAT": "Boshqa sanat va dam olish xizmatlar",
+        "nameRU": "Прочие услуги искусство и отдых",
+        "groupCODE": "110",
+        "groupNameUZ": "САНЪАТ, ИЖОДКОРЛИК, СПОРТ, ДАМ ОЛИШ ВА КЎНГИЛ ОЧИШ",
+        "groupNameRU": "ИСКУССТВО, ТВОРЧЕСТВО, СПОРТ, ОТДЫХ И РАЗВЛЕЧЕНИЯ",
+        "groupNameLAT": "SAN’AT, IJODKORLIK, SPORT, DAM OLISh VA KO’NGIL OChISh"
+      },
+      {
+        "mxikCode": "11001002004000000",
+        "nameUZ": "Раққослар хизмати",
+        "nameLAT": "Raqqoslar xizmati",
+        "nameRU": "Услуги танцоров",
+        "groupCODE": "110",
+        "groupNameUZ": "САНЪАТ, ИЖОДКОРЛИК, СПОРТ, ДАМ ОЛИШ ВА КЎНГИЛ ОЧИШ",
+        "groupNameRU": "ИСКУССТВО, ТВОРЧЕСТВО, СПОРТ, ОТДЫХ И РАЗВЛЕЧЕНИЯ",
+        "groupNameLAT": "SAN’AT, IJODKORLIK, SPORT, DAM OLISh VA KO’NGIL OChISh"
+      },
+      {
+        "mxikCode": "11001002003000000",
+        "nameUZ": "Диктор, нотиқ хизматлари",
+        "nameLAT": "Diktor, notiq xizmatlari",
+        "nameRU": "Услуги чтецов, дикторов, ораторов",
+        "groupCODE": "110",
+        "groupNameUZ": "САНЪАТ, ИЖОДКОРЛИК, СПОРТ, ДАМ ОЛИШ ВА КЎНГИЛ ОЧИШ",
+        "groupNameRU": "ИСКУССТВО, ТВОРЧЕСТВО, СПОРТ, ОТДЫХ И РАЗВЛЕЧЕНИЯ",
+        "groupNameLAT": "SAN’AT, IJODKORLIK, SPORT, DAM OLISh VA KO’NGIL OChISh"
+      },
+      {
+        "mxikCode": "11001004001000000",
+        "nameUZ": "Концерт заллари, театрлар, опера театрлари ва бошқа маданият ва санъат муассасалари хизматлари (шу жумладан, биноларни ижарага бериш ва касса хизматлари)",
+        "nameLAT": "Konsert zallari, teatrlar, opera teatrlari va boshqa madaniyat va sanat muassasalari xizmatlari (shu jumladan, binolarni ijaraga berish va kassa xizmatlari)",
+        "nameRU": "Услуги концертных залов, театров, оперных зданий и других заведений культуры и искусства (включая услуги билетных касс и аренду помещений)",
+        "groupCODE": "110",
+        "groupNameUZ": "САНЪАТ, ИЖОДКОРЛИК, СПОРТ, ДАМ ОЛИШ ВА КЎНГИЛ ОЧИШ",
+        "groupNameRU": "ИСКУССТВО, ТВОРЧЕСТВО, СПОРТ, ОТДЫХ И РАЗВЛЕЧЕНИЯ",
+        "groupNameLAT": "SAN’AT, IJODKORLIK, SPORT, DAM OLISh VA KO’NGIL OChISh"
+      },
+      {
+        "mxikCode": "11003001001000000",
+        "nameUZ": "Спорт хордиқ чиқаришни ташкил этиш хизматлари (балиқ овлаш, пиёда юриш, дайвинг, отхона, парашютлар ва бошқалар)",
+        "nameLAT": "Sport xordiq chiqarishni tashkil etish xizmatlari (baliq ovlash, piyoda yurish, dayving, otxona, parashyutlar va boshqalar)",
+        "nameRU": "Услуги по организации спортивного досуга (рыбалка, походы, дайвинг, конюшна, парашюты и др.)",
+        "groupCODE": "110",
+        "groupNameUZ": "САНЪАТ, ИЖОДКОРЛИК, СПОРТ, ДАМ ОЛИШ ВА КЎНГИЛ ОЧИШ",
+        "groupNameRU": "ИСКУССТВО, ТВОРЧЕСТВО, СПОРТ, ОТДЫХ И РАЗВЛЕЧЕНИЯ",
+        "groupNameLAT": "SAN’AT, IJODKORLIK, SPORT, DAM OLISh VA KO’NGIL OChISh"
+      },
+      {
+        "mxikCode": "11003001002000000",
+        "nameUZ": "Кўнгилочар ва тематик парклар хизматлари (аттракционлар, каруселлар ва бошқалар)",
+        "nameLAT": "Ko’ngilochar va tematik parklar xizmatlari (attraksionlar, karusellar va boshqalar)",
+        "nameRU": "Услуги развлекательных и тематических парков (аттракционы, карусели и др.)",
+        "groupCODE": "110",
+        "groupNameUZ": "САНЪАТ, ИЖОДКОРЛИК, СПОРТ, ДАМ ОЛИШ ВА КЎНГИЛ ОЧИШ",
+        "groupNameRU": "ИСКУССТВО, ТВОРЧЕСТВО, СПОРТ, ОТДЫХ И РАЗВЛЕЧЕНИЯ",
+        "groupNameLAT": "SAN’AT, IJODKORLIK, SPORT, DAM OLISh VA KO’NGIL OChISh"
+      },
+      {
+        "mxikCode": "11001002002000000",
+        "nameUZ": "Хонанда ва мусиқачилар хизматлари",
+        "nameLAT": "Xonanda va musiqachilar xizmatlari",
+        "nameRU": "Услуги певцов и музыкантов",
+        "groupCODE": "110",
+        "groupNameUZ": "САНЪАТ, ИЖОДКОРЛИК, СПОРТ, ДАМ ОЛИШ ВА КЎНГИЛ ОЧИШ",
+        "groupNameRU": "ИСКУССТВО, ТВОРЧЕСТВО, СПОРТ, ОТДЫХ И РАЗВЛЕЧЕНИЯ",
+        "groupNameLAT": "SAN’AT, IJODKORLIK, SPORT, DAM OLISh VA KO’NGIL OChISh"
+      },
+      {
+        "mxikCode": "11003001003000000",
+        "nameUZ": "Пляж хизматлари",
+        "nameLAT": "Plyaj xizmatlari",
+        "nameRU": "Услуги пляжей",
+        "groupCODE": "110",
+        "groupNameUZ": "САНЪАТ, ИЖОДКОРЛИК, СПОРТ, ДАМ ОЛИШ ВА КЎНГИЛ ОЧИШ",
+        "groupNameRU": "ИСКУССТВО, ТВОРЧЕСТВО, СПОРТ, ОТДЫХ И РАЗВЛЕЧЕНИЯ",
+        "groupNameLAT": "SAN’AT, IJODKORLIK, SPORT, DAM OLISh VA KO’NGIL OChISh"
+      },
+      {
+        "mxikCode": "11001003002000000",
+        "nameUZ": "Журналист, блоггерлар хизматлари",
+        "nameLAT": "Jurnalist, bloggerlar xizmatlari",
+        "nameRU": "Услуги журналистов, блогеров",
+        "groupCODE": "110",
+        "groupNameUZ": "САНЪАТ, ИЖОДКОРЛИК, СПОРТ, ДАМ ОЛИШ ВА КЎНГИЛ ОЧИШ",
+        "groupNameRU": "ИСКУССТВО, ТВОРЧЕСТВО, СПОРТ, ОТДЫХ И РАЗВЛЕЧЕНИЯ",
+        "groupNameLAT": "SAN’AT, IJODKORLIK, SPORT, DAM OLISh VA KO’NGIL OChISh"
+      },
+      {
+        "mxikCode": "11001001002000000",
+        "nameUZ": "Кўнгилочар тадбирларни ташкил этиш бўйича ёрдамчи хизматлар (визажистлар, костюм дизайнерлари ва бошқалар)",
+        "nameLAT": "Ko’ngilochar tadbirlarni tashkil etish bo’yicha yordamchi xizmatlar (vizajistlar, kostyum dizaynerlari va boshqalar)",
+        "nameRU": "Вспомогательные услуги для организации зрелищных мероприятий (гримеры, художники по костюмам и т.д.)",
+        "groupCODE": "110",
+        "groupNameUZ": "САНЪАТ, ИЖОДКОРЛИК, СПОРТ, ДАМ ОЛИШ ВА КЎНГИЛ ОЧИШ",
+        "groupNameRU": "ИСКУССТВО, ТВОРЧЕСТВО, СПОРТ, ОТДЫХ И РАЗВЛЕЧЕНИЯ",
+        "groupNameLAT": "SAN’AT, IJODKORLIK, SPORT, DAM OLISh VA KO’NGIL OChISh"
+      },
+      {
+        "mxikCode": "11006001001000000",
+        "nameUZ": "Гўзаллик салони хизматлари",
+        "nameLAT": "Go’zallik saloni xizmatlari",
+        "nameRU": "Услуги салонов красоты",
+        "groupCODE": "110",
+        "groupNameUZ": "САНЪАТ, ИЖОДКОРЛИК, СПОРТ, ДАМ ОЛИШ ВА КЎНГИЛ ОЧИШ",
+        "groupNameRU": "ИСКУССТВО, ТВОРЧЕСТВО, СПОРТ, ОТДЫХ И РАЗВЛЕЧЕНИЯ",
+        "groupNameLAT": "SAN’AT, IJODKORLIK, SPORT, DAM OLISh VA KO’NGIL OChISh"
+      },
+      {
+        "mxikCode": "11002001002000000",
+        "nameUZ": "Музей хизматлари (жумладан, чипта кассалари хизматлари)",
+        "nameLAT": "Muzey xizmatlari (jumladan, chipta kassalari xizmatlari)",
+        "nameRU": "Услуги музеев (в том числе услуги билетных касс)",
+        "groupCODE": "110",
+        "groupNameUZ": "САНЪАТ, ИЖОДКОРЛИК, СПОРТ, ДАМ ОЛИШ ВА КЎНГИЛ ОЧИШ",
+        "groupNameRU": "ИСКУССТВО, ТВОРЧЕСТВО, СПОРТ, ОТДЫХ И РАЗВЛЕЧЕНИЯ",
+        "groupNameLAT": "SAN’AT, IJODKORLIK, SPORT, DAM OLISh VA KO’NGIL OChISh"
+      },
+      {
+        "mxikCode": "11002002001000000",
+        "nameUZ": "Ботаника боғлари, ҳайвонот боғлари ва қўриқхоналар хизматлари (жумладан чипта кассалари хизматлари)",
+        "nameLAT": "Botanika bog’lari, hayvonot bog’lari va qo’riqxonalar xizmatlari (jumladan chipta kassalari xizmatlari)",
+        "nameRU": "Услуги ботанических садов, зоопарков и природных заповедников  (в том числе услуги билетных касс)",
+        "groupCODE": "110",
+        "groupNameUZ": "САНЪАТ, ИЖОДКОРЛИК, СПОРТ, ДАМ ОЛИШ ВА КЎНГИЛ ОЧИШ",
+        "groupNameRU": "ИСКУССТВО, ТВОРЧЕСТВО, СПОРТ, ОТДЫХ И РАЗВЛЕЧЕНИЯ",
+        "groupNameLAT": "SAN’AT, IJODKORLIK, SPORT, DAM OLISh VA KO’NGIL OChISh"
+      },
+      {
+        "mxikCode": "11003001007000000",
+        "nameUZ": "Сув ҳавзалари, спорт заллари, теннис кортлари ва футбол майдончаларидан ташқари ёпиқ ва очиш спорт иншоот ва биноларига (спорт ареналари, заллар, конкида учиш майдонлари, голф майдончалари ва иншоотлари, стол тенниси ва бошқалар) кириш ва ижарага олиш хизматлари",
+        "nameLAT": "Suv havzalari, sport zallari, tennis kortlari va futbol maydonchalaridan tashqari yopiq va ochish sport inshoot va binolariga (sport arenalari, zallar, konkida uchish maydonlari, golf maydonchalari va inshootlari, stol tennisi va boshqalar) kirish va ijaraga olish xizmatlari",
+        "nameRU": "Услуги по доступу (в т.ч. разовый доступ) и аренде закрытых и открытых спортивных объектов и помещений (спортивные арены, залы, катки, площадки и помещения для игры в гольф, настольный теннис и др) - кроме бассейнов, тренажерных залов, теннисных кортов и футбольных полей",
+        "groupCODE": "110",
+        "groupNameUZ": "САНЪАТ, ИЖОДКОРЛИК, СПОРТ, ДАМ ОЛИШ ВА КЎНГИЛ ОЧИШ",
+        "groupNameRU": "ИСКУССТВО, ТВОРЧЕСТВО, СПОРТ, ОТДЫХ И РАЗВЛЕЧЕНИЯ",
+        "groupNameLAT": "SAN’AT, IJODKORLIK, SPORT, DAM OLISh VA KO’NGIL OChISh"
+      },
+      {
+        "mxikCode": "11001001001000000",
+        "nameUZ": "Спектакллар, концертлар ва бошқа кўнгилочар дастурларни (ижро санъати асарларини) яратиш (саҳналаштириш) ва ташкил этиш хизматлари",
+        "nameLAT": "Spektakllar, konsertlar va boshqa ko’ngilochar dasturlarni (ijro sanati asarlarini) yaratish (sahnalashtirish) va tashkil etish xizmatlari",
+        "nameRU": "Услуги по созданию (постановке) и организации показа спектаклей, концертов и иных зрелищных программ (произведений исполнительского искусства)",
+        "groupCODE": "110",
+        "groupNameUZ": "САНЪАТ, ИЖОДКОРЛИК, СПОРТ, ДАМ ОЛИШ ВА КЎНГИЛ ОЧИШ",
+        "groupNameRU": "ИСКУССТВО, ТВОРЧЕСТВО, СПОРТ, ОТДЫХ И РАЗВЛЕЧЕНИЯ",
+        "groupNameLAT": "SAN’AT, IJODKORLIK, SPORT, DAM OLISh VA KO’NGIL OChISh"
+      },
+      {
+        "mxikCode": "11001001003000000",
+        "nameUZ": "Моддий-маданий мерос объектларига кириш",
+        "nameLAT": "Moddiy-madaniy meros obyektlariga kirish",
+        "nameRU": "Вход к объектам материально-культурного наследия",
+        "groupCODE": "110",
+        "groupNameUZ": "САНЪАТ, ИЖОДКОРЛИК, СПОРТ, ДАМ ОЛИШ ВА КЎНГИЛ ОЧИШ",
+        "groupNameRU": "ИСКУССТВО, ТВОРЧЕСТВО, СПОРТ, ОТДЫХ И РАЗВЛЕЧЕНИЯ",
+        "groupNameLAT": "SAN’AT, IJODKORLIK, SPORT, DAM OLISh VA KO’NGIL OChISh"
+      },
+      {
+        "mxikCode": "11002001003000000",
+        "nameUZ": "Тарихий обидалар, бинолар ва шунга ўхшаш туристик объектлардан фойдаланиш билан боғлиқ хизматлар (жумладан чипта кассалари хизматлари)",
+        "nameLAT": "Tarixiy obidalar, binolar va shunga o’xshash turistik obyektlardan foydalanish bilan bog’liq xizmatlar (jumladan chipta kassalari xizmatlari)",
+        "nameRU": "Услуги, связанные с деятельностью по использованию исторических мест, зданий и аналогичных туристических достопримечательностей (в том числе услуги билетных касс)",
+        "groupCODE": "110",
+        "groupNameUZ": "САНЪАТ, ИЖОДКОРЛИК, СПОРТ, ДАМ ОЛИШ ВА КЎНГИЛ ОЧИШ",
+        "groupNameRU": "ИСКУССТВО, ТВОРЧЕСТВО, СПОРТ, ОТДЫХ И РАЗВЛЕЧЕНИЯ",
+        "groupNameLAT": "SAN’AT, IJODKORLIK, SPORT, DAM OLISh VA KO’NGIL OChISh"
+      },
+      {
+        "mxikCode": "11002001001000000",
+        "nameUZ": "Кутубхона ва архив хизматлари",
+        "nameLAT": "Kutubxona va arxiv xizmatlari",
+        "nameRU": "Услуга библиотек и архивов",
+        "groupCODE": "110",
+        "groupNameUZ": "САНЪАТ, ИЖОДКОРЛИК, СПОРТ, ДАМ ОЛИШ ВА КЎНГИЛ ОЧИШ",
+        "groupNameRU": "ИСКУССТВО, ТВОРЧЕСТВО, СПОРТ, ОТДЫХ И РАЗВЛЕЧЕНИЯ",
+        "groupNameLAT": "SAN’AT, IJODKORLIK, SPORT, DAM OLISh VA KO’NGIL OChISh"
+      },
+      {
+        "mxikCode": "11001003001000000",
+        "nameUZ": "Рассомлар, ёзувчилар, бастакорлар, ҳайкалтарошлар, аниматорлар, ўймакорлар ва бошқа санъаткорлар (муаллифлар) хизматлари",
+        "nameLAT": "Rassomlar, yozuvchilar, bastakorlar, haykaltaroshlar, animatorlar, o’ymakorlar va boshqa sanatkorlar (mualliflar) xizmatlari",
+        "nameRU": "Услуги художников, писателей, композиторов, скульптуров, мультипликаторов, граверов и других художников (авторов)",
+        "groupCODE": "110",
+        "groupNameUZ": "САНЪАТ, ИЖОДКОРЛИК, СПОРТ, ДАМ ОЛИШ ВА КЎНГИЛ ОЧИШ",
+        "groupNameRU": "ИСКУССТВО, ТВОРЧЕСТВО, СПОРТ, ОТДЫХ И РАЗВЛЕЧЕНИЯ",
+        "groupNameLAT": "SAN’AT, IJODKORLIK, SPORT, DAM OLISh VA KO’NGIL OChISh"
+      }
+    ],
+    "recordTotal": 24,
+    "errors": null,
+    "permitted": false
+  }
+}

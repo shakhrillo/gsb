@@ -1,0 +1,807 @@
+{
+  "metadata": {
+    "groupId": 101,
+    "fetchedAt": "2025-07-12T16:38:08.951Z",
+    "source": "https://tasnif.soliq.uz/api/cl-api/integration-mxik/references/group/code?group=101"
+  },
+  "data": {
+    "success": true,
+    "code": 200,
+    "reason": null,
+    "data": [
+      {
+        "mxikCode": "10111001001000000",
+        "nameUZ": "Божхона хизматлари (шу жумладан божхона кўригидан ўтказиш, юкларни расмийлаштириш) декларациялаш хизматларидан ташқари",
+        "nameLAT": "Bojxona xizmatlari (shu jumladan bojxona ko’rigidan o’tkazish, yuklarni rasmiylashtirish) deklaratsiyalash xizmatlaridan tashqari",
+        "nameRU": "Таможенные услуги (в том числе таможенный досмотр, оформление грузов), кроме услуг декларирования",
+        "groupCODE": "101",
+        "groupNameUZ": "ТАШИШ ВА САҚЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "ТРАНСПОРТИРОВКА И ХРАНЕНИЕ",
+        "groupNameLAT": "TAShISh VA SAQLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10199001014000000",
+        "nameUZ": "Трансфер хизматлари",
+        "nameLAT": "Transfer xizmatlari",
+        "nameRU": "Трансферные услуги",
+        "groupCODE": "101",
+        "groupNameUZ": "ТАШИШ ВА САҚЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "ТРАНСПОРТИРОВКА И ХРАНЕНИЕ",
+        "groupNameLAT": "TAShISh VA SAQLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10107001004000000",
+        "nameUZ": "Автобус, шунингдек микроавтобусда йўловчиларни ташиш хизматлари",
+        "nameLAT": "Avtobus, shuningdek mikroavtobusda yo’lovchilarni tashish xizmatlari",
+        "nameRU": "Услуги по перевозки пассажиров на автобусе, включая микроавтобусов",
+        "groupCODE": "101",
+        "groupNameUZ": "ТАШИШ ВА САҚЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "ТРАНСПОРТИРОВКА И ХРАНЕНИЕ",
+        "groupNameLAT": "TAShISh VA SAQLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10107001004000003",
+        "nameUZ": "Автобус, шунингдек микроавтобусда йўловчиларни ташиш хизматлари қатнов ташкил этиш шартномаси асосида",
+        "nameLAT": "Avtobus, shuningdek mikroavtobusda yo’lovchilarni tashish xizmatlari qatnov tashkil etish shartnomasi asosida",
+        "nameRU": "Услуги по перевозки пассажиров на автобусе, включая микроавтобусов на основании договора по организации рейса",
+        "groupCODE": "101",
+        "groupNameUZ": "ТАШИШ ВА САҚЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "ТРАНСПОРТИРОВКА И ХРАНЕНИЕ",
+        "groupNameLAT": "TAShISh VA SAQLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10106002003000000",
+        "nameUZ": "Юкларни қабул қилиш хизматлари",
+        "nameLAT": "Yuklarni qabul qilish xizmatlari",
+        "nameRU": "Услуги по приёму грузов",
+        "groupCODE": "101",
+        "groupNameUZ": "ТАШИШ ВА САҚЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "ТРАНСПОРТИРОВКА И ХРАНЕНИЕ",
+        "groupNameLAT": "TASHISH VA SAQLASH XIZMATLARI"
+      },
+      {
+        "mxikCode": "10104005001000000",
+        "nameUZ": "Чипталарни брон қилиш хизмати",
+        "nameLAT": "Chiptalarni bron qilish xizmati",
+        "nameRU": "Услуга по бронированию билетов",
+        "groupCODE": "101",
+        "groupNameUZ": "ТАШИШ ВА САҚЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "ТРАНСПОРТИРОВКА И ХРАНЕНИЕ",
+        "groupNameLAT": "TAShISh VA SAQLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10104001001000000",
+        "nameUZ": "Юк автотранспортининг терминал ҳудудига кириш/чиқиш хизмати",
+        "nameLAT": "Yuk avtotransportining terminal hududiga kirish/chiqish xizmati",
+        "nameRU": "Услуга по въезду/выезду грузового автотранспорта на территорию Терминала",
+        "groupCODE": "101",
+        "groupNameUZ": "ТАШИШ ВА САҚЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "ТРАНСПОРТИРОВКА И ХРАНЕНИЕ",
+        "groupNameLAT": "TAShISh VA SAQLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10199001003000000",
+        "nameUZ": "Юк контейнерларини тамғалаш хизмати",
+        "nameLAT": "Yuk konteynerlarini tamg’alash xizmati",
+        "nameRU": "Услуга пломбирование грузового контейнера",
+        "groupCODE": "101",
+        "groupNameUZ": "ТАШИШ ВА САҚЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "ТРАНСПОРТИРОВКА И ХРАНЕНИЕ",
+        "groupNameLAT": "TAShISh VA SAQLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10199001005000000",
+        "nameUZ": "Резервуарларни сақлаш хизмати",
+        "nameLAT": "Rezervuarlarni saqlash xizmati",
+        "nameRU": "Услуга по содержанию резервуаров",
+        "groupCODE": "101",
+        "groupNameUZ": "ТАШИШ ВА САҚЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "ТРАНСПОРТИРОВКА И ХРАНЕНИЕ",
+        "groupNameLAT": "TAShISh VA SAQLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10102002001000000",
+        "nameUZ": "Понтон кўприги орқали йўловчилар ва транспорт воситаларини ташиш хизматлари",
+        "nameLAT": "Ponton ko’prigi orqali yo’lovchilar va transport vositalarini tashish xizmatlari",
+        "nameRU": "Услуги по перевозке пассажиров и транспортных средств по понтонному мосту",
+        "groupCODE": "101",
+        "groupNameUZ": "ТАШИШ ВА САҚЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "ТРАНСПОРТИРОВКА И ХРАНЕНИЕ",
+        "groupNameLAT": "TAShISh VA SAQLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10112008001000000",
+        "nameUZ": "Транспорт-логистика хизматлари",
+        "nameLAT": "Transport-logistika xizmatlari",
+        "nameRU": "Транспортно-логистические услуги",
+        "groupCODE": "101",
+        "groupNameUZ": "ТАШИШ ВА САҚЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "ТРАНСПОРТИРОВКА И ХРАНЕНИЕ",
+        "groupNameLAT": "TAShISh VA SAQLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10108002001000000",
+        "nameUZ": "Темир йўл транспортида юкларни ташиш хизмати",
+        "nameLAT": "Temir yo’l transportida yuklarni tashish xizmati",
+        "nameRU": "Услуги по перевозке грузов железнодорожным транспортом",
+        "groupCODE": "101",
+        "groupNameUZ": "ТАШИШ ВА САҚЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "ТРАНСПОРТИРОВКА И ХРАНЕНИЕ",
+        "groupNameLAT": "TAShISh VA SAQLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10103003001000000",
+        "nameUZ": "Ҳаво транспортида юкларни ташиш хизматлари",
+        "nameLAT": "Havo transportida yuklarni tashish xizmatlari",
+        "nameRU": "Услуги по перевозке грузов воздушным транспортом",
+        "groupCODE": "101",
+        "groupNameUZ": "ТАШИШ ВА САҚЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "ТРАНСПОРТИРОВКА И ХРАНЕНИЕ",
+        "groupNameLAT": "TAShISh VA SAQLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10106002001000000",
+        "nameUZ": "Омборхона ва сақлаш хизмати",
+        "nameLAT": "Omborxona va saqlash xizmati",
+        "nameRU": "Услуги по складированию и хранению",
+        "groupCODE": "101",
+        "groupNameUZ": "ТАШИШ ВА САҚЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "ТРАНСПОРТИРОВКА И ХРАНЕНИЕ",
+        "groupNameLAT": "TAShISh VA SAQLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10199001012000000",
+        "nameUZ": "Катта ҳажмдаги юклар учун кран хизматлари",
+        "nameLAT": "Katta hajmdagi yuklar uchun kran xizmatlari",
+        "nameRU": "Крановые услуги с крупногабаритным грузом",
+        "groupCODE": "101",
+        "groupNameUZ": "ТАШИШ ВА САҚЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "ТРАНСПОРТИРОВКА И ХРАНЕНИЕ",
+        "groupNameLAT": "TAShISh VA SAQLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10107002001000000",
+        "nameUZ": "Автомобиль транспортида юкларни ташиш хизматлари",
+        "nameLAT": "Avtomobil transportida yuklarni tashish xizmatlari",
+        "nameRU": "Услуги по перевозке грузов автомобильным транспортом",
+        "groupCODE": "101",
+        "groupNameUZ": "ТАШИШ ВА САҚЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "ТРАНСПОРТИРОВКА И ХРАНЕНИЕ",
+        "groupNameLAT": "TAShISh VA SAQLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10199001011000000",
+        "nameUZ": "Автотранспорт воситаларини эвакуатсия қилиш хизматлари (эвакуатор)",
+        "nameLAT": "Avtotransport vositalarini evakuatsiya qilish xizmatlari (evakuator)",
+        "nameRU": "Услуги эвакуации транспортных средств (эвакуатор)",
+        "groupCODE": "101",
+        "groupNameUZ": "ТАШИШ ВА САҚЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "ТРАНСПОРТИРОВКА И ХРАНЕНИЕ",
+        "groupNameLAT": "TAShISh VA SAQLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10105001004000000",
+        "nameUZ": "Почта жўнатмаларига ишлов бериш",
+        "nameLAT": "Pochta jo’natmalariga ishlov berish",
+        "nameRU": "Наземная обработка почтовых отправлений",
+        "groupCODE": "101",
+        "groupNameUZ": "ТАШИШ ВА САҚЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "ТРАНСПОРТИРОВКА И ХРАНЕНИЕ",
+        "groupNameLAT": "TAShISh VA SAQLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10104003001000000",
+        "nameUZ": "Юк машиналарини тортиш",
+        "nameLAT": "Yuk mashinalarini tortish",
+        "nameRU": "Взвешивание грузового автотранспорта",
+        "groupCODE": "101",
+        "groupNameUZ": "ТАШИШ ВА САҚЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "ТРАНСПОРТИРОВКА И ХРАНЕНИЕ",
+        "groupNameLAT": "TAShISh VA SAQLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10103002001000000",
+        "nameUZ": "Ҳаво транспортида йўловчиларни ташиш хизматлари",
+        "nameLAT": "Havo transportida yo’lovchilarni tashish xizmatlari",
+        "nameRU": "Услуги по перевозке пассажиров воздушным транспортом",
+        "groupCODE": "101",
+        "groupNameUZ": "ТАШИШ ВА САҚЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "ТРАНСПОРТИРОВКА И ХРАНЕНИЕ",
+        "groupNameLAT": "TAShISh VA SAQLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10107001002000000",
+        "nameUZ": "Йўловчиларни енгил автомобиль транспортида ташиш хизматлари (йўналишсиз такси хизматлари)",
+        "nameLAT": "Yo’lovchilarni yengil avtomobil transportida tashish xizmatlari (yo’nalishsiz taksi xizmatlari)",
+        "nameRU": "Услуга перевозки пассажиров на легковом автотранспорте (услуги нелинейного такси)",
+        "groupCODE": "101",
+        "groupNameUZ": "ТАШИШ ВА САҚЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "ТРАНСПОРТИРОВКА И ХРАНЕНИЕ",
+        "groupNameLAT": "TAShISh VA SAQLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10199001013000000",
+        "nameUZ": "Юклаш ва тушириш хизмати",
+        "nameLAT": "Yuklash va tushirish xizmati",
+        "nameRU": "Погрузочно-разгрузочная услуга",
+        "groupCODE": "101",
+        "groupNameUZ": "ТАШИШ ВА САҚЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "ТРАНСПОРТИРОВКА И ХРАНЕНИЕ",
+        "groupNameLAT": "TAShISh VA SAQLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10103002001000001",
+        "nameUZ": "Ҳаво транспортида йўловчиларни ташиш хизматлари вертолётда",
+        "nameLAT": "Havo transportida yo’lovchilarni tashish xizmatlari vertolyotda",
+        "nameRU": "Услуги по перевозке пассажиров воздушным транспортом на вертолёте",
+        "groupCODE": "101",
+        "groupNameUZ": "ТАШИШ ВА САҚЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "ТРАНСПОРТИРОВКА И ХРАНЕНИЕ",
+        "groupNameLAT": "TAShISh VA SAQLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10106001001000000",
+        "nameUZ": "Юкларни саралаш, қадоқлаш ва гуруҳлаш хизматлари",
+        "nameLAT": "Yuklarni saralash, qadoqlash va guruhlash xizmatlari",
+        "nameRU": "Услуги сортировки, расфасовки и группировки грузов",
+        "groupCODE": "101",
+        "groupNameUZ": "ТАШИШ ВА САҚЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "ТРАНСПОРТИРОВКА И ХРАНЕНИЕ",
+        "groupNameLAT": "TAShISh VA SAQLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10104004002000000",
+        "nameUZ": "Маршрут масофасини аниқлаш хизмати",
+        "nameLAT": "Marshrut masofasini aniqlash xizmati",
+        "nameRU": "Услуга по определению расстояния маршрута",
+        "groupCODE": "101",
+        "groupNameUZ": "ТАШИШ ВА САҚЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "ТРАНСПОРТИРОВКА И ХРАНЕНИЕ",
+        "groupNameLAT": "TAShISh VA SAQLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10105001003000000",
+        "nameUZ": "Фельдъегерлик хизматлари",
+        "nameLAT": "Feldyegerlik xizmatlari",
+        "nameRU": "Фельдъегерские услуги",
+        "groupCODE": "101",
+        "groupNameUZ": "ТАШИШ ВА САҚЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "ТРАНСПОРТИРОВКА И ХРАНЕНИЕ",
+        "groupNameLAT": "TAShISh VA SAQLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10104004003000000",
+        "nameUZ": "Автотранспорт воситаларини рақамли такограф учун мослаштирилган карталар бериш хизмати",
+        "nameLAT": "Avtotransport vositalarini raqamli takograf uchun moslashtirilgan kartalar berish xizmati",
+        "nameRU": "Услуга по выдаче персонализированных карт для цифрового тахографа автотранспортных средств",
+        "groupCODE": "101",
+        "groupNameUZ": "ТАШИШ ВА САҚЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "ТРАНСПОРТИРОВКА И ХРАНЕНИЕ",
+        "groupNameLAT": "TAShISh VA SAQLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10106002002000000",
+        "nameUZ": "Юкларни масъулиятли сақлаш хизмати",
+        "nameLAT": "Yuklarni masuliyatli saqlash xizmati",
+        "nameRU": "Услуга ответственного хранения грузов",
+        "groupCODE": "101",
+        "groupNameUZ": "ТАШИШ ВА САҚЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "ТРАНСПОРТИРОВКА И ХРАНЕНИЕ",
+        "groupNameLAT": "TAShISh VA SAQLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10104004001000000",
+        "nameUZ": "Aвтотранспорт воситаларининг ёқилғи сарфини ҳисоблаш хизмати",
+        "nameLAT": "Avtotransport vositalarining yoqilg’i sarfini hisoblash xizmati",
+        "nameRU": "Услуги по расчету расхода топлива транспортного средства",
+        "groupCODE": "101",
+        "groupNameUZ": "ТАШИШ ВА САҚЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "ТРАНСПОРТИРОВКА И ХРАНЕНИЕ",
+        "groupNameLAT": "TAShISh VA SAQLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10102001001000000",
+        "nameUZ": "Сув транспортида юкларни ташиш хизматлари",
+        "nameLAT": "Suv transportida yuklarni tashish xizmatlari",
+        "nameRU": "Услуги по перевозке грузов водным транспортом",
+        "groupCODE": "101",
+        "groupNameUZ": "ТАШИШ ВА САҚЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "ТРАНСПОРТИРОВКА И ХРАНЕНИЕ",
+        "groupNameLAT": "TAShISh VA SAQLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10105001002000000",
+        "nameUZ": "Курьерлик хизмати",
+        "nameLAT": "Kuryerlik xizmati",
+        "nameRU": "Курьерская услуга",
+        "groupCODE": "101",
+        "groupNameUZ": "ТАШИШ ВА САҚЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "ТРАНСПОРТИРОВКА И ХРАНЕНИЕ",
+        "groupNameLAT": "TAShISh VA SAQLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10112006004000000",
+        "nameUZ": "Овқат етказиб бериш хизмати",
+        "nameLAT": "Ovqat yetkazib berish xizmati",
+        "nameRU": "Служба доставки еды",
+        "groupCODE": "101",
+        "groupNameUZ": "ТАШИШ ВА САҚЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "ТРАНСПОРТИРОВКА И ХРАНЕНИЕ",
+        "groupNameLAT": "TAShISh VA SAQLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10101001001000000",
+        "nameUZ": "Қувурлар орқали суюқ ва газсимон юкларни ташиш хизматлари",
+        "nameLAT": "Quvurlar orqali suyuq va gazsimon yuklarni tashish xizmatlari",
+        "nameRU": "Услуги по транспортировке жидких и газообразных грузов по трубопроводам",
+        "groupCODE": "101",
+        "groupNameUZ": "ТАШИШ ВА САҚЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "ТРАНСПОРТИРОВКА И ХРАНЕНИЕ",
+        "groupNameLAT": "TAShISh VA SAQLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10112007001000000",
+        "nameUZ": "Транспорт-экспедиторлик хизмати",
+        "nameLAT": "Transport-ekspeditorlik xizmati",
+        "nameRU": "Транспортно-экспедиторская услуга",
+        "groupCODE": "101",
+        "groupNameUZ": "ТАШИШ ВА САҚЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "ТРАНСПОРТИРОВКА И ХРАНЕНИЕ",
+        "groupNameLAT": "TAShISh VA SAQLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10108001001000001",
+        "nameUZ": "Йўловчиларни темир йўл транспортида ташиш хизматлари халқаро йўналишлар бўйича",
+        "nameLAT": "Yo’lovchilarni temir yo’l transportida tashish xizmatlari xalqaro yo’nalishlar bo’yicha",
+        "nameRU": "Услуги по перевозке пассажиров железнодорожным транспортом по международным направлениям",
+        "groupCODE": "101",
+        "groupNameUZ": "ТАШИШ ВА САҚЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "ТРАНСПОРТИРОВКА И ХРАНЕНИЕ",
+        "groupNameLAT": "TAShISh VA SAQLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10199001001000000",
+        "nameUZ": "Бошқа ташиш ва сақлаш хизматлари",
+        "nameLAT": "Boshqa tashish va saqlash xizmatlari",
+        "nameRU": "Прочие услуги по транспортировке и хранению",
+        "groupCODE": "101",
+        "groupNameUZ": "ТАШИШ ВА САҚЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "ТРАНСПОРТИРОВКА И ХРАНЕНИЕ",
+        "groupNameLAT": "TAShISh VA SAQLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10199001007000000",
+        "nameUZ": "Автотураргоҳ хизматлари",
+        "nameLAT": "Avtoturargoh xizmatlari",
+        "nameRU": "Услуги автостоянки",
+        "groupCODE": "101",
+        "groupNameUZ": "ТАШИШ ВА САҚЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "ТРАНСПОРТИРОВКА И ХРАНЕНИЕ",
+        "groupNameLAT": "TAShISh VA SAQLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10107001001000004",
+        "nameUZ": "Йўловчиларни жамоат транспортида ташиш хизмати метрода",
+        "nameLAT": "Yo’lovchilarni jamoat transportida tashish xizmati metroda",
+        "nameRU": "Услуга по перевозке пассажиров на общественном транспорте на метро",
+        "groupCODE": "101",
+        "groupNameUZ": "ТАШИШ ВА САҚЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "ТРАНСПОРТИРОВКА И ХРАНЕНИЕ",
+        "groupNameLAT": "TAShISh VA SAQLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10108002001000001",
+        "nameUZ": "Темир йўл транспортида юкларни ташиш хизмати маҳаллий йўналишлар бўйича",
+        "nameLAT": "Temir yo’l transportida yuklarni tashish xizmati mahalliy yo’nalishlar bo’yicha",
+        "nameRU": "Услуги по перевозке грузов железнодорожным транспортом по местным направлениям",
+        "groupCODE": "101",
+        "groupNameUZ": "ТАШИШ ВА САҚЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "ТРАНСПОРТИРОВКА И ХРАНЕНИЕ",
+        "groupNameLAT": "TAShISh VA SAQLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10108002001000003",
+        "nameUZ": "Темир йўл транспортида юкларни ташиш хизмати давлат ҳудудидан ташқаридаги божхонадан ички божхонагача",
+        "nameLAT": "Temir yo’l transportida yuklarni tashish xizmati davlat hududidan tashqaridagi bojxonadan ichki bojxonagacha",
+        "nameRU": "Услуги по перевозке грузов железнодорожным транспортом от таможни за пределами государственной территории до внутренней таможни",
+        "groupCODE": "101",
+        "groupNameUZ": "ТАШИШ ВА САҚЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "ТРАНСПОРТИРОВКА И ХРАНЕНИЕ",
+        "groupNameLAT": "TAShISh VA SAQLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10112008001000001",
+        "nameUZ": "Транспорт-логистика хизматлари халқаро йўналишлар бўйича транспортда ташиш хизматлари",
+        "nameLAT": "Transport-logistika xizmatlari xalqaro yo’nalishlar bo’yicha transportda tashish xizmatlari",
+        "nameRU": "Транспортно-логистические услуги Оказание международных транспортных перевозок",
+        "groupCODE": "101",
+        "groupNameUZ": "ТАШИШ ВА САҚЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "ТРАНСПОРТИРОВКА И ХРАНЕНИЕ",
+        "groupNameLAT": "TAShISh VA SAQLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10112006002000000",
+        "nameUZ": "Махсулотларни етказиб бериш хизмати",
+        "nameLAT": "Maxsulotlarni yetkazib berish xizmati",
+        "nameRU": "Служба доставки товаров",
+        "groupCODE": "101",
+        "groupNameUZ": "ТАШИШ ВА САҚЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "ТРАНСПОРТИРОВКА И ХРАНЕНИЕ",
+        "groupNameLAT": "TAShISh VA SAQLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10107001004000002",
+        "nameUZ": "Автобус, шунингдек микроавтобусда йўловчиларни ташиш хизматлари халқаро йўналишлар бўйича",
+        "nameLAT": "Avtobus, shuningdek mikroavtobusda yo’lovchilarni tashish xizmatlari xalqaro yo’nalishlar bo’yicha",
+        "nameRU": "Услуги по перевозки пассажиров на автобусе, включая микроавтобусов по международным направлениям",
+        "groupCODE": "101",
+        "groupNameUZ": "ТАШИШ ВА САҚЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "ТРАНСПОРТИРОВКА И ХРАНЕНИЕ",
+        "groupNameLAT": "TAShISh VA SAQLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10107002001000001",
+        "nameUZ": "Автомобиль транспортида юкларни ташиш хизматлари маҳаллий йўналишлар бўйича",
+        "nameLAT": "Avtomobil transportida yuklarni tashish xizmatlari mahalliy yo’nalishlar bo’yicha",
+        "nameRU": "Услуги по перевозке грузов автомобильным транспортом по местным направлениям",
+        "groupCODE": "101",
+        "groupNameUZ": "ТАШИШ ВА САҚЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "ТРАНСПОРТИРОВКА И ХРАНЕНИЕ",
+        "groupNameLAT": "TAShISh VA SAQLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10108002001000002",
+        "nameUZ": "Темир йўл транспортида юкларни ташиш хизмати давлат ҳудудидан ташқаридаги нуқтада",
+        "nameLAT": "Temir yo’l transportida yuklarni tashish xizmati davlat hududidan tashqaridagi nuqtada",
+        "nameRU": "Услуги по перевозке грузов железнодорожным транспортом в пункте за пределами территории государства",
+        "groupCODE": "101",
+        "groupNameUZ": "ТАШИШ ВА САҚЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "ТРАНСПОРТИРОВКА И ХРАНЕНИЕ",
+        "groupNameLAT": "TAShISh VA SAQLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10105001001000002",
+        "nameUZ": "Почта хизмати давлат ҳудудидан ташқаридаги нуқтада",
+        "nameLAT": "Pochta xizmati davlat hududidan tashqaridagi nuqtada",
+        "nameRU": "Почтовая услуга в пункте за пределами территории государства",
+        "groupCODE": "101",
+        "groupNameUZ": "ТАШИШ ВА САҚЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "ТРАНСПОРТИРОВКА И ХРАНЕНИЕ",
+        "groupNameLAT": "TAShISh VA SAQLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10102001001000003",
+        "nameUZ": "Сув транспортида юкларни ташиш хизматлари давлат ҳудудидан ташқаридаги божхонадан ички божхонагача",
+        "nameLAT": "Suv transportida yuklarni tashish xizmatlari davlat hududidan tashqaridagi bojxonadan ichki bojxonagacha",
+        "nameRU": "Услуги по перевозке грузов водным транспортом от таможни за пределами государственной территории до внутренней таможни",
+        "groupCODE": "101",
+        "groupNameUZ": "ТАШИШ ВА САҚЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "ТРАНСПОРТИРОВКА И ХРАНЕНИЕ",
+        "groupNameLAT": "TAShISh VA SAQLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10102001001000001",
+        "nameUZ": "Сув транспортида юкларни ташиш хизматлари маҳаллий йўналишлар бўйича",
+        "nameLAT": "Suv transportida yuklarni tashish xizmatlari mahalliy yo’nalishlar bo’yicha",
+        "nameRU": "Услуги по перевозке грузов водным транспортом по местным направлениям",
+        "groupCODE": "101",
+        "groupNameUZ": "ТАШИШ ВА САҚЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "ТРАНСПОРТИРОВКА И ХРАНЕНИЕ",
+        "groupNameLAT": "TAShISh VA SAQLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10103003001001002",
+        "nameUZ": "Ҳаво транспортида юкларни ташиш хизматлари на самолёте давлат ҳудудидан ташқаридаги нуқтада",
+        "nameLAT": "Havo transportida yuklarni tashish xizmatlari на самолёте davlat hududidan tashqaridagi nuqtada",
+        "nameRU": "Услуги по перевозке грузов воздушным транспортом на самолёте в пункте за пределами территории государства",
+        "groupCODE": "101",
+        "groupNameUZ": "ТАШИШ ВА САҚЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "ТРАНСПОРТИРОВКА И ХРАНЕНИЕ",
+        "groupNameLAT": "TAShISh VA SAQLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10107001001000003",
+        "nameUZ": "Йўловчиларни жамоат транспортида ташиш хизмати троллейбусда",
+        "nameLAT": "Yo’lovchilarni jamoat transportida tashish xizmati trolleybusda",
+        "nameRU": "Услуга по перевозке пассажиров на общественном транспорте на троллейбусе",
+        "groupCODE": "101",
+        "groupNameUZ": "ТАШИШ ВА САҚЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "ТРАНСПОРТИРОВКА И ХРАНЕНИЕ",
+        "groupNameLAT": "TAShISh VA SAQLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10107002001000003",
+        "nameUZ": "Автомобиль транспортида юкларни ташиш хизматлари давлат ҳудудидан ташқаридаги божхонадан ички божхонагача",
+        "nameLAT": "Avtomobil transportida yuklarni tashish xizmatlari davlat hududidan tashqaridagi bojxonadan ichki bojxonagacha",
+        "nameRU": "Услуги по перевозке грузов автомобильным транспортом от таможни за пределами государственной территории до внутренней таможни",
+        "groupCODE": "101",
+        "groupNameUZ": "ТАШИШ ВА САҚЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "ТРАНСПОРТИРОВКА И ХРАНЕНИЕ",
+        "groupNameLAT": "TAShISh VA SAQLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10103002001001002",
+        "nameUZ": "Ҳаво транспортида йўловчиларни ташиш хизматлари на самолете (авиаперевозки) маҳаллий йўналишлар бўйича",
+        "nameLAT": "Havo transportida yo’lovchilarni tashish xizmatlari на самолете (авиаперевозки) mahalliy yo’nalishlar bo’yicha",
+        "nameRU": "Услуги по перевозке пассажиров воздушным транспортом на самолете (авиаперевозки) по местным направлениям",
+        "groupCODE": "101",
+        "groupNameUZ": "ТАШИШ ВА САҚЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "ТРАНСПОРТИРОВКА И ХРАНЕНИЕ",
+        "groupNameLAT": "TAShISh VA SAQLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10103003001001003",
+        "nameUZ": "Ҳаво транспортида юкларни ташиш хизматлари на самолёте давлат ҳудудидан ташқарига экспорт қилинадиган товарлар учун",
+        "nameLAT": "Havo transportida yuklarni tashish xizmatlari на самолёте davlat hududidan tashqariga eksport qilinadigan tovarlar uchun",
+        "nameRU": "Услуги по перевозке грузов воздушным транспортом на самолёте для товаров, экспортируемые за пределы территории государства",
+        "groupCODE": "101",
+        "groupNameUZ": "ТАШИШ ВА САҚЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "ТРАНСПОРТИРОВКА И ХРАНЕНИЕ",
+        "groupNameLAT": "TAShISh VA SAQLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10103003001001001",
+        "nameUZ": "Ҳаво транспортида юкларни ташиш хизматлари на самолёте маҳаллий йўналишлар бўйича",
+        "nameLAT": "Havo transportida yuklarni tashish xizmatlari на самолёте mahalliy yo’nalishlar bo’yicha",
+        "nameRU": "Услуги по перевозке грузов воздушным транспортом на самолёте по местным направлениям",
+        "groupCODE": "101",
+        "groupNameUZ": "ТАШИШ ВА САҚЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "ТРАНСПОРТИРОВКА И ХРАНЕНИЕ",
+        "groupNameLAT": "TAShISh VA SAQLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10103002001001001",
+        "nameUZ": "Ҳаво транспортида йўловчиларни ташиш хизматлари на самолете (авиаперевозки) халқаро йўналишлар бўйича",
+        "nameLAT": "Havo transportida yo’lovchilarni tashish xizmatlari на самолете (авиаперевозки) xalqaro yo’nalishlar bo’yicha",
+        "nameRU": "Услуги по перевозке пассажиров воздушным транспортом на самолете (авиаперевозки) по международным направлениям",
+        "groupCODE": "101",
+        "groupNameUZ": "ТАШИШ ВА САҚЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "ТРАНСПОРТИРОВКА И ХРАНЕНИЕ",
+        "groupNameLAT": "TAShISh VA SAQLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10107001001000005",
+        "nameUZ": "Йўловчиларни жамоат транспортида ташиш хизмати микроавтобусда (йўналишли такси)",
+        "nameLAT": "Yo’lovchilarni jamoat transportida tashish xizmati mikroavtobusda (yo’nalishli taksi)",
+        "nameRU": "Услуга по перевозке пассажиров на общественном транспорте на маршрутке (линейное такси)",
+        "groupCODE": "101",
+        "groupNameUZ": "ТАШИШ ВА САҚЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "ТРАНСПОРТИРОВКА И ХРАНЕНИЕ",
+        "groupNameLAT": "TAShISh VA SAQLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10108002001000004",
+        "nameUZ": "Темир йўл транспортида юкларни ташиш хизмати товарларни экспорт қилишда",
+        "nameLAT": "Temir yo’l transportida yuklarni tashish xizmati tovarlarni eksport qilishda",
+        "nameRU": "Услуги по перевозке грузов железнодорожным транспортом при экспорте товаров",
+        "groupCODE": "101",
+        "groupNameUZ": "ТАШИШ ВА САҚЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "ТРАНСПОРТИРОВКА И ХРАНЕНИЕ",
+        "groupNameLAT": "TAShISh VA SAQLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10112008001000002",
+        "nameUZ": "Транспорт-логистика хизматлари маҳаллий йўналишлар бўйича транспортда ташиш хизматлари",
+        "nameLAT": "Transport-logistika xizmatlari mahalliy yo’nalishlar bo’yicha transportda tashish xizmatlari",
+        "nameRU": "Транспортно-логистические услуги Оказание внутренних транспортных перевозок",
+        "groupCODE": "101",
+        "groupNameUZ": "ТАШИШ ВА САҚЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "ТРАНСПОРТИРОВКА И ХРАНЕНИЕ",
+        "groupNameLAT": "TAShISh VA SAQLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10107002001000002",
+        "nameUZ": "Автомобиль транспортида юкларни ташиш хизматлари давлат ҳудудидан ташқаридаги нуқтада",
+        "nameLAT": "Avtomobil transportida yuklarni tashish xizmatlari davlat hududidan tashqaridagi nuqtada",
+        "nameRU": "Услуги по перевозке грузов автомобильным транспортом в пункте за пределами территории государства",
+        "groupCODE": "101",
+        "groupNameUZ": "ТАШИШ ВА САҚЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "ТРАНСПОРТИРОВКА И ХРАНЕНИЕ",
+        "groupNameLAT": "TAShISh VA SAQLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10102001001000004",
+        "nameUZ": "Сув транспортида юкларни ташиш хизматлари давлат ҳудудидан ташқарига экспорт қилинадиган товарлар учун",
+        "nameLAT": "Suv transportida yuklarni tashish xizmatlari davlat hududidan tashqariga eksport qilinadigan tovarlar uchun",
+        "nameRU": "Услуги по перевозке грузов водным транспортом для товаров, экспортируемые за пределы территории государства",
+        "groupCODE": "101",
+        "groupNameUZ": "ТАШИШ ВА САҚЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "ТРАНСПОРТИРОВКА И ХРАНЕНИЕ",
+        "groupNameLAT": "TAShISh VA SAQLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10107001001000001",
+        "nameUZ": "Йўловчиларни жамоат транспортида ташиш хизмати автобусда",
+        "nameLAT": "Yo’lovchilarni jamoat transportida tashish xizmati avtobusda",
+        "nameRU": "Услуга по перевозке пассажиров на общественном транспорте на автобусе",
+        "groupCODE": "101",
+        "groupNameUZ": "ТАШИШ ВА САҚЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "ТРАНСПОРТИРОВКА И ХРАНЕНИЕ",
+        "groupNameLAT": "TAShISh VA SAQLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10107001004000001",
+        "nameUZ": "Автобус, шунингдек микроавтобусда йўловчиларни ташиш хизматлари маҳаллий йўналишлар бўйича",
+        "nameLAT": "Avtobus, shuningdek mikroavtobusda yo’lovchilarni tashish xizmatlari mahalliy yo’nalishlar bo’yicha",
+        "nameRU": "Услуги по перевозки пассажиров на автобусе, включая микроавтобусов по местным направлениям",
+        "groupCODE": "101",
+        "groupNameUZ": "ТАШИШ ВА САҚЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "ТРАНСПОРТИРОВКА И ХРАНЕНИЕ",
+        "groupNameLAT": "TAShISh VA SAQLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10108001001000003",
+        "nameUZ": "Йўловчиларни темир йўл транспортида ташиш хизматлари маҳаллий йўналишлар бўйича",
+        "nameLAT": "Yo’lovchilarni temir yo’l transportida tashish xizmatlari mahalliy yo’nalishlar bo’yicha",
+        "nameRU": "Услуги по перевозке пассажиров железнодорожным транспортом по местным направлениям",
+        "groupCODE": "101",
+        "groupNameUZ": "ТАШИШ ВА САҚЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "ТРАНСПОРТИРОВКА И ХРАНЕНИЕ",
+        "groupNameLAT": "TAShISh VA SAQLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10109001001000000",
+        "nameUZ": "Автотранспорт воситалари ва ҳаракатланувчи таркибларни техник кўрикдан ўтказиш хизматлари (техник кўрик), ҳайдовчиларни тиббий кўрикдан ўтказиш",
+        "nameLAT": "Avtotransport vositalari va harakatlanuvchi tarkiblarni texnik ko’rikdan o’tkazish xizmatlari (texnik ko’rik), haydovchilarni tibbiy ko’rikdan o’tkazish",
+        "nameRU": "Услуги по техническому осмотру транспортных средств, подвижных составов (техосмотр),  предрейсовому медицинскому освидетельствованию водителей",
+        "groupCODE": "101",
+        "groupNameUZ": "ТАШИШ ВА САҚЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "ТРАНСПОРТИРОВКА И ХРАНЕНИЕ",
+        "groupNameLAT": "TAShISh VA SAQLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10106001002000000",
+        "nameUZ": "Юк ва почтани платформа ва терминал билан қайта ишлаш",
+        "nameLAT": "Yuk va pochtani platforma va terminal bilan qayta ishlash",
+        "nameRU": "Перронная и терминальная обработка груза и почты",
+        "groupCODE": "101",
+        "groupNameUZ": "ТАШИШ ВА САҚЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "ТРАНСПОРТИРОВКА И ХРАНЕНИЕ",
+        "groupNameLAT": "TAShISh VA SAQLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10199001004000000",
+        "nameUZ": "Контейнерларни жойлаб махкамлаш хизмати",
+        "nameLAT": "Konteynerlarni joylab maxkamlash xizmati",
+        "nameRU": "Услуга по креплению порожнего контейнера",
+        "groupCODE": "101",
+        "groupNameUZ": "ТАШИШ ВА САҚЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "ТРАНСПОРТИРОВКА И ХРАНЕНИЕ",
+        "groupNameLAT": "TAShISh VA SAQLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10107001001000000",
+        "nameUZ": "Йўловчиларни жамоат транспортида ташиш хизмати",
+        "nameLAT": "Yo’lovchilarni jamoat transportida tashish xizmati",
+        "nameRU": "Услуга по перевозке пассажиров на общественном транспорте",
+        "groupCODE": "101",
+        "groupNameUZ": "ТАШИШ ВА САҚЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "ТРАНСПОРТИРОВКА И ХРАНЕНИЕ",
+        "groupNameLAT": "TAShISh VA SAQLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10108001001000002",
+        "nameUZ": "Йўловчиларни темир йўл транспортида ташиш хизматлари шаҳар атрофидаги йўналишда",
+        "nameLAT": "Yo’lovchilarni temir yo’l transportida tashish xizmatlari shahar atrofidagi yo’nalishda",
+        "nameRU": "Услуги по перевозке пассажиров железнодорожным транспортом в пригородном сообщении",
+        "groupCODE": "101",
+        "groupNameUZ": "ТАШИШ ВА САҚЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "ТРАНСПОРТИРОВКА И ХРАНЕНИЕ",
+        "groupNameLAT": "TAShISh VA SAQLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10102001001000002",
+        "nameUZ": "Сув транспортида юкларни ташиш хизматлари давлат ҳудудидан ташқаридаги нуқтада",
+        "nameLAT": "Suv transportida yuklarni tashish xizmatlari davlat hududidan tashqaridagi nuqtada",
+        "nameRU": "Услуги по перевозке грузов водным транспортом в пункте за пределами территории государства",
+        "groupCODE": "101",
+        "groupNameUZ": "ТАШИШ ВА САҚЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "ТРАНСПОРТИРОВКА И ХРАНЕНИЕ",
+        "groupNameLAT": "TAShISh VA SAQLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10104002001000000",
+        "nameUZ": "Терминал темир йўл линиясидан фойдаланиш",
+        "nameLAT": "Terminal temir yo’l liniyasidan foydalanish",
+        "nameRU": "Использование железно дорожной ветки Терминала",
+        "groupCODE": "101",
+        "groupNameUZ": "ТАШИШ ВА САҚЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "ТРАНСПОРТИРОВКА И ХРАНЕНИЕ",
+        "groupNameLAT": "TAShISh VA SAQLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10105001001000000",
+        "nameUZ": "Почта хизмати",
+        "nameLAT": "Pochta xizmati",
+        "nameRU": "Почтовая услуга",
+        "groupCODE": "101",
+        "groupNameUZ": "ТАШИШ ВА САҚЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "ТРАНСПОРТИРОВКА И ХРАНЕНИЕ",
+        "groupNameLAT": "TAShISh VA SAQLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10105001001000001",
+        "nameUZ": "Почта хизмати давлат худудидан ташқаридаги пунктда",
+        "nameLAT": "Pochta xizmati davlat xududidan tashqaridagi punktda",
+        "nameRU": "Почтовая услуга в пункте за пределами территории государства",
+        "groupCODE": "101",
+        "groupNameUZ": "ТАШИШ ВА САҚЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "ТРАНСПОРТИРОВКА И ХРАНЕНИЕ",
+        "groupNameLAT": "TAShISh VA SAQLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10109001002000000",
+        "nameUZ": "Ҳаво транспорти воситаларини техник кўрикдан ўтказиш хизматлари",
+        "nameLAT": "Havo transporti vositalarini texnik ko’rikdan o’tkazish xizmatlari",
+        "nameRU": "Услуги по техническому осмотру воздушных транспортных средств",
+        "groupCODE": "101",
+        "groupNameUZ": "ТАШИШ ВА САҚЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "ТРАНСПОРТИРОВКА И ХРАНЕНИЕ",
+        "groupNameLAT": "TAShISh VA SAQLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10107001001000002",
+        "nameUZ": "Йўловчиларни жамоат транспортида ташиш хизмати трамвайда",
+        "nameLAT": "Yo’lovchilarni jamoat transportida tashish xizmati tramvayda",
+        "nameRU": "Услуга по перевозке пассажиров на общественном транспорте на трамвае",
+        "groupCODE": "101",
+        "groupNameUZ": "ТАШИШ ВА САҚЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "ТРАНСПОРТИРОВКА И ХРАНЕНИЕ",
+        "groupNameLAT": "TAShISh VA SAQLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10107002001000004",
+        "nameUZ": "Автомобиль транспортида юкларни ташиш хизматлари товарларни экспорт қилишда",
+        "nameLAT": "Avtomobil transportida yuklarni tashish xizmatlari tovarlarni eksport qilishda",
+        "nameRU": "Услуги по перевозке грузов автомобильным транспортом при экспорте товаров",
+        "groupCODE": "101",
+        "groupNameUZ": "ТАШИШ ВА САҚЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "ТРАНСПОРТИРОВКА И ХРАНЕНИЕ",
+        "groupNameLAT": "TAShISh VA SAQLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10101001001000001",
+        "nameUZ": "Қувурлар орқали суюқ ва газсимон юкларни ташиш хизматлари Ўзбекистон Республикаси ҳудудига етиб келиш жойидаги божхона органидан то Ўзбекистон Республикаси ҳудудидан чиқиб кетиш жойидаги божхона органигача",
+        "nameLAT": "Quvurlar orqali suyuq va gazsimon yuklarni tashish xizmatlari O’zbekiston Respublikasi hududiga yetib kelish joyidagi bojxona organidan to O’zbekiston Respublikasi hududidan chiqib ketish joyidagi bojxona organigacha",
+        "nameRU": "Услуги по транспортировке жидких и газообразных грузов по трубопроводам от таможенного органа в месте прибытия на территорию Республики Узбекистан до таможенного органа в месте убытия с территории Республики Узбекистан",
+        "groupCODE": "101",
+        "groupNameUZ": "ТАШИШ ВА САҚЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "ТРАНСПОРТИРОВКА И ХРАНЕНИЕ",
+        "groupNameLAT": "TAShISh VA SAQLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10199001015000000",
+        "nameUZ": "Автомобилни манзилга элтиш (перегон) хизмати",
+        "nameLAT": "Avtomobilni manzilga eltish (peregon) xizmati",
+        "nameRU": "Услуга по перегону автомобиля",
+        "groupCODE": "101",
+        "groupNameUZ": "ТАШИШ ВА САҚЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "ТРАНСПОРТИРОВКА И ХРАНЕНИЕ",
+        "groupNameLAT": "TASHISH VA SAQLASH XIZMATLARI"
+      },
+      {
+        "mxikCode": "10199001016000000",
+        "nameUZ": "Қабул қилиш пункти орқали буюртмаларни бериш хизматлари",
+        "nameLAT": "Qabul qilish punkti orqali buyurtmalarni berish xizmatlari",
+        "nameRU": "Услуги выдачи заказов через пункт самовывоза",
+        "groupCODE": "101",
+        "groupNameUZ": "ТАШИШ ВА САҚЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "ТРАНСПОРТИРОВКА И ХРАНЕНИЕ",
+        "groupNameLAT": "TASHISH VA SAQLASH XIZMATLARI"
+      },
+      {
+        "mxikCode": "10104003002000000",
+        "nameUZ": "Темир йўл вагонини тортиш",
+        "nameLAT": "Temir yo’l vagonini tortish",
+        "nameRU": "Взвешивание железнодорожного вагона",
+        "groupCODE": "101",
+        "groupNameUZ": "ТАШИШ ВА САҚЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "ТРАНСПОРТИРОВКА И ХРАНЕНИЕ",
+        "groupNameLAT": "TASHISH VA SAQLASH XIZMATLARI"
+      }
+    ],
+    "recordTotal": 79,
+    "errors": null,
+    "permitted": false
+  }
+}

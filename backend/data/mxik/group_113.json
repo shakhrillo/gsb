@@ -1,0 +1,617 @@
+{
+  "metadata": {
+    "groupId": 113,
+    "fetchedAt": "2025-07-12T16:38:56.317Z",
+    "source": "https://tasnif.soliq.uz/api/cl-api/integration-mxik/references/group/code?group=113"
+  },
+  "data": {
+    "success": true,
+    "code": 200,
+    "reason": null,
+    "data": [
+      {
+        "mxikCode": "11307011005000000",
+        "nameUZ": "Чодир ўлчаш ва ўрнатиш хизматлари",
+        "nameLAT": "Chodir o’lchash va o’rnatish xizmatlari",
+        "nameRU": "Услуга по обмеру и установке тента",
+        "groupCODE": "113",
+        "groupNameUZ": "ТАЪМИРЛАШ (ТИКЛАШ), ЎРНАТИШ ВА ДЕМОНТАЖ ҚИЛИШ БЎЙИЧА ХИЗМАТЛАР",
+        "groupNameRU": "УСЛУГИ ПО РЕМОНТУ (РЕСТАВРАЦИИ), МОНТАЖНЫМ И ДЕМОНТАЖНЫМ РАБОТАМ",
+        "groupNameLAT": "TA’MIRLASh (TIKLASh), O’RNATISh VA DEMONTAJ QILISh BO’YIChA XIZMATLAR"
+      },
+      {
+        "mxikCode": "11301002001000000",
+        "nameUZ": "Металл конструкциялар ва буюмларни таъмирлаш ва техник хизмат кўрсатиш хизматлари",
+        "nameLAT": "Metall konstruksiyalar va buyumlarni tamirlash va texnik xizmat ko’rsatish xizmatlari",
+        "nameRU": "Услуги по ремонту и техническому обслуживанию металлоконструкций и изделия из металла",
+        "groupCODE": "113",
+        "groupNameUZ": "ТАЪМИРЛАШ (ТИКЛАШ), ЎРНАТИШ ВА ДЕМОНТАЖ ҚИЛИШ БЎЙИЧА ХИЗМАТЛАР",
+        "groupNameRU": "УСЛУГИ ПО РЕМОНТУ (РЕСТАВРАЦИИ), МОНТАЖНЫМ И ДЕМОНТАЖНЫМ РАБОТАМ",
+        "groupNameLAT": "TA’MIRLASh (TIKLASh), O’RNATISh VA DEMONTAJ QILISh BO’YIChA XIZMATLAR"
+      },
+      {
+        "mxikCode": "11399001025000000",
+        "nameUZ": "Спорт жиҳозларини таъмирлаш хизмати",
+        "nameLAT": "Sport jihozlarini tamirlash xizmati",
+        "nameRU": "Услуга по ремонту спортивного инвентаря",
+        "groupCODE": "113",
+        "groupNameUZ": "ТАЪМИРЛАШ (ТИКЛАШ), ЎРНАТИШ ВА ДЕМОНТАЖ ҚИЛИШ БЎЙИЧА ХИЗМАТЛАР",
+        "groupNameRU": "УСЛУГИ ПО РЕМОНТУ (РЕСТАВРАЦИИ), МОНТАЖНЫМ И ДЕМОНТАЖНЫМ РАБОТАМ",
+        "groupNameLAT": "TA’MIRLASh (TIKLASh), O’RNATISh VA DEMONTAJ QILISh BO’YIChA XIZMATLAR"
+      },
+      {
+        "mxikCode": "11399001032000000",
+        "nameUZ": "Қоплаш (обшивка) хизмати (барча турдаги)",
+        "nameLAT": "Qoplash (obshivka) xizmati (barcha turdagi)",
+        "nameRU": "Услуга по обшивке (всех видов)",
+        "groupCODE": "113",
+        "groupNameUZ": "ТАЪМИРЛАШ (ТИКЛАШ), ЎРНАТИШ ВА ДЕМОНТАЖ ҚИЛИШ БЎЙИЧА ХИЗМАТЛАР",
+        "groupNameRU": "УСЛУГИ ПО РЕМОНТУ (РЕСТАВРАЦИИ), МОНТАЖНЫМ И ДЕМОНТАЖНЫМ РАБОТАМ",
+        "groupNameLAT": "TA’MIRLASh (TIKLASh), O’RNATISh VA DEMONTAJ QILISh BO’YIChA XIZMATLAR"
+      },
+      {
+        "mxikCode": "11307011002000000",
+        "nameUZ": "Иссиқлик изоляцияси хизмати",
+        "nameLAT": "Issiqlik izolyatsiyasi xizmati",
+        "nameRU": "Услуга по теплоизоляции",
+        "groupCODE": "113",
+        "groupNameUZ": "ТАЪМИРЛАШ (ТИКЛАШ), ЎРНАТИШ ВА ДЕМОНТАЖ ҚИЛИШ БЎЙИЧА ХИЗМАТЛАР",
+        "groupNameRU": "УСЛУГИ ПО РЕМОНТУ (РЕСТАВРАЦИИ), МОНТАЖНЫМ И ДЕМОНТАЖНЫМ РАБОТАМ",
+        "groupNameLAT": "TA’MIRLASh (TIKLASh), O’RNATISh VA DEMONTAJ QILISh BO’YIChA XIZMATLAR"
+      },
+      {
+        "mxikCode": "11307015002000000",
+        "nameUZ": "Видео кузатув тизимини ўрнатиш ва ишга тушириш бўйича хизмат",
+        "nameLAT": "Video kuzatuv tizimini o’rnatish va ishga tushirish bo’yicha xizmat",
+        "nameRU": "Услуги по установке и пуско-наладке системы видеонаблюдения",
+        "groupCODE": "113",
+        "groupNameUZ": "ТАЪМИРЛАШ (ТИКЛАШ), ЎРНАТИШ ВА ДЕМОНТАЖ ҚИЛИШ БЎЙИЧА ХИЗМАТЛАР",
+        "groupNameRU": "УСЛУГИ ПО РЕМОНТУ (РЕСТАВРАЦИИ), МОНТАЖНЫМ И ДЕМОНТАЖНЫМ РАБОТАМ",
+        "groupNameLAT": "TA’MIRLASh (TIKLASh), O’RNATISh VA DEMONTAJ QILISh BO’YIChA XIZMATLAR"
+      },
+      {
+        "mxikCode": "11302002001000000",
+        "nameUZ": "Юк ташиш автотпранспорт воситаларини диагностика қилиш, таъмирлаш ва техник хизмат кўрсатиш (барча турдаги хизматлар)",
+        "nameLAT": "Yuk tashish avtotpransport vositalarini diagnostika qilish, tamirlash va texnik xizmat ko’rsatish (barcha turdagi xizmatlar)",
+        "nameRU": "Услуги по диагностике, ремонту и техническому обслуживанию грузовых автотранспортных средств",
+        "groupCODE": "113",
+        "groupNameUZ": "ТАЪМИРЛАШ (ТИКЛАШ), ЎРНАТИШ ВА ДЕМОНТАЖ ҚИЛИШ БЎЙИЧА ХИЗМАТЛАР",
+        "groupNameRU": "УСЛУГИ ПО РЕМОНТУ (РЕСТАВРАЦИИ), МОНТАЖНЫМ И ДЕМОНТАЖНЫМ РАБОТАМ",
+        "groupNameLAT": "TA’MIRLASh (TIKLASh), O’RNATISh VA DEMONTAJ QILISh BO’YIChA XIZMATLAR"
+      },
+      {
+        "mxikCode": "11399001030000000",
+        "nameUZ": "Жалюзи ва бошқа уй-рўзғор буюмларини ўрнатиш хизматлари",
+        "nameLAT": "Jalyuzi va boshqa uy-ro’zg’or buyumlarini o’rnatish xizmatlari",
+        "nameRU": "Услуги по установке жалюзей и других товаров домашнего обихода",
+        "groupCODE": "113",
+        "groupNameUZ": "ТАЪМИРЛАШ (ТИКЛАШ), ЎРНАТИШ ВА ДЕМОНТАЖ ҚИЛИШ БЎЙИЧА ХИЗМАТЛАР",
+        "groupNameRU": "УСЛУГИ ПО РЕМОНТУ (РЕСТАВРАЦИИ), МОНТАЖНЫМ И ДЕМОНТАЖНЫМ РАБОТАМ",
+        "groupNameLAT": "TA’MIRLASh (TIKLASh), O’RNATISh VA DEMONTAJ QILISh BO’YIChA XIZMATLAR"
+      },
+      {
+        "mxikCode": "11302999999000000",
+        "nameUZ": "Бошқа автоустахона хизматлари",
+        "nameLAT": "Boshqa avtoustaxona xizmatlari",
+        "nameRU": "Автомастерские услуги прочие",
+        "groupCODE": "113",
+        "groupNameUZ": "ТАЪМИРЛАШ (ТИКЛАШ), ЎРНАТИШ ВА ДЕМОНТАЖ ҚИЛИШ БЎЙИЧА ХИЗМАТЛАР",
+        "groupNameRU": "УСЛУГИ ПО РЕМОНТУ (РЕСТАВРАЦИИ), МОНТАЖНЫМ И ДЕМОНТАЖНЫМ РАБОТАМ",
+        "groupNameLAT": "TA’MIRLASh (TIKLASh), O’RNATISh VA DEMONTAJ QILISh BO’YIChA XIZMATLAR"
+      },
+      {
+        "mxikCode": "11302010001000000",
+        "nameUZ": "Қишлоқ ҳўжалик техникаларини диагностика қилиш, таъмирлаш ва техник хизмат кўрсатиш бўйича хизматлар",
+        "nameLAT": "Qishloq ho’jalik texnikalarini diagnostika qilish, tamirlash va texnik xizmat ko’rsatish bo’yicha xizmatlar",
+        "nameRU": "Услуги по диагностике, ремонту и техническому обслуживанию сельскохозяйственной техники\r\n",
+        "groupCODE": "113",
+        "groupNameUZ": "ТАЪМИРЛАШ (ТИКЛАШ), ЎРНАТИШ ВА ДЕМОНТАЖ ҚИЛИШ БЎЙИЧА ХИЗМАТЛАР",
+        "groupNameRU": "УСЛУГИ ПО РЕМОНТУ (РЕСТАВРАЦИИ), МОНТАЖНЫМ И ДЕМОНТАЖНЫМ РАБОТАМ",
+        "groupNameLAT": "TA’MIRLASh (TIKLASh), O’RNATISh VA DEMONTAJ QILISh BO’YIChA XIZMATLAR"
+      },
+      {
+        "mxikCode": "11307013001000000",
+        "nameUZ": "Ҳар хил турдаги ва мақсадли транспорт воситаларида ускуналар ва мосламаларни ўрнатиш ва демонтаж бўйича хизматлар",
+        "nameLAT": "Har xil turdagi va maqsadli transport vositalarida uskunalar va moslamalarni o’rnatish va demontaj bo’yicha xizmatlar",
+        "nameRU": "Услуги по установке и демонтажу оборудования, устройств и аппаратуры на транспортных средствах всех видов и назначений",
+        "groupCODE": "113",
+        "groupNameUZ": "ТАЪМИРЛАШ (ТИКЛАШ), ЎРНАТИШ ВА ДЕМОНТАЖ ҚИЛИШ БЎЙИЧА ХИЗМАТЛАР",
+        "groupNameRU": "УСЛУГИ ПО РЕМОНТУ (РЕСТАВРАЦИИ), МОНТАЖНЫМ И ДЕМОНТАЖНЫМ РАБОТАМ",
+        "groupNameLAT": "TA’MIRLASh (TIKLASh), O’RNATISh VA DEMONTAJ QILISh BO’YIChA XIZMATLAR"
+      },
+      {
+        "mxikCode": "11303015001000000",
+        "nameUZ": "Онлайн назорат касса ва виртуал касса машиналари диагностика қилиш, таъмирлаш ва техник хизмат кўрсатиш",
+        "nameLAT": "Onlayn nazorat kassa va virtual kassa mashinalari diagnostika qilish, tamirlash va texnik xizmat ko’rsatish",
+        "nameRU": "Диагностика, ремонт и техническое обслуживание онлайн ККМ и виртуальных касс",
+        "groupCODE": "113",
+        "groupNameUZ": "ТАЪМИРЛАШ (ТИКЛАШ), ЎРНАТИШ ВА ДЕМОНТАЖ ҚИЛИШ БЎЙИЧА ХИЗМАТЛАР",
+        "groupNameRU": "УСЛУГИ ПО РЕМОНТУ (РЕСТАВРАЦИИ), МОНТАЖНЫМ И ДЕМОНТАЖНЫМ РАБОТАМ",
+        "groupNameLAT": "TA’MIRLASh (TIKLASh), O’RNATISh VA DEMONTAJ QILISh BO’YIChA XIZMATLAR"
+      },
+      {
+        "mxikCode": "11302009001000000",
+        "nameUZ": "Шахсий ҳаракатланиш воситаларини (велосипедлар, скутерлар, роликлар ва бошқалар) таъмирлаш ва техник хизмат кўрсатиш бўйича хизматлар",
+        "nameLAT": "Shaxsiy harakatlanish vositalarini (velosipedlar, skuterlar, roliklar va boshqalar) tamirlash va texnik xizmat ko’rsatish bo’yicha xizmatlar",
+        "nameRU": "Услуги по ремонту и техническому обслуживанию средств индивидуальной мобильности (велосипеды, самокаты, ролики и др.)",
+        "groupCODE": "113",
+        "groupNameUZ": "ТАЪМИРЛАШ (ТИКЛАШ), ЎРНАТИШ ВА ДЕМОНТАЖ ҚИЛИШ БЎЙИЧА ХИЗМАТЛАР",
+        "groupNameRU": "УСЛУГИ ПО РЕМОНТУ (РЕСТАВРАЦИИ), МОНТАЖНЫМ И ДЕМОНТАЖНЫМ РАБОТАМ",
+        "groupNameLAT": "TA’MIRLASh (TIKLASh), O’RNATISh VA DEMONTAJ QILISh BO’YIChA XIZMATLAR"
+      },
+      {
+        "mxikCode": "11303018001000000",
+        "nameUZ": "Мобиль қурилмаларни таъмирлаш ва техник хизмат кўрсатиш бўйича хизматлар",
+        "nameLAT": "Mobil qurilmalarni tamirlash va texnik xizmat ko’rsatish bo’yicha xizmatlar",
+        "nameRU": "Услуги по ремонту и техническому обслуживанию мобильных устройств",
+        "groupCODE": "113",
+        "groupNameUZ": "ТАЪМИРЛАШ (ТИКЛАШ), ЎРНАТИШ ВА ДЕМОНТАЖ ҚИЛИШ БЎЙИЧА ХИЗМАТЛАР",
+        "groupNameRU": "УСЛУГИ ПО РЕМОНТУ (РЕСТАВРАЦИИ), МОНТАЖНЫМ И ДЕМОНТАЖНЫМ РАБОТАМ",
+        "groupNameLAT": "TA’MIRLASh (TIKLASh), O’RNATISh VA DEMONTAJ QILISh BO’YIChA XIZMATLAR"
+      },
+      {
+        "mxikCode": "11302999006000000",
+        "nameUZ": "Моторли транспорт воситаларини тозалаш ва ювиш хизматлари (автомойка хизмати)",
+        "nameLAT": "Motorli transport vositalarini tozalash va yuvish xizmatlari (avtomoyka xizmati)",
+        "nameRU": "Услуги по чистке и мойке моторных транспортных средств (автомойка автомобилей)",
+        "groupCODE": "113",
+        "groupNameUZ": "ТАЪМИРЛАШ (ТИКЛАШ), ЎРНАТИШ ВА ДЕМОНТАЖ ҚИЛИШ БЎЙИЧА ХИЗМАТЛАР",
+        "groupNameRU": "УСЛУГИ ПО РЕМОНТУ (РЕСТАВРАЦИИ), МОНТАЖНЫМ И ДЕМОНТАЖНЫМ РАБОТАМ",
+        "groupNameLAT": "TA’MIRLASh (TIKLASh), O’RNATISh VA DEMONTAJ QILISh BO’YIChA XIZMATLAR"
+      },
+      {
+        "mxikCode": "11302999007000000",
+        "nameUZ": "Электр автомототранспорт воситаларини (электр автомобиллар ва бошқалар) қувватлаш хизматлари",
+        "nameLAT": "Elektr avtomototransport vositalarini (elektr avtomobillar va boshqalar) quvvatlash xizmatlari",
+        "nameRU": "Услуги по зарядке электрических автомототранспортных средств (электромобилей и др.)",
+        "groupCODE": "113",
+        "groupNameUZ": "ТАЪМИРЛАШ (ТИКЛАШ), ЎРНАТИШ ВА ДЕМОНТАЖ ҚИЛИШ БЎЙИЧА ХИЗМАТЛАР",
+        "groupNameRU": "УСЛУГИ ПО РЕМОНТУ (РЕСТАВРАЦИИ), МОНТАЖНЫМ И ДЕМОНТАЖНЫМ РАБОТАМ",
+        "groupNameLAT": "TA’MIRLASh (TIKLASh), O’RNATISh VA DEMONTAJ QILISh BO’YIChA XIZMATLAR"
+      },
+      {
+        "mxikCode": "11302999005000000",
+        "nameUZ": "Моторли транспорт воситаларига газ баллонларини ўрнатиш, таъмирлаш, диагностика қилиш ва техник хизмат кўрсатиш бўйича хизматлар",
+        "nameLAT": "Motorli transport vositalariga gaz ballonlarini o’rnatish, tamirlash, diagnostika qilish va texnik xizmat ko’rsatish bo’yicha xizmatlar",
+        "nameRU": "Услуги по установке, ремонту, диагностике и техобслуживанию газовых баллонов моторных автотранспортных средств",
+        "groupCODE": "113",
+        "groupNameUZ": "ТАЪМИРЛАШ (ТИКЛАШ), ЎРНАТИШ ВА ДЕМОНТАЖ ҚИЛИШ БЎЙИЧА ХИЗМАТЛАР",
+        "groupNameRU": "УСЛУГИ ПО РЕМОНТУ (РЕСТАВРАЦИИ), МОНТАЖНЫМ И ДЕМОНТАЖНЫМ РАБОТАМ",
+        "groupNameLAT": "TA’MIRLASh (TIKLASh), O’RNATISh VA DEMONTAJ QILISh BO’YIChA XIZMATLAR"
+      },
+      {
+        "mxikCode": "11307012001000000",
+        "nameUZ": "Электрон ва оптик ускуналарни ўрнатиш, демонтаж ва пуско-наладка қилиш бўйича хизматлар",
+        "nameLAT": "Elektron va optik uskunalarni o’rnatish, demontaj va pusko-naladka qilish bo’yicha xizmatlar",
+        "nameRU": "Услуги по монтажу, демонтажу и  пуско-наладке  электронного и оптического оборудования",
+        "groupCODE": "113",
+        "groupNameUZ": "ТАЪМИРЛАШ (ТИКЛАШ), ЎРНАТИШ ВА ДЕМОНТАЖ ҚИЛИШ БЎЙИЧА ХИЗМАТЛАР",
+        "groupNameRU": "УСЛУГИ ПО РЕМОНТУ (РЕСТАВРАЦИИ), МОНТАЖНЫМ И ДЕМОНТАЖНЫМ РАБОТАМ",
+        "groupNameLAT": "TA’MIRLASh (TIKLASh), O’RNATISh VA DEMONTAJ QILISh BO’YIChA XIZMATLAR"
+      },
+      {
+        "mxikCode": "11301023002000000",
+        "nameUZ": "Инструментлар таъмирлаш, диагностика қилиш, техник хизмат кўрсатиш бўйича хизматлар",
+        "nameLAT": "Instrumentlar tamirlash, diagnostika qilish, texnik xizmat ko’rsatish bo’yicha xizmatlar",
+        "nameRU": "Услуги по ремонту, диагностике и техническому обслуживанию инструментов",
+        "groupCODE": "113",
+        "groupNameUZ": "ТАЪМИРЛАШ (ТИКЛАШ), ЎРНАТИШ ВА ДЕМОНТАЖ ҚИЛИШ БЎЙИЧА ХИЗМАТЛАР",
+        "groupNameRU": "УСЛУГИ ПО РЕМОНТУ (РЕСТАВРАЦИИ), МОНТАЖНЫМ И ДЕМОНТАЖНЫМ РАБОТАМ",
+        "groupNameLAT": "TA’MIRLASh (TIKLASh), O’RNATISh VA DEMONTAJ QILISh BO’YIChA XIZMATLAR"
+      },
+      {
+        "mxikCode": "11399001009000000",
+        "nameUZ": "Ўзиюрар йўловчи зинапояларини таъмирлаш бўйича хизматлар",
+        "nameLAT": "O’ziyurar yo’lovchi zinapoyalarini tamirlash bo’yicha xizmatlar",
+        "nameRU": "Услуги по ремонту самоходных пассажирских трапов",
+        "groupCODE": "113",
+        "groupNameUZ": "ТАЪМИРЛАШ (ТИКЛАШ), ЎРНАТИШ ВА ДЕМОНТАЖ ҚИЛИШ БЎЙИЧА ХИЗМАТЛАР",
+        "groupNameRU": "УСЛУГИ ПО РЕМОНТУ (РЕСТАВРАЦИИ), МОНТАЖНЫМ И ДЕМОНТАЖНЫМ РАБОТАМ",
+        "groupNameLAT": "TA’MIRLASh (TIKLASh), O’RNATISh VA DEMONTAJ QILISh BO’YIChA XIZMATLAR"
+      },
+      {
+        "mxikCode": "11301023003000000",
+        "nameUZ": "Аппаратлар таъмирлаш, диагностика қилиш, техник хизмат кўрсатиш бўйича хизматлар",
+        "nameLAT": "Apparatlar tamirlash, diagnostika qilish, texnik xizmat ko’rsatish bo’yicha xizmatlar",
+        "nameRU": "Услуги по ремонту, диагностике и техническому обслуживанию аппаратов",
+        "groupCODE": "113",
+        "groupNameUZ": "ТАЪМИРЛАШ (ТИКЛАШ), ЎРНАТИШ ВА ДЕМОНТАЖ ҚИЛИШ БЎЙИЧА ХИЗМАТЛАР",
+        "groupNameRU": "УСЛУГИ ПО РЕМОНТУ (РЕСТАВРАЦИИ), МОНТАЖНЫМ И ДЕМОНТАЖНЫМ РАБОТАМ",
+        "groupNameLAT": "TA’MIRLASh (TIKLASh), O’RNATISh VA DEMONTAJ QILISh BO’YIChA XIZMATLAR"
+      },
+      {
+        "mxikCode": "11302001001000000",
+        "nameUZ": "Енгил автомобил ва мотоциклларни диагностика қилиш, таъмирлаш ва техник хизмат кўрсатиш (барча турдаги хизматлар)",
+        "nameLAT": "Yengil avtomobil va mototsikllarni diagnostika qilish, tamirlash va texnik xizmat ko’rsatish (barcha turdagi xizmatlar)",
+        "nameRU": "Услуги по диагностике, ремонту и техническому обслуживанию легковых автомобилей и мотоциклов (все виды услуг)",
+        "groupCODE": "113",
+        "groupNameUZ": "ТАЪМИРЛАШ (ТИКЛАШ), ЎРНАТИШ ВА ДЕМОНТАЖ ҚИЛИШ БЎЙИЧА ХИЗМАТЛАР",
+        "groupNameRU": "УСЛУГИ ПО РЕМОНТУ (РЕСТАВРАЦИИ), МОНТАЖНЫМ И ДЕМОНТАЖНЫМ РАБОТАМ",
+        "groupNameLAT": "TA’MIRLASh (TIKLASh), O’RNATISh VA DEMONTAJ QILISh BO’YIChA XIZMATLAR"
+      },
+      {
+        "mxikCode": "11307011001000000",
+        "nameUZ": "Қурилиш-монтаж ишлари",
+        "nameLAT": "Qurilish-montaj ishlari",
+        "nameRU": "Строительно-монтажные работы",
+        "groupCODE": "113",
+        "groupNameUZ": "ТАЪМИРЛАШ (ТИКЛАШ), ЎРНАТИШ ВА ДЕМОНТАЖ ҚИЛИШ БЎЙИЧА ХИЗМАТЛАР",
+        "groupNameRU": "УСЛУГИ ПО РЕМОНТУ (РЕСТАВРАЦИИ), МОНТАЖНЫМ И ДЕМОНТАЖНЫМ РАБОТАМ",
+        "groupNameLAT": "TA’MIRLASh (TIKLASh), O’RNATISh VA DEMONTAJ QILISh BO’YIChA XIZMATLAR"
+      },
+      {
+        "mxikCode": "11301003001000000",
+        "nameUZ": "Умумий (универсал) ва махсус мақсадлар учун машина ва ускуналар (уларнинг қисмлари)ни диагностика қилиш, таъмирлаш ва техник хизматлар кўрсатиш, маиший, электр жиҳозлари (қурилмалар), ёнғинга қарши ускуналар (тизимлар), газ ва иситиш ускуналари бундан ташқари",
+        "nameLAT": "Umumiy (universal) va maxsus maqsadlar uchun mashina va uskunalar (ularning qismlari)ni diagnostika qilish, tamirlash va texnik xizmatlar ko’rsatish, maishiy, elektr jihozlari (qurilmalar), yong’inga qarshi uskunalar (tizimlar), gaz va isitish uskunalari bundan tashqari",
+        "nameRU": "Услуги по диагностике, ремонту и техническому обслуживанию машин и оборудования (их частей) общего (универсального) и специального назначения, кроме бытовых, электрооборудования (установок), противожарного оборудования (систем), газового и отопительного оборудования",
+        "groupCODE": "113",
+        "groupNameUZ": "ТАЪМИРЛАШ (ТИКЛАШ), ЎРНАТИШ ВА ДЕМОНТАЖ ҚИЛИШ БЎЙИЧА ХИЗМАТЛАР",
+        "groupNameRU": "УСЛУГИ ПО РЕМОНТУ (РЕСТАВРАЦИИ), МОНТАЖНЫМ И ДЕМОНТАЖНЫМ РАБОТАМ",
+        "groupNameLAT": "TA’MIRLASh (TIKLASh), O’RNATISh VA DEMONTAJ QILISh BO’YIChA XIZMATLAR"
+      },
+      {
+        "mxikCode": "11301023005000000",
+        "nameUZ": "Тизимларни таъмирлаш, диагностика қилиш, техник хизмат кўрсатиш бўйича хизматлар",
+        "nameLAT": "Tizimlarni tamirlash, diagnostika qilish, texnik xizmat ko’rsatish bo’yicha xizmatlar",
+        "nameRU": "Услуги по ремонту, диагностике и техническому обслуживанию систем",
+        "groupCODE": "113",
+        "groupNameUZ": "ТАЪМИРЛАШ (ТИКЛАШ), ЎРНАТИШ ВА ДЕМОНТАЖ ҚИЛИШ БЎЙИЧА ХИЗМАТЛАР",
+        "groupNameRU": "УСЛУГИ ПО РЕМОНТУ (РЕСТАВРАЦИИ), МОНТАЖНЫМ И ДЕМОНТАЖНЫМ РАБОТАМ",
+        "groupNameLAT": "TA’MIRLASh (TIKLASh), O’RNATISh VA DEMONTAJ QILISh BO’YIChA XIZMATLAR"
+      },
+      {
+        "mxikCode": "11301023004000000",
+        "nameUZ": "Қурилмаларни таъмирлаш, диагностика қилиш, техник хизмат кўрсатиш бўйича хизматлар",
+        "nameLAT": "Qurilmalarni tamirlash, diagnostika qilish, texnik xizmat ko’rsatish bo’yicha xizmatlar",
+        "nameRU": "Услуги по ремонту, диагностике и техническому обслуживанию устройств",
+        "groupCODE": "113",
+        "groupNameUZ": "ТАЪМИРЛАШ (ТИКЛАШ), ЎРНАТИШ ВА ДЕМОНТАЖ ҚИЛИШ БЎЙИЧА ХИЗМАТЛАР",
+        "groupNameRU": "УСЛУГИ ПО РЕМОНТУ (РЕСТАВРАЦИИ), МОНТАЖНЫМ И ДЕМОНТАЖНЫМ РАБОТАМ",
+        "groupNameLAT": "TA’MIRLASh (TIKLASh), O’RNATISh VA DEMONTAJ QILISh BO’YIChA XIZMATLAR"
+      },
+      {
+        "mxikCode": "11307016001000000",
+        "nameUZ": "Маиший техника, аппаратуралар, приборлар ва бошқа ускуналарни ўрнатиш, мотаж ва демонтаж қилиш хизматлари",
+        "nameLAT": "Maishiy texnika, apparaturalar, priborlar va boshqa uskunalarni o’rnatish, motaj va demontaj qilish xizmatlari",
+        "nameRU": "Услуги по установке, монтажу и демонтажу бытовой техники, аппаратуры, приборов и других устройств",
+        "groupCODE": "113",
+        "groupNameUZ": "ТАЪМИРЛАШ (ТИКЛАШ), ЎРНАТИШ ВА ДЕМОНТАЖ ҚИЛИШ БЎЙИЧА ХИЗМАТЛАР",
+        "groupNameRU": "УСЛУГИ ПО РЕМОНТУ (РЕСТАВРАЦИИ), МОНТАЖНЫМ И ДЕМОНТАЖНЫМ РАБОТАМ",
+        "groupNameLAT": "TA’MIRLASh (TIKLASh), O’RNATISh VA DEMONTAJ QILISh BO’YIChA XIZMATLAR"
+      },
+      {
+        "mxikCode": "11307006001000000",
+        "nameUZ": "Машина ва ускуналардан ташқари, металл буюмларни ўрнатиш ва демонтаж қилиш бўйича хизматлар",
+        "nameLAT": "Mashina va uskunalardan tashqari, metall buyumlarni o’rnatish va demontaj qilish bo’yicha xizmatlar",
+        "nameRU": "Услуги по монтажу и демонтажу металлоизделий, кроме машин и оборудования",
+        "groupCODE": "113",
+        "groupNameUZ": "ТАЪМИРЛАШ (ТИКЛАШ), ЎРНАТИШ ВА ДЕМОНТАЖ ҚИЛИШ БЎЙИЧА ХИЗМАТЛАР",
+        "groupNameRU": "УСЛУГИ ПО РЕМОНТУ (РЕСТАВРАЦИИ), МОНТАЖНЫМ И ДЕМОНТАЖНЫМ РАБОТАМ",
+        "groupNameLAT": "TA’MIRLASh (TIKLASh), O’RNATISh VA DEMONTAJ QILISh BO’YIChA XIZMATLAR"
+      },
+      {
+        "mxikCode": "11399001019000000",
+        "nameUZ": "Локал тармоқни созлаш бўйича хизматлар",
+        "nameLAT": "Lokal tarmoqni sozlash bo’yicha xizmatlar",
+        "nameRU": "Услуги по настройке локальной сети",
+        "groupCODE": "113",
+        "groupNameUZ": "ТАЪМИРЛАШ (ТИКЛАШ), ЎРНАТИШ ВА ДЕМОНТАЖ ҚИЛИШ БЎЙИЧА ХИЗМАТЛАР",
+        "groupNameRU": "УСЛУГИ ПО РЕМОНТУ (РЕСТАВРАЦИИ), МОНТАЖНЫМ И ДЕМОНТАЖНЫМ РАБОТАМ",
+        "groupNameLAT": "TA’MIRLASh (TIKLASh), O’RNATISh VA DEMONTAJ QILISh BO’YIChA XIZMATLAR"
+      },
+      {
+        "mxikCode": "11399001023000000",
+        "nameUZ": "Авариявий-тиклаш ишлари",
+        "nameLAT": "Avariyaviy-tiklash ishlari",
+        "nameRU": "Аварийно-восстановительные работы",
+        "groupCODE": "113",
+        "groupNameUZ": "ТАЪМИРЛАШ (ТИКЛАШ), ЎРНАТИШ ВА ДЕМОНТАЖ ҚИЛИШ БЎЙИЧА ХИЗМАТЛАР",
+        "groupNameRU": "УСЛУГИ ПО РЕМОНТУ (РЕСТАВРАЦИИ), МОНТАЖНЫМ И ДЕМОНТАЖНЫМ РАБОТАМ",
+        "groupNameLAT": "TA’MIRLASh (TIKLASh), O’RNATISh VA DEMONTAJ QILISh BO’YIChA XIZMATLAR"
+      },
+      {
+        "mxikCode": "11307004001000000",
+        "nameUZ": "Электр жиҳозлари ва ёнғинга қарши ускуналарни ўрнатиш ва демонтаж қилиш хизматлари",
+        "nameLAT": "Elektr jihozlari va yong’inga qarshi uskunalarni o’rnatish va demontaj qilish xizmatlari",
+        "nameRU": "Услуги по монтажу и демонтажу электрического и противопожарного оборудования",
+        "groupCODE": "113",
+        "groupNameUZ": "ТАЪМИРЛАШ (ТИКЛАШ), ЎРНАТИШ ВА ДЕМОНТАЖ ҚИЛИШ БЎЙИЧА ХИЗМАТЛАР",
+        "groupNameRU": "УСЛУГИ ПО РЕМОНТУ (РЕСТАВРАЦИИ), МОНТАЖНЫМ И ДЕМОНТАЖНЫМ РАБОТАМ",
+        "groupNameLAT": "TA’MIRLASh (TIKLASh), O’RNATISh VA DEMONTAJ QILISh BO’YIChA XIZMATLAR"
+      },
+      {
+        "mxikCode": "11307013002000000",
+        "nameUZ": "Газ балонларни синовдан ўтказиш хизмати",
+        "nameLAT": "Gaz balonlarni sinovdan o’tkazish xizmati",
+        "nameRU": "Услуга испытание (проверка) газовых баллонов",
+        "groupCODE": "113",
+        "groupNameUZ": "ТАЪМИРЛАШ (ТИКЛАШ), ЎРНАТИШ ВА ДЕМОНТАЖ ҚИЛИШ БЎЙИЧА ХИЗМАТЛАР",
+        "groupNameRU": "УСЛУГИ ПО РЕМОНТУ (РЕСТАВРАЦИИ), МОНТАЖНЫМ И ДЕМОНТАЖНЫМ РАБОТАМ",
+        "groupNameLAT": "TA’MIRLASh (TIKLASh), O’RNATISh VA DEMONTAJ QILISh BO’YIChA XIZMATLAR"
+      },
+      {
+        "mxikCode": "11307010007000000",
+        "nameUZ": "Ҳисоблагичларни диагностика қилиш, таъмирлаш ва техник хизмат кўрсатиш",
+        "nameLAT": "Hisoblagichlarni diagnostika qilish, tamirlash va texnik xizmat ko’rsatish",
+        "nameRU": "Услуги по диагностики, ремонту и техническому обслуживанию приборов учета",
+        "groupCODE": "113",
+        "groupNameUZ": "ТАЪМИРЛАШ (ТИКЛАШ), ЎРНАТИШ ВА ДЕМОНТАЖ ҚИЛИШ БЎЙИЧА ХИЗМАТЛАР",
+        "groupNameRU": "УСЛУГИ ПО РЕМОНТУ (РЕСТАВРАЦИИ), МОНТАЖНЫМ И ДЕМОНТАЖНЫМ РАБОТАМ",
+        "groupNameLAT": "TA’MIRLASh (TIKLASh), O’RNATISh VA DEMONTAJ QILISh BO’YIChA XIZMATLAR"
+      },
+      {
+        "mxikCode": "11301006001000000",
+        "nameUZ": "Электр энергиясини ишлаб чиқариш, тақсимлаш, узатиш ва истеъмол қилиш учун мўлжалланган электр асбоб-ускуналари ва қурилмаларини (уларнинг қисмларини) таъмирлаш, диагностика қилиш ва уларга техник хизмат кўрсатиш бўйича хизматлар (маиший асбоб-ускуналардан ташқари)",
+        "nameLAT": "Elektr energiyasini ishlab chiqarish, taqsimlash, uzatish va istemol qilish uchun mo’ljallangan elektr asbob-uskunalari va qurilmalarini (ularning qismlarini) tamirlash, diagnostika qilish va ularga texnik xizmat ko’rsatish bo’yicha xizmatlar (maishiy asbob-uskunalardan tashqari)",
+        "nameRU": "Услуги по ремонту, диагностике и техническому обслуживанию электрического оборудования и установок (их частей), предназначенных для производства, распределения, передачи и потребления электроэнергии (кроме бытовых)",
+        "groupCODE": "113",
+        "groupNameUZ": "ТАЪМИРЛАШ (ТИКЛАШ), ЎРНАТИШ ВА ДЕМОНТАЖ ҚИЛИШ БЎЙИЧА ХИЗМАТЛАР",
+        "groupNameRU": "УСЛУГИ ПО РЕМОНТУ (РЕСТАВРАЦИИ), МОНТАЖНЫМ И ДЕМОНТАЖНЫМ РАБОТАМ",
+        "groupNameLAT": "TA’MIRLASh (TIKLASh), O’RNATISh VA DEMONTAJ QILISh BO’YIChA XIZMATLAR"
+      },
+      {
+        "mxikCode": "11302999001000000",
+        "nameUZ": "Автомобиль мотори ва бошқа агрегатларининг мойини ва бошқа автомобиль суюқликларини алмаштириш бўйича хизматлар",
+        "nameLAT": "Avtomobil motori va boshqa agregatlarining moyini va boshqa avtomobil suyuqliklarini almashtirish bo’yicha xizmatlar",
+        "nameRU": "Услуга по замене масла и других автожидкостей в двигателях и прочих агрегатах автомобилей",
+        "groupCODE": "113",
+        "groupNameUZ": "ТАЪМИРЛАШ (ТИКЛАШ), ЎРНАТИШ ВА ДЕМОНТАЖ ҚИЛИШ БЎЙИЧА ХИЗМАТЛАР",
+        "groupNameRU": "УСЛУГИ ПО РЕМОНТУ (РЕСТАВРАЦИИ), МОНТАЖНЫМ И ДЕМОНТАЖНЫМ РАБОТАМ",
+        "groupNameLAT": "TA’MIRLASh (TIKLASh), O’RNATISh VA DEMONTAJ QILISh BO’YIChA XIZMATLAR"
+      },
+      {
+        "mxikCode": "11307002001000000",
+        "nameUZ": "Умумий (универсал) ва махсус мақсадларга йўналтирилган ускуналарни ўрнатиш ва демонтаж қилиш бўйича хизматлар",
+        "nameLAT": "Umumiy (universal) va maxsus maqsadlarga yo’naltirilgan uskunalarni o’rnatish va demontaj qilish bo’yicha xizmatlar",
+        "nameRU": "Услуги по монтажу и демонтажу оборудования общего (универсального) и специального назначения",
+        "groupCODE": "113",
+        "groupNameUZ": "ТАЪМИРЛАШ (ТИКЛАШ), ЎРНАТИШ ВА ДЕМОНТАЖ ҚИЛИШ БЎЙИЧА ХИЗМАТЛАР",
+        "groupNameRU": "УСЛУГИ ПО РЕМОНТУ (РЕСТАВРАЦИИ), МОНТАЖНЫМ И ДЕМОНТАЖНЫМ РАБОТАМ",
+        "groupNameLAT": "TA’MIRLASh (TIKLASh), O’RNATISh VA DEMONTAJ QILISh BO’YIChA XIZMATLAR"
+      },
+      {
+        "mxikCode": "11399001026000000",
+        "nameUZ": "Ҳайкалтарошлик маҳсулотларини ясаш ва ўрнатиш хизматлари",
+        "nameLAT": "Haykaltaroshlik mahsulotlarini yasash va o’rnatish xizmatlari",
+        "nameRU": "Услуги по изготовлению и установке скульптурного изделия",
+        "groupCODE": "113",
+        "groupNameUZ": "ТАЪМИРЛАШ (ТИКЛАШ), ЎРНАТИШ ВА ДЕМОНТАЖ ҚИЛИШ БЎЙИЧА ХИЗМАТЛАР",
+        "groupNameRU": "УСЛУГИ ПО РЕМОНТУ (РЕСТАВРАЦИИ), МОНТАЖНЫМ И ДЕМОНТАЖНЫМ РАБОТАМ",
+        "groupNameLAT": "TA’MIRLASh (TIKLASh), O’RNATISh VA DEMONTAJ QILISh BO’YIChA XIZMATLAR"
+      },
+      {
+        "mxikCode": "11307011003000000",
+        "nameUZ": "Гидроизоляция ишлари бўйича хизмат",
+        "nameLAT": "Gidroizolyatsiya ishlari bo’yicha xizmat",
+        "nameRU": "Услуга по гидроизоляционным работам",
+        "groupCODE": "113",
+        "groupNameUZ": "ТАЪМИРЛАШ (ТИКЛАШ), ЎРНАТИШ ВА ДЕМОНТАЖ ҚИЛИШ БЎЙИЧА ХИЗМАТЛАР",
+        "groupNameRU": "УСЛУГИ ПО РЕМОНТУ (РЕСТАВРАЦИИ), МОНТАЖНЫМ И ДЕМОНТАЖНЫМ РАБОТАМ",
+        "groupNameLAT": "TA’MIRLASh (TIKLASh), O’RNATISh VA DEMONTAJ QILISh BO’YIChA XIZMATLAR"
+      },
+      {
+        "mxikCode": "11307010005000000",
+        "nameUZ": "Насос ускуналарини ўрнатиш, демонтаж қилиш, ўрнатиш ва ишга тушириш бўйича хизмат кўрсатиш",
+        "nameLAT": "Nasos uskunalarini o’rnatish, demontaj qilish, o’rnatish va ishga tushirish bo’yicha xizmat ko’rsatish",
+        "nameRU": "Услуги по монтажу, демонтажу, установке и пуско-наладке насосного оборудования",
+        "groupCODE": "113",
+        "groupNameUZ": "ТАЪМИРЛАШ (ТИКЛАШ), ЎРНАТИШ ВА ДЕМОНТАЖ ҚИЛИШ БЎЙИЧА ХИЗМАТЛАР",
+        "groupNameRU": "УСЛУГИ ПО РЕМОНТУ (РЕСТАВРАЦИИ), МОНТАЖНЫМ И ДЕМОНТАЖНЫМ РАБОТАМ",
+        "groupNameLAT": "TA’MIRLASh (TIKLASh), O’RNATISh VA DEMONTAJ QILISh BO’YIChA XIZMATLAR"
+      },
+      {
+        "mxikCode": "11307010002000000",
+        "nameUZ": "Ҳисоблагичларни ўрнатиш, демонтаж қилиш, ўрнатиш ва ишга тушириш хизмати",
+        "nameLAT": "Hisoblagichlarni o’rnatish, demontaj qilish, o’rnatish va ishga tushirish xizmati",
+        "nameRU": "Услуга по монтажу, демонтажу, установке и пуско-наладке счетчиков",
+        "groupCODE": "113",
+        "groupNameUZ": "ТАЪМИРЛАШ (ТИКЛАШ), ЎРНАТИШ ВА ДЕМОНТАЖ ҚИЛИШ БЎЙИЧА ХИЗМАТЛАР",
+        "groupNameRU": "УСЛУГИ ПО РЕМОНТУ (РЕСТАВРАЦИИ), МОНТАЖНЫМ И ДЕМОНТАЖНЫМ РАБОТАМ",
+        "groupNameLAT": "TA’MIRLASh (TIKLASh), O’RNATISh VA DEMONTAJ QILISh BO’YIChA XIZMATLAR"
+      },
+      {
+        "mxikCode": "11307015001000000",
+        "nameUZ": "Aлоқа ускуналарини, аппаратлари ва мосламаларини ўрнатиш ва демонтаж қилиш бўйича хизматлар",
+        "nameLAT": "Aloqa uskunalarini, apparatlari va moslamalarini o’rnatish va demontaj qilish bo’yicha xizmatlar",
+        "nameRU": "Услуги по монтажу и демонтажу коммуникационного оборудования, аппаратов и устройств",
+        "groupCODE": "113",
+        "groupNameUZ": "ТАЪМИРЛАШ (ТИКЛАШ), ЎРНАТИШ ВА ДЕМОНТАЖ ҚИЛИШ БЎЙИЧА ХИЗМАТЛАР",
+        "groupNameRU": "УСЛУГИ ПО РЕМОНТУ (РЕСТАВРАЦИИ), МОНТАЖНЫМ И ДЕМОНТАЖНЫМ РАБОТАМ",
+        "groupNameLAT": "TA’MIRLASh (TIKLASh), O’RNATISh VA DEMONTAJ QILISh BO’YIChA XIZMATLAR"
+      },
+      {
+        "mxikCode": "11302004001000000",
+        "nameUZ": "Қишлоқ хўжалиги техникаларидан ташқари, махсус ускуналарни, диагностика қилиш, таъмирлаш ва техник хизмат кўрсатиш хизматлари (барча турдаги хизматлар)",
+        "nameLAT": "Qishloq xo’jaligi texnikalaridan tashqari, maxsus uskunalarni, diagnostika qilish, tamirlash va texnik xizmat ko’rsatish xizmatlari (barcha turdagi xizmatlar)",
+        "nameRU": "Услуги по диагностике, ремонту и техническому обслуживанию спецтехники, кроме сельхозтехники (все виды услуг)",
+        "groupCODE": "113",
+        "groupNameUZ": "ТАЪМИРЛАШ (ТИКЛАШ), ЎРНАТИШ ВА ДЕМОНТАЖ ҚИЛИШ БЎЙИЧА ХИЗМАТЛАР",
+        "groupNameRU": "УСЛУГИ ПО РЕМОНТУ (РЕСТАВРАЦИИ), МОНТАЖНЫМ И ДЕМОНТАЖНЫМ РАБОТАМ",
+        "groupNameLAT": "TA’MIRLASh (TIKLASh), O’RNATISh VA DEMONTAJ QILISh BO’YIChA XIZMATLAR"
+      },
+      {
+        "mxikCode": "11307015003000000",
+        "nameUZ": "Видеокрнференция тизимини ўрнатиш ва ишга тушуриш хизмати",
+        "nameLAT": "Videokrnferensiya tizimini o’rnatish va ishga tushurish xizmati",
+        "nameRU": "Услуги по установке и пуско-наладке системы видеоконференцсвязи",
+        "groupCODE": "113",
+        "groupNameUZ": "ТАЪМИРЛАШ (ТИКЛАШ), ЎРНАТИШ ВА ДЕМОНТАЖ ҚИЛИШ БЎЙИЧА ХИЗМАТЛАР",
+        "groupNameRU": "УСЛУГИ ПО РЕМОНТУ (РЕСТАВРАЦИИ), МОНТАЖНЫМ И ДЕМОНТАЖНЫМ РАБОТАМ",
+        "groupNameLAT": "TA’MIRLASh (TIKLASh), O’RNATISh VA DEMONTAJ QILISh BO’YIChA XIZMATLAR"
+      },
+      {
+        "mxikCode": "11307010006000000",
+        "nameUZ": "Томчилатиб ва ёмғирлатиб суғориш тизимларини монтаж қилиш",
+        "nameLAT": "Tomchilatib va yomg’irlatib sug’orish tizimlarini montaj qilish",
+        "nameRU": "Монтаж систем капельного и дождевального орошения",
+        "groupCODE": "113",
+        "groupNameUZ": "ТАЪМИРЛАШ (ТИКЛАШ), ЎРНАТИШ ВА ДЕМОНТАЖ ҚИЛИШ БЎЙИЧА ХИЗМАТЛАР",
+        "groupNameRU": "УСЛУГИ ПО РЕМОНТУ (РЕСТАВРАЦИИ), МОНТАЖНЫМ И ДЕМОНТАЖНЫМ РАБОТАМ",
+        "groupNameLAT": "TA’MIRLASh (TIKLASh), O’RNATISh VA DEMONTAJ QILISh BO’YIChA XIZMATLAR"
+      },
+      {
+        "mxikCode": "11303004001000000",
+        "nameUZ": "Маиший приборлар, аппаратуралар, электроникалар ва техникаларни таъмирлаш ва техник хизмат кўрсатиш бўйича хизматлар",
+        "nameLAT": "Maishiy priborlar, apparaturalar, elektronikalar va texnikalarni tamirlash va texnik xizmat ko’rsatish bo’yicha xizmatlar",
+        "nameRU": "Услуги по ремонту и техническому обслуживанию бытовых приборов, аппаратуры, электроники и техники (кроме систем кондиционерования, онлайн ККМ)",
+        "groupCODE": "113",
+        "groupNameUZ": "ТАЪМИРЛАШ (ТИКЛАШ), ЎРНАТИШ ВА ДЕМОНТАЖ ҚИЛИШ БЎЙИЧА ХИЗМАТЛАР",
+        "groupNameRU": "УСЛУГИ ПО РЕМОНТУ (РЕСТАВРАЦИИ), МОНТАЖНЫМ И ДЕМОНТАЖНЫМ РАБОТАМ",
+        "groupNameLAT": "TA’MIRLASh (TIKLASh), O’RNATISh VA DEMONTAJ QILISh BO’YIChA XIZMATLAR"
+      },
+      {
+        "mxikCode": "11307010004000000",
+        "nameUZ": "Сув қувурларини ётқизиш ва монтаж ишларини олиб бориш хизмати",
+        "nameLAT": "Suv quvurlarini yotqizish va montaj ishlarini olib borish xizmati",
+        "nameRU": "Услуги по прокладке и монтажу водопроводов",
+        "groupCODE": "113",
+        "groupNameUZ": "ТАЪМИРЛАШ (ТИКЛАШ), ЎРНАТИШ ВА ДЕМОНТАЖ ҚИЛИШ БЎЙИЧА ХИЗМАТЛАР",
+        "groupNameRU": "УСЛУГИ ПО РЕМОНТУ (РЕСТАВРАЦИИ), МОНТАЖНЫМ И ДЕМОНТАЖНЫМ РАБОТАМ",
+        "groupNameLAT": "TA’MIRLASh (TIKLASh), O’RNATISh VA DEMONTAJ QILISh BO’YIChA XIZMATLAR"
+      },
+      {
+        "mxikCode": "11302005001000000",
+        "nameUZ": "Автобус ва микроавтобусларни диагностика қилиш, таъмирлаш ва техник хизмат кўрсатиш",
+        "nameLAT": "Avtobus va mikroavtobuslarni diagnostika qilish, tamirlash va texnik xizmat ko’rsatish",
+        "nameRU": "Услуги по диагностике, ремонту и техническому обслуживанию автобусов и микроавтобусов",
+        "groupCODE": "113",
+        "groupNameUZ": "ТАЪМИРЛАШ (ТИКЛАШ), ЎРНАТИШ ВА ДЕМОНТАЖ ҚИЛИШ БЎЙИЧА ХИЗМАТЛАР",
+        "groupNameRU": "УСЛУГИ ПО РЕМОНТУ (РЕСТАВРАЦИИ), МОНТАЖНЫМ И ДЕМОНТАЖНЫМ РАБОТАМ",
+        "groupNameLAT": "TA’MIRLASh (TIKLASh), O’RNATISh VA DEMONTAJ QILISh BO’YIChA XIZMATLAR"
+      },
+      {
+        "mxikCode": "11307015004000000",
+        "nameUZ": "Локал ҳисоблаш тармоғини қуриш ва Wi-Fi мосламасини ўрнатиш",
+        "nameLAT": "Lokal hisoblash tarmog’ini qurish va Wi-Fi moslamasini o’rnatish",
+        "nameRU": "Строительство локальной вычислительной сети и установка Wi-Fi оборудования",
+        "groupCODE": "113",
+        "groupNameUZ": "ТАЪМИРЛАШ (ТИКЛАШ), ЎРНАТИШ ВА ДЕМОНТАЖ ҚИЛИШ БЎЙИЧА ХИЗМАТЛАР",
+        "groupNameRU": "УСЛУГИ ПО РЕМОНТУ (РЕСТАВРАЦИИ), МОНТАЖНЫМ И ДЕМОНТАЖНЫМ РАБОТАМ",
+        "groupNameLAT": "TA’MIRLASh (TIKLASh), O’RNATISh VA DEMONTAJ QILISh BO’YIChA XIZMATLAR"
+      },
+      {
+        "mxikCode": "11301018001000000",
+        "nameUZ": "Ёнғинга қарши тизимлари (шу жумладан, сигнализация ва ускуналар)ни таъмирлаш, диагностика қилиш ва техник хизмат кўрсатиш бўйича хизматлар",
+        "nameLAT": "Yong’inga qarshi tizimlari (shu jumladan, signalizatsiya va uskunalar)ni tamirlash, diagnostika qilish va texnik xizmat ko’rsatish bo’yicha xizmatlar",
+        "nameRU": "Услуги по ремонту, диагностике и техническому обслуживанию противопожарных систем (в т.ч. сигнализаций и оборудования)",
+        "groupCODE": "113",
+        "groupNameUZ": "ТАЪМИРЛАШ (ТИКЛАШ), ЎРНАТИШ ВА ДЕМОНТАЖ ҚИЛИШ БЎЙИЧА ХИЗМАТЛАР",
+        "groupNameRU": "УСЛУГИ ПО РЕМОНТУ (РЕСТАВРАЦИИ), МОНТАЖНЫМ И ДЕМОНТАЖНЫМ РАБОТАМ",
+        "groupNameLAT": "TA’MIRLASh (TIKLASh), O’RNATISh VA DEMONTAJ QILISh BO’YIChA XIZMATLAR"
+      },
+      {
+        "mxikCode": "11307010001000000",
+        "nameUZ": "Сув таъминоти, газ таъминоти, иситиш ва ҳавони тозалаш ускунларни ва тизимларини ўрнатиш",
+        "nameLAT": "Suv taminoti, gaz taminoti, isitish va havoni tozalash uskunlarni va tizimlarini o’rnatish",
+        "nameRU": "Работы по монтажу систем водоснабжения, газоснабжения, отопления и кондиционирования воздуха",
+        "groupCODE": "113",
+        "groupNameUZ": "ТАЪМИРЛАШ (ТИКЛАШ), ЎРНАТИШ ВА ДЕМОНТАЖ ҚИЛИШ БЎЙИЧА ХИЗМАТЛАР",
+        "groupNameRU": "УСЛУГИ ПО РЕМОНТУ (РЕСТАВРАЦИИ), МОНТАЖНЫМ И ДЕМОНТАЖНЫМ РАБОТАМ",
+        "groupNameLAT": "TA’MIRLASh (TIKLASh), O’RNATISh VA DEMONTAJ QILISh BO’YIChA XIZMATLAR"
+      },
+      {
+        "mxikCode": "11399001011000000",
+        "nameUZ": "Кўзойнакларни таъмирлаш хизмати",
+        "nameLAT": "Ko’zoynaklarni tamirlash xizmati",
+        "nameRU": "Услуги по ремонту очков",
+        "groupCODE": "113",
+        "groupNameUZ": "ТАЪМИРЛАШ (ТИКЛАШ), ЎРНАТИШ ВА ДЕМОНТАЖ ҚИЛИШ БЎЙИЧА ХИЗМАТЛАР",
+        "groupNameRU": "УСЛУГИ ПО РЕМОНТУ (РЕСТАВРАЦИИ), МОНТАЖНЫМ И ДЕМОНТАЖНЫМ РАБОТАМ",
+        "groupNameLAT": "TA’MIRLASh (TIKLASh), O’RNATISh VA DEMONTAJ QILISh BO’YIChA XIZMATLAR"
+      },
+      {
+        "mxikCode": "11307014001000000",
+        "nameUZ": "Реклама ускуналари ва материалларини тайёрлаш, ўрнатиш ва демонтаж қилиш хизматлари",
+        "nameLAT": "Reklama uskunalari va materiallarini tayyorlash, o’rnatish va demontaj qilish xizmatlari",
+        "nameRU": "Услуги по изготовлению, монтажу и демонтажу рекламных оборудований и материалов",
+        "groupCODE": "113",
+        "groupNameUZ": "ТАЪМИРЛАШ (ТИКЛАШ), ЎРНАТИШ ВА ДЕМОНТАЖ ҚИЛИШ БЎЙИЧА ХИЗМАТЛАР",
+        "groupNameRU": "УСЛУГИ ПО РЕМОНТУ (РЕСТАВРАЦИИ), МОНТАЖНЫМ И ДЕМОНТАЖНЫМ РАБОТАМ",
+        "groupNameLAT": "TA’MIRLASh (TIKLASh), O’RNATISh VA DEMONTAJ QILISh BO’YIChA XIZMATLAR"
+      },
+      {
+        "mxikCode": "11301019001000000",
+        "nameUZ": "Газ тизимлари ва ускуналарини (автомобил газ баллонларидан ташқари), иситиш ускуналарини (уй жиҳозларидан ташқари) диагностика ва таъмирлаш хизматлари",
+        "nameLAT": "Gaz tizimlari va uskunalarini (avtomobil gaz ballonlaridan tashqari), isitish uskunalarini (uy jihozlaridan tashqari) diagnostika va tamirlash xizmatlari",
+        "nameRU": "Услуги по диагностике и ремонту газовых систем и оборудования (кроме автомобильных газовых баллонов), отопительного оборудования (кроме бытового оборудования)",
+        "groupCODE": "113",
+        "groupNameUZ": "ТАЪМИРЛАШ (ТИКЛАШ), ЎРНАТИШ ВА ДЕМОНТАЖ ҚИЛИШ БЎЙИЧА ХИЗМАТЛАР",
+        "groupNameRU": "УСЛУГИ ПО РЕМОНТУ (РЕСТАВРАЦИИ), МОНТАЖНЫМ И ДЕМОНТАЖНЫМ РАБОТАМ",
+        "groupNameLAT": "TA’MIRLASh (TIKLASh), O’RNATISh VA DEMONTAJ QILISh BO’YIChA XIZMATLAR"
+      },
+      {
+        "mxikCode": "11303014001000000",
+        "nameUZ": "Кондиционер тизимларини (маиший кондиционерларни) таъмирлаш ва техник хизмат кўрсатиш бўйича хизматлар",
+        "nameLAT": "Konditsioner tizimlarini (maishiy konditsionerlarni) tamirlash va texnik xizmat ko’rsatish bo’yicha xizmatlar",
+        "nameRU": "Услуги по ремонту и техническому обслуживанию систем кондиционирования воздуха (кондиционеров бытовых)",
+        "groupCODE": "113",
+        "groupNameUZ": "ТАЪМИРЛАШ (ТИКЛАШ), ЎРНАТИШ ВА ДЕМОНТАЖ ҚИЛИШ БЎЙИЧА ХИЗМАТЛАР",
+        "groupNameRU": "УСЛУГИ ПО РЕМОНТУ (РЕСТАВРАЦИИ), МОНТАЖНЫМ И ДЕМОНТАЖНЫМ РАБОТАМ",
+        "groupNameLAT": "TA’MIRLASh (TIKLASh), O’RNATISh VA DEMONTAJ QILISh BO’YIChA XIZMATLAR"
+      },
+      {
+        "mxikCode": "11399001008000000",
+        "nameUZ": "Ногиронлар учун мўлжалланган протез-ортопедия буюм ва инвентарларини таъмирлаш ҳамда уларга хизмат кўрсатиш",
+        "nameLAT": "Nogironlar uchun mo’ljallangan protez-ortopediya buyum va inventarlarini tamirlash hamda ularga xizmat ko’rsatish",
+        "nameRU": "Ремонт и обслуживание протезно-ортопедических аппаратов и оборудования для инвалидов",
+        "groupCODE": "113",
+        "groupNameUZ": "ТАЪМИРЛАШ (ТИКЛАШ), ЎРНАТИШ ВА ДЕМОНТАЖ ҚИЛИШ БЎЙИЧА ХИЗМАТЛАР",
+        "groupNameRU": "УСЛУГИ ПО РЕМОНТУ (РЕСТАВРАЦИИ), МОНТАЖНЫМ И ДЕМОНТАЖНЫМ РАБОТАМ",
+        "groupNameLAT": "TA’MIRLASh (TIKLASh), O’RNATISh VA DEMONTAJ QILISh BO’YIChA XIZMATLAR"
+      },
+      {
+        "mxikCode": "11302008001000000",
+        "nameUZ": "Темир йўл локомотивлари ва ҳаракатланувчи составларни  таъмирлаш ва диагностика  қилиш бўйича хизматлар",
+        "nameLAT": "Temir yo’l lokomotivlari va harakatlanuvchi sostavlarni  tamirlash va diagnostika  qilish bo’yicha xizmatlar",
+        "nameRU": "Услуги по ремонту и диагностике локомотивов, подвижных составов ж/д техники",
+        "groupCODE": "113",
+        "groupNameUZ": "ТАЪМИРЛАШ (ТИКЛАШ), ЎРНАТИШ ВА ДЕМОНТАЖ ҚИЛИШ БЎЙИЧА ХИЗМАТЛАР",
+        "groupNameRU": "УСЛУГИ ПО РЕМОНТУ (РЕСТАВРАЦИИ), МОНТАЖНЫМ И ДЕМОНТАЖНЫМ РАБОТАМ",
+        "groupNameLAT": "TA’MIRLASh (TIKLASh), O’RNATISh VA DEMONTAJ QILISh BO’YIChA XIZMATLAR"
+      },
+      {
+        "mxikCode": "11301023001000000",
+        "nameUZ": "Приборлар таъмирлаш, диагностика қилиш, техник хизмат кўрсатиш бўйича хизматлар (шу жумладан коммунал хизматларни истеъмол қилишни ҳисобга олиш бўйича)",
+        "nameLAT": "Priborlar tamirlash, diagnostika qilish, texnik xizmat ko’rsatish bo’yicha xizmatlar (shu jumladan kommunal xizmatlarni istemol qilishni hisobga olish bo’yicha)",
+        "nameRU": "Услуги по ремонту, диагностике и техническому обслуживанию приборов (в том числе по учету потребления коммунальных услуг)",
+        "groupCODE": "113",
+        "groupNameUZ": "ТАЪМИРЛАШ (ТИКЛАШ), ЎРНАТИШ ВА ДЕМОНТАЖ ҚИЛИШ БЎЙИЧА ХИЗМАТЛАР",
+        "groupNameRU": "УСЛУГИ ПО РЕМОНТУ (РЕСТАВРАЦИИ), МОНТАЖНЫМ И ДЕМОНТАЖНЫМ РАБОТАМ",
+        "groupNameLAT": "TA’MIRLASh (TIKLASh), O’RNATISh VA DEMONTAJ QILISh BO’YIChA XIZMATLAR"
+      },
+      {
+        "mxikCode": "11399001002000000",
+        "nameUZ": "Реставрация, қайта тиклаш хизматлари",
+        "nameLAT": "Restavratsiya, qayta tiklash xizmatlari",
+        "nameRU": "Услуги по реставрации, восстановлению",
+        "groupCODE": "113",
+        "groupNameUZ": "ТАЪМИРЛАШ (ТИКЛАШ), ЎРНАТИШ ВА ДЕМОНТАЖ ҚИЛИШ БЎЙИЧА ХИЗМАТЛАР",
+        "groupNameRU": "УСЛУГИ ПО РЕМОНТУ (РЕСТАВРАЦИИ), МОНТАЖНЫМ И ДЕМОНТАЖНЫМ РАБОТАМ",
+        "groupNameLAT": "TA’MIRLASh (TIKLASh), O’RNATISh VA DEMONTAJ QILISh BO’YIChA XIZMATLAR"
+      },
+      {
+        "mxikCode": "11302007001000000",
+        "nameUZ": "Сув ва ҳаво транспорти воситалари (аппаратлари)учун диагностика, таъмирлаш ва техник хизмат кўрсатиш бўйича хизматлар",
+        "nameLAT": "Suv va havo transporti vositalari (apparatlari)uchun diagnostika, tamirlash va texnik xizmat ko’rsatish bo’yicha xizmatlar",
+        "nameRU": "Услуги по диагностике, ремонту и техническому обслуживанию водных и воздушных транспортных средств (аппаратов)",
+        "groupCODE": "113",
+        "groupNameUZ": "ТАЪМИРЛАШ (ТИКЛАШ), ЎРНАТИШ ВА ДЕМОНТАЖ ҚИЛИШ БЎЙИЧА ХИЗМАТЛАР",
+        "groupNameRU": "УСЛУГИ ПО РЕМОНТУ (РЕСТАВРАЦИИ), МОНТАЖНЫМ И ДЕМОНТАЖНЫМ РАБОТАМ",
+        "groupNameLAT": "TA’MIRLASh (TIKLASh), O’RNATISh VA DEMONTAJ QILISh BO’YIChA XIZMATLAR"
+      },
+      {
+        "mxikCode": "11399001031000000",
+        "nameUZ": "Бошқа қурилмалар, тизимларни ўрнатиш ва демонтаж қилиш бўйича хизматлар",
+        "nameLAT": "Boshqa qurilmalar, tizimlarni o’rnatish va demontaj qilish bo’yicha xizmatlar",
+        "nameRU": "Услуги по монтажу и демонтажу устройств, систем прочие",
+        "groupCODE": "113",
+        "groupNameUZ": "ТАЪМИРЛАШ (ТИКЛАШ), ЎРНАТИШ ВА ДЕМОНТАЖ ҚИЛИШ БЎЙИЧА ХИЗМАТЛАР",
+        "groupNameRU": "УСЛУГИ ПО РЕМОНТУ (РЕСТАВРАЦИИ), МОНТАЖНЫМ И ДЕМОНТАЖНЫМ РАБОТАМ",
+        "groupNameLAT": "TA’MIRLASh (TIKLASh), O’RNATISh VA DEMONTAJ QILISh BO’YIChA XIZMATLAR"
+      }
+    ],
+    "recordTotal": 60,
+    "errors": null,
+    "permitted": false
+  }
+}

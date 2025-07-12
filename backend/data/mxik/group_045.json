@@ -1,0 +1,177 @@
+{
+  "metadata": {
+    "groupId": 45,
+    "fetchedAt": "2025-07-12T16:33:04.285Z",
+    "source": "https://tasnif.soliq.uz/api/cl-api/integration-mxik/references/group/code?group=45"
+  },
+  "data": {
+    "success": true,
+    "code": 200,
+    "reason": null,
+    "data": [
+      {
+        "mxikCode": "04502001001000000",
+        "nameUZ": "Ташқи қатлами олиб ташланган ёки қолип шаклида кесилган ёки тўртбурчак блок, плита, лист ва тасма шаклидаги табиий тиқин",
+        "nameLAT": "Tashqi qatlami olib tashlangan yoki qolip shaklida kesilgan yoki to’rtburchak blok, plita, list va tasma shaklidagi tabiiy tiqin",
+        "nameRU": "Пробка натуральная, с удаленным наружным слоем или начерно обрезанная, или в виде прямоугольных блоков, плит, листов или полос",
+        "groupCODE": "045",
+        "groupNameUZ": "ПРОБКА ВА УНИНГ МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ПРОБКА И ИЗДЕЛИЯ ИЗ НЕЕ",
+        "groupNameLAT": "PROBKA VA UNING MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "04501003001000000",
+        "nameUZ": "Майдаланган, гранулланган ёки кукун тиқин",
+        "nameLAT": "Maydalangan, granullangan yoki kukun tiqin",
+        "nameRU": "Измельченная, гранулированная или молотая пробка",
+        "groupCODE": "045",
+        "groupNameUZ": "ПРОБКА ВА УНИНГ МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ПРОБКА И ИЗДЕЛИЯ ИЗ НЕЕ",
+        "groupNameLAT": "PROBKA VA UNING MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "04501002001000000",
+        "nameUZ": "Табиий ёки агломерацияланган тиқин чиқиндилари",
+        "nameLAT": "Tabiiy yoki aglomeratsiyalangan tiqin chiqindilari",
+        "nameRU": "Отходы натуральной или агломерированной пробки",
+        "groupCODE": "045",
+        "groupNameUZ": "ПРОБКА ВА УНИНГ МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ПРОБКА И ИЗДЕЛИЯ ИЗ НЕЕ",
+        "groupNameLAT": "PROBKA VA UNING MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "04504001001000000",
+        "nameUZ": "Агломератланган тиқин",
+        "nameLAT": "Aglomeratlangan tiqin",
+        "nameRU": "Пробка агломерированная",
+        "groupCODE": "045",
+        "groupNameUZ": "ПРОБКА ВА УНИНГ МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ПРОБКА И ИЗДЕЛИЯ ИЗ НЕЕ",
+        "groupNameLAT": "PROBKA VA UNING MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "04501001001000000",
+        "nameUZ": "Ишлов берилмаган табиий тиқинлар",
+        "nameLAT": "Ishlov berilmagan tabiiy tiqinlar",
+        "nameRU": "Натуральная необработанная пробка",
+        "groupCODE": "045",
+        "groupNameUZ": "ПРОБКА ВА УНИНГ МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ПРОБКА И ИЗДЕЛИЯ ИЗ НЕЕ",
+        "groupNameLAT": "PROBKA VA UNING MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "04503001001000000",
+        "nameUZ": "Тиқиндан тайёрланган табиий маҳсулотлар",
+        "nameLAT": "Tiqindan tayyorlangan tabiiy mahsulotlar",
+        "nameRU": "Изделия из натуральной пробки",
+        "groupCODE": "045",
+        "groupNameUZ": "ПРОБКА ВА УНИНГ МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ПРОБКА И ИЗДЕЛИЯ ИЗ НЕЕ",
+        "groupNameLAT": "PROBKA VA UNING MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "04504002001000000",
+        "nameUZ": "Пўкак тахтачаси",
+        "nameLAT": "Po’kak taxtachasi",
+        "nameRU": "Пробковые доски",
+        "groupCODE": "045",
+        "groupNameUZ": "ПРОБКА ВА УНИНГ МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ПРОБКА И ИЗДЕЛИЯ ИЗ НЕЕ",
+        "groupNameLAT": "PROBKA VA UNING MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "04504003001000005",
+        "nameUZ": "Блоклар, плиталар, листлар ва чизиқлар, ҳар қандай шаклдаги бутун силиндирлар, шу жумладан тиқиндан дисклар Техник изоляцияловчи қистирмалари (плиталар), қалинлиги 6 мм",
+        "nameLAT": "Bloklar, plitalar, listlar va chiziqlar, har qanday shakldagi butun silindirlar, shu jumladan tiqindan disklar Texnik izolyatsiyalovchi qistirmalari (plitalar), qalinligi 6 mm",
+        "nameRU": "Блоки, плиты, листы и полосы, плитки любой формы, цельные цилиндры, включая диски из пробки Прокладки (пластины) изоляционные технические, толщина 6 мм",
+        "groupCODE": "045",
+        "groupNameUZ": "ПРОБКА ВА УНИНГ МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ПРОБКА И ИЗДЕЛИЯ ИЗ НЕЕ",
+        "groupNameLAT": "PROBKA VA UNING MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "04504003001000006",
+        "nameUZ": "Блоклар, плиталар, листлар ва чизиқлар, ҳар қандай шаклдаги бутун силиндирлар, шу жумладан тиқиндан дисклар Техник изоляцияловчи қистирмалари (плиталар), қалинлиги 8 мм",
+        "nameLAT": "Bloklar, plitalar, listlar va chiziqlar, har qanday shakldagi butun silindirlar, shu jumladan tiqindan disklar Texnik izolyatsiyalovchi qistirmalari (plitalar), qalinligi 8 mm",
+        "nameRU": "Блоки, плиты, листы и полосы, плитки любой формы, цельные цилиндры, включая диски из пробки Прокладки (пластины) изоляционные технические, толщина 8 мм",
+        "groupCODE": "045",
+        "groupNameUZ": "ПРОБКА ВА УНИНГ МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ПРОБКА И ИЗДЕЛИЯ ИЗ НЕЕ",
+        "groupNameLAT": "PROBKA VA UNING MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "04504003001000007",
+        "nameUZ": "Блоклар, плиталар, листлар ва чизиқлар, ҳар қандай шаклдаги бутун силиндирлар, шу жумладан тиқиндан дисклар Техник изоляцияловчи қистирмалари (плиталар), қалинлиги 10 мм",
+        "nameLAT": "Bloklar, plitalar, listlar va chiziqlar, har qanday shakldagi butun silindirlar, shu jumladan tiqindan disklar Texnik izolyatsiyalovchi qistirmalari (plitalar), qalinligi 10 mm",
+        "nameRU": "Блоки, плиты, листы и полосы, плитки любой формы, цельные цилиндры, включая диски из пробки Прокладки (пластины) изоляционные технические, толщина 10 мм",
+        "groupCODE": "045",
+        "groupNameUZ": "ПРОБКА ВА УНИНГ МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ПРОБКА И ИЗДЕЛИЯ ИЗ НЕЕ",
+        "groupNameLAT": "PROBKA VA UNING MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "04504003001000008",
+        "nameUZ": "Блоклар, плиталар, листлар ва чизиқлар, ҳар қандай шаклдаги бутун силиндирлар, шу жумладан тиқиндан дисклар Деворга ажратгичлар (плиталар), қалинлиги 3 мм",
+        "nameLAT": "Bloklar, plitalar, listlar va chiziqlar, har qanday shakldagi butun silindirlar, shu jumladan tiqindan disklar Devorga ajratgichlar (plitalar), qalinligi 3 mm",
+        "nameRU": "Блоки, плиты, листы и полосы, плитки любой формы, цельные цилиндры, включая диски из пробки Прокладки (пластины) настенные, толщина 3 мм",
+        "groupCODE": "045",
+        "groupNameUZ": "ПРОБКА ВА УНИНГ МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ПРОБКА И ИЗДЕЛИЯ ИЗ НЕЕ",
+        "groupNameLAT": "PROBKA VA UNING MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "04504003001000001",
+        "nameUZ": "Блоклар, плиталар, листлар ва чизиқлар, ҳар қандай шаклдаги бутун силиндирлар, шу жумладан тиқиндан дисклар Мантар таянчи, қалинлиги 2 мм",
+        "nameLAT": "Bloklar, plitalar, listlar va chiziqlar, har qanday shakldagi butun silindirlar, shu jumladan tiqindan disklar Mantar tayanchi, qalinligi 2 mm",
+        "nameRU": "Блоки, плиты, листы и полосы, плитки любой формы, цельные цилиндры, включая диски из пробки Подложка пробковая, толщина 2 мм",
+        "groupCODE": "045",
+        "groupNameUZ": "ПРОБКА ВА УНИНГ МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ПРОБКА И ИЗДЕЛИЯ ИЗ НЕЕ",
+        "groupNameLAT": "PROBKA VA UNING MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "04504003001000002",
+        "nameUZ": "Блоклар, плиталар, листлар ва чизиқлар, ҳар қандай шаклдаги бутун силиндирлар, шу жумладан тиқиндан дисклар Техник изоляцияловчи мантар қистирмалари (плиталар), қалинлиги 2 мм",
+        "nameLAT": "Bloklar, plitalar, listlar va chiziqlar, har qanday shakldagi butun silindirlar, shu jumladan tiqindan disklar Texnik izolyatsiyalovchi mantar qistirmalari (plitalar), qalinligi 2 mm",
+        "nameRU": "Блоки, плиты, листы и полосы, плитки любой формы, цельные цилиндры, включая диски из пробки Прокладки (пластины) пробковые изоляционные технические, толщина 2 мм",
+        "groupCODE": "045",
+        "groupNameUZ": "ПРОБКА ВА УНИНГ МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ПРОБКА И ИЗДЕЛИЯ ИЗ НЕЕ",
+        "groupNameLAT": "PROBKA VA UNING MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "04504003001000003",
+        "nameUZ": "Блоклар, плиталар, листлар ва чизиқлар, ҳар қандай шаклдаги бутун силиндирлар, шу жумладан тиқиндан дисклар Техник изоляцияловчи қистирмалари (плиталар), қалинлиги 3 мм",
+        "nameLAT": "Bloklar, plitalar, listlar va chiziqlar, har qanday shakldagi butun silindirlar, shu jumladan tiqindan disklar Texnik izolyatsiyalovchi qistirmalari (plitalar), qalinligi 3 mm",
+        "nameRU": "Блоки, плиты, листы и полосы, плитки любой формы, цельные цилиндры, включая диски из пробки Прокладки (пластины) изоляционные технические, толщина 3 мм",
+        "groupCODE": "045",
+        "groupNameUZ": "ПРОБКА ВА УНИНГ МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ПРОБКА И ИЗДЕЛИЯ ИЗ НЕЕ",
+        "groupNameLAT": "PROBKA VA UNING MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "04504003001000004",
+        "nameUZ": "Блоклар, плиталар, листлар ва чизиқлар, ҳар қандай шаклдаги бутун силиндирлар, шу жумладан тиқиндан дисклар Техник изоляцияловчи қистирмалари (плиталар), қалинлиги 4 мм",
+        "nameLAT": "Bloklar, plitalar, listlar va chiziqlar, har qanday shakldagi butun silindirlar, shu jumladan tiqindan disklar Texnik izolyatsiyalovchi qistirmalari (plitalar), qalinligi 4 mm",
+        "nameRU": "Блоки, плиты, листы и полосы, плитки любой формы, цельные цилиндры, включая диски из пробки Прокладки (пластины) изоляционные технические, толщина 4 мм",
+        "groupCODE": "045",
+        "groupNameUZ": "ПРОБКА ВА УНИНГ МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ПРОБКА И ИЗДЕЛИЯ ИЗ НЕЕ",
+        "groupNameLAT": "PROBKA VA UNING MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "04504003001000000",
+        "nameUZ": "Блоклар, плиталар, листлар ва чизиқлар, ҳар қандай шаклдаги бутун силиндирлар, шу жумладан тиқиндан дисклар",
+        "nameLAT": "Bloklar, plitalar, listlar va chiziqlar, har qanday shakldagi butun silindirlar, shu jumladan tiqindan disklar",
+        "nameRU": "Блоки, плиты, листы и полосы, плитки любой формы, цельные цилиндры, включая диски из пробки",
+        "groupCODE": "045",
+        "groupNameUZ": "ПРОБКА ВА УНИНГ МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ПРОБКА И ИЗДЕЛИЯ ИЗ НЕЕ",
+        "groupNameLAT": "PROBKA VA UNING MAHSULOTLARI"
+      }
+    ],
+    "recordTotal": 16,
+    "errors": null,
+    "permitted": false
+  }
+}

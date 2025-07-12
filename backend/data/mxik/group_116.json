@@ -1,0 +1,117 @@
+{
+  "metadata": {
+    "groupId": 116,
+    "fetchedAt": "2025-07-12T16:39:08.141Z",
+    "source": "https://tasnif.soliq.uz/api/cl-api/integration-mxik/references/group/code?group=116"
+  },
+  "data": {
+    "success": true,
+    "code": 200,
+    "reason": null,
+    "data": [
+      {
+        "mxikCode": "11605001001000000",
+        "nameUZ": "Экология бўйича меъёрий-ҳуқуқий ҳужжатларни ишлаб чиқиш бўйича хизматлар",
+        "nameLAT": "Ekologiya bo’yicha meyoriy-huquqiy hujjatlarni ishlab chiqish bo’yicha xizmatlar",
+        "nameRU": "Услуги разработки нормативных документов по экологии",
+        "groupCODE": "116",
+        "groupNameUZ": "AТРОФ МУҲИТНИ МУҲОФАЗА ҚИЛИШ",
+        "groupNameRU": "ОХРАНА ОКРУЖАЮЩЕЙ СРЕДЫ",
+        "groupNameLAT": "ATROF MUHITNI MUHOFAZA QILISh"
+      },
+      {
+        "mxikCode": "11601003001000000",
+        "nameUZ": "Тупроқни лаборатория ва кимёвий таҳлил қилиш хизматлари",
+        "nameLAT": "Tuproqni laboratoriya va kimyoviy tahlil qilish xizmatlari",
+        "nameRU": "Услуги лабороторного и химического анализа почвы",
+        "groupCODE": "116",
+        "groupNameUZ": "AТРОФ МУҲИТНИ МУҲОФАЗА ҚИЛИШ",
+        "groupNameRU": "ОХРАНА ОКРУЖАЮЩЕЙ СРЕДЫ",
+        "groupNameLAT": "ATROF MUHITNI MUHOFAZA QILISh"
+      },
+      {
+        "mxikCode": "11601001001000000",
+        "nameUZ": "Aтмосфера ҳавосини кимёвий таҳлил қилиш хизматлари",
+        "nameLAT": "Atmosfera havosini kimyoviy tahlil qilish xizmatlari",
+        "nameRU": "Услуги химического анализа атмосферного воздуха",
+        "groupCODE": "116",
+        "groupNameUZ": "AТРОФ МУҲИТНИ МУҲОФАЗА ҚИЛИШ",
+        "groupNameRU": "ОХРАНА ОКРУЖАЮЩЕЙ СРЕДЫ",
+        "groupNameLAT": "ATROF MUHITNI MUHOFAZA QILISh"
+      },
+      {
+        "mxikCode": "11601002001000000",
+        "nameUZ": "Ичимлик ва чиқинди сувларнинг кимёвий таҳлил қилиш хизматлари",
+        "nameLAT": "Ichimlik va chiqindi suvlarning kimyoviy tahlil qilish xizmatlari",
+        "nameRU": "Услуги химического анализа питьевой и сточных вод",
+        "groupCODE": "116",
+        "groupNameUZ": "AТРОФ МУҲИТНИ МУҲОФАЗА ҚИЛИШ",
+        "groupNameRU": "ОХРАНА ОКРУЖАЮЩЕЙ СРЕДЫ",
+        "groupNameLAT": "ATROF MUHITNI MUHOFAZA QILISh"
+      },
+      {
+        "mxikCode": "11601004001000000",
+        "nameUZ": "Атроф-муҳитни хроматографик таҳлил қилиш хизматлари",
+        "nameLAT": "Atrof-muhitni xromatografik tahlil qilish xizmatlari",
+        "nameRU": "Услуги по хроматографическому анализу окружающей среды",
+        "groupCODE": "116",
+        "groupNameUZ": "AТРОФ МУҲИТНИ МУҲОФАЗА ҚИЛИШ",
+        "groupNameRU": "ОХРАНА ОКРУЖАЮЩЕЙ СРЕДЫ",
+        "groupNameLAT": "ATROF MUHITNI MUHOFAZA QILISh"
+      },
+      {
+        "mxikCode": "11603001001000000",
+        "nameUZ": "Экология соҳасида лойиҳа-қидирув ва экспертиза ишларини амалга ошириш бўйича хизматлар",
+        "nameLAT": "Ekologiya sohasida loyiha-qidiruv va ekspertiza ishlarini amalga oshirish bo’yicha xizmatlar",
+        "nameRU": "Услуги по проведению проектно-изыскательных работ и экспертизы в области экологии",
+        "groupCODE": "116",
+        "groupNameUZ": "AТРОФ МУҲИТНИ МУҲОФАЗА ҚИЛИШ",
+        "groupNameRU": "ОХРАНА ОКРУЖАЮЩЕЙ СРЕДЫ",
+        "groupNameLAT": "ATROF MUHITNI MUHOFAZA QILISh"
+      },
+      {
+        "mxikCode": "11602001001000000",
+        "nameUZ": "Aтроф-муҳит ҳолатини мониторинг қилиш хизматлари",
+        "nameLAT": "Atrof-muhit holatini monitoring qilish xizmatlari",
+        "nameRU": "Услуги мониторинга за состоянием окружающей среды",
+        "groupCODE": "116",
+        "groupNameUZ": "AТРОФ МУҲИТНИ МУҲОФАЗА ҚИЛИШ",
+        "groupNameRU": "ОХРАНА ОКРУЖАЮЩЕЙ СРЕДЫ",
+        "groupNameLAT": "ATROF MUHITNI MUHOFAZA QILISh"
+      },
+      {
+        "mxikCode": "11608001001000000",
+        "nameUZ": "Экологик баҳолашни амалга ошириш бўйича хизматлар",
+        "nameLAT": "Ekologik baholashni amalga oshirish bo’yicha xizmatlar",
+        "nameRU": "Услуги по проведению экологической оценки",
+        "groupCODE": "116",
+        "groupNameUZ": "AТРОФ МУҲИТНИ МУҲОФАЗА ҚИЛИШ",
+        "groupNameRU": "ОХРАНА ОКРУЖАЮЩЕЙ СРЕДЫ",
+        "groupNameLAT": "ATROF MUHITNI MUHOFAZA QILISh"
+      },
+      {
+        "mxikCode": "11601004002000000",
+        "nameUZ": "Атроф-муҳитни кимёвий ва биокимёвий таҳлил қилиш соҳасидаги хизматлар",
+        "nameLAT": "Atrof-muhitni kimyoviy va biokimyoviy tahlil qilish sohasidagi xizmatlar",
+        "nameRU": "Услуги в области химического и биохимического анализа окружающей среды",
+        "groupCODE": "116",
+        "groupNameUZ": "AТРОФ МУҲИТНИ МУҲОФАЗА ҚИЛИШ",
+        "groupNameRU": "ОХРАНА ОКРУЖАЮЩЕЙ СРЕДЫ",
+        "groupNameLAT": "ATROF MUHITNI MUHOFAZA QILISh"
+      },
+      {
+        "mxikCode": "11606001001000000",
+        "nameUZ": "Атроф муҳитни муҳофаза қилиш соҳасида рухсатнома ва сертификат бериш хизматлари (барча йўналишларда)",
+        "nameLAT": "Atrof muhitni muhofaza qilish sohasida ruxsatnoma va sertifikat berish xizmatlari (barcha yo’nalishlarda)",
+        "nameRU": "Услуги по выдаче разрешений и сертификации в области экологии (по всем направлениям)",
+        "groupCODE": "116",
+        "groupNameUZ": "AТРОФ МУҲИТНИ МУҲОФАЗА ҚИЛИШ",
+        "groupNameRU": "ОХРАНА ОКРУЖАЮЩЕЙ СРЕДЫ",
+        "groupNameLAT": "ATROF MUHITNI MUHOFAZA QILISh"
+      }
+    ],
+    "recordTotal": 10,
+    "errors": null,
+    "permitted": false
+  }
+}

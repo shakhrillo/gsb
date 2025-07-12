@@ -1,0 +1,147 @@
+{
+  "metadata": {
+    "groupId": 80,
+    "fetchedAt": "2025-07-12T16:35:33.943Z",
+    "source": "https://tasnif.soliq.uz/api/cl-api/integration-mxik/references/group/code?group=80"
+  },
+  "data": {
+    "success": true,
+    "code": 200,
+    "reason": null,
+    "data": [
+      {
+        "mxikCode": "08007001002000000",
+        "nameUZ": "Қалай аноди",
+        "nameLAT": "Qalay anodi",
+        "nameRU": "Анод оловянный",
+        "groupCODE": "080",
+        "groupNameUZ": "ҚАЛАЙ ВА УНИНГ МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ОЛОВО И ИЗДЕЛИЯ ИЗ НЕГО",
+        "groupNameLAT": "QALAY VA UNING MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "08001001001000000",
+        "nameUZ": "Қалай",
+        "nameLAT": "Qalay",
+        "nameRU": "Олово необработанное",
+        "groupCODE": "080",
+        "groupNameUZ": "ҚАЛАЙ ВА УНИНГ МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ОЛОВО И ИЗДЕЛИЯ ИЗ НЕГО",
+        "groupNameLAT": "QALAY VA UNING MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "08002001001000000",
+        "nameUZ": "Калай чиқиндилари",
+        "nameLAT": "Kalay chiqindilari",
+        "nameRU": "Отходы и лом оловянные",
+        "groupCODE": "080",
+        "groupNameUZ": "ҚАЛАЙ ВА УНИНГ МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ОЛОВО И ИЗДЕЛИЯ ИЗ НЕГО",
+        "groupNameLAT": "QALAY VA UNING MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "08007001001000000",
+        "nameUZ": "Қалай чивиқлар",
+        "nameLAT": "Qalay chiviqlar",
+        "nameRU": "Прутки оловянные",
+        "groupCODE": "080",
+        "groupNameUZ": "ҚАЛАЙ ВА УНИНГ МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ОЛОВО И ИЗДЕЛИЯ ИЗ НЕГО",
+        "groupNameLAT": "QALAY VA UNING MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "08007001003000000",
+        "nameUZ": "Қалайдан тайёрланган бошқа маҳсулотлар",
+        "nameLAT": "Qalaydan tayyorlangan boshqa mahsulotlar",
+        "nameRU": "Прочие изделия из олова",
+        "groupCODE": "080",
+        "groupNameUZ": "ҚАЛАЙ ВА УНИНГ МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ОЛОВО И ИЗДЕЛИЯ ИЗ НЕГО",
+        "groupNameLAT": "QALAY VA UNING MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "08001001001000001",
+        "nameUZ": "Қалай сулфат",
+        "nameLAT": "Qalay sulfat",
+        "nameRU": "Олово необработанное сернокислое",
+        "groupCODE": "080",
+        "groupNameUZ": "ҚАЛАЙ ВА УНИНГ МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ОЛОВО И ИЗДЕЛИЯ ИЗ НЕГО",
+        "groupNameLAT": "QALAY VA UNING MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "08003001001000001",
+        "nameUZ": "Қалайдан тайёрланган ҳивичлар, профиллар ва симлар Леҳим қотишмаси атиргул",
+        "nameLAT": "Qalaydan tayyorlangan hivichlar, profillar va simlar Lehim qotishmasi atirgul",
+        "nameRU": "Прутки, профили и проволока оловянные Припой сплав Розе",
+        "groupCODE": "080",
+        "groupNameUZ": "ҚАЛАЙ ВА УНИНГ МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ОЛОВО И ИЗДЕЛИЯ ИЗ НЕГО",
+        "groupNameLAT": "QALAY VA UNING MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "08003001001000002",
+        "nameUZ": "Қалайдан тайёрланган ҳивичлар, профиллар ва симлар Сурмасиз қалай қўрғошинли леҳимлар, ПОС30 тоифаси",
+        "nameLAT": "Qalaydan tayyorlangan hivichlar, profillar va simlar Surmasiz qalay qo'rg'oshinli lehimlar, POS30 toifasi",
+        "nameRU": "Прутки, профили и проволока оловянные Припои оловянно-свинцовые бессурьмянистые, марка ПОС30",
+        "groupCODE": "080",
+        "groupNameUZ": "ҚАЛАЙ ВА УНИНГ МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ОЛОВО И ИЗДЕЛИЯ ИЗ НЕГО",
+        "groupNameLAT": "QALAY VA UNING MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "08003001001000003",
+        "nameUZ": "Қалайдан тайёрланган ҳивичлар, профиллар ва симлар Сурмасиз қалай қўрғошинли леҳимлар, ПОС40 тоифаси",
+        "nameLAT": "Qalaydan tayyorlangan hivichlar, profillar va simlar Surmasiz qalay qo'rg'oshinli lehimlar, POS40 toifasi",
+        "nameRU": "Прутки, профили и проволока оловянные Припои оловянно-свинцовые бессурьмянистые, марка ПОС40",
+        "groupCODE": "080",
+        "groupNameUZ": "ҚАЛАЙ ВА УНИНГ МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ОЛОВО И ИЗДЕЛИЯ ИЗ НЕГО",
+        "groupNameLAT": "QALAY VA UNING MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "08003001001000004",
+        "nameUZ": "Қалайдан тайёрланган ҳивичлар, профиллар ва симлар Сурмасиз қалай қўрғошинли леҳимлар, ПОС61 маркаси",
+        "nameLAT": "Qalaydan tayyorlangan hivichlar, profillar va simlar Surmasiz qalay qo'rg'oshinli lehimlar, POS61 markasi",
+        "nameRU": "Прутки, профили и проволока оловянные Припои оловянно-свинцовые бессурьмянистые, марка ПОС61",
+        "groupCODE": "080",
+        "groupNameUZ": "ҚАЛАЙ ВА УНИНГ МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ОЛОВО И ИЗДЕЛИЯ ИЗ НЕГО",
+        "groupNameLAT": "QALAY VA UNING MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "08003001001000005",
+        "nameUZ": "Қалайдан тайёрланган ҳивичлар, профиллар ва симлар Сурма леҳим",
+        "nameLAT": "Qalaydan tayyorlangan hivichlar, profillar va simlar Surma lehim",
+        "nameRU": "Прутки, профили и проволока оловянные Припой сурьмянистый",
+        "groupCODE": "080",
+        "groupNameUZ": "ҚАЛАЙ ВА УНИНГ МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ОЛОВО И ИЗДЕЛИЯ ИЗ НЕГО",
+        "groupNameLAT": "QALAY VA UNING MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "08007001002000001",
+        "nameUZ": "Қалай аноди Қалай анодлар",
+        "nameLAT": "Qalay anodi Qalay anodlar",
+        "nameRU": "Анод оловянный Аноды оловянные",
+        "groupCODE": "080",
+        "groupNameUZ": "ҚАЛАЙ ВА УНИНГ МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ОЛОВО И ИЗДЕЛИЯ ИЗ НЕГО",
+        "groupNameLAT": "QALAY VA UNING MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "08003001001000000",
+        "nameUZ": "Қалайдан тайёрланган ҳивичлар, профиллар ва симлар",
+        "nameLAT": "Qalaydan tayyorlangan hivichlar, profillar va simlar",
+        "nameRU": "Прутки, профили и проволока оловянные",
+        "groupCODE": "080",
+        "groupNameUZ": "ҚАЛАЙ ВА УНИНГ МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ОЛОВО И ИЗДЕЛИЯ ИЗ НЕГО",
+        "groupNameLAT": "QALAY VA UNING MAHSULOTLARI"
+      }
+    ],
+    "recordTotal": 13,
+    "errors": null,
+    "permitted": false
+  }
+}

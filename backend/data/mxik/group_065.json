@@ -1,0 +1,907 @@
+{
+  "metadata": {
+    "groupId": 65,
+    "fetchedAt": "2025-07-12T16:34:25.036Z",
+    "source": "https://tasnif.soliq.uz/api/cl-api/integration-mxik/references/group/code?group=65"
+  },
+  "data": {
+    "success": true,
+    "code": 200,
+    "reason": null,
+    "data": [
+      {
+        "mxikCode": "06506001020000000",
+        "nameUZ": "Сочлар учун сетка",
+        "nameLAT": "Sochlar uchun setka",
+        "nameRU": "Сетка для волос",
+        "groupCODE": "065",
+        "groupNameUZ": "ШЛЯПАЛАР ВА УЛАРНИНГ ҚИСМЛАРИ ",
+        "groupNameRU": "ГОЛОВНЫЕ УБОРЫ И ИХ ЧАСТИ",
+        "groupNameLAT": "ShLYaPALAR VA ULARNING QISMLARI "
+      },
+      {
+        "mxikCode": "06506002003000000",
+        "nameUZ": "Ҳимоя каскаси",
+        "nameLAT": "Himoya kaskasi",
+        "nameRU": "Защитная каска",
+        "groupCODE": "065",
+        "groupNameUZ": "ШЛЯПАЛАР ВА УЛАРНИНГ ҚИСМЛАРИ ",
+        "groupNameRU": "ГОЛОВНЫЕ УБОРЫ И ИХ ЧАСТИ",
+        "groupNameLAT": "ShLYaPALAR VA ULARNING QISMLARI "
+      },
+      {
+        "mxikCode": "06506001006001003",
+        "nameUZ": "Бир марталик шарлотка медицина шапкаси Clinic Clean 20",
+        "nameLAT": "Bir martalik sharlotka meditsina shapkasi Clinic Clean 20",
+        "nameRU": "Шапочка шарлотка медицинская одноразовая Clinic Clean 20",
+        "groupCODE": "065",
+        "groupNameUZ": "ШЛЯПАЛАР ВА УЛАРНИНГ ҚИСМЛАРИ ",
+        "groupNameRU": "ГОЛОВНЫЕ УБОРЫ И ИХ ЧАСТИ",
+        "groupNameLAT": "ShLYaPALAR VA ULARNING QISMLARI "
+      },
+      {
+        "mxikCode": "06505001009001013",
+        "nameUZ": "Катталар учун шляпа Bonito панама қиз болалар учун, ўлчами 110 артикул: ор869 пушти ранг (гуллар)",
+        "nameLAT": "Kattalar uchun shlyapa Bonito panama qiz bolalar uchun, o’lchami 110 artikul: or869 pushti rang (gullar)",
+        "nameRU": "Шляпа для взрослых Bonito панама для девочек, размер 110 артикул: ор869 розовый (цветы)",
+        "groupCODE": "065",
+        "groupNameUZ": "ШЛЯПАЛАР ВА УЛАРНИНГ ҚИСМЛАРИ ",
+        "groupNameRU": "ГОЛОВНЫЕ УБОРЫ И ИХ ЧАСТИ",
+        "groupNameLAT": "ShLYaPALAR VA ULARNING QISMLARI "
+      },
+      {
+        "mxikCode": "06506001022001002",
+        "nameUZ": "Кепка LUKBO TEKSTIL эркаклар учун, артикул:лпмк230 100% пахта картон қути 12",
+        "nameLAT": "Kepka LUKBO TEKSTIL erkaklar uchun, artikul:lpmk230 100% paxta karton quti 12",
+        "nameRU": "Кепка LUKBO TEKSTIL мужская артикул:лпмк230 100% хлопок картонная коробка 12",
+        "groupCODE": "065",
+        "groupNameUZ": "ШЛЯПАЛАР ВА УЛАРНИНГ ҚИСМЛАРИ ",
+        "groupNameRU": "ГОЛОВНЫЕ УБОРЫ И ИХ ЧАСТИ",
+        "groupNameLAT": "ShLYaPALAR VA ULARNING QISMLARI "
+      },
+      {
+        "mxikCode": "06505001009001018",
+        "nameUZ": "Катталар учун шляпа Bonito панама қиз болалар учун, ўлчами 110 артикул: ор869, ранги пушти ранг (олча)",
+        "nameLAT": "Kattalar uchun shlyapa Bonito panama qiz bolalar uchun, o’lchami 110 artikul: or869, rangi pushti rang (olcha)",
+        "nameRU": "Шляпа для взрослых Bonito панама для девочек, размер 110 артикул: ор869 цвет розовый (вишня)",
+        "groupCODE": "065",
+        "groupNameUZ": "ШЛЯПАЛАР ВА УЛАРНИНГ ҚИСМЛАРИ ",
+        "groupNameRU": "ГОЛОВНЫЕ УБОРЫ И ИХ ЧАСТИ",
+        "groupNameLAT": "ShLYaPALAR VA ULARNING QISMLARI "
+      },
+      {
+        "mxikCode": "06506002004000000",
+        "nameUZ": "Пайвандловчи учун ҳимоя қапоғи",
+        "nameLAT": "Payvandlovchi uchun himoya qapog’i",
+        "nameRU": "Щитки защитные для сварщика",
+        "groupCODE": "065",
+        "groupNameUZ": "ШЛЯПАЛАР ВА УЛАРНИНГ ҚИСМЛАРИ ",
+        "groupNameRU": "ГОЛОВНЫЕ УБОРЫ И ИХ ЧАСТИ",
+        "groupNameLAT": "ShLYaPALAR VA ULARNING QISMLARI "
+      },
+      {
+        "mxikCode": "06506001022002003",
+        "nameUZ": "Кепка UZB patriot қора рангли тилла ранг герб билан, картон қоғоз 1",
+        "nameLAT": "Kepka UZB patriot qora rangli tilla rang gerb bilan, karton qog’oz 1",
+        "nameRU": "Кепка UZB patriot цвет черный с золотым гербом, картонная бумага 1 дона",
+        "groupCODE": "065",
+        "groupNameUZ": "ШЛЯПАЛАР ВА УЛАРНИНГ ҚИСМЛАРИ ",
+        "groupNameRU": "ГОЛОВНЫЕ УБОРЫ И ИХ ЧАСТИ",
+        "groupNameLAT": "ShLYaPALAR VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "06506001022001001",
+        "nameUZ": "Кепка LUKBO TEKSTIL аёллар учун, артикул:лпжк229 100% пахта картон қути 12",
+        "nameLAT": "Kepka LUKBO TEKSTIL ayollar uchun, artikul:lpjk229 100% paxta karton quti 12",
+        "nameRU": "Кепка LUKBO TEKSTIL женская артикул:лпжк229 100% хлопок картонная коробка 12",
+        "groupCODE": "065",
+        "groupNameUZ": "ШЛЯПАЛАР ВА УЛАРНИНГ ҚИСМЛАРИ ",
+        "groupNameRU": "ГОЛОВНЫЕ УБОРЫ И ИХ ЧАСТИ",
+        "groupNameLAT": "ShLYaPALAR VA ULARNING QISMLARI "
+      },
+      {
+        "mxikCode": "06505001009001029",
+        "nameUZ": "Катталар учун шляпа Bonito панама қиз болалар учун, ўлчами 116 артикул: ор870, ранги кўк (йўл-йўл)",
+        "nameLAT": "Kattalar uchun shlyapa Bonito panama qiz bolalar uchun, o’lchami 116 artikul: or870, rangi ko’k (yo’l-yo’l)",
+        "nameRU": "Шляпа для взрослых Bonito панама для девочек, размер 116 артикул: ор870 цвет синий (полоска)",
+        "groupCODE": "065",
+        "groupNameUZ": "ШЛЯПАЛАР ВА УЛАРНИНГ ҚИСМЛАРИ ",
+        "groupNameRU": "ГОЛОВНЫЕ УБОРЫ И ИХ ЧАСТИ",
+        "groupNameLAT": "ShLYaPALAR VA ULARNING QISMLARI "
+      },
+      {
+        "mxikCode": "06506001014000000",
+        "nameUZ": "Сомондан тўқилган бош кийими",
+        "nameLAT": "Somondan to’qilgan bosh kiyimi",
+        "nameRU": "Козырек соломенный",
+        "groupCODE": "065",
+        "groupNameUZ": "ШЛЯПАЛАР ВА УЛАРНИНГ ҚИСМЛАРИ ",
+        "groupNameRU": "ГОЛОВНЫЕ УБОРЫ И ИХ ЧАСТИ",
+        "groupNameLAT": "ShLYaPALAR VA ULARNING QISMLARI "
+      },
+      {
+        "mxikCode": "06506001015000000",
+        "nameUZ": "Совуқдан ҳимояли қулоқчин",
+        "nameLAT": "Sovuqdan himoyali quloqchin",
+        "nameRU": "Теплые наушники",
+        "groupCODE": "065",
+        "groupNameUZ": "ШЛЯПАЛАР ВА УЛАРНИНГ ҚИСМЛАРИ ",
+        "groupNameRU": "ГОЛОВНЫЕ УБОРЫ И ИХ ЧАСТИ",
+        "groupNameLAT": "ShLYaPALAR VA ULARNING QISMLARI "
+      },
+      {
+        "mxikCode": "06505001009001044",
+        "nameUZ": "Катталар учун шляпа Bonito панама қиз болалар учун, ўлчами 98 артикул: ор869 пушти ранг (гуллар)",
+        "nameLAT": "Kattalar uchun shlyapa Bonito panama qiz bolalar uchun, o’lchami 98 artikul: or869 pushti rang (gullar)",
+        "nameRU": "Шляпа для взрослых Bonito панама для девочек, размер 98 артикул: ор869 розовый (цветы)",
+        "groupCODE": "065",
+        "groupNameUZ": "ШЛЯПАЛАР ВА УЛАРНИНГ ҚИСМЛАРИ ",
+        "groupNameRU": "ГОЛОВНЫЕ УБОРЫ И ИХ ЧАСТИ",
+        "groupNameLAT": "ShLYaPALAR VA ULARNING QISMLARI "
+      },
+      {
+        "mxikCode": "06506001021000000",
+        "nameUZ": "Ишчи дубулға ости шапкаси",
+        "nameLAT": "Ishchi dubulg’a osti shapkasi",
+        "nameRU": "Подшлемник рабочий",
+        "groupCODE": "065",
+        "groupNameUZ": "ШЛЯПАЛАР ВА УЛАРНИНГ ҚИСМЛАРИ ",
+        "groupNameRU": "ГОЛОВНЫЕ УБОРЫ И ИХ ЧАСТИ",
+        "groupNameLAT": "ShLYaPALAR VA ULARNING QISMLARI "
+      },
+      {
+        "mxikCode": "06505001009001046",
+        "nameUZ": "Катталар учун шляпа Bonito панама қиз болалар учун, ўлчами 98 артикул: ор869, ранги оқ (қушча)",
+        "nameLAT": "Kattalar uchun shlyapa Bonito panama qiz bolalar uchun, o’lchami 98 artikul: or869, rangi oq (qushcha)",
+        "nameRU": "Шляпа для взрослых Bonito панама для девочек, размер 98 артикул: ор869 цвет белый (птички)",
+        "groupCODE": "065",
+        "groupNameUZ": "ШЛЯПАЛАР ВА УЛАРНИНГ ҚИСМЛАРИ ",
+        "groupNameRU": "ГОЛОВНЫЕ УБОРЫ И ИХ ЧАСТИ",
+        "groupNameLAT": "ShLYaPALAR VA ULARNING QISMLARI "
+      },
+      {
+        "mxikCode": "06505001003000000",
+        "nameUZ": "Аёллар шапкаси",
+        "nameLAT": "Ayollar shapkasi",
+        "nameRU": "Шапка женская",
+        "groupCODE": "065",
+        "groupNameUZ": "ШЛЯПАЛАР ВА УЛАРНИНГ ҚИСМЛАРИ ",
+        "groupNameRU": "ГОЛОВНЫЕ УБОРЫ И ИХ ЧАСТИ",
+        "groupNameLAT": "ShLYaPALAR VA ULARNING QISMLARI "
+      },
+      {
+        "mxikCode": "06505001005003003",
+        "nameUZ": "Болалар учун шапка Elodie Logo Beanies - Amber Apricot арт 50560123153DF",
+        "nameLAT": "Bolalar uchun shapka Elodie Logo Beanies - Amber Apricot art 50560123153DF",
+        "nameRU": "Шапка детская Elodie Logo Beanies - Amber Apricot арт 50560123153DF",
+        "groupCODE": "065",
+        "groupNameUZ": "ШЛЯПАЛАР ВА УЛАРНИНГ ҚИСМЛАРИ ",
+        "groupNameRU": "ГОЛОВНЫЕ УБОРЫ И ИХ ЧАСТИ",
+        "groupNameLAT": "ShLYaPALAR VA ULARNING QISMLARI "
+      },
+      {
+        "mxikCode": "06506001022002002",
+        "nameUZ": "Кепка UZB patriot кўк, рангли герб билан, картон қоғоз 1",
+        "nameLAT": "Kepka UZB patriot ko’k, rangli gerb bilan, karton qog’oz 1",
+        "nameRU": "Кепка UZB patriot цвет синий с цветным гербом, картонная бумага 1 дона",
+        "groupCODE": "065",
+        "groupNameUZ": "ШЛЯПАЛАР ВА УЛАРНИНГ ҚИСМЛАРИ ",
+        "groupNameRU": "ГОЛОВНЫЕ УБОРЫ И ИХ ЧАСТИ",
+        "groupNameLAT": "ShLYaPALAR VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "06506001022002001",
+        "nameUZ": "Кепка UZB patriot оқ рангли, рангнли герб билан, картон қоғоз 1",
+        "nameLAT": "Kepka UZB patriot oq rangli, rangnli gerb bilan, karton qog’oz 1",
+        "nameRU": "Кепка UZB patriot цвет белый с цветным гербом, картонная бумага 1 дона",
+        "groupCODE": "065",
+        "groupNameUZ": "ШЛЯПАЛАР ВА УЛАРНИНГ ҚИСМЛАРИ ",
+        "groupNameRU": "ГОЛОВНЫЕ УБОРЫ И ИХ ЧАСТИ",
+        "groupNameLAT": "ShLYaPALAR VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "06506001022000000",
+        "nameUZ": "Кепка",
+        "nameLAT": "Kepka",
+        "nameRU": "Кепка",
+        "groupCODE": "065",
+        "groupNameUZ": "ШЛЯПАЛАР ВА УЛАРНИНГ ҚИСМЛАРИ ",
+        "groupNameRU": "ГОЛОВНЫЕ УБОРЫ И ИХ ЧАСТИ",
+        "groupNameLAT": "ShLYaPALAR VA ULARNING QISMLARI "
+      },
+      {
+        "mxikCode": "06505001005003011",
+        "nameUZ": "Болалар учун шапка Elodie Logo Beanies - Powder Pink арт 50560118152DF",
+        "nameLAT": "Bolalar uchun shapka Elodie Logo Beanies - Powder Pink art 50560118152DF",
+        "nameRU": "Шапка детская Elodie Logo Beanies - Powder Pink арт 50560118152DF",
+        "groupCODE": "065",
+        "groupNameUZ": "ШЛЯПАЛАР ВА УЛАРНИНГ ҚИСМЛАРИ ",
+        "groupNameRU": "ГОЛОВНЫЕ УБОРЫ И ИХ ЧАСТИ",
+        "groupNameLAT": "ShLYaPALAR VA ULARNING QISMLARI "
+      },
+      {
+        "mxikCode": "06505001005003016",
+        "nameUZ": "Болалар учун шапка Elodie Logo Beanies - Warm Sand арт 50560120114DE",
+        "nameLAT": "Bolalar uchun shapka Elodie Logo Beanies - Warm Sand art 50560120114DE",
+        "nameRU": "Шапка детская Elodie Logo Beanies - Warm Sand арт 50560120114DE",
+        "groupCODE": "065",
+        "groupNameUZ": "ШЛЯПАЛАР ВА УЛАРНИНГ ҚИСМЛАРИ ",
+        "groupNameRU": "ГОЛОВНЫЕ УБОРЫ И ИХ ЧАСТИ",
+        "groupNameLAT": "ShLYaPALAR VA ULARNING QISMLARI "
+      },
+      {
+        "mxikCode": "06505001005003007",
+        "nameUZ": "Болалар учун шапка Elodie Logo Beanies - Hazy Jade арт 50560122185DD",
+        "nameLAT": "Bolalar uchun shapka Elodie Logo Beanies - Hazy Jade art 50560122185DD",
+        "nameRU": "Шапка детская Elodie Logo Beanies - Hazy Jade арт 50560122185DD",
+        "groupCODE": "065",
+        "groupNameUZ": "ШЛЯПАЛАР ВА УЛАРНИНГ ҚИСМЛАРИ ",
+        "groupNameRU": "ГОЛОВНЫЕ УБОРЫ И ИХ ЧАСТИ",
+        "groupNameLAT": "ShLYaPALAR VA ULARNING QISMLARI "
+      },
+      {
+        "mxikCode": "06505001005003010",
+        "nameUZ": "Болалар учун шапка Elodie Logo Beanies - Powder Pink арт 50560118152DE",
+        "nameLAT": "Bolalar uchun shapka Elodie Logo Beanies - Powder Pink art 50560118152DE",
+        "nameRU": "Шапка детская Elodie Logo Beanies - Powder Pink арт 50560118152DE",
+        "groupCODE": "065",
+        "groupNameUZ": "ШЛЯПАЛАР ВА УЛАРНИНГ ҚИСМЛАРИ ",
+        "groupNameRU": "ГОЛОВНЫЕ УБОРЫ И ИХ ЧАСТИ",
+        "groupNameLAT": "ShLYaPALAR VA ULARNING QISMLARI "
+      },
+      {
+        "mxikCode": "06505001009001001",
+        "nameUZ": "Катталар учун шляпа Bonito панама қиз болалар учун, ўлчами 104 артикул: ор869 оқ (тарвузлар)",
+        "nameLAT": "Kattalar uchun shlyapa Bonito panama qiz bolalar uchun, o’lchami 104 artikul: or869 oq (tarvuzlar)",
+        "nameRU": "Шляпа для взрослых Bonito панама для девочек, размер 104 артикул: ор869 белый (арбузы)",
+        "groupCODE": "065",
+        "groupNameUZ": "ШЛЯПАЛАР ВА УЛАРНИНГ ҚИСМЛАРИ ",
+        "groupNameRU": "ГОЛОВНЫЕ УБОРЫ И ИХ ЧАСТИ",
+        "groupNameLAT": "ShLYaPALAR VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "06505001009001008",
+        "nameUZ": "Катталар учун шляпа Bonito панама қиз болалар учун, ўлчами 104 артикул: ор870, ранги кўк (йўл-йўл)",
+        "nameLAT": "Kattalar uchun shlyapa Bonito panama qiz bolalar uchun, o’lchami 104 artikul: or870, rangi ko’k (yo’l-yo’l)",
+        "nameRU": "Шляпа для взрослых Bonito панама для девочек, размер 104 артикул: ор870 цвет синий (полоска)",
+        "groupCODE": "065",
+        "groupNameUZ": "ШЛЯПАЛАР ВА УЛАРНИНГ ҚИСМЛАРИ ",
+        "groupNameRU": "ГОЛОВНЫЕ УБОРЫ И ИХ ЧАСТИ",
+        "groupNameLAT": "ShLYaPALAR VA ULARNING QISMLARI "
+      },
+      {
+        "mxikCode": "06505001009001036",
+        "nameUZ": "Катталар учун шляпа Bonito панама қиз болалар учун, ўлчами 122 артикул: ор869, ранги оқ (қушча)",
+        "nameLAT": "Kattalar uchun shlyapa Bonito panama qiz bolalar uchun, o’lchami 122 artikul: or869, rangi oq (qushcha)",
+        "nameRU": "Шляпа для взрослых Bonito панама для девочек, размер 122 артикул: ор869 цвет белый (птички)",
+        "groupCODE": "065",
+        "groupNameUZ": "ШЛЯПАЛАР ВА УЛАРНИНГ ҚИСМЛАРИ ",
+        "groupNameRU": "ГОЛОВНЫЕ УБОРЫ И ИХ ЧАСТИ",
+        "groupNameLAT": "ShLYaPALAR VA ULARNING QISMLARI "
+      },
+      {
+        "mxikCode": "06505001005003004",
+        "nameUZ": "Болалар учун шапка Elodie Logo Beanies - Burned Clay арт 50560119155DD",
+        "nameLAT": "Bolalar uchun shapka Elodie Logo Beanies - Burned Clay art 50560119155DD",
+        "nameRU": "Шапка детская Elodie Logo Beanies - Burned Clay арт 50560119155DD",
+        "groupCODE": "065",
+        "groupNameUZ": "ШЛЯПАЛАР ВА УЛАРНИНГ ҚИСМЛАРИ ",
+        "groupNameRU": "ГОЛОВНЫЕ УБОРЫ И ИХ ЧАСТИ",
+        "groupNameLAT": "ShLYaPALAR VA ULARNING QISMLARI "
+      },
+      {
+        "mxikCode": "06506001006001002",
+        "nameUZ": "Бир марталик шарлотка медицина шапкаси Clinic Clean Картон қути 50",
+        "nameLAT": "Bir martalik sharlotka meditsina shapkasi Clinic Clean Karton quti 50",
+        "nameRU": "Шапочка шарлотка медицинская одноразовая Clinic Clean Картонная коробка 50",
+        "groupCODE": "065",
+        "groupNameUZ": "ШЛЯПАЛАР ВА УЛАРНИНГ ҚИСМЛАРИ ",
+        "groupNameRU": "ГОЛОВНЫЕ УБОРЫ И ИХ ЧАСТИ",
+        "groupNameLAT": "ShLYaPALAR VA ULARNING QISMLARI "
+      },
+      {
+        "mxikCode": "06506001008000000",
+        "nameUZ": "Чўмилиш шапкаси",
+        "nameLAT": "Cho’milish shapkasi",
+        "nameRU": "Шапка для плавания",
+        "groupCODE": "065",
+        "groupNameUZ": "ШЛЯПАЛАР ВА УЛАРНИНГ ҚИСМЛАРИ ",
+        "groupNameRU": "ГОЛОВНЫЕ УБОРЫ И ИХ ЧАСТИ",
+        "groupNameLAT": "ShLYaPALAR VA ULARNING QISMLARI "
+      },
+      {
+        "mxikCode": "06506001006000000",
+        "nameUZ": "Бир марталик шарлотка медицина шапкаси",
+        "nameLAT": "Bir martalik sharlotka meditsina shapkasi",
+        "nameRU": "Шапочка шарлотка медицинская одноразовая",
+        "groupCODE": "065",
+        "groupNameUZ": "ШЛЯПАЛАР ВА УЛАРНИНГ ҚИСМЛАРИ ",
+        "groupNameRU": "ГОЛОВНЫЕ УБОРЫ И ИХ ЧАСТИ",
+        "groupNameLAT": "ShLYaPALAR VA ULARNING QISMLARI "
+      },
+      {
+        "mxikCode": "06506001017000000",
+        "nameUZ": "Шапка (берет)",
+        "nameLAT": "Shapka (beret)",
+        "nameRU": "Берет",
+        "groupCODE": "065",
+        "groupNameUZ": "ШЛЯПАЛАР ВА УЛАРНИНГ ҚИСМЛАРИ ",
+        "groupNameRU": "ГОЛОВНЫЕ УБОРЫ И ИХ ЧАСТИ",
+        "groupNameLAT": "ShLYaPALAR VA ULARNING QISMLARI "
+      },
+      {
+        "mxikCode": "06506001016000000",
+        "nameUZ": "Балаклава",
+        "nameLAT": "Balaklava",
+        "nameRU": "Балаклава",
+        "groupCODE": "065",
+        "groupNameUZ": "ШЛЯПАЛАР ВА УЛАРНИНГ ҚИСМЛАРИ ",
+        "groupNameRU": "ГОЛОВНЫЕ УБОРЫ И ИХ ЧАСТИ",
+        "groupNameLAT": "ShLYaPALAR VA ULARNING QISMLARI "
+      },
+      {
+        "mxikCode": "06506001023000000",
+        "nameUZ": "Бошқа бош кийимлар (бошқа субпозицияларда кўрсатилмаган)",
+        "nameLAT": "Boshqa bosh kiyimlar (boshqa subpozitsiyalarda ko’rsatilmagan)",
+        "nameRU": "Прочие головные уборы ( не перечисленные в других субпозициях)",
+        "groupCODE": "065",
+        "groupNameUZ": "ШЛЯПАЛАР ВА УЛАРНИНГ ҚИСМЛАРИ ",
+        "groupNameRU": "ГОЛОВНЫЕ УБОРЫ И ИХ ЧАСТИ",
+        "groupNameLAT": "ShLYaPALAR VA ULARNING QISMLARI "
+      },
+      {
+        "mxikCode": "06505001003001001",
+        "nameUZ": "Аёллар шапкаси LUKBO TEKSTIL 100% пахта артикул:лпшж248 ўлчами 56 картон қути 12",
+        "nameLAT": "Ayollar shapkasi LUKBO TEKSTIL 100% paxta artikul:lpshj248 o’lchami 56 karton quti 12",
+        "nameRU": "Шапка женская LUKBO TEKSTIL 100% хлопок артикул:лпшж248 размер 56 картонная коробка 12",
+        "groupCODE": "065",
+        "groupNameUZ": "ШЛЯПАЛАР ВА УЛАРНИНГ ҚИСМЛАРИ ",
+        "groupNameRU": "ГОЛОВНЫЕ УБОРЫ И ИХ ЧАСТИ",
+        "groupNameLAT": "ShLYaPALAR VA ULARNING QISMLARI "
+      },
+      {
+        "mxikCode": "06505001005001002",
+        "nameUZ": "Болалар учун шапка LUKBO TEKSTIL песочник+шапка ўғил болалар учун, 100% пахта артикул:лкпм127 картон қути 40",
+        "nameLAT": "Bolalar uchun shapka LUKBO TEKSTIL pesochnik+shapka o’g’il bolalar uchun, 100% paxta artikul:lkpm127 karton quti 40",
+        "nameRU": "Шапка детская LUKBO TEKSTIL песочник+шапка для мальчиков, 100% хлопок артикул:лкпм127 картонная коробка 40",
+        "groupCODE": "065",
+        "groupNameUZ": "ШЛЯПАЛАР ВА УЛАРНИНГ ҚИСМЛАРИ ",
+        "groupNameRU": "ГОЛОВНЫЕ УБОРЫ И ИХ ЧАСТИ",
+        "groupNameLAT": "ShLYaPALAR VA ULARNING QISMLARI "
+      },
+      {
+        "mxikCode": "06505001005003014",
+        "nameUZ": "Болалар учун шапка Elodie Logo Beanies - Tender Blue арт 50560121190DF",
+        "nameLAT": "Bolalar uchun shapka Elodie Logo Beanies - Tender Blue art 50560121190DF",
+        "nameRU": "Шапка детская Elodie Logo Beanies - Tender Blue арт 50560121190DF",
+        "groupCODE": "065",
+        "groupNameUZ": "ШЛЯПАЛАР ВА УЛАРНИНГ ҚИСМЛАРИ ",
+        "groupNameRU": "ГОЛОВНЫЕ УБОРЫ И ИХ ЧАСТИ",
+        "groupNameLAT": "ShLYaPALAR VA ULARNING QISMLARI "
+      },
+      {
+        "mxikCode": "06505001005003012",
+        "nameUZ": "Болалар учун шапка Elodie Logo Beanies - Tender Blue арт 50560121190DD",
+        "nameLAT": "Bolalar uchun shapka Elodie Logo Beanies - Tender Blue art 50560121190DD",
+        "nameRU": "Шапка детская Elodie Logo Beanies - Tender Blue арт 50560121190DD",
+        "groupCODE": "065",
+        "groupNameUZ": "ШЛЯПАЛАР ВА УЛАРНИНГ ҚИСМЛАРИ ",
+        "groupNameRU": "ГОЛОВНЫЕ УБОРЫ И ИХ ЧАСТИ",
+        "groupNameLAT": "ShLYaPALAR VA ULARNING QISMLARI "
+      },
+      {
+        "mxikCode": "06505001005003005",
+        "nameUZ": "Болалар учун шапка Elodie Logo Beanies - Burned Clay арт 50560119155DE",
+        "nameLAT": "Bolalar uchun shapka Elodie Logo Beanies - Burned Clay art 50560119155DE",
+        "nameRU": "Шапка детская Elodie Logo Beanies - Burned Clay арт 50560119155DE",
+        "groupCODE": "065",
+        "groupNameUZ": "ШЛЯПАЛАР ВА УЛАРНИНГ ҚИСМЛАРИ ",
+        "groupNameRU": "ГОЛОВНЫЕ УБОРЫ И ИХ ЧАСТИ",
+        "groupNameLAT": "ShLYaPALAR VA ULARNING QISMLARI "
+      },
+      {
+        "mxikCode": "06505001005003013",
+        "nameUZ": "Болалар учун шапка Elodie Logo Beanies - Tender Blue арт 50560121190DE",
+        "nameLAT": "Bolalar uchun shapka Elodie Logo Beanies - Tender Blue art 50560121190DE",
+        "nameRU": "Шапка детская Elodie Logo Beanies - Tender Blue арт 50560121190DE",
+        "groupCODE": "065",
+        "groupNameUZ": "ШЛЯПАЛАР ВА УЛАРНИНГ ҚИСМЛАРИ ",
+        "groupNameRU": "ГОЛОВНЫЕ УБОРЫ И ИХ ЧАСТИ",
+        "groupNameLAT": "ShLYaPALAR VA ULARNING QISMLARI "
+      },
+      {
+        "mxikCode": "06505001005003015",
+        "nameUZ": "Болалар учун шапка Elodie Logo Beanies - Warm Sand арт 50560120114DD",
+        "nameLAT": "Bolalar uchun shapka Elodie Logo Beanies - Warm Sand art 50560120114DD",
+        "nameRU": "Шапка детская Elodie Logo Beanies - Warm Sand арт 50560120114DD",
+        "groupCODE": "065",
+        "groupNameUZ": "ШЛЯПАЛАР ВА УЛАРНИНГ ҚИСМЛАРИ ",
+        "groupNameRU": "ГОЛОВНЫЕ УБОРЫ И ИХ ЧАСТИ",
+        "groupNameLAT": "ShLYaPALAR VA ULARNING QISMLARI "
+      },
+      {
+        "mxikCode": "06505001005003006",
+        "nameUZ": "Болалар учун шапка Elodie Logo Beanies - Burned Clay арт 50560119155DF",
+        "nameLAT": "Bolalar uchun shapka Elodie Logo Beanies - Burned Clay art 50560119155DF",
+        "nameRU": "Шапка детская Elodie Logo Beanies - Burned Clay арт 50560119155DF",
+        "groupCODE": "065",
+        "groupNameUZ": "ШЛЯПАЛАР ВА УЛАРНИНГ ҚИСМЛАРИ ",
+        "groupNameRU": "ГОЛОВНЫЕ УБОРЫ И ИХ ЧАСТИ",
+        "groupNameLAT": "ShLYaPALAR VA ULARNING QISMLARI "
+      },
+      {
+        "mxikCode": "06505001005003002",
+        "nameUZ": "Болалар учун шапка Elodie Logo Beanies - Amber Apricot арт 50560123153DE",
+        "nameLAT": "Bolalar uchun shapka Elodie Logo Beanies - Amber Apricot art 50560123153DE",
+        "nameRU": "Шапка детская Elodie Logo Beanies - Amber Apricot арт 50560123153DE",
+        "groupCODE": "065",
+        "groupNameUZ": "ШЛЯПАЛАР ВА УЛАРНИНГ ҚИСМЛАРИ ",
+        "groupNameRU": "ГОЛОВНЫЕ УБОРЫ И ИХ ЧАСТИ",
+        "groupNameLAT": "ShLYaPALAR VA ULARNING QISMLARI "
+      },
+      {
+        "mxikCode": "06505001005003008",
+        "nameUZ": "Болалар учун шапка Elodie Logo Beanies - Hazy Jade арт 50560122185DE",
+        "nameLAT": "Bolalar uchun shapka Elodie Logo Beanies - Hazy Jade art 50560122185DE",
+        "nameRU": "Шапка детская Elodie Logo Beanies - Hazy Jade арт 50560122185DE",
+        "groupCODE": "065",
+        "groupNameUZ": "ШЛЯПАЛАР ВА УЛАРНИНГ ҚИСМЛАРИ ",
+        "groupNameRU": "ГОЛОВНЫЕ УБОРЫ И ИХ ЧАСТИ",
+        "groupNameLAT": "ShLYaPALAR VA ULARNING QISMLARI "
+      },
+      {
+        "mxikCode": "06505001005003001",
+        "nameUZ": "Болалар учун шапка Elodie Logo Beanies - Amber Apricot арт 50560123153DD",
+        "nameLAT": "Bolalar uchun shapka Elodie Logo Beanies - Amber Apricot art 50560123153DD",
+        "nameRU": "Шапка детская Elodie Logo Beanies - Amber Apricot арт 50560123153DD",
+        "groupCODE": "065",
+        "groupNameUZ": "ШЛЯПАЛАР ВА УЛАРНИНГ ҚИСМЛАРИ ",
+        "groupNameRU": "ГОЛОВНЫЕ УБОРЫ И ИХ ЧАСТИ",
+        "groupNameLAT": "ShLYaPALAR VA ULARNING QISMLARI "
+      },
+      {
+        "mxikCode": "06505001005003009",
+        "nameUZ": "Болалар учун шапка Elodie Logo Beanies - Powder Pink арт 50560118152DD",
+        "nameLAT": "Bolalar uchun shapka Elodie Logo Beanies - Powder Pink art 50560118152DD",
+        "nameRU": "Шапка детская Elodie Logo Beanies - Powder Pink арт 50560118152DD",
+        "groupCODE": "065",
+        "groupNameUZ": "ШЛЯПАЛАР ВА УЛАРНИНГ ҚИСМЛАРИ ",
+        "groupNameRU": "ГОЛОВНЫЕ УБОРЫ И ИХ ЧАСТИ",
+        "groupNameLAT": "ShLYaPALAR VA ULARNING QISMLARI "
+      },
+      {
+        "mxikCode": "06506001019000000",
+        "nameUZ": "Фуражка",
+        "nameLAT": "Furajka",
+        "nameRU": "Фуражка",
+        "groupCODE": "065",
+        "groupNameUZ": "ШЛЯПАЛАР ВА УЛАРНИНГ ҚИСМЛАРИ ",
+        "groupNameRU": "ГОЛОВНЫЕ УБОРЫ И ИХ ЧАСТИ",
+        "groupNameLAT": "ShLYaPALAR VA ULARNING QISMLARI "
+      },
+      {
+        "mxikCode": "06506001010000000",
+        "nameUZ": "Ошпаз қалпоғи",
+        "nameLAT": "Oshpaz qalpog’i",
+        "nameRU": "Колпак для повара",
+        "groupCODE": "065",
+        "groupNameUZ": "ШЛЯПАЛАР ВА УЛАРНИНГ ҚИСМЛАРИ ",
+        "groupNameRU": "ГОЛОВНЫЕ УБОРЫ И ИХ ЧАСТИ",
+        "groupNameLAT": "ShLYaPALAR VA ULARNING QISMLARI "
+      },
+      {
+        "mxikCode": "06505001005003017",
+        "nameUZ": "Болалар учун шапка Elodie Logo Beanies - Warm Sand арт 50560120114DF",
+        "nameLAT": "Bolalar uchun shapka Elodie Logo Beanies - Warm Sand art 50560120114DF",
+        "nameRU": "Шапка детская Elodie Logo Beanies - Warm Sand арт 50560120114DF",
+        "groupCODE": "065",
+        "groupNameUZ": "ШЛЯПАЛАР ВА УЛАРНИНГ ҚИСМЛАРИ ",
+        "groupNameRU": "ГОЛОВНЫЕ УБОРЫ И ИХ ЧАСТИ",
+        "groupNameLAT": "ShLYaPALAR VA ULARNING QISMLARI "
+      },
+      {
+        "mxikCode": "06506001018000000",
+        "nameUZ": "Рўмол",
+        "nameLAT": "Ro’mol",
+        "nameRU": "Платок (косынка)",
+        "groupCODE": "065",
+        "groupNameUZ": "ШЛЯПАЛАР ВА УЛАРНИНГ ҚИСМЛАРИ ",
+        "groupNameRU": "ГОЛОВНЫЕ УБОРЫ И ИХ ЧАСТИ",
+        "groupNameLAT": "ShLYaPALAR VA ULARNING QISMLARI "
+      },
+      {
+        "mxikCode": "06505001009001024",
+        "nameUZ": "Катталар учун шляпа Bonito панама қиз болалар учун, ўлчами 116 артикул: ор869 пушти ранг (гуллар)",
+        "nameLAT": "Kattalar uchun shlyapa Bonito panama qiz bolalar uchun, o’lchami 116 artikul: or869 pushti rang (gullar)",
+        "nameRU": "Шляпа для взрослых Bonito панама для девочек, размер 116 артикул: ор869 розовый (цветы)",
+        "groupCODE": "065",
+        "groupNameUZ": "ШЛЯПАЛАР ВА УЛАРНИНГ ҚИСМЛАРИ ",
+        "groupNameRU": "ГОЛОВНЫЕ УБОРЫ И ИХ ЧАСТИ",
+        "groupNameLAT": "ShLYaPALAR VA ULARNING QISMLARI "
+      },
+      {
+        "mxikCode": "06505001009001043",
+        "nameUZ": "Катталар учун шляпа Bonito панама қиз болалар учун, ўлчами 98 артикул: ор869 оқ (тарвузлар)",
+        "nameLAT": "Kattalar uchun shlyapa Bonito panama qiz bolalar uchun, o’lchami 98 artikul: or869 oq (tarvuzlar)",
+        "nameRU": "Шляпа для взрослых Bonito панама для девочек, размер 98 артикул: ор869 белый (арбузы)",
+        "groupCODE": "065",
+        "groupNameUZ": "ШЛЯПАЛАР ВА УЛАРНИНГ ҚИСМЛАРИ ",
+        "groupNameRU": "ГОЛОВНЫЕ УБОРЫ И ИХ ЧАСТИ",
+        "groupNameLAT": "ShLYaPALAR VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "06505001009001054",
+        "nameUZ": "Катталар учун шляпа Bonito панама қиз болалар учун, ўлчами 98 артикул: ор870, ранги ҳаво ранг (йўл-йўл)",
+        "nameLAT": "Kattalar uchun shlyapa Bonito panama qiz bolalar uchun, o’lchami 98 artikul: or870, rangi havo rang (yo’l-yo’l)",
+        "nameRU": "Шляпа для взрослых Bonito панама для девочек, размер 98 артикул: ор870 цвет голубой (полоска)",
+        "groupCODE": "065",
+        "groupNameUZ": "ШЛЯПАЛАР ВА УЛАРНИНГ ҚИСМЛАРИ ",
+        "groupNameRU": "ГОЛОВНЫЕ УБОРЫ И ИХ ЧАСТИ",
+        "groupNameLAT": "ShLYaPALAR VA ULARNING QISMLARI "
+      },
+      {
+        "mxikCode": "06505001018000000",
+        "nameUZ": "Болалар учун шляпа",
+        "nameLAT": "Bolalar uchun shlyapa",
+        "nameRU": "Шляпа для детей",
+        "groupCODE": "065",
+        "groupNameUZ": "ШЛЯПАЛАР ВА УЛАРНИНГ ҚИСМЛАРИ ",
+        "groupNameRU": "ГОЛОВНЫЕ УБОРЫ И ИХ ЧАСТИ",
+        "groupNameLAT": "ShLYaPALAR VA ULARNING QISMLARI "
+      },
+      {
+        "mxikCode": "06506002005000000",
+        "nameUZ": "Бошқа ҳимоя бош кийимлари",
+        "nameLAT": "Boshqa himoya bosh kiyimlari",
+        "nameRU": "Прочие защитные головные уборы",
+        "groupCODE": "065",
+        "groupNameUZ": "ШЛЯПАЛАР ВА УЛАРНИНГ ҚИСМЛАРИ ",
+        "groupNameRU": "ГОЛОВНЫЕ УБОРЫ И ИХ ЧАСТИ",
+        "groupNameLAT": "ShLYaPALAR VA ULARNING QISMLARI "
+      },
+      {
+        "mxikCode": "06505001009000000",
+        "nameUZ": "Катталар учун шляпа",
+        "nameLAT": "Kattalar uchun shlyapa",
+        "nameRU": "Шляпа для взрослых",
+        "groupCODE": "065",
+        "groupNameUZ": "ШЛЯПАЛАР ВА УЛАРНИНГ ҚИСМЛАРИ ",
+        "groupNameRU": "ГОЛОВНЫЕ УБОРЫ И ИХ ЧАСТИ",
+        "groupNameLAT": "ShLYaPALAR VA ULARNING QISMLARI "
+      },
+      {
+        "mxikCode": "06506001006001004",
+        "nameUZ": "Бир марталик шарлотка медицина шапкаси Clinic Clean 50",
+        "nameLAT": "Bir martalik sharlotka meditsina shapkasi Clinic Clean 50",
+        "nameRU": "Шапочка шарлотка медицинская одноразовая Clinic Clean 50",
+        "groupCODE": "065",
+        "groupNameUZ": "ШЛЯПАЛАР ВА УЛАРНИНГ ҚИСМЛАРИ ",
+        "groupNameRU": "ГОЛОВНЫЕ УБОРЫ И ИХ ЧАСТИ",
+        "groupNameLAT": "ShLYaPALAR VA ULARNING QISMLARI "
+      },
+      {
+        "mxikCode": "06505001007000000",
+        "nameUZ": "Эркаклар дўпписи",
+        "nameLAT": "Erkaklar do’ppisi",
+        "nameRU": "Тюбетейка мужская",
+        "groupCODE": "065",
+        "groupNameUZ": "ШЛЯПАЛАР ВА УЛАРНИНГ ҚИСМЛАРИ ",
+        "groupNameRU": "ГОЛОВНЫЕ УБОРЫ И ИХ ЧАСТИ",
+        "groupNameLAT": "ShLYaPALAR VA ULARNING QISMLARI "
+      },
+      {
+        "mxikCode": "06506001006002001",
+        "nameUZ": "Бир марталик шарлотка медицина шапкаси Sof 50 дона",
+        "nameLAT": "Bir martalik sharlotka meditsina shapkasi Sof 50 dona",
+        "nameRU": "Шапочка шарлотка медицинская одноразовая Sof  50 шт",
+        "groupCODE": "065",
+        "groupNameUZ": "ШЛЯПАЛАР ВА УЛАРНИНГ ҚИСМЛАРИ ",
+        "groupNameRU": "ГОЛОВНЫЕ УБОРЫ И ИХ ЧАСТИ",
+        "groupNameLAT": "ShLYaPALAR VA ULARNING QISMLARI "
+      },
+      {
+        "mxikCode": "06505001009002002",
+        "nameUZ": "Катталар учун шляпа LUKBO TEKSTIL болалар учун артикул:лппд262 100% пахта ўлчами 52 картон қути 8",
+        "nameLAT": "Kattalar uchun shlyapa LUKBO TEKSTIL bolalar uchun artikul:lppd262 100% paxta o’lchami 52 karton quti 8",
+        "nameRU": "Шляпа для взрослых LUKBO TEKSTIL детская артикул:лппд262 100% хлопок размер 52 картонная коробка 8",
+        "groupCODE": "065",
+        "groupNameUZ": "ШЛЯПАЛАР ВА УЛАРНИНГ ҚИСМЛАРИ ",
+        "groupNameRU": "ГОЛОВНЫЕ УБОРЫ И ИХ ЧАСТИ",
+        "groupNameLAT": "ShLYaPALAR VA ULARNING QISMLARI "
+      },
+      {
+        "mxikCode": "06505001009001012",
+        "nameUZ": "Катталар учун шляпа Bonito панама қиз болалар учун, ўлчами 110 артикул: ор869 оқ (тарвузлар)",
+        "nameLAT": "Kattalar uchun shlyapa Bonito panama qiz bolalar uchun, o’lchami 110 artikul: or869 oq (tarvuzlar)",
+        "nameRU": "Шляпа для взрослых Bonito панама для девочек, размер 110 артикул: ор869 белый (арбузы)",
+        "groupCODE": "065",
+        "groupNameUZ": "ШЛЯПАЛАР ВА УЛАРНИНГ ҚИСМЛАРИ ",
+        "groupNameRU": "ГОЛОВНЫЕ УБОРЫ И ИХ ЧАСТИ",
+        "groupNameLAT": "ShLYaPALAR VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "06505001009001015",
+        "nameUZ": "Катталар учун шляпа Bonito панама қиз болалар учун, ўлчами 110 артикул: ор869, ранги оқ (қушча)",
+        "nameLAT": "Kattalar uchun shlyapa Bonito panama qiz bolalar uchun, o’lchami 110 artikul: or869, rangi oq (qushcha)",
+        "nameRU": "Шляпа для взрослых Bonito панама для девочек, размер 110 артикул: ор869 цвет белый (птички)",
+        "groupCODE": "065",
+        "groupNameUZ": "ШЛЯПАЛАР ВА УЛАРНИНГ ҚИСМЛАРИ ",
+        "groupNameRU": "ГОЛОВНЫЕ УБОРЫ И ИХ ЧАСТИ",
+        "groupNameLAT": "ShLYaPALAR VA ULARNING QISMLARI "
+      },
+      {
+        "mxikCode": "06505001009001017",
+        "nameUZ": "Катталар учун шляпа Bonito панама қиз болалар учун, ўлчами 110 артикул: ор869, ранги оқ (мевалар)",
+        "nameLAT": "Kattalar uchun shlyapa Bonito panama qiz bolalar uchun, o’lchami 110 artikul: or869, rangi oq (mevalar)",
+        "nameRU": "Шляпа для взрослых Bonito панама для девочек, размер 110 артикул: ор869 цвет белый (фрукты)",
+        "groupCODE": "065",
+        "groupNameUZ": "ШЛЯПАЛАР ВА УЛАРНИНГ ҚИСМЛАРИ ",
+        "groupNameRU": "ГОЛОВНЫЕ УБОРЫ И ИХ ЧАСТИ",
+        "groupNameLAT": "ShLYaPALAR VA ULARNING QISMLARI "
+      },
+      {
+        "mxikCode": "06505001009001037",
+        "nameUZ": "Катталар учун шляпа Bonito панама қиз болалар учун, ўлчами 122 артикул: ор869, ранги оқ (мевалар)",
+        "nameLAT": "Kattalar uchun shlyapa Bonito panama qiz bolalar uchun, o’lchami 122 artikul: or869, rangi oq (mevalar)",
+        "nameRU": "Шляпа для взрослых Bonito панама для девочек, размер 122 артикул: ор869 цвет белый (фрукты)",
+        "groupCODE": "065",
+        "groupNameUZ": "ШЛЯПАЛАР ВА УЛАРНИНГ ҚИСМЛАРИ ",
+        "groupNameRU": "ГОЛОВНЫЕ УБОРЫ И ИХ ЧАСТИ",
+        "groupNameLAT": "ShLYaPALAR VA ULARNING QISMLARI "
+      },
+      {
+        "mxikCode": "06505001009001002",
+        "nameUZ": "Катталар учун шляпа Bonito панама қиз болалар учун, ўлчами 104 артикул: ор869 пушти ранг (гуллар)",
+        "nameLAT": "Kattalar uchun shlyapa Bonito panama qiz bolalar uchun, o’lchami 104 artikul: or869 pushti rang (gullar)",
+        "nameRU": "Шляпа для взрослых Bonito панама для девочек, размер 104 артикул: ор869 розовый (цветы)",
+        "groupCODE": "065",
+        "groupNameUZ": "ШЛЯПАЛАР ВА УЛАРНИНГ ҚИСМЛАРИ ",
+        "groupNameRU": "ГОЛОВНЫЕ УБОРЫ И ИХ ЧАСТИ",
+        "groupNameLAT": "ShLYaPALAR VA ULARNING QISMLARI "
+      },
+      {
+        "mxikCode": "06505001009001053",
+        "nameUZ": "Катталар учун шляпа Bonito панама қиз болалар учун, ўлчами 98 артикул: ор870, ранги пушти ранг (йўл-йўл)",
+        "nameLAT": "Kattalar uchun shlyapa Bonito panama qiz bolalar uchun, o’lchami 98 artikul: or870, rangi pushti rang (yo’l-yo’l)",
+        "nameRU": "Шляпа для взрослых Bonito панама для девочек, размер 98 артикул: ор870 цвет розовый (полоска)",
+        "groupCODE": "065",
+        "groupNameUZ": "ШЛЯПАЛАР ВА УЛАРНИНГ ҚИСМЛАРИ ",
+        "groupNameRU": "ГОЛОВНЫЕ УБОРЫ И ИХ ЧАСТИ",
+        "groupNameLAT": "ShLYaPALAR VA ULARNING QISMLARI "
+      },
+      {
+        "mxikCode": "06505001009001009",
+        "nameUZ": "Катталар учун шляпа Bonito панама қиз болалар учун, ўлчами 104 артикул: ор870, ранги мовий (йўл-йўл)",
+        "nameLAT": "Kattalar uchun shlyapa Bonito panama qiz bolalar uchun, o’lchami 104 artikul: or870, rangi moviy (yo’l-yo’l)",
+        "nameRU": "Шляпа для взрослых Bonito панама для девочек, размер 104 артикул: ор870 цвет бирюзовый (полоска)",
+        "groupCODE": "065",
+        "groupNameUZ": "ШЛЯПАЛАР ВА УЛАРНИНГ ҚИСМЛАРИ ",
+        "groupNameRU": "ГОЛОВНЫЕ УБОРЫ И ИХ ЧАСТИ",
+        "groupNameLAT": "ShLYaPALAR VA ULARNING QISMLARI "
+      },
+      {
+        "mxikCode": "06505001009001026",
+        "nameUZ": "Катталар учун шляпа Bonito панама қиз болалар учун, ўлчами 116 артикул: ор869, ранги оқ (қушча)",
+        "nameLAT": "Kattalar uchun shlyapa Bonito panama qiz bolalar uchun, o’lchami 116 artikul: or869, rangi oq (qushcha)",
+        "nameRU": "Шляпа для взрослых Bonito панама для девочек, размер 116 артикул: ор869 цвет белый (птички)",
+        "groupCODE": "065",
+        "groupNameUZ": "ШЛЯПАЛАР ВА УЛАРНИНГ ҚИСМЛАРИ ",
+        "groupNameRU": "ГОЛОВНЫЕ УБОРЫ И ИХ ЧАСТИ",
+        "groupNameLAT": "ShLYaPALAR VA ULARNING QISMLARI "
+      },
+      {
+        "mxikCode": "06505001009001047",
+        "nameUZ": "Катталар учун шляпа Bonito панама қиз болалар учун, ўлчами 98 артикул: ор869, ранги оқ (қушча)",
+        "nameLAT": "Kattalar uchun shlyapa Bonito panama qiz bolalar uchun, o’lchami 98 artikul: or869, rangi oq (qushcha)",
+        "nameRU": "Шляпа для взрослых Bonito панама для девочек, размер 98 артикул: ор869 цвет белый (птички)",
+        "groupCODE": "065",
+        "groupNameUZ": "ШЛЯПАЛАР ВА УЛАРНИНГ ҚИСМЛАРИ ",
+        "groupNameRU": "ГОЛОВНЫЕ УБОРЫ И ИХ ЧАСТИ",
+        "groupNameLAT": "ShLYaPALAR VA ULARNING QISMLARI "
+      },
+      {
+        "mxikCode": "06505001009001006",
+        "nameUZ": "Катталар учун шляпа Bonito панама қиз болалар учун, ўлчами 104 артикул: ор869, ранги оқ (мевалар)",
+        "nameLAT": "Kattalar uchun shlyapa Bonito panama qiz bolalar uchun, o’lchami 104 artikul: or869, rangi oq (mevalar)",
+        "nameRU": "Шляпа для взрослых Bonito панама для девочек, размер 104 артикул: ор869 цвет белый (фрукты)",
+        "groupCODE": "065",
+        "groupNameUZ": "ШЛЯПАЛАР ВА УЛАРНИНГ ҚИСМЛАРИ ",
+        "groupNameRU": "ГОЛОВНЫЕ УБОРЫ И ИХ ЧАСТИ",
+        "groupNameLAT": "ShLYaPALAR VA ULARNING QISMLARI "
+      },
+      {
+        "mxikCode": "06505001009001010",
+        "nameUZ": "Катталар учун шляпа Bonito панама қиз болалар учун, ўлчами 104 артикул: ор870, ранги пушти ранг (йўл-йўл)",
+        "nameLAT": "Kattalar uchun shlyapa Bonito panama qiz bolalar uchun, o’lchami 104 artikul: or870, rangi pushti rang (yo’l-yo’l)",
+        "nameRU": "Шляпа для взрослых Bonito панама для девочек, размер 104 артикул: ор870 цвет розовый (полоска)",
+        "groupCODE": "065",
+        "groupNameUZ": "ШЛЯПАЛАР ВА УЛАРНИНГ ҚИСМЛАРИ ",
+        "groupNameRU": "ГОЛОВНЫЕ УБОРЫ И ИХ ЧАСТИ",
+        "groupNameLAT": "ShLYaPALAR VA ULARNING QISMLARI "
+      },
+      {
+        "mxikCode": "06505001009001042",
+        "nameUZ": "Катталар учун шляпа Bonito панама қиз болалар учун, ўлчами 92 артикул: ор870, ранги ҳаво ранг (йўл-йўл)",
+        "nameLAT": "Kattalar uchun shlyapa Bonito panama qiz bolalar uchun, o’lchami 92 artikul: or870, rangi havo rang (yo’l-yo’l)",
+        "nameRU": "Шляпа для взрослых Bonito панама для девочек, размер 92 артикул: ор870 цвет голубой (полоска)",
+        "groupCODE": "065",
+        "groupNameUZ": "ШЛЯПАЛАР ВА УЛАРНИНГ ҚИСМЛАРИ ",
+        "groupNameRU": "ГОЛОВНЫЕ УБОРЫ И ИХ ЧАСТИ",
+        "groupNameLAT": "ShLYaPALAR VA ULARNING QISMLARI "
+      },
+      {
+        "mxikCode": "06505001009001048",
+        "nameUZ": "Катталар учун шляпа Bonito панама қиз болалар учун, ўлчами 98 артикул: ор869, ранги оқ (мевалар)",
+        "nameLAT": "Kattalar uchun shlyapa Bonito panama qiz bolalar uchun, o’lchami 98 artikul: or869, rangi oq (mevalar)",
+        "nameRU": "Шляпа для взрослых Bonito панама для девочек, размер 98 артикул: ор869 цвет белый (фрукты)",
+        "groupCODE": "065",
+        "groupNameUZ": "ШЛЯПАЛАР ВА УЛАРНИНГ ҚИСМЛАРИ ",
+        "groupNameRU": "ГОЛОВНЫЕ УБОРЫ И ИХ ЧАСТИ",
+        "groupNameLAT": "ShLYaPALAR VA ULARNING QISMLARI "
+      },
+      {
+        "mxikCode": "06505001009001005",
+        "nameUZ": "Катталар учун шляпа Bonito панама қиз болалар учун, ўлчами 104 артикул: ор869, ранги оқ (қушча)",
+        "nameLAT": "Kattalar uchun shlyapa Bonito panama qiz bolalar uchun, o’lchami 104 artikul: or869, rangi oq (qushcha)",
+        "nameRU": "Шляпа для взрослых Bonito панама для девочек, размер 104 артикул: ор869 цвет белый (птички)",
+        "groupCODE": "065",
+        "groupNameUZ": "ШЛЯПАЛАР ВА УЛАРНИНГ ҚИСМЛАРИ ",
+        "groupNameRU": "ГОЛОВНЫЕ УБОРЫ И ИХ ЧАСТИ",
+        "groupNameLAT": "ShLYaPALAR VA ULARNING QISMLARI "
+      },
+      {
+        "mxikCode": "06505001004000000",
+        "nameUZ": "Эркаклар учун шапка",
+        "nameLAT": "Erkaklar uchun shapka",
+        "nameRU": "Шапка мужская",
+        "groupCODE": "065",
+        "groupNameUZ": "ШЛЯПАЛАР ВА УЛАРНИНГ ҚИСМЛАРИ ",
+        "groupNameRU": "ГОЛОВНЫЕ УБОРЫ И ИХ ЧАСТИ",
+        "groupNameLAT": "ShLYaPALAR VA ULARNING QISMLARI "
+      },
+      {
+        "mxikCode": "06505001006000000",
+        "nameUZ": "Аёллар дўпписи",
+        "nameLAT": "Ayollar do’ppisi",
+        "nameRU": "Тюбетейка женская",
+        "groupCODE": "065",
+        "groupNameUZ": "ШЛЯПАЛАР ВА УЛАРНИНГ ҚИСМЛАРИ ",
+        "groupNameRU": "ГОЛОВНЫЕ УБОРЫ И ИХ ЧАСТИ",
+        "groupNameLAT": "ShLYaPALAR VA ULARNING QISMLARI "
+      },
+      {
+        "mxikCode": "06505001005000000",
+        "nameUZ": "Болалар учун шапка",
+        "nameLAT": "Bolalar uchun shapka",
+        "nameRU": "Шапка детская",
+        "groupCODE": "065",
+        "groupNameUZ": "ШЛЯПАЛАР ВА УЛАРНИНГ ҚИСМЛАРИ ",
+        "groupNameRU": "ГОЛОВНЫЕ УБОРЫ И ИХ ЧАСТИ",
+        "groupNameLAT": "ShLYaPALAR VA ULARNING QISMLARI "
+      },
+      {
+        "mxikCode": "06501001001000000",
+        "nameUZ": "Шляпа шакллари",
+        "nameLAT": "Shlyapa shakllari",
+        "nameRU": "Шляпные формы",
+        "groupCODE": "065",
+        "groupNameUZ": "ШЛЯПАЛАР ВА УЛАРНИНГ ҚИСМЛАРИ ",
+        "groupNameRU": "ГОЛОВНЫЕ УБОРЫ И ИХ ЧАСТИ",
+        "groupNameLAT": "ShLYaPALAR VA ULARNING QISMLARI "
+      },
+      {
+        "mxikCode": "06506001006001001",
+        "nameUZ": "Бир марталик шарлотка медицина шапкаси Clinic Clean Картон қути 20",
+        "nameLAT": "Bir martalik sharlotka meditsina shapkasi Clinic Clean Karton quti 20",
+        "nameRU": "Шапочка шарлотка медицинская одноразовая Clinic Clean Картонная коробка 20",
+        "groupCODE": "065",
+        "groupNameUZ": "ШЛЯПАЛАР ВА УЛАРНИНГ ҚИСМЛАРИ ",
+        "groupNameRU": "ГОЛОВНЫЕ УБОРЫ И ИХ ЧАСТИ",
+        "groupNameLAT": "ShLYaPALAR VA ULARNING QISMLARI "
+      },
+      {
+        "mxikCode": "06505001017000000",
+        "nameUZ": "Дўппи",
+        "nameLAT": "Do’ppi",
+        "nameRU": "Тюбетейка",
+        "groupCODE": "065",
+        "groupNameUZ": "ШЛЯПАЛАР ВА УЛАРНИНГ ҚИСМЛАРИ ",
+        "groupNameRU": "ГОЛОВНЫЕ УБОРЫ И ИХ ЧАСТИ",
+        "groupNameLAT": "ShLYaPALAR VA ULARNING QISMLARI "
+      },
+      {
+        "mxikCode": "06503001001000000",
+        "nameUZ": "Шляпалар",
+        "nameLAT": "Shlyapalar",
+        "nameRU": "Шляпные полуфабрикаты",
+        "groupCODE": "065",
+        "groupNameUZ": "ШЛЯПАЛАР ВА УЛАРНИНГ ҚИСМЛАРИ ",
+        "groupNameRU": "ГОЛОВНЫЕ УБОРЫ И ИХ ЧАСТИ",
+        "groupNameLAT": "ShLYaPALAR VA ULARNING QISMLARI "
+      },
+      {
+        "mxikCode": "06505001009001003",
+        "nameUZ": "Катталар учун шляпа Bonito панама қиз болалар учун, ўлчами 104 артикул: ор869, ранги крем (гуллар)",
+        "nameLAT": "Kattalar uchun shlyapa Bonito panama qiz bolalar uchun, o’lchami 104 artikul: or869, rangi krem (gullar)",
+        "nameRU": "Шляпа для взрослых Bonito панама для девочек, размер 104 артикул: ор869 цвет кремовый (цветы)",
+        "groupCODE": "065",
+        "groupNameUZ": "ШЛЯПАЛАР ВА УЛАРНИНГ ҚИСМЛАРИ ",
+        "groupNameRU": "ГОЛОВНЫЕ УБОРЫ И ИХ ЧАСТИ",
+        "groupNameLAT": "ShLYaPALAR VA ULARNING QISMLARI "
+      },
+      {
+        "mxikCode": "06505001009001004",
+        "nameUZ": "Катталар учун шляпа Bonito панама қиз болалар учун, ўлчами 104 артикул: ор869, ранги оқ (қушча)",
+        "nameLAT": "Kattalar uchun shlyapa Bonito panama qiz bolalar uchun, o’lchami 104 artikul: or869, rangi oq (qushcha)",
+        "nameRU": "Шляпа для взрослых Bonito панама для девочек, размер 104 артикул: ор869 цвет белый (птички)",
+        "groupCODE": "065",
+        "groupNameUZ": "ШЛЯПАЛАР ВА УЛАРНИНГ ҚИСМЛАРИ ",
+        "groupNameRU": "ГОЛОВНЫЕ УБОРЫ И ИХ ЧАСТИ",
+        "groupNameLAT": "ShLYaPALAR VA ULARNING QISMLARI "
+      },
+      {
+        "mxikCode": "06506002001000000",
+        "nameUZ": "Спорт шлемлари (бокс, чанғи, хоккей, велосипед ва бошқалар)",
+        "nameLAT": "Sport shlemlari (boks, chang’i, xokkey, velosiped va boshqalar)",
+        "nameRU": "Шлем спортивный (боксёркий, горнолыжный, хоккейный, велосипедный и т.д.)",
+        "groupCODE": "065",
+        "groupNameUZ": "ШЛЯПАЛАР ВА УЛАРНИНГ ҚИСМЛАРИ ",
+        "groupNameRU": "ГОЛОВНЫЕ УБОРЫ И ИХ ЧАСТИ",
+        "groupNameLAT": "ShLYaPALAR VA ULARNING QISMLARI "
+      },
+      {
+        "mxikCode": "06505001005001001",
+        "nameUZ": "Болалар учун шапка LUKBO TEKSTIL песочник+шапка қизлар учун 100% пахта артикул:лкпд126 картон қути 40",
+        "nameLAT": "Bolalar uchun shapka LUKBO TEKSTIL pesochnik+shapka qizlar uchun 100% paxta artikul:lkpd126 karton quti 40",
+        "nameRU": "Шапка детская LUKBO TEKSTIL песочник+шапка для девочек, 100% хлопок артикул:лкпд126 картонная коробка 40",
+        "groupCODE": "065",
+        "groupNameUZ": "ШЛЯПАЛАР ВА УЛАРНИНГ ҚИСМЛАРИ ",
+        "groupNameRU": "ГОЛОВНЫЕ УБОРЫ И ИХ ЧАСТИ",
+        "groupNameLAT": "ShLYaPALAR VA ULARNING QISMLARI "
+      },
+      {
+        "mxikCode": "06505001009001014",
+        "nameUZ": "Катталар учун шляпа Bonito панама қиз болалар учун, ўлчами 110 артикул: ор869, ранги крем (гуллар)",
+        "nameLAT": "Kattalar uchun shlyapa Bonito panama qiz bolalar uchun, o’lchami 110 artikul: or869, rangi krem (gullar)",
+        "nameRU": "Шляпа для взрослых Bonito панама для девочек, размер 110 артикул: ор869 цвет кремовый (цветы)",
+        "groupCODE": "065",
+        "groupNameUZ": "ШЛЯПАЛАР ВА УЛАРНИНГ ҚИСМЛАРИ ",
+        "groupNameRU": "ГОЛОВНЫЕ УБОРЫ И ИХ ЧАСТИ",
+        "groupNameLAT": "ShLYaPALAR VA ULARNING QISMLARI "
+      },
+      {
+        "mxikCode": "06505001009001007",
+        "nameUZ": "Катталар учун шляпа Bonito панама қиз болалар учун, ўлчами 104 артикул: ор869, ранги пушти ранг (олча)",
+        "nameLAT": "Kattalar uchun shlyapa Bonito panama qiz bolalar uchun, o’lchami 104 artikul: or869, rangi pushti rang (olcha)",
+        "nameRU": "Шляпа для взрослых Bonito панама для девочек, размер 104 артикул: ор869 цвет розовый (вишня)",
+        "groupCODE": "065",
+        "groupNameUZ": "ШЛЯПАЛАР ВА УЛАРНИНГ ҚИСМЛАРИ ",
+        "groupNameRU": "ГОЛОВНЫЕ УБОРЫ И ИХ ЧАСТИ",
+        "groupNameLAT": "ShLYaPALAR VA ULARNING QISMLARI "
+      },
+      {
+        "mxikCode": "06507001001000000",
+        "nameUZ": "Бош кийимлар учун аксессуарлар",
+        "nameLAT": "Bosh kiyimlar uchun aksessuarlar",
+        "nameRU": "Принадлежности для головных уборов",
+        "groupCODE": "065",
+        "groupNameUZ": "ШЛЯПАЛАР ВА УЛАРНИНГ ҚИСМЛАРИ ",
+        "groupNameRU": "ГОЛОВНЫЕ УБОРЫ И ИХ ЧАСТИ",
+        "groupNameLAT": "ShLYaPALAR VA ULARNING QISMLARI "
+      },
+      {
+        "mxikCode": "06505001005001003",
+        "nameUZ": "Болалар учун шапка LUKBO TEKSTIL OZB00-94 Шапка қизлар учун , 6-9 Month (68-74), ёрқин яшил",
+        "nameLAT": "Bolalar uchun shapka LUKBO TEKSTIL OZB00-94 Shapka qizlar uchun , 6-9 Month (68-74), yorqin yashil",
+        "nameRU": "Шапка детская LUKBO TEKSTIL OZB00-94 Шапка для девочек, 6-9 Month (68-74), Светло-зеллённый",
+        "groupCODE": "065",
+        "groupNameUZ": "ШЛЯПАЛАР ВА УЛАРНИНГ ҚИСМЛАРИ ",
+        "groupNameRU": "ГОЛОВНЫЕ УБОРЫ И ИХ ЧАСТИ",
+        "groupNameLAT": "ShLYaPALAR VA ULARNING QISMLARI "
+      }
+    ],
+    "recordTotal": 89,
+    "errors": null,
+    "permitted": false
+  }
+}

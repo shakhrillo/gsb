@@ -1,0 +1,1577 @@
+{
+  "metadata": {
+    "groupId": 109,
+    "fetchedAt": "2025-07-12T16:38:40.315Z",
+    "source": "https://tasnif.soliq.uz/api/cl-api/integration-mxik/references/group/code?group=109"
+  },
+  "data": {
+    "success": true,
+    "code": 200,
+    "reason": null,
+    "data": [
+      {
+        "mxikCode": "10999002004000001",
+        "nameUZ": "Футбол майдонларини ижарага бериш хизмати бюджет ташкилотлари томонидан кўрсатиладиган",
+        "nameLAT": "Futbol maydonlarini ijaraga berish xizmati byudjet tashkilotlari tomonidan ko’rsatiladigan",
+        "nameRU": "Услуга по предоставлению в аренду футбольных полей оказываемые бюджетными организациями",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10999003001000000",
+        "nameUZ": "Халқ табобати",
+        "nameLAT": "Xalq tabobati",
+        "nameRU": "Народное целительство",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10999002002000001",
+        "nameUZ": "Теннис кортлари хизматлари бюджет ташкилотлари томонидан кўрсатиладиган",
+        "nameLAT": "Tennis kortlari xizmatlari byudjet tashkilotlari tomonidan ko’rsatiladigan",
+        "nameRU": "Услуги теннисных кортов оказываемые бюджетными организациями",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902005001000000",
+        "nameUZ": "Тиш техникаларининг хизматлари, индивидуал буюртмалар бўйича тиш оғизлари (алигнерлар) ишлаб чиқариш хизматлари",
+        "nameLAT": "Tish texnikalarining xizmatlari, individual buyurtmalar bo’yicha tish og’izlari (alignerlar) ishlab chiqarish xizmatlari",
+        "nameRU": "Услуги зубных техников, услуги изготовления зубных кап (элайнеров) по индивидуальным заказам",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902003044000000",
+        "nameUZ": "Даволаш ва муолажалар бўйича репродуктолог (эко) хизматлари",
+        "nameLAT": "Davolash va muolajalar bo’yicha reproduktolog (eko) xizmatlari",
+        "nameRU": "Услуги репродуктолога (эко) по лечению и проведению процедур",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902005002000000",
+        "nameUZ": "Тиббий асбобларни стерилизация қилиш хизматлари",
+        "nameLAT": "Tibbiy asboblarni sterilizatsiya qilish xizmatlari",
+        "nameRU": "Услуги по стерилизации медицинских инструментов",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10999002002000000",
+        "nameUZ": "Теннис кортлари хизматлари",
+        "nameLAT": "Tennis kortlari xizmatlari",
+        "nameRU": "Услуги теннисных кортов",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902001099000000",
+        "nameUZ": "Бошқа профилдаги мутахассис шифокорларнинг маслаҳатлари",
+        "nameLAT": "Boshqa profildagi mutaxassis shifokorlarning maslahatlari",
+        "nameRU": "Консультации врачей-специалистов прочих профилей",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902003007000000",
+        "nameUZ": "Даволаш ва муолажалар бўйича бактериолог хизматлари",
+        "nameLAT": "Davolash va muolajalar bo’yicha bakteriolog xizmatlari",
+        "nameRU": "Услуги бактериолога по лечению и проведению процедур",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902003030000000",
+        "nameUZ": "Даволаш ва муолажалар бўйича нейрохирург хизматлари",
+        "nameLAT": "Davolash va muolajalar bo’yicha neyroxirurg xizmatlari",
+        "nameRU": "Услуги нейрохирурга по лечению и проведению процедур",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902001046000000",
+        "nameUZ": "Стоматолог маслаҳати",
+        "nameLAT": "Stomatolog maslahati",
+        "nameRU": "Консультация стоматолога",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902003052000000",
+        "nameUZ": "Даволаш ва муолажалар бўйича уролог хизматлари",
+        "nameLAT": "Davolash va muolajalar bo’yicha urolog xizmatlari",
+        "nameRU": "Услуги уролога по лечению и проведению процедур",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902003003000000",
+        "nameUZ": "Даволаш ва муолажалар бўйича аллерголог хизматлари",
+        "nameLAT": "Davolash va muolajalar bo’yicha allergolog xizmatlari",
+        "nameRU": "Услуги аллерголога по лечению и проведению процедур",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902003047000000",
+        "nameUZ": "Даволаш ва муолажалар бўйича стоматолог хизматлари",
+        "nameLAT": "Davolash va muolajalar bo’yicha stomatolog xizmatlari",
+        "nameRU": "Услуги стоматолога по лечению и проведению процедур",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902003002000000",
+        "nameUZ": "Даволаш ва муолажалар бўйича акушер-гинеколог хизматлари",
+        "nameLAT": "Davolash va muolajalar bo’yicha akusher-ginekolog xizmatlari",
+        "nameRU": "Услуги акушера-гинеколога по лечению и проведению процедур",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902001005000000",
+        "nameUZ": "Анестезиолог маслаҳати",
+        "nameLAT": "Anesteziolog maslahati",
+        "nameRU": "Консультация анестезиолога",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902001014000000",
+        "nameUZ": "Гомеопат маслаҳати",
+        "nameLAT": "Gomeopat maslahati",
+        "nameRU": "Консультация гомеопата",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902001038000000",
+        "nameUZ": "Психиатр маслаҳати",
+        "nameLAT": "Psixiatr maslahati",
+        "nameRU": "Консультация психиатра",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902002001000002",
+        "nameUZ": "Функционал диагностика Электронейромиография",
+        "nameLAT": "Funksional diagnostika Elektroneyromiografiya",
+        "nameRU": "Функциональная диагностика Электронейромиография",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902003010000000",
+        "nameUZ": "Даволаш ва муолажалар бўйича гастроэнтеролог хизматлари",
+        "nameLAT": "Davolash va muolajalar bo’yicha gastroenterolog xizmatlari",
+        "nameRU": "Услуги гастроэнтеролога по лечению и проведению процедур",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902002002000003",
+        "nameUZ": "Нурланиш диагностика Ултратовуш тадқиқоти (УЗИ)",
+        "nameLAT": "Nurlanish diagnostika Ultratovush tadqiqoti (UZI)",
+        "nameRU": "Лучевая диагностика Ультразвуковое исследование (УЗИ)",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902002001000999",
+        "nameUZ": "Функционал диагностика Бошқа диагностика тадқиқотлари",
+        "nameLAT": "Funksional diagnostika Boshqa diagnostika tadqiqotlari",
+        "nameRU": "Функциональная диагностика Прочие диагностические исследования",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902003016000000",
+        "nameUZ": "Даволаш ва муолажалар бўйича дерматовенеролог хизматлари",
+        "nameLAT": "Davolash va muolajalar bo’yicha dermatovenerolog xizmatlari",
+        "nameRU": "Услуги дерматовенеролога по лечению и проведению процедур",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902003032000000",
+        "nameUZ": "Даволаш ва муолажалар бўйича окулист (офтальмолог) хизматлари",
+        "nameLAT": "Davolash va muolajalar bo’yicha okulist (oftalmolog) xizmatlari",
+        "nameRU": "Услуги окулиста (офтальмолога) по лечению и проведению процедур",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902003041000000",
+        "nameUZ": "Даволаш ва муолажалар бўйича пульмонолог хизматлари",
+        "nameLAT": "Davolash va muolajalar bo’yicha pulmonolog xizmatlari",
+        "nameRU": "Услуги пульмонолога по лечению и проведению процедур",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902001007000000",
+        "nameUZ": "Венеролог маслаҳати",
+        "nameLAT": "Venerolog maslahati",
+        "nameRU": "Консультация венеролога",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902003043000000",
+        "nameUZ": "Даволаш ва муолажалар бўйича ревматолог хизматлари",
+        "nameLAT": "Davolash va muolajalar bo’yicha revmatolog xizmatlari",
+        "nameRU": "Услуги ревматолога по лечению и проведению процедур",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902003056000000",
+        "nameUZ": "Даволаш ва муолажалар бўйича эпидемиолог хизматлари",
+        "nameLAT": "Davolash va muolajalar bo’yicha epidemiolog xizmatlari",
+        "nameRU": "Услуги эпидемиолога по лечению и проведению процедур",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902003029000000",
+        "nameUZ": "Даволаш ва муолажалар бўйича нейрофизиолог хизматлари",
+        "nameLAT": "Davolash va muolajalar bo’yicha neyrofiziolog xizmatlari",
+        "nameRU": "Услуги нейрофизиолога по лечению и проведению процедур",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902001020000000",
+        "nameUZ": "Кардиолог маслаҳати",
+        "nameLAT": "Kardiolog maslahati",
+        "nameRU": "Консультация кардиолога",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902003025000000",
+        "nameUZ": "Даволаш ва муолажалар бўйича лор (оториноларинголог) хизматлари",
+        "nameLAT": "Davolash va muolajalar bo’yicha lor (otorinolaringolog) xizmatlari",
+        "nameRU": "Услуги лора (оториноларинголога) по лечению и проведению процедур",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902003036000000",
+        "nameUZ": "Даволаш ва муолажалар бўйича пародонтолог хизматлари",
+        "nameLAT": "Davolash va muolajalar bo’yicha parodontolog xizmatlari",
+        "nameRU": "Услуги пародонтолога по лечению и проведению процедур",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902001022000000",
+        "nameUZ": "Косметолог маслаҳати",
+        "nameLAT": "Kosmetolog maslahati",
+        "nameRU": "Консультация косметолога",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902003048000000",
+        "nameUZ": "Даволаш ва муолажалар бўйича терапевт хизматлари",
+        "nameLAT": "Davolash va muolajalar bo’yicha terapevt xizmatlari",
+        "nameRU": "Услуги терапевта по лечению и проведению процедур",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902002003000002",
+        "nameUZ": "Лаборатория диагностика Сийдикни биокимёвий тадқиқоти",
+        "nameLAT": "Laboratoriya diagnostika Siydikni biokimyoviy tadqiqoti",
+        "nameRU": "Лабораторная диагностика Биохимическое исследование мочи",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902001017000000",
+        "nameUZ": "Диетолог маслаҳати",
+        "nameLAT": "Diyetolog maslahati",
+        "nameRU": "Консультация диетолога",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902001013000000",
+        "nameUZ": "Гинеколог маслаҳати",
+        "nameLAT": "Ginekolog maslahati",
+        "nameRU": "Консультация гинеколога",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902001018000000",
+        "nameUZ": "Иммунолог маслаҳати",
+        "nameLAT": "Immunolog maslahati",
+        "nameRU": "Консультация иммунолога",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902001042000000",
+        "nameUZ": "Ревматолог маслаҳати",
+        "nameLAT": "Revmatolog maslahati",
+        "nameRU": "Консультация ревматолога",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902001033000000",
+        "nameUZ": "Ортопед маслаҳати",
+        "nameLAT": "Ortoped maslahati",
+        "nameRU": "Консультация ортопеда",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902001002000000",
+        "nameUZ": "Аллерголог маслаҳати",
+        "nameLAT": "Allergolog maslahati",
+        "nameRU": "Консультация аллерголога",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902001011000000",
+        "nameUZ": "Генетик маслаҳати",
+        "nameLAT": "Genetik maslahati",
+        "nameRU": "Консультация генетика",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902001047000000",
+        "nameUZ": "Терапевт маслаҳати",
+        "nameLAT": "Terapevt maslahati",
+        "nameRU": "Консультация терапевта",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902003008000000",
+        "nameUZ": "Даволаш ва муолажалар бўйича венеролог хизматлари",
+        "nameLAT": "Davolash va muolajalar bo’yicha venerolog xizmatlari",
+        "nameRU": "Услуги венеролога по лечению и проведению процедур",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902003037000000",
+        "nameUZ": "Даволаш ва муолажалар бўйича педиатр хизматлари",
+        "nameLAT": "Davolash va muolajalar bo’yicha pediatr xizmatlari",
+        "nameRU": "Услуги педиатра по лечению и проведению процедур",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902001040000000",
+        "nameUZ": "Пульмонолог маслаҳати",
+        "nameLAT": "Pulmonolog maslahati",
+        "nameRU": "Консультация пульмонолога",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902001019000000",
+        "nameUZ": "Инфекционист маслаҳати",
+        "nameLAT": "Infeksionist maslahati",
+        "nameRU": "Консультация инфекциониста",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902003024000000",
+        "nameUZ": "Даволаш ва муолажалар бўйича логопед хизматлари",
+        "nameLAT": "Davolash va muolajalar bo’yicha logoped xizmatlari",
+        "nameRU": "Услуги логопеда по лечению и проведению процедур",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902001054000000",
+        "nameUZ": "Эндокринолог маслаҳати",
+        "nameLAT": "Endokrinolog maslahati",
+        "nameRU": "Консультация эндокринолога",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902003023000000",
+        "nameUZ": "Даволаш ва муолажалар бўйича косметолог хизматлари",
+        "nameLAT": "Davolash va muolajalar bo’yicha kosmetolog xizmatlari",
+        "nameRU": "Услуги косметолога по лечению и проведению процедур",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902001044000000",
+        "nameUZ": "Сексолог маслаҳати",
+        "nameLAT": "Seksolog maslahati",
+        "nameRU": "Консультация сексолога",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902003028000000",
+        "nameUZ": "Даволаш ва муолажалар бўйича невролог хизматлари",
+        "nameLAT": "Davolash va muolajalar bo’yicha nevrolog xizmatlari",
+        "nameRU": "Услуги невролога по лечению и проведению процедур",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902003013000000",
+        "nameUZ": "Даволаш ва муолажалар бўйича гепатолог хизматлари",
+        "nameLAT": "Davolash va muolajalar bo’yicha gepatolog xizmatlari",
+        "nameRU": "Услуги гепатолога по лечению и проведению процедур",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902003011000000",
+        "nameUZ": "Даволаш ва муолажалар бўйича гематолог хизматлари",
+        "nameLAT": "Davolash va muolajalar bo’yicha gematolog xizmatlari",
+        "nameRU": "Услуги гематолога по лечению и проведению процедур",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902003051000000",
+        "nameUZ": "Даволаш ва муолажалар бўйича трихолог хизматлари",
+        "nameLAT": "Davolash va muolajalar bo’yicha trixolog xizmatlari",
+        "nameRU": "Услуги трихолога по лечению и проведению процедур",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902003027000000",
+        "nameUZ": "Даволаш ва муолажалар бўйича нарколог хизматлари",
+        "nameLAT": "Davolash va muolajalar bo’yicha narkolog xizmatlari",
+        "nameRU": "Услуги нарколога по лечению и проведению процедур",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902003034000000",
+        "nameUZ": "Даволаш ва муолажалар бўйича ортопед хизматлари",
+        "nameLAT": "Davolash va muolajalar bo’yicha ortoped xizmatlari",
+        "nameRU": "Услуги ортопеда по лечению и проведению процедур",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902004001000002",
+        "nameUZ": "Реабилитация хизматлари Тиббий физкультура",
+        "nameLAT": "Reabilitatsiya xizmatlari Tibbiy fizkultura",
+        "nameRU": "Реабилитационные услуги Лечебная физкультура",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902002001000003",
+        "nameUZ": "Функционал диагностика Электроэнцефалография (ЭЭГ)",
+        "nameLAT": "Funksional diagnostika Elektroensefalografiya (EEG)",
+        "nameRU": "Функциональная диагностика Электроэнцефалография (ЭЭГ)",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902002002000005",
+        "nameUZ": "Нурланиш диагностика Компьютер томографияси (КТ, МСКТ)",
+        "nameLAT": "Nurlanish diagnostika Kompyuter tomografiyasi (KT, MSKT)",
+        "nameRU": "Лучевая диагностика Компьютерная томография (КТ, МСКТ)",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902004002000999",
+        "nameUZ": "Соғлиқни сақлаш ва тиббиёт муассасалари хизматлари Бошқа соғлиқни сақлаш ва тиббиёт муассасаларининг хизматлари",
+        "nameLAT": "Sog’liqni saqlash va tibbiyot muassasalari xizmatlari Boshqa sog’liqni saqlash va tibbiyot muassasalarining xizmatlari",
+        "nameRU": "Услуги оздоровительных и медицинских учреждений Услуги прочих оздоровительных и медицинских учреждений",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10999002012000000",
+        "nameUZ": "Спорт-машғулот заллари хизматлари",
+        "nameLAT": "Sport-mashg’ulot zallari xizmatlari",
+        "nameRU": "Услуги спортивно-тренировочных залов",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902001098000000",
+        "nameUZ": "Тиббиёт соҳасидаги масофавий консультация хизматлари (шу жумладан телетиббиёт)",
+        "nameLAT": "Tibbiyot sohasidagi masofaviy konsultatsiya xizmatlari (shu jumladan teletibbiyot)",
+        "nameRU": "Услуги консультационные в области медицины дистанционные (в т.ч. телемедицина)",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902001026000000",
+        "nameUZ": "Нарколог маслаҳати",
+        "nameLAT": "Narkolog maslahati",
+        "nameRU": "Консультация нарколога",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902001024000000",
+        "nameUZ": "Лор (оториноларинголог) маслаҳати",
+        "nameLAT": "Lor (otorinolaringolog) maslahati",
+        "nameRU": "Консультация лора (оториноларинголога)",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10999002001000000",
+        "nameUZ": "Бассейн хизмати",
+        "nameLAT": "Basseyn xizmati",
+        "nameRU": "Услуги бассейна",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10999002004000000",
+        "nameUZ": "Футбол майдонларини ижарага бериш хизмати",
+        "nameLAT": "Futbol maydonlarini ijaraga berish xizmati",
+        "nameRU": "Услуга по предоставлению в аренду футбольных полей",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10999002005000000",
+        "nameUZ": "Соғломлаштириш ва дам олиш маскани хизмати (курорт)",
+        "nameLAT": "Sog’lomlashtirish va dam olish maskani xizmati (kurort)",
+        "nameRU": "Услуги оздоровления и отдыха (курорт)",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10999002001000001",
+        "nameUZ": "Бассейн хизмати бюджет ташкилотлари томонидан кўрсатиладиган",
+        "nameLAT": "Basseyn xizmati byudjet tashkilotlari tomonidan ko’rsatiladigan",
+        "nameRU": "Услуги бассейна оказываемые бюджетными организациями",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10999002003000001",
+        "nameUZ": "Спорт машғулотлари зали бюджет ташкилотлари томонидан тақдим этиладиган",
+        "nameLAT": "Sport mashg’ulotlari zali byudjet tashkilotlari tomonidan taqdim etiladigan",
+        "nameRU": "Тренажерный зал предоставляемый бюджетным организацием",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10999002007000001",
+        "nameUZ": "Фитнес ва соғломлаштириш марказлари хизматлари (барча турдаги хизматлар) бюджет ташкилотлари томонидан кўрсатиладиган",
+        "nameLAT": "Fitnes va sog’lomlashtirish markazlari xizmatlari (barcha turdagi xizmatlar) byudjet tashkilotlari tomonidan ko’rsatiladigan",
+        "nameRU": "Услуги фитнес-центров и оздоровительных центров (все виды услуг) оказываемые бюджетными организациями",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902003004000000",
+        "nameUZ": "Даволаш ва муолажалар бўйича ангиохирург хизматлари",
+        "nameLAT": "Davolash va muolajalar bo’yicha angioxirurg xizmatlari",
+        "nameRU": "Услуги ангиохирурга по лечению и проведению процедур",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902001030000000",
+        "nameUZ": "Нефролог маслаҳати",
+        "nameLAT": "Nefrolog maslahati",
+        "nameRU": "Консультация нефролога",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902003045000000",
+        "nameUZ": "Даволаш ва муолажалар бўйича сексолог хизматлари",
+        "nameLAT": "Davolash va muolajalar bo’yicha seksolog xizmatlari",
+        "nameRU": "Услуги сексолога по лечению и проведению процедур",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902001031000000",
+        "nameUZ": "Окулист (офтальмолог) маслаҳати",
+        "nameLAT": "Okulist (oftalmolog) maslahati",
+        "nameRU": "Консультация окулиста (офтальмолога)",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902003031000000",
+        "nameUZ": "Даволаш ва муолажалар бўйича нефролог хизматлари",
+        "nameLAT": "Davolash va muolajalar bo’yicha nefrolog xizmatlari",
+        "nameRU": "Услуги нефролога по лечению и проведению процедур",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902003006000000",
+        "nameUZ": "Даволаш ва муолажалар бўйича анестезиолог хизматлари",
+        "nameLAT": "Davolash va muolajalar bo’yicha anesteziolog xizmatlari",
+        "nameRU": "Услуги анестезиолога по лечению и проведению процедур",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902001004000000",
+        "nameUZ": "Андролог маслаҳати",
+        "nameLAT": "Androlog maslahati",
+        "nameRU": "Консультация андролога",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902001034000000",
+        "nameUZ": "Паразитолог маслаҳати",
+        "nameLAT": "Parazitolog maslahati",
+        "nameRU": "Консультация паразитолога",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902004001000999",
+        "nameUZ": "Реабилитация хизматлари Бошқа реабилитация хизматлари",
+        "nameLAT": "Reabilitatsiya xizmatlari Boshqa reabilitatsiya xizmatlari",
+        "nameRU": "Реабилитационные услуги Прочие реабилитационные услуги",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902003018000000",
+        "nameUZ": "Даволаш ва муолажалар бўйича диетолог хизматлари",
+        "nameLAT": "Davolash va muolajalar bo’yicha diyetolog xizmatlari",
+        "nameRU": "Услуги диетолога по лечению и проведению процедур",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902001048000000",
+        "nameUZ": "Травматолог маслаҳати",
+        "nameLAT": "Travmatolog maslahati",
+        "nameRU": "Консультация травматолога",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902003039000000",
+        "nameUZ": "Даволаш ва муолажалар бўйича психиатр хизматлари",
+        "nameLAT": "Davolash va muolajalar bo’yicha psixiatr xizmatlari",
+        "nameRU": "Услуги психиатра по лечению и проведению процедур",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902003053000000",
+        "nameUZ": "Даволаш ва муолажалар бўйича флеболог хизматлари",
+        "nameLAT": "Davolash va muolajalar bo’yicha flebolog xizmatlari",
+        "nameRU": "Услуги флеболога по лечению и проведению процедур",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902002002000001",
+        "nameUZ": "Нурланиш диагностика Магнит-резонанс томографияси (МРТ)",
+        "nameLAT": "Nurlanish diagnostika Magnit-rezonans tomografiyasi (MRT)",
+        "nameRU": "Лучевая диагностика Магнитно-резонансная томография (МРТ)",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902001050000000",
+        "nameUZ": "Трихолог маслаҳати",
+        "nameLAT": "Trixolog maslahati",
+        "nameRU": "Консультация трихолога",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902003014000000",
+        "nameUZ": "Даволаш ва муолажалар бўйича гинеколог хизматлари",
+        "nameLAT": "Davolash va muolajalar bo’yicha ginekolog xizmatlari",
+        "nameRU": "Услуги гинеколога по лечению и проведению процедур",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902003040000000",
+        "nameUZ": "Даволаш ва муолажалар бўйича психолог хизматлари",
+        "nameLAT": "Davolash va muolajalar bo’yicha psixolog xizmatlari",
+        "nameRU": "Услуги психолога по лечению и проведению процедур",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902001015000000",
+        "nameUZ": "Дерматовенеролог маслаҳати",
+        "nameLAT": "Dermatovenerolog maslahati",
+        "nameRU": "Консультация дерматовенеролога",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902001043000000",
+        "nameUZ": "Репродуктолог (Эко) маслаҳати",
+        "nameLAT": "Reproduktolog (Eko) maslahati",
+        "nameRU": "Консультация репродуктолога (эко)",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902003050000000",
+        "nameUZ": "Даволаш ва муолажалар бўйича трансплантолог хизматлари",
+        "nameLAT": "Davolash va muolajalar bo’yicha transplantolog xizmatlari",
+        "nameRU": "Услуги трансплантолога по лечению и проведению процедур",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902003049000000",
+        "nameUZ": "Даволаш ва муолажалар бўйича травматолог хизматлари",
+        "nameLAT": "Davolash va muolajalar bo’yicha travmatolog xizmatlari",
+        "nameRU": "Услуги травматолога по лечению и проведению процедур",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902001025000000",
+        "nameUZ": "Маммолог маслаҳати",
+        "nameLAT": "Mammolog maslahati",
+        "nameRU": "Консультация маммолога",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902003055000000",
+        "nameUZ": "Даволаш ва муолажалар бўйича эндокринолог хизматлари",
+        "nameLAT": "Davolash va muolajalar bo’yicha endokrinolog xizmatlari",
+        "nameRU": "Услуги эндокринолога по лечению и проведению процедур",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902002002000002",
+        "nameUZ": "Нурланиш диагностика Рентгенодиагностика",
+        "nameLAT": "Nurlanish diagnostika Rentgenodiagnostika",
+        "nameRU": "Лучевая диагностика Рентгенодиагностика",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902001028000000",
+        "nameUZ": "Нейрофизиолог маслаҳати",
+        "nameLAT": "Neyrofiziolog maslahati",
+        "nameRU": "Консультация нейрофизиолога",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902003021000000",
+        "nameUZ": "Даволаш ва муолажалар бўйича кардиолог хизматлари",
+        "nameLAT": "Davolash va muolajalar bo’yicha kardiolog xizmatlari",
+        "nameRU": "Услуги кардиолога по лечению и проведению процедур",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902002001000004",
+        "nameUZ": "Функционал диагностика Эхокардиография (ЭХО КГ)",
+        "nameLAT": "Funksional diagnostika Exokardiografiya (EXO KG)",
+        "nameRU": "Функциональная диагностика Эхокардиография (ЭХО КГ)",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902004001000001",
+        "nameUZ": "Реабилитация хизматлари Жисмоний терапия",
+        "nameLAT": "Reabilitatsiya xizmatlari Jismoniy terapiya",
+        "nameRU": "Реабилитационные услуги Физиотерапия",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902002003000004",
+        "nameUZ": "Лаборатория диагностика Иммун-фермент таҳлили",
+        "nameLAT": "Laboratoriya diagnostika Immun-ferment tahlili",
+        "nameRU": "Лабораторная диагностика Иммуно-ферментные анализы",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902001003000000",
+        "nameUZ": "Ангиохирург маслаҳати",
+        "nameLAT": "Angioxirurg maslahati",
+        "nameRU": "Консультация ангиохирурга",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902001027000000",
+        "nameUZ": "Невролог маслаҳати",
+        "nameLAT": "Nevrolog maslahati",
+        "nameRU": "Консультация невролога",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902002003000003",
+        "nameUZ": "Лаборатория диагностика Генетик қон тадқиқоти",
+        "nameLAT": "Laboratoriya diagnostika Genetik qon tadqiqoti",
+        "nameRU": "Лабораторная диагностика Генетические исследования крови",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902002003000999",
+        "nameUZ": "Лаборатория диагностика Бошқа лаборатория синовлари",
+        "nameLAT": "Laboratoriya diagnostika Boshqa laboratoriya sinovlari",
+        "nameRU": "Лабораторная диагностика Прочие лабораторные исследования",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902004001000003",
+        "nameUZ": "Реабилитация хизматлари Тиббий массаж",
+        "nameLAT": "Reabilitatsiya xizmatlari Tibbiy massaj",
+        "nameRU": "Реабилитационные услуги Медицинский массаж",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902002001000001",
+        "nameUZ": "Функционал диагностика Электрокардиография (ЭКГ)",
+        "nameLAT": "Funksional diagnostika Elektrokardiografiya (EKG)",
+        "nameRU": "Функциональная диагностика Электрокардиография (ЭКГ)",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902003005000000",
+        "nameUZ": "Даволаш ва муолажалар бўйича андролог хизматлари",
+        "nameLAT": "Davolash va muolajalar bo’yicha androlog xizmatlari",
+        "nameRU": "Услуги андролога по лечению и проведению процедур",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902003026000000",
+        "nameUZ": "Даволаш ва муолажалар бўйича маммолог хизматлари",
+        "nameLAT": "Davolash va muolajalar bo’yicha mammolog xizmatlari",
+        "nameRU": "Услуги маммолога по лечению и проведению процедур",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902002002000004",
+        "nameUZ": "Нурланиш диагностика Радионуклид диагностикаси",
+        "nameLAT": "Nurlanish diagnostika Radionuklid diagnostikasi",
+        "nameRU": "Лучевая диагностика Радионуклидная диагностика",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902004002000002",
+        "nameUZ": "Соғлиқни сақлаш ва тиббиёт муассасалари хизматлари Дам олиш уйлари соғломлаштириш хизматлари",
+        "nameLAT": "Sog’liqni saqlash va tibbiyot muassasalari xizmatlari Dam olish uylari sog’lomlashtirish xizmatlari",
+        "nameRU": "Услуги оздоровительных и медицинских учреждений Оздоровительные услуги домов отдыха",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902001021000000",
+        "nameUZ": "Колопроктолог маслаҳати",
+        "nameLAT": "Koloproktolog maslahati",
+        "nameRU": "Консультация колопроктолога",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902003038000000",
+        "nameUZ": "Даволаш ва муолажалар бўйича проктолог хизматлари",
+        "nameLAT": "Davolash va muolajalar bo’yicha proktolog xizmatlari",
+        "nameRU": "Услуги проктолога по лечению и проведению процедур",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902001035000000",
+        "nameUZ": "Пародонтолог маслаҳати",
+        "nameLAT": "Parodontolog maslahati",
+        "nameRU": "Консультация пародонтолога",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902002003000001",
+        "nameUZ": "Лаборатория диагностика Биокимёвий қон тадқиқоти",
+        "nameLAT": "Laboratoriya diagnostika Biokimyoviy qon tadqiqoti",
+        "nameRU": "Лабораторная диагностика Биохимическое исследование крови",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902001051000000",
+        "nameUZ": "Уролог маслаҳати",
+        "nameLAT": "Urolog maslahati",
+        "nameRU": "Консультация уролога",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902001032000000",
+        "nameUZ": "Онколог маслаҳати",
+        "nameLAT": "Onkolog maslahati",
+        "nameRU": "Консультация онколога",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902003033000000",
+        "nameUZ": "Даволаш ва муолажалар бўйича онколог хизматлари",
+        "nameLAT": "Davolash va muolajalar bo’yicha onkolog xizmatlari",
+        "nameRU": "Услуги онколога по лечению и проведению процедур",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902001055000000",
+        "nameUZ": "Эпидемиолог маслаҳати",
+        "nameLAT": "Epidemiolog maslahati",
+        "nameRU": "Консультация эпидемиолога",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902001006000000",
+        "nameUZ": "Бактериолог маслаҳати",
+        "nameLAT": "Bakteriolog maslahati",
+        "nameRU": "Консультация бактериолога",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902001009000000",
+        "nameUZ": "Гастроэнтеролог маслаҳати",
+        "nameLAT": "Gastroenterolog maslahati",
+        "nameRU": "Консультация гастроэнтеролога",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902003020000000",
+        "nameUZ": "Даволаш ва муолажалар бўйича инфекционист хизматлари",
+        "nameLAT": "Davolash va muolajalar bo’yicha infeksionist xizmatlari",
+        "nameRU": "Услуги инфекциониста по лечению и проведению процедур",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902003019000000",
+        "nameUZ": "Даволаш ва муолажалар бўйича иммунолог хизматлари",
+        "nameLAT": "Davolash va muolajalar bo’yicha immunolog xizmatlari",
+        "nameRU": "Услуги иммунолога по лечению и проведению процедур",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902001052000000",
+        "nameUZ": "Флеболог маслаҳати",
+        "nameLAT": "Flebolog maslahati",
+        "nameRU": "Консультация флеболога",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902001039000000",
+        "nameUZ": "Психолог маслаҳати",
+        "nameLAT": "Psixolog maslahati",
+        "nameRU": "Консультация психолога",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902001037000000",
+        "nameUZ": "Проктолог маслаҳати",
+        "nameLAT": "Proktolog maslahati",
+        "nameRU": "Консультация проктолога",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902001010000000",
+        "nameUZ": "Гематолог маслаҳати",
+        "nameLAT": "Gematolog maslahati",
+        "nameRU": "Консультация гематолога",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902003035000000",
+        "nameUZ": "Даволаш ва муолажалар бўйича паразитолог хизматлари",
+        "nameLAT": "Davolash va muolajalar bo’yicha parazitolog xizmatlari",
+        "nameRU": "Услуги паразитолога по лечению и проведению процедур",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902003001000000",
+        "nameUZ": "Даволаш ва муолажалар бўйича мутахассис-шифокорларнинг комплекс хизматлари",
+        "nameLAT": "Davolash va muolajalar bo’yicha mutaxassis-shifokorlarning kompleks xizmatlari",
+        "nameRU": "Комплексные услуги врачей-специалистов по лечению и проведению процедур",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902001016000000",
+        "nameUZ": "Дерматолог маслаҳати",
+        "nameLAT": "Dermatolog maslahati",
+        "nameRU": "Консультация дерматолога",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902001029000000",
+        "nameUZ": "Нейрохирург маслаҳати",
+        "nameLAT": "Neyroxirurg maslahati",
+        "nameRU": "Консультация нейрохирурга",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902001008000000",
+        "nameUZ": "Вертебролог маслаҳати",
+        "nameLAT": "Vertebrolog maslahati",
+        "nameRU": "Консультация вертебролога",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902001053000000",
+        "nameUZ": "Хирург маслаҳати",
+        "nameLAT": "Xirurg maslahati",
+        "nameRU": "Консультация хирурга",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902003012000000",
+        "nameUZ": "Даволаш ва муолажалар бўйича генетик хизматлари",
+        "nameLAT": "Davolash va muolajalar bo’yicha genetik xizmatlari",
+        "nameRU": "Услуги генетика по лечению и проведению процедур",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902001012000000",
+        "nameUZ": "Гепатолог маслаҳати",
+        "nameLAT": "Gepatolog maslahati",
+        "nameRU": "Консультация гепатолога",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902003009000000",
+        "nameUZ": "Даволаш ва муолажалар бўйича вертебролог хизматлари",
+        "nameLAT": "Davolash va muolajalar bo’yicha vertebrolog xizmatlari",
+        "nameRU": "Услуги вертебролога по лечению и проведению процедур",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902003054000000",
+        "nameUZ": "Даволаш ва муолажалар бўйича хирург хизматлари",
+        "nameLAT": "Davolash va muolajalar bo’yicha xirurg xizmatlari",
+        "nameRU": "Услуги хирурга по лечению и проведению процедур",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902003099000000",
+        "nameUZ": "Даволаш ва муолажалар бўйича бошқа мутахассис-шифокорларнинг хизматлари",
+        "nameLAT": "Davolash va muolajalar bo’yicha boshqa mutaxassis-shifokorlarning xizmatlari",
+        "nameRU": "Услуги врачей специалистов прочего профиля по лечению и проведению процедур",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902003058000000",
+        "nameUZ": "Ҳамшира хизматлари",
+        "nameLAT": "Hamshira xizmatlari",
+        "nameRU": "Услуги медсестер",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902003015000000",
+        "nameUZ": "Даволаш ва муолажалар бўйича гомеопат хизматлари",
+        "nameLAT": "Davolash va muolajalar bo’yicha gomeopat xizmatlari",
+        "nameRU": "Услуги гомеопата по лечению и проведению процедур",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902001001000000",
+        "nameUZ": "Акушер-гинеколог маслаҳати",
+        "nameLAT": "Akusher-ginekolog maslahati",
+        "nameRU": "Консультация акушер-гинеколога",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902003022000000",
+        "nameUZ": "Даволаш ва муолажалар бўйича колопроктолог хизматлари",
+        "nameLAT": "Davolash va muolajalar bo’yicha koloproktolog xizmatlari",
+        "nameRU": "Услуги колопроктолога по лечению и проведению процедур",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902001036000000",
+        "nameUZ": "Педиатр маслаҳати",
+        "nameLAT": "Pediatr maslahati",
+        "nameRU": "Консультация педиатра",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902001041000000",
+        "nameUZ": "Радиолог маслаҳати",
+        "nameLAT": "Radiolog maslahati",
+        "nameRU": "Консультация радиолога",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902003042000000",
+        "nameUZ": "Даволаш ва муолажалар бўйича радиолог хизматлари",
+        "nameLAT": "Davolash va muolajalar bo’yicha radiolog xizmatlari",
+        "nameRU": "Услуги радиолога по лечению и проведению процедур",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902001049000000",
+        "nameUZ": "Трансплантолог маслаҳати",
+        "nameLAT": "Transplantolog maslahati",
+        "nameRU": "Консультация трансплантолога",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902003017000000",
+        "nameUZ": "Даволаш ва муолажалар бўйича дерматолог хизматлари",
+        "nameLAT": "Davolash va muolajalar bo’yicha dermatolog xizmatlari",
+        "nameRU": "Услуги дерматолога по лечению и проведению процедур",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902001045000000",
+        "nameUZ": "Сомнолог маслаҳати",
+        "nameLAT": "Somnolog maslahati",
+        "nameRU": "Консультация сомнолога",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10999002006000001",
+        "nameUZ": "Оромгоҳ хизмати йўлланмалар ёки жойсиз даволаниш учун бериладиган ҳужжатларсиз расмийлаштирилган",
+        "nameLAT": "Oromgoh xizmati yo’llanmalar yoki joysiz davolanish uchun beriladigan hujjatlarsiz rasmiylashtirilgan",
+        "nameRU": "Услуги лагерей без оформления путевками или курсовками",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10999002005000001",
+        "nameUZ": "Соғломлаштириш ва дам олиш маскани хизмати (курорт) йўлланмалар ёки жойсиз даволаниш учун бериладиган ҳужжатларсиз расмийлаштирилган",
+        "nameLAT": "Sog’lomlashtirish va dam olish maskani xizmati (kurort) yo’llanmalar yoki joysiz davolanish uchun beriladigan hujjatlarsiz rasmiylashtirilgan",
+        "nameRU": "Услуги оздоровления и отдыха (курорт) без оформления путевками или курсовками",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902003100000000",
+        "nameUZ": "Вакцинация бўйича хизматлар",
+        "nameLAT": "Vaksinatsiya bo’yicha xizmatlar",
+        "nameRU": "Услуги по вакцинации",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10999002007000000",
+        "nameUZ": "Фитнес ва соғломлаштириш марказлари хизматлари (барча турдаги хизматлар)",
+        "nameLAT": "Fitnes va sog’lomlashtirish markazlari xizmatlari (barcha turdagi xizmatlar)",
+        "nameRU": "Услуги фитнес-центров и оздоровительных центров (все виды услуг)",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10999002003000000",
+        "nameUZ": "Спорт машғулотлари зали",
+        "nameLAT": "Sport mashg’ulotlari zali",
+        "nameRU": "Тренажерный зал",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10999002006000000",
+        "nameUZ": "Оромгоҳ хизмати",
+        "nameLAT": "Oromgoh xizmati",
+        "nameRU": "Услуги лагерей",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902003101000000",
+        "nameUZ": "Тез ёрдам хизматлари",
+        "nameLAT": "Tez yordam xizmatlari",
+        "nameRU": "Услуга скорой помощи",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902004002000001",
+        "nameUZ": "Соғлиқни сақлаш ва тиббиёт муассасалари хизматлари Санаторийларнинг соғломлаштириш хизматлари",
+        "nameLAT": "Sog’liqni saqlash va tibbiyot muassasalari xizmatlari Sanatoriylarning sog’lomlashtirish xizmatlari",
+        "nameRU": "Услуги оздоровительных и медицинских учреждений Оздоровительные услуги санаториев",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10902003046000000",
+        "nameUZ": "Даволаш ва муолажалар бўйича сомнолог хизматлари",
+        "nameLAT": "Davolash va muolajalar bo’yicha somnolog xizmatlari",
+        "nameRU": "Услуги сомнолога по лечению и проведению процедур",
+        "groupCODE": "109",
+        "groupNameUZ": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+        "groupNameRU": "МЕДИЦИНСКИЕ УСЛУГИ",
+        "groupNameLAT": "SOG’LIQNI SAQLASh SOHASIDAGI XIZMATLAR"
+      }
+    ],
+    "recordTotal": 156,
+    "errors": null,
+    "permitted": false
+  }
+}

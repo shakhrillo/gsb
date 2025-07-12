@@ -1,0 +1,107 @@
+{
+  "metadata": {
+    "groupId": 88,
+    "fetchedAt": "2025-07-12T16:36:12.751Z",
+    "source": "https://tasnif.soliq.uz/api/cl-api/integration-mxik/references/group/code?group=88"
+  },
+  "data": {
+    "success": true,
+    "code": 200,
+    "reason": null,
+    "data": [
+      {
+        "mxikCode": "08805001002000000",
+        "nameUZ": "Учиш аппаратлари учун ишга тушуриш ускунаси",
+        "nameLAT": "Uchish apparatlari uchun ishga tushurish uskunasi",
+        "nameRU": "Оборудование стартовое для летательных аппаратов",
+        "groupCODE": "088",
+        "groupNameUZ": "ҲАВОДА УЧУВЧИ АППАРАТЛАР, КОСМИК АППАРАТЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЛЕТАТЕЛЬНЫЕ АППАРАТЫ, КОСМИЧЕСКИЕ АППАРАТЫ, И ИХ ЧАСТИ",
+        "groupNameLAT": "HAVODA UChUVChI APPARATLAR, KOSMIK APPARATLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08802001001000000",
+        "nameUZ": "Космик аппарат (шу жумладан спутниклар)",
+        "nameLAT": "Kosmik apparat (shu jumladan sputniklar)",
+        "nameRU": "Космический аппарат (включая спутники)",
+        "groupCODE": "088",
+        "groupNameUZ": "ҲАВОДА УЧУВЧИ АППАРАТЛАР, КОСМИК АППАРАТЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЛЕТАТЕЛЬНЫЕ АППАРАТЫ, КОСМИЧЕСКИЕ АППАРАТЫ, И ИХ ЧАСТИ",
+        "groupNameLAT": "HAVODA UChUVChI APPARATLAR, KOSMIK APPARATLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08805001001000000",
+        "nameUZ": "Учиш аппаратлари учун бошланғич учириш аппарати",
+        "nameLAT": "Uchish apparatlari uchun boshlang’ich uchirish apparati",
+        "nameRU": "Стартовое оборудование для летательных аппаратов",
+        "groupCODE": "088",
+        "groupNameUZ": "ҲАВОДА УЧУВЧИ АППАРАТЛАР, КОСМИК АППАРАТЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЛЕТАТЕЛЬНЫЕ АППАРАТЫ, КОСМИЧЕСКИЕ АППАРАТЫ, И ИХ ЧАСТИ",
+        "groupNameLAT": "HAVODA UChUVChI APPARATLAR, KOSMIK APPARATLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08802001002000000",
+        "nameUZ": "Самолёт",
+        "nameLAT": "Samolyot",
+        "nameRU": "Самолёт",
+        "groupCODE": "088",
+        "groupNameUZ": "ҲАВОДА УЧУВЧИ АППАРАТЛАР, КОСМИК АППАРАТЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЛЕТАТЕЛЬНЫЕ АППАРАТЫ, КОСМИЧЕСКИЕ АППАРАТЫ, И ИХ ЧАСТИ",
+        "groupNameLAT": "HAVODA UChUVChI APPARATLAR, KOSMIK APPARATLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08802001003000000",
+        "nameUZ": "Вертолёт",
+        "nameLAT": "Vertolyot",
+        "nameRU": "Вертолёт",
+        "groupCODE": "088",
+        "groupNameUZ": "ҲАВОДА УЧУВЧИ АППАРАТЛАР, КОСМИК АППАРАТЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЛЕТАТЕЛЬНЫЕ АППАРАТЫ, КОСМИЧЕСКИЕ АППАРАТЫ, И ИХ ЧАСТИ",
+        "groupNameLAT": "HAVODA UChUVChI APPARATLAR, KOSMIK APPARATLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08804001002000000",
+        "nameUZ": "Парашютлар ва ротошютлар қисмлари",
+        "nameLAT": "Parashyutlar va rotoshyutlar qismlari",
+        "nameRU": "Части парашютов и ротошютов",
+        "groupCODE": "088",
+        "groupNameUZ": "ҲАВОДА УЧУВЧИ АППАРАТЛАР, КОСМИК АППАРАТЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЛЕТАТЕЛЬНЫЕ АППАРАТЫ, КОСМИЧЕСКИЕ АППАРАТЫ, И ИХ ЧАСТИ",
+        "groupNameLAT": "HAVODA UChUVChI APPARATLAR, KOSMIK APPARATLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08801001001000000",
+        "nameUZ": "Ҳавода учувчи аппарат",
+        "nameLAT": "Havoda uchuvchi apparat",
+        "nameRU": "Летательный аппарат",
+        "groupCODE": "088",
+        "groupNameUZ": "ҲАВОДА УЧУВЧИ АППАРАТЛАР, КОСМИК АППАРАТЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЛЕТАТЕЛЬНЫЕ АППАРАТЫ, КОСМИЧЕСКИЕ АППАРАТЫ, И ИХ ЧАСТИ",
+        "groupNameLAT": "HAVODA UChUVChI APPARATLAR, KOSMIK APPARATLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08804001001000000",
+        "nameUZ": "Парашютлар, ротошютлар",
+        "nameLAT": "Parashyutlar, rotoshyutlar",
+        "nameRU": "Парашюты, ротошюты",
+        "groupCODE": "088",
+        "groupNameUZ": "ҲАВОДА УЧУВЧИ АППАРАТЛАР, КОСМИК АППАРАТЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЛЕТАТЕЛЬНЫЕ АППАРАТЫ, КОСМИЧЕСКИЕ АППАРАТЫ, И ИХ ЧАСТИ",
+        "groupNameLAT": "HAVODA UChUVChI APPARATLAR, KOSMIK APPARATLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08803001001000000",
+        "nameUZ": "Учувчи аппаратлар қисмлари",
+        "nameLAT": "Uchuvchi apparatlar qismlari",
+        "nameRU": "Части летательных аппаратов",
+        "groupCODE": "088",
+        "groupNameUZ": "ҲАВОДА УЧУВЧИ АППАРАТЛАР, КОСМИК АППАРАТЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЛЕТАТЕЛЬНЫЕ АППАРАТЫ, КОСМИЧЕСКИЕ АППАРАТЫ, И ИХ ЧАСТИ",
+        "groupNameLAT": "HAVODA UChUVChI APPARATLAR, KOSMIK APPARATLARI VA ULARNING QISMLARI"
+      }
+    ],
+    "recordTotal": 9,
+    "errors": null,
+    "permitted": false
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "metadata": {
+    "groupId": 93,
+    "fetchedAt": "2025-07-12T16:36:33.282Z",
+    "source": "https://tasnif.soliq.uz/api/cl-api/integration-mxik/references/group/code?group=93"
+  },
+  "data": {
+    "success": true,
+    "code": 200,
+    "reason": null,
+    "data": [
+      {
+        "mxikCode": "09303002001000000",
+        "nameUZ": "Пневматик, шу жумладан спорт тўпонча ва милтиқ",
+        "nameLAT": "Pnevmatik, shu jumladan sport to’poncha va miltiq",
+        "nameRU": "Пневматический пистолет и винтовка, в том числе спортивные",
+        "groupCODE": "093",
+        "groupNameUZ": "ҚУРОЛ ВА ЎҚ-ДОРИЛАР; УЛАРНИНГ ҚИСМЛАРИ ВА ЖИҲОЗЛАРИ",
+        "groupNameRU": "Оружие и боеприпасы; их части и принадлежности",
+        "groupNameLAT": "QUROL VA O’Q-DORILAR; ULARNING QISMLARI VA JIHOZLARI"
+      },
+      {
+        "mxikCode": "09306001001000000",
+        "nameUZ": "Бомбалар, гранаталар ва шунга ўхшаш воситалар, уларнинг қисмлари, пневматик қуроллар учун пулькалар",
+        "nameLAT": "Bombalar, granatalar va shunga o’xshash vositalar, ularning qismlari, pnevmatik qurollar uchun pulkalar",
+        "nameRU": "Бомбы, гранаты и другие аналогичные средства, их части, пульки для пневматического оружия",
+        "groupCODE": "093",
+        "groupNameUZ": "ҚУРОЛ ВА ЎҚ-ДОРИЛАР; УЛАРНИНГ ҚИСМЛАРИ ВА ЖИҲОЗЛАРИ",
+        "groupNameRU": "Оружие и боеприпасы; их части и принадлежности",
+        "groupNameLAT": "QUROL VA O’Q-DORILAR; ULARNING QISMLARI VA JIHOZLARI"
+      },
+      {
+        "mxikCode": "09303002002000000",
+        "nameUZ": "Спорт, ов ёки нишонга олиш учун қурол",
+        "nameLAT": "Sport, ov yoki nishonga olish uchun qurol",
+        "nameRU": "Ружья спортивные, охотничьи или для стрельбы по мишеням",
+        "groupCODE": "093",
+        "groupNameUZ": "ҚУРОЛ ВА ЎҚ-ДОРИЛАР; УЛАРНИНГ ҚИСМЛАРИ ВА ЖИҲОЗЛАРИ",
+        "groupNameRU": "Оружие и боеприпасы; их части и принадлежности",
+        "groupNameLAT": "QUROL VA O’Q-DORILAR; ULARNING QISMLARI VA JIHOZLARI"
+      },
+      {
+        "mxikCode": "09306001002000000",
+        "nameUZ": "Патронлар ва бошқа ўқ-дорилар",
+        "nameLAT": "Patronlar va boshqa o’q-dorilar",
+        "nameRU": "Патроны и прочие боеприпасы",
+        "groupCODE": "093",
+        "groupNameUZ": "ҚУРОЛ ВА ЎҚ-ДОРИЛАР; УЛАРНИНГ ҚИСМЛАРИ ВА ЖИҲОЗЛАРИ",
+        "groupNameRU": "Оружие и боеприпасы; их части и принадлежности",
+        "groupNameLAT": "QUROL VA O’Q-DORILAR; ULARNING QISMLARI VA JIHOZLARI"
+      },
+      {
+        "mxikCode": "09307001001000000",
+        "nameUZ": "Қилич, шамшир, шпага ва шунга ўхшаш қуроллар",
+        "nameLAT": "Qilich, shamshir, shpaga va shunga o’xshash qurollar",
+        "nameRU": "Мечи, сабли, шпаги и аналогичное оружие",
+        "groupCODE": "093",
+        "groupNameUZ": "ҚУРОЛ ВА ЎҚ-ДОРИЛАР; УЛАРНИНГ ҚИСМЛАРИ ВА ЖИҲОЗЛАРИ",
+        "groupNameRU": "Оружие и боеприпасы; их части и принадлежности",
+        "groupNameLAT": "QUROL VA O’Q-DORILAR; ULARNING QISMLARI VA JIHOZLARI"
+      },
+      {
+        "mxikCode": "09307001002000000",
+        "nameUZ": "Қилич, шамшир, шпага ва шунга ўхшаш қуроллар, шу жумладан улар учун қин ва ғилофлар",
+        "nameLAT": "Qilich, shamshir, shpaga va shunga o’xshash qurollar, shu jumladan ular uchun qin va g’iloflar",
+        "nameRU": "Части мечей, саблей, шпаг и аналогичного оружия, в том числе ножны и чехлы к ним",
+        "groupCODE": "093",
+        "groupNameUZ": "ҚУРОЛ ВА ЎҚ-ДОРИЛАР; УЛАРНИНГ ҚИСМЛАРИ ВА ЖИҲОЗЛАРИ",
+        "groupNameRU": "Оружие и боеприпасы; их части и принадлежности",
+        "groupNameLAT": "QUROL VA O’Q-DORILAR; ULARNING QISMLARI VA JIHOZLARI"
+      },
+      {
+        "mxikCode": "09303003001000000",
+        "nameUZ": "Бошқа қуроллар",
+        "nameLAT": "Boshqa qurollar",
+        "nameRU": "Прочее оружие",
+        "groupCODE": "093",
+        "groupNameUZ": "ҚУРОЛ ВА ЎҚ-ДОРИЛАР; УЛАРНИНГ ҚИСМЛАРИ ВА ЖИҲОЗЛАРИ",
+        "groupNameRU": "Оружие и боеприпасы; их части и принадлежности",
+        "groupNameLAT": "QUROL VA O’Q-DORILAR; ULARNING QISMLARI VA JIHOZLARI"
+      },
+      {
+        "mxikCode": "09306001001000001",
+        "nameUZ": "Бомбалар, гранаталар ва шунга ўхшаш воситалар, уларнинг қисмлари, пневматик қуроллар учун пулькалар Қурилиш ва йиғиш қуроли учун патронлар",
+        "nameLAT": "Bombalar, granatalar va shunga o’xshash vositalar, ularning qismlari, pnevmatik qurollar uchun pulkalar Qurilish va yig'ish quroli uchun patronlar",
+        "nameRU": "Бомбы, гранаты и другие аналогичные средства, их части, пульки для пневматического оружия Патроны для строительно-монтажного пистолета",
+        "groupCODE": "093",
+        "groupNameUZ": "ҚУРОЛ ВА ЎҚ-ДОРИЛАР; УЛАРНИНГ ҚИСМЛАРИ ВА ЖИҲОЗЛАРИ",
+        "groupNameRU": "Оружие и боеприпасы; их части и принадлежности",
+        "groupNameLAT": "QUROL VA O’Q-DORILAR; ULARNING QISMLARI VA JIHOZLARI"
+      },
+      {
+        "mxikCode": "09305001002000000",
+        "nameUZ": "Милтиқлар ёки винтовкаларнинг қисмлари ва жиҳозлари",
+        "nameLAT": "Miltiqlar yoki vintovkalarning qismlari va jihozlari",
+        "nameRU": "Части и принадлежности ружей или винтовок",
+        "groupCODE": "093",
+        "groupNameUZ": "ҚУРОЛ ВА ЎҚ-ДОРИЛАР; УЛАРНИНГ ҚИСМЛАРИ ВА ЖИҲОЗЛАРИ",
+        "groupNameRU": "Оружие и боеприпасы; их части и принадлежности",
+        "groupNameLAT": "QUROL VA O’Q-DORILAR; ULARNING QISMLARI VA JIHOZLARI"
+      },
+      {
+        "mxikCode": "09305001001000000",
+        "nameUZ": "Револьверлар ёки пистолетларнинг қисмлари ва жиҳозлари",
+        "nameLAT": "Revolverlar yoki pistoletlarning qismlari va jihozlari",
+        "nameRU": "Части и принадлежности револьверов или пистолетов",
+        "groupCODE": "093",
+        "groupNameUZ": "ҚУРОЛ ВА ЎҚ-ДОРИЛАР; УЛАРНИНГ ҚИСМЛАРИ ВА ЖИҲОЗЛАРИ",
+        "groupNameRU": "Оружие и боеприпасы; их части и принадлежности",
+        "groupNameLAT": "QUROL VA O’Q-DORILAR; ULARNING QISMLARI VA JIHOZLARI"
+      }
+    ],
+    "recordTotal": 10,
+    "errors": null,
+    "permitted": false
+  }
+}

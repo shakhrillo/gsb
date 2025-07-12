@@ -1,0 +1,107 @@
+{
+  "metadata": {
+    "groupId": 66,
+    "fetchedAt": "2025-07-12T16:34:29.138Z",
+    "source": "https://tasnif.soliq.uz/api/cl-api/integration-mxik/references/group/code?group=66"
+  },
+  "data": {
+    "success": true,
+    "code": 200,
+    "reason": null,
+    "data": [
+      {
+        "mxikCode": "06602001001000000",
+        "nameUZ": "Ҳассалар, ўриндиқ ҳассалар ва бошқа шунга ўхшаш буюмлар",
+        "nameLAT": "Hassalar, o’rindiq hassalar va boshqa shunga o’xshash buyumlar",
+        "nameRU": "Трости, трости-сиденья и аналогичные изделия",
+        "groupCODE": "066",
+        "groupNameUZ": "СОЯБОНЛАР ВА ҲАССАЛАР",
+        "groupNameRU": "ЗОНТЫ И ТРОСТИ",
+        "groupNameLAT": "SOYaBONLAR VA HASSALAR"
+      },
+      {
+        "mxikCode": "06601001001000000",
+        "nameUZ": "Соябон (ёмғирдан ҳимояловчи)",
+        "nameLAT": "Soyabon (yomg’irdan himoyalovchi)",
+        "nameRU": "Зонтики (от дождя)",
+        "groupCODE": "066",
+        "groupNameUZ": "СОЯБОНЛАР ВА ҲАССАЛАР",
+        "groupNameRU": "ЗОНТЫ И ТРОСТИ",
+        "groupNameLAT": "SOYaBONLAR VA HASSALAR"
+      },
+      {
+        "mxikCode": "06602001004000000",
+        "nameUZ": "Қамчи, чавондозлар қамчиси ва шунга ўхшаш буюмлар",
+        "nameLAT": "Qamchi, chavondozlar qamchisi va shunga o’xshash buyumlar",
+        "nameRU": "Хлысты, кнуты для верховой езды и аналогичные изделия",
+        "groupCODE": "066",
+        "groupNameUZ": "СОЯБОНЛАР ВА ҲАССАЛАР",
+        "groupNameRU": "ЗОНТЫ И ТРОСТИ",
+        "groupNameLAT": "SOYaBONLAR VA HASSALAR"
+      },
+      {
+        "mxikCode": "06601001004000000",
+        "nameUZ": "Боғ соябонлари ёки шунга ўхшаш соябонлар",
+        "nameLAT": "Bog’ soyabonlari yoki shunga o’xshash soyabonlar",
+        "nameRU": "Садовые зонты или аналогичные зонты",
+        "groupCODE": "066",
+        "groupNameUZ": "СОЯБОНЛАР ВА ҲАССАЛАР",
+        "groupNameRU": "ЗОНТЫ И ТРОСТИ",
+        "groupNameLAT": "SOYaBONLAR VA HASSALAR"
+      },
+      {
+        "mxikCode": "06601001005000000",
+        "nameUZ": "Қуёшдан ҳимояловчи соябон",
+        "nameLAT": "Quyoshdan himoyalovchi soyabon",
+        "nameRU": "Солнцезащитные зонты",
+        "groupCODE": "066",
+        "groupNameUZ": "СОЯБОНЛАР ВА ҲАССАЛАР",
+        "groupNameRU": "ЗОНТЫ И ТРОСТИ",
+        "groupNameLAT": "SOYaBONLAR VA HASSALAR"
+      },
+      {
+        "mxikCode": "06602001001000003",
+        "nameUZ": "Ҳассалар, ўриндиқ ҳассалар ва бошқа шунга ўхшаш буюмлар йиғиладиган хасса",
+        "nameLAT": "Hassalar, o’rindiq hassalar va boshqa shunga o’xshash buyumlar yig’iladigan xassa",
+        "nameRU": "Трости, трости-сиденья и аналогичные изделия трость складная",
+        "groupCODE": "066",
+        "groupNameUZ": "СОЯБОНЛАР ВА ҲАССАЛАР",
+        "groupNameRU": "ЗОНТЫ И ТРОСТИ",
+        "groupNameLAT": "SOYABONLAR VA HASSALAR"
+      },
+      {
+        "mxikCode": "06602001001000004",
+        "nameUZ": "Ҳассалар, ўриндиқ ҳассалар ва бошқа шунга ўхшаш буюмлар кўзи ожизлар учун хасса",
+        "nameLAT": "Hassalar, o’rindiq hassalar va boshqa shunga o’xshash buyumlar ko’zi ojizlar uchun xassa",
+        "nameRU": "Трости, трости-сиденья и аналогичные изделия трости для слепых",
+        "groupCODE": "066",
+        "groupNameUZ": "СОЯБОНЛАР ВА ҲАССАЛАР",
+        "groupNameRU": "ЗОНТЫ И ТРОСТИ",
+        "groupNameLAT": "SOYABONLAR VA HASSALAR"
+      },
+      {
+        "mxikCode": "06602001001000002",
+        "nameUZ": "Ҳассалар, ўриндиқ ҳассалар ва бошқа шунга ўхшаш буюмлар тўрт оёқли хасса",
+        "nameLAT": "Hassalar, o’rindiq hassalar va boshqa shunga o’xshash buyumlar to’rt oyoqli xassa",
+        "nameRU": "Трости, трости-сиденья и аналогичные изделия трость четвероногий",
+        "groupCODE": "066",
+        "groupNameUZ": "СОЯБОНЛАР ВА ҲАССАЛАР",
+        "groupNameRU": "ЗОНТЫ И ТРОСТИ",
+        "groupNameLAT": "SOYABONLAR VA HASSALAR"
+      },
+      {
+        "mxikCode": "06602001001000001",
+        "nameUZ": "Ҳассалар, ўриндиқ ҳассалар ва бошқа шунга ўхшаш буюмлар хасса",
+        "nameLAT": "Hassalar, o’rindiq hassalar va boshqa shunga o’xshash buyumlar xassa",
+        "nameRU": "Трости, трости-сиденья и аналогичные изделия трость",
+        "groupCODE": "066",
+        "groupNameUZ": "СОЯБОНЛАР ВА ҲАССАЛАР",
+        "groupNameRU": "ЗОНТЫ И ТРОСТИ",
+        "groupNameLAT": "SOYABONLAR VA HASSALAR"
+      }
+    ],
+    "recordTotal": 9,
+    "errors": null,
+    "permitted": false
+  }
+}

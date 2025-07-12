@@ -1,0 +1,247 @@
+{
+  "metadata": {
+    "groupId": 117,
+    "fetchedAt": "2025-07-12T16:39:12.096Z",
+    "source": "https://tasnif.soliq.uz/api/cl-api/integration-mxik/references/group/code?group=117"
+  },
+  "data": {
+    "success": true,
+    "code": 200,
+    "reason": null,
+    "data": [
+      {
+        "mxikCode": "11701001002000000",
+        "nameUZ": "Кийим таъмирлаш ва тикиш хизматлари, ателье хизматлари (барча турдаги хизматлар)",
+        "nameLAT": "Kiyim tamirlash va tikish xizmatlari, atelye xizmatlari (barcha turdagi xizmatlar)",
+        "nameRU": "Услуги по ремонту и пошиву одежды, услуги ателье (все виды услуг)",
+        "groupCODE": "117",
+        "groupNameUZ": "МАИШИЙ, ШАХСИЙ ТАЪМИРЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "БЫТОВЫЕ, ИНДИВИДУАЛЬНЫЕ, РЕМОНТНЫЕ УСЛУГИ",
+        "groupNameLAT": "MAIShIY, ShAXSIY TA’MIRLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "11703003001000000",
+        "nameUZ": "Бозорларда ва савдо марказларида кичик юкларни аравачаларда ташиш хизматлари",
+        "nameLAT": "Bozorlarda va savdo markazlarida kichik yuklarni aravachalarda tashish xizmatlari",
+        "nameRU": "Перевозка на рынках и в торговых комплексах мелких грузов в тележках",
+        "groupCODE": "117",
+        "groupNameUZ": "МАИШИЙ, ШАХСИЙ ТАЪМИРЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "БЫТОВЫЕ, ИНДИВИДУАЛЬНЫЕ, РЕМОНТНЫЕ УСЛУГИ",
+        "groupNameLAT": "MAIShIY, ShAXSIY TA’MIRLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "11702001004000000",
+        "nameUZ": "Гилам ва шунга ўхшаш буюмларни тозалаш",
+        "nameLAT": "Gilam va shunga o’xshash buyumlarni tozalash",
+        "nameRU": "Чистка ковров и ковровых изделий",
+        "groupCODE": "117",
+        "groupNameUZ": "МАИШИЙ, ШАХСИЙ ТАЪМИРЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "БЫТОВЫЕ, ИНДИВИДУАЛЬНЫЕ, РЕМОНТНЫЕ УСЛУГИ",
+        "groupNameLAT": "MAIShIY, ShAXSIY TA’MIRLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "11701001004000000",
+        "nameUZ": "Компьютерларни таъмирлаш ва техник хизмат кўрсатиш, дастурий маҳсулотларни ўрнатиш хизматлари (барча турдаги хизматлар)",
+        "nameLAT": "Kompyuterlarni tamirlash va texnik xizmat ko’rsatish, dasturiy mahsulotlarni o’rnatish xizmatlari (barcha turdagi xizmatlar)",
+        "nameRU": "Услуги по ремонту и техническому обслуживанию компьютеров, установке программных продуктов (все виды услуг)",
+        "groupCODE": "117",
+        "groupNameUZ": "МАИШИЙ, ШАХСИЙ ТАЪМИРЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "БЫТОВЫЕ, ИНДИВИДУАЛЬНЫЕ, РЕМОНТНЫЕ УСЛУГИ",
+        "groupNameLAT": "MAIShIY, ShAXSIY TA’MIRLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "11702001001000000",
+        "nameUZ": "Кимёвий тозалаш хизматлари",
+        "nameLAT": "Kimyoviy tozalash xizmatlari",
+        "nameRU": "Химическая чистка (химчистка)",
+        "groupCODE": "117",
+        "groupNameUZ": "МАИШИЙ, ШАХСИЙ ТАЪМИРЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "БЫТОВЫЕ, ИНДИВИДУАЛЬНЫЕ, РЕМОНТНЫЕ УСЛУГИ",
+        "groupNameLAT": "MAIShIY, ShAXSIY TA’MIRLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "11702007001000000",
+        "nameUZ": "Маросим ва удум хизматлари (барча турдаги хизматлар)",
+        "nameLAT": "Marosim va udum xizmatlari (barcha turdagi xizmatlar)",
+        "nameRU": "Ритуальные и обрядовые услуги (все виды услуг)",
+        "groupCODE": "117",
+        "groupNameUZ": "МАИШИЙ, ШАХСИЙ ТАЪМИРЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "БЫТОВЫЕ, ИНДИВИДУАЛЬНЫЕ, РЕМОНТНЫЕ УСЛУГИ",
+        "groupNameLAT": "MAIShIY, ShAXSIY TA’MIRLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "11702006001000000",
+        "nameUZ": "Уй хўжалигини юритиш хизматлари (барча турдаги хизматлар)",
+        "nameLAT": "Uy xo’jaligini yuritish xizmatlari (barcha turdagi xizmatlar)",
+        "nameRU": "Услуги по ведению домашнего хозяйства (все виды услуг)",
+        "groupCODE": "117",
+        "groupNameUZ": "МАИШИЙ, ШАХСИЙ ТАЪМИРЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "БЫТОВЫЕ, ИНДИВИДУАЛЬНЫЕ, РЕМОНТНЫЕ УСЛУГИ",
+        "groupNameLAT": "MAIShIY, ShAXSIY TA’MIRLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "11701001008000000",
+        "nameUZ": "Уй хўжалиги, боғдорчилик ва рўзғор жиҳозларини таъмирлаш хизматлари (барча турдаги хизматлар)",
+        "nameLAT": "Uy xo’jaligi, bog’dorchilik va ro’zg’or jihozlarini tamirlash xizmatlari (barcha turdagi xizmatlar)",
+        "nameRU": "Услуги по ремонту домашнего, садового инвентаря и бытового обихода (все виды услуг)",
+        "groupCODE": "117",
+        "groupNameUZ": "МАИШИЙ, ШАХСИЙ ТАЪМИРЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "БЫТОВЫЕ, ИНДИВИДУАЛЬНЫЕ, РЕМОНТНЫЕ УСЛУГИ",
+        "groupNameLAT": "MAIShIY, ShAXSIY TA’MIRLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "11702005001000000",
+        "nameUZ": "Болалар, беморлар ва қарияларга қараш ва парваришлаш хизматлари",
+        "nameLAT": "Bolalar, bemorlar va qariyalarga qarash va parvarishlash xizmatlari",
+        "nameRU": "Услуги по присмотру и уходу за детьми, больными и престарелыми лицами",
+        "groupCODE": "117",
+        "groupNameUZ": "МАИШИЙ, ШАХСИЙ ТАЪМИРЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "БЫТОВЫЕ, ИНДИВИДУАЛЬНЫЕ, РЕМОНТНЫЕ УСЛУГИ",
+        "groupNameLAT": "MAIShIY, ShAXSIY TA’MIRLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "11703006001000000",
+        "nameUZ": "Бошқа маиший хизматлар",
+        "nameLAT": "Boshqa maishiy xizmatlar",
+        "nameRU": "Бытовые услуги прочие",
+        "groupCODE": "117",
+        "groupNameUZ": "МАИШИЙ, ШАХСИЙ ТАЪМИРЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "БЫТОВЫЕ, ИНДИВИДУАЛЬНЫЕ, РЕМОНТНЫЕ УСЛУГИ",
+        "groupNameLAT": "MAIShIY, ShAXSIY TA’MIRLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "11702003001000000",
+        "nameUZ": "Ҳаммом, душ, сауна хизматлари (барча турдаги хизматлар)",
+        "nameLAT": "Hammom, dush, sauna xizmatlari (barcha turdagi xizmatlar)",
+        "nameRU": "Услуги бань, душевых, саун (все виды услуг)",
+        "groupCODE": "117",
+        "groupNameUZ": "МАИШИЙ, ШАХСИЙ ТАЪМИРЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "БЫТОВЫЕ, ИНДИВИДУАЛЬНЫЕ, РЕМОНТНЫЕ УСЛУГИ",
+        "groupNameLAT": "MAIShIY, ShAXSIY TA’MIRLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "11701001005000000",
+        "nameUZ": "Соатлар ва заргарлик буюмларини таъмирлаш хизматлари (барча турдаги хизматлар)",
+        "nameLAT": "Soatlar va zargarlik buyumlarini tamirlash xizmatlari (barcha turdagi xizmatlar)",
+        "nameRU": "Услуги по ремонту часов и ювелирных изделий (все виды услуг)",
+        "groupCODE": "117",
+        "groupNameUZ": "МАИШИЙ, ШАХСИЙ ТАЪМИРЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "БЫТОВЫЕ, ИНДИВИДУАЛЬНЫЕ, РЕМОНТНЫЕ УСЛУГИ",
+        "groupNameLAT": "MAIShIY, ShAXSIY TA’MIRLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "11702001002000000",
+        "nameUZ": "Маиший эҳтиёжлар учун материаллар/буюмларни бўяш (барча турдаги хизматлар)",
+        "nameLAT": "Maishiy ehtiyojlar uchun materiallar/buyumlarni bo’yash (barcha turdagi xizmatlar)",
+        "nameRU": "Крашение материалов для бытовых нужд (все виды услуг)",
+        "groupCODE": "117",
+        "groupNameUZ": "МАИШИЙ, ШАХСИЙ ТАЪМИРЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "БЫТОВЫЕ, ИНДИВИДУАЛЬНЫЕ, РЕМОНТНЫЕ УСЛУГИ",
+        "groupNameLAT": "MAIShIY, ShAXSIY TA’MIRLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "11702001003000000",
+        "nameUZ": "Кир ювиш ва дазмоллаш хизматлари",
+        "nameLAT": "Kir yuvish va dazmollash xizmatlari",
+        "nameRU": "Услуги прачечных и глажки",
+        "groupCODE": "117",
+        "groupNameUZ": "МАИШИЙ, ШАХСИЙ ТАЪМИРЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "БЫТОВЫЕ, ИНДИВИДУАЛЬНЫЕ, РЕМОНТНЫЕ УСЛУГИ",
+        "groupNameLAT": "MAIShIY, ShAXSIY TA’MIRLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "11703005001000000",
+        "nameUZ": "Комиссион сотиш хизматлари (ишлатилган маҳсулот/буюмларни)",
+        "nameLAT": "Komission sotish xizmatlari (ishlatilgan mahsulot/buyumlarni)",
+        "nameRU": "Услуги комиссионой продажи (бывших в употреблении товаров)",
+        "groupCODE": "117",
+        "groupNameUZ": "МАИШИЙ, ШАХСИЙ ТАЪМИРЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "БЫТОВЫЕ, ИНДИВИДУАЛЬНЫЕ, РЕМОНТНЫЕ УСЛУГИ",
+        "groupNameLAT": "MAIShIY, ShAXSIY TA’MIRLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "11701001007000000",
+        "nameUZ": "Мусиқий асбобларни таъмирлаш ва созлаш хизматлари",
+        "nameLAT": "Musiqiy asboblarni tamirlash va sozlash xizmatlari",
+        "nameRU": "Услуги по ремонту и настройке музыкальных инструментов",
+        "groupCODE": "117",
+        "groupNameUZ": "МАИШИЙ, ШАХСИЙ ТАЪМИРЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "БЫТОВЫЕ, ИНДИВИДУАЛЬНЫЕ, РЕМОНТНЫЕ УСЛУГИ",
+        "groupNameLAT": "MAIShIY, ShAXSIY TA’MIRLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "11702003002000000",
+        "nameUZ": "Умумий фойдаланишдаги хожатхона хизмати",
+        "nameLAT": "Umumiy foydalanishdagi xojatxona xizmati",
+        "nameRU": "Услуги общественных туалетов",
+        "groupCODE": "117",
+        "groupNameUZ": "МАИШИЙ, ШАХСИЙ ТАЪМИРЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "БЫТОВЫЕ, ИНДИВИДУАЛЬНЫЕ, РЕМОНТНЫЕ УСЛУГИ",
+        "groupNameLAT": "MAIShIY, ShAXSIY TA’MIRLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "11703002001000000",
+        "nameUZ": "Барча турдаги ўйин ва компьютер заллари хизматлари, ҳужжатлар билан ишлаш, шу жумладан (ламинация, нусха кўчириш, сканерлаш, матн ёзиш, босиб чиқариш, переплёт ва бошқалар)",
+        "nameLAT": "Barcha turdagi o’yin va kompyuter zallari xizmatlari, hujjatlar bilan ishlash, shu jumladan (laminatsiya, nusxa ko’chirish, skanerlash, matn yozish, bosib chiqarish, pereplyot va boshqalar)",
+        "nameRU": "Услуги игровых и компьютерных залов всех видов, в том числе по работе с документами (ламинирование, копирование, сканирование, набор текста, печать, переплет и прочие)",
+        "groupCODE": "117",
+        "groupNameUZ": "МАИШИЙ, ШАХСИЙ ТАЪМИРЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "БЫТОВЫЕ, ИНДИВИДУАЛЬНЫЕ, РЕМОНТНЫЕ УСЛУГИ",
+        "groupNameLAT": "MAIShIY, ShAXSIY TA’MIRLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "11701001001000000",
+        "nameUZ": "Пойабзал таъмирлаш хизматлари (барча турдаги хизматлар)",
+        "nameLAT": "Poyabzal tamirlash xizmatlari (barcha turdagi xizmatlar)",
+        "nameRU": "Услуги по ремонту обуви (все виды услуг)",
+        "groupCODE": "117",
+        "groupNameUZ": "МАИШИЙ, ШАХСИЙ ТАЪМИРЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "БЫТОВЫЕ, ИНДИВИДУАЛЬНЫЕ, РЕМОНТНЫЕ УСЛУГИ",
+        "groupNameLAT": "MAIShIY, ShAXSIY TA’MIRLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "11701001006000000",
+        "nameUZ": "Мебель, уй-рўзғор ва хўжалик буюмларини таъмирлаш ва техник хизмат кўрсатиш бўйича хизматлар (барча турдаги хизматлар)",
+        "nameLAT": "Mebel, uy-ro’zg’or va xo’jalik buyumlarini tamirlash va texnik xizmat ko’rsatish bo’yicha xizmatlar (barcha turdagi xizmatlar)",
+        "nameRU": "Услуги по ремонту и техническому обслуживанию мебели, хозяйственных товаров и предметов домашнего обихода (домашнего и садового инвентаря)",
+        "groupCODE": "117",
+        "groupNameUZ": "МАИШИЙ, ШАХСИЙ ТАЪМИРЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "БЫТОВЫЕ, ИНДИВИДУАЛЬНЫЕ, РЕМОНТНЫЕ УСЛУГИ",
+        "groupNameLAT": "MAIShIY, ShAXSIY TA’MIRLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "11703004001000000",
+        "nameUZ": "Aквариум балиқлари, декоратив қушлар ва бошқа ҳайвонларни етиштириш ва сотиш хизматлари",
+        "nameLAT": "Akvarium baliqlari, dekorativ qushlar va boshqa hayvonlarni yetishtirish va sotish xizmatlari",
+        "nameRU": "Услуги разведения и реализация аквариумных рыб, декоративных птиц и других животных",
+        "groupCODE": "117",
+        "groupNameUZ": "МАИШИЙ, ШАХСИЙ ТАЪМИРЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "БЫТОВЫЕ, ИНДИВИДУАЛЬНЫЕ, РЕМОНТНЫЕ УСЛУГИ",
+        "groupNameLAT": "MAIShIY, ShAXSIY TA’MIRLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "11702004001000000",
+        "nameUZ": "Фото ва видео хизматлари (барча турдаги хизматлар)",
+        "nameLAT": "Foto va video xizmatlari (barcha turdagi xizmatlar)",
+        "nameRU": "Фото и видео услуги (все виды услуг)",
+        "groupCODE": "117",
+        "groupNameUZ": "МАИШИЙ, ШАХСИЙ ТАЪМИРЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "БЫТОВЫЕ, ИНДИВИДУАЛЬНЫЕ, РЕМОНТНЫЕ УСЛУГИ",
+        "groupNameLAT": "MAIShIY, ShAXSIY TA’MIRLASh XIZMATLARI"
+      },
+      {
+        "mxikCode": "11702002001000000",
+        "nameUZ": "Гўзаллик салонлари ва сартарошхоналар хизматлари (барча турдаги хизматлар)",
+        "nameLAT": "Go’zallik salonlari va sartaroshxonalar xizmatlari (barcha turdagi xizmatlar)",
+        "nameRU": "Услуги салонов красоты и парикмахерских (все виды услуг)",
+        "groupCODE": "117",
+        "groupNameUZ": "МАИШИЙ, ШАХСИЙ ТАЪМИРЛАШ ХИЗМАТЛАРИ",
+        "groupNameRU": "БЫТОВЫЕ, ИНДИВИДУАЛЬНЫЕ, РЕМОНТНЫЕ УСЛУГИ",
+        "groupNameLAT": "MAIShIY, ShAXSIY TA’MIRLASh XIZMATLARI"
+      }
+    ],
+    "recordTotal": 23,
+    "errors": null,
+    "permitted": false
+  }
+}

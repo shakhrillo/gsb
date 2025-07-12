@@ -1,0 +1,4157 @@
+{
+  "metadata": {
+    "groupId": 29,
+    "fetchedAt": "2025-07-12T16:31:50.703Z",
+    "source": "https://tasnif.soliq.uz/api/cl-api/integration-mxik/references/group/code?group=29"
+  },
+  "data": {
+    "success": true,
+    "code": 200,
+    "reason": null,
+    "data": [
+      {
+        "mxikCode": "02902001003000000",
+        "nameUZ": "Толуол",
+        "nameLAT": "Toluol",
+        "nameRU": "Толуол",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02922001003000000",
+        "nameUZ": "Триэтаноламин",
+        "nameLAT": "Trietanolamin",
+        "nameRU": "Триэтаноламин",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02922001025000000",
+        "nameUZ": "Эпоксид смолаларини тез қотириш воситаси",
+        "nameLAT": "Epoksid smolalarini tez qotirish vositasi",
+        "nameRU": "Ускоритель отверждения эпоксидных смол",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02905001017000000",
+        "nameUZ": "Пропиленгликол",
+        "nameLAT": "Propilenglikol",
+        "nameRU": "Пропиленгликоль",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02905001026000000",
+        "nameUZ": "Гексиленгликол",
+        "nameLAT": "Geksilenglikol",
+        "nameRU": "Гексиленгликоль",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02915001021000000",
+        "nameUZ": "Кальций стреарат",
+        "nameLAT": "Kaltsiy strearat",
+        "nameRU": "Стеарат кальция",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02916001008000002",
+        "nameUZ": "Бензо кислотаси Бензой кислотаси \"чда\"",
+        "nameLAT": "Benzo kislotasi Benzoy kislotasi \"chda\"",
+        "nameRU": "Бензойная кислота Бензойная кислота \"чда\"",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02916001008000000",
+        "nameUZ": "Бензо кислотаси",
+        "nameLAT": "Benzo kislotasi",
+        "nameRU": "Бензойная кислота",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02927001004000003",
+        "nameUZ": "Метил сабзирангли Сарғиш метил \"чда\"",
+        "nameLAT": "Metil sabzirangli Sarg’ish metil \"chda\"",
+        "nameRU": "Метиловый оранжевый Метиленовый оранжевый \"чда\"",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02927001004000004",
+        "nameUZ": "Метил сабзирангли 0,1% сарғиш метил аралашмаси",
+        "nameLAT": "Metil sabzirangli 0,1% sarg’ish metil aralashmasi",
+        "nameRU": "Метиловый оранжевый Метиленовый оранжевый 0,1% раствор",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02930001007000002",
+        "nameUZ": "Натрий диэтилдитиокарбомат Натрий диэтилдитиокарбомат \"чда\"",
+        "nameLAT": "Natriy dietilditiokarbomat Natriy dietilditiokarbomat \"chda\"",
+        "nameRU": "Натрий диэтилдитиокарбомат Натрий диэтилдитиокарбомат \"чда\"",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02930001007000001",
+        "nameUZ": "Натрий диэтилдитиокарбомат Натрий диэтилдитиокарбомат \"ч\"",
+        "nameLAT": "Natriy dietilditiokarbomat Natriy dietilditiokarbomat \"ch\"",
+        "nameRU": "Натрий диэтилдитиокарбомат Натрий диэтилдитиокарбомат \"ч\"",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02923001003000000",
+        "nameUZ": "Кимёвий аниқланган ёки аниқланмаган бошқа леситинлар ва фосфоаминолипидлар",
+        "nameLAT": "Kimyoviy aniqlangan yoki aniqlanmagan boshqa lesitinlar va fosfoaminolipidlar",
+        "nameRU": "Лецитины и фосфоаминолипиды прочие, определенного или неопределенного химического состава",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02930001007000000",
+        "nameUZ": "Натрий диэтилдитиокарбомат",
+        "nameLAT": "Natriy dietilditiokarbomat",
+        "nameRU": "Натрий диэтилдитиокарбомат",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02930001008000000",
+        "nameUZ": "Тиомочевина",
+        "nameLAT": "Tiomochevina",
+        "nameRU": "Тиомочевина",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02905001016015001",
+        "nameUZ": "Глицерин (кимёвий лаборатория учун) Pure косметик глицерин, полиэтилен бутилка 90 мл.",
+        "nameLAT": "Glitserin (kimyoviy laboratoriya uchun) Pure",
+        "nameRU": "Глицерин (для химической лаборатории) Pure глицерин косметический, полиэтиленовая бутылка 90 мл.",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02903001002000000",
+        "nameUZ": "Хлороформ",
+        "nameLAT": "Xloroform",
+        "nameRU": "Хлороформ",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02933001022000000",
+        "nameUZ": "Аллопуринол",
+        "nameLAT": "Allopurinol",
+        "nameRU": "Аллопуринол",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02933001029000000",
+        "nameUZ": "Фақат азотли гетероатом(лар)ни ўз ичига олган бошқа гетеросиклик бирикмалар",
+        "nameLAT": "Faqat azotli geteroatom(lar)ni o’z ichiga olgan boshqa geterosiklik birikmalar",
+        "nameRU": "Прочие соединения гетероциклические, содержащие лишь гетероатом(ы) азота",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02930001008000001",
+        "nameUZ": "Тиомочевина Тиомочевина \"хч\"",
+        "nameLAT": "Tiomochevina Tiomochevina \"xch\"",
+        "nameRU": "Тиомочевина Тиомочевина \"хч\"",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02941001002000000",
+        "nameUZ": "Бензилпенициллин",
+        "nameLAT": "Benzilpenitsillin",
+        "nameRU": "Бензилпенициллин",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02932001008000000",
+        "nameUZ": "Тимолфталеин",
+        "nameLAT": "Timolftalein",
+        "nameRU": "Тимолфталеин",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02930001008000002",
+        "nameUZ": "Тиомочевина Тиомочевина \"ч\"",
+        "nameLAT": "Tiomochevina Tiomochevina \"ch\"",
+        "nameRU": "Тиомочевина Тиомочевина \"ч\"",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02919001001000000",
+        "nameUZ": "Трибутилфосфат",
+        "nameLAT": "Tributilfosfat",
+        "nameRU": "Трибутилфосфат",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02922001011001008",
+        "nameUZ": "Глутамат натрий Lotos 40 г",
+        "nameLAT": "Glutamat natriy Lotos 40 g",
+        "nameRU": "Глутамат натрия Lotos 40 г",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02907001001000000",
+        "nameUZ": "Фенолоспиртлар",
+        "nameLAT": "Fenolospirtlar",
+        "nameRU": "Фенолоспирты",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02918001012000000",
+        "nameUZ": "Алюминон",
+        "nameLAT": "Alyuminon",
+        "nameRU": "Алюминон",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02903001009000000",
+        "nameUZ": "Углеводородларнинг бошқа галогенли ҳосилалари",
+        "nameLAT": "Uglevodorodlarning boshqa galogenli hosilalari",
+        "nameRU": "Прочие галогенированные производные углеводородов",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02926001002000000",
+        "nameUZ": "Нитрил функционал гуруҳини ўз ичига олган бошқа бирикмалар",
+        "nameLAT": "Nitril funksional guruhini o’z ichiga olgan boshqa birikmalar",
+        "nameRU": "Прочие соединения, содержащие нитрильную функциональную группу",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02932001002000003",
+        "nameUZ": "Фенолфталеин Фенолфталеин 1% раствор",
+        "nameLAT": "Fenolftalein Fenolftalein 1% rastvor",
+        "nameRU": "Фенолфталеин Фенолфталеин 1% раствор",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02932001002000002",
+        "nameUZ": "Фенолфталеин Фенолфталеин 0,1% раствор",
+        "nameLAT": "Fenolftalein Fenolftalein 0,1% rastvor",
+        "nameRU": "Фенолфталеин Фенолфталеин 0,1% раствор",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02932001002000001",
+        "nameUZ": "Фенолфталеин Фенолфталеин \"чда\"",
+        "nameLAT": "Fenolftalein Fenolftalein \"chda\"",
+        "nameRU": "Фенолфталеин Фенолфталеин \"чда\"",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02905001016012006",
+        "nameUZ": "Глицерин (кимёвий лаборатория учун) ГЛЭР косметик глицерин қариқиз экстракти билан, полиэтилен флакон 100 мл.",
+        "nameLAT": "Glitserin (kimyoviy laboratoriya uchun) ГЛЭР kosmetik glitserin qariqiz ekstrakti bilan, polietilen flakon 100 ml.",
+        "nameRU": "Глицерин (для химической лаборатории) ГЛЭР глицерин косметический с экстрактом лопуха, полиэтиленовый флакон 100 мл.",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02922001023000000",
+        "nameUZ": "Этилендиаминтетрауксус кислотаси динатрий тузи",
+        "nameLAT": "Etilendiamintetrauksus kislotasi dinatriy tuzi",
+        "nameRU": "Этилендиаминтетрауксусной кислоты динатриевая соль",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02904001002000000",
+        "nameUZ": "Фақат нитро ёки фақат нитрозогуруҳларни ўз ичига олган ҳосилалар",
+        "nameLAT": "Faqat nitro yoki faqat nitrozoguruhlarni o’z ichiga olgan hosilalar",
+        "nameRU": "Производные, содержащие только нитро- или только нитрозогруппы",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02902001008000000",
+        "nameUZ": "Бошқа циклик углеводородлар",
+        "nameLAT": "Boshqa siklik uglevodorodlar",
+        "nameRU": "Прочие углеводороды циклические",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02922001026000000",
+        "nameUZ": "Прокаин гидрохлорид",
+        "nameLAT": "Prokain gidroxlorid",
+        "nameRU": "Прокаина гидрохлорид",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02905001025000000",
+        "nameUZ": "Бошқа ациклик спиртлар ва уларнинг галогенланган, сульфонатланган, нитратланган ёки нитрозланган ҳосилалари",
+        "nameLAT": "Boshqa atsiklik spirtlar va ularning galogenlangan, sulfonatlangan, nitratlangan yoki nitrozlangan hosilalari",
+        "nameRU": "Прочие спирты ациклические и их галогенированные, сульфированные, нитрованные или нитрозированные производные",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02918001007007001",
+        "nameUZ": "Лимон кислотаси Ziravor 15 г",
+        "nameLAT": "Limon kislotasi Ziravor 15 g",
+        "nameRU": "Лимонная кислота Ziravor 15 г",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02922001011002003",
+        "nameUZ": "Глутамат натрий Китайская соль 200 г",
+        "nameLAT": "Glutamat natriy Китайская соль 200 g",
+        "nameRU": "Глутамат натрия Китайская соль 200 г",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02915001005001005",
+        "nameUZ": "Сирка кислотаси Ухх нордон-ширин ухх пэт бутилка 300 мл.",
+        "nameLAT": "Sirka kislotasi Ухх nordon-shirin uxx pet butilka 300 ml.",
+        "nameRU": "Уксусная кислота Ухх кислосладкий ухх пэт бутылка 300 мл.",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02909001004000000",
+        "nameUZ": "Этил эфири",
+        "nameLAT": "Etil efiri",
+        "nameRU": "Этиловый эфир",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02906001001000000",
+        "nameUZ": "Бензил спирт",
+        "nameLAT": "Benzil spirt",
+        "nameRU": "Бензиловый спирт",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02903001004000000",
+        "nameUZ": "Этилендихлорид",
+        "nameLAT": "Etilendixlorid",
+        "nameRU": "Этилендихлорид",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02933001001000000",
+        "nameUZ": "Барбитур кислотаси",
+        "nameLAT": "Barbitur kislotasi",
+        "nameRU": "Барбитуровая кислота",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02913001001000000",
+        "nameUZ": "2912-позициядаги бирикмаларнинг галогенланган, сулфонланган, нитратланган ёки нитрозланган ҳосилалари",
+        "nameLAT": "2912-pozitsiyadagi birikmalarning galogenlangan, sulfonlangan, nitratlangan yoki nitrozlangan hosilalari",
+        "nameRU": "Производные соединений товарной позиции 2912, галогенированные, сульфированные, нитрованные или нитрозированные",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02929001004000000",
+        "nameUZ": "Таркибида азот мавжуд бошқа функционал гуруҳларни ўз ичига олган бошқа бирикмалар",
+        "nameLAT": "Tarkibida azot mavjud boshqa funksional guruhlarni o’z ichiga olgan boshqa birikmalar",
+        "nameRU": "Прочие соединения, содержащие другие азотсодержащие функциональные группы",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02918001004000000",
+        "nameUZ": "Калий натрий тартарик",
+        "nameLAT": "Kaliy natriy tartarik",
+        "nameRU": "Калий натрий виннокислый",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02934001016000000",
+        "nameUZ": "Нуклеин кислоталар ва уларнинг тузлари",
+        "nameLAT": "Nuklein kislotalar va ularning tuzlari",
+        "nameRU": "Нуклеиновые кислоты и их соли прочие",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02926001001000000",
+        "nameUZ": "Ацетонитрил",
+        "nameLAT": "Atsetonitril",
+        "nameRU": "Ацетонитрил",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02930001005000000",
+        "nameUZ": "L-глутатион",
+        "nameLAT": "L-glutation",
+        "nameRU": "L-глутатион",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02934001015000000",
+        "nameUZ": "Хлорфенамин малеат",
+        "nameLAT": "Xlorfenamin maleat",
+        "nameRU": "Хлорфенамин малеат",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02941001008000000",
+        "nameUZ": "Доксициклин гидрохлорид",
+        "nameLAT": "Doksitsiklin gidroxlorid",
+        "nameRU": "Доксициклин гидрохлорид",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02920001001000000",
+        "nameUZ": "Металл бўлмаган бошқа ноорганик кислоталарнинг эфирлари (галоген водород эфирларидан ташқари) ва уларнинг тузлари, уларнинг галогенланган сулфонатланган, нитратланган ёки нитрозланган ҳосилалари",
+        "nameLAT": "Metall bo’lmagan boshqa noorganik kislotalarning efirlari (galogen vodorod efirlaridan tashqari) va ularning tuzlari, ularning galogenlangan sulfonatlangan, nitratlangan yoki nitrozlangan hosilalari",
+        "nameRU": "Сложные эфиры прочих неорганических кислот неметаллов (кроме сложных эфиров галогенводородов) и их соли; их галогенированные, сульфированные, нитрованные или нитрозированные производные",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02901001006000000",
+        "nameUZ": "Бошқа ациклик углеводородлар",
+        "nameLAT": "Boshqa atsiklik uglevodorodlar",
+        "nameRU": "Прочие углеводороды ациклические",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02928001008000000",
+        "nameUZ": "Дифенилкарбазон",
+        "nameLAT": "Difenilkarbazon",
+        "nameRU": "Дифенилкарбазон",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02932001008000001",
+        "nameUZ": "Тимолфталеин Тимолфталеин \"чда\"",
+        "nameLAT": "Timolftalein Timolftalein \"chda\"",
+        "nameRU": "Тимолфталеин Тимолфталеин \"чда\"",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02905001016012003",
+        "nameUZ": "Глицерин (кимёвий лаборатория учун) ГЛЭР косметик глицерин алоэ экстракти билан, полиэтилен флакон 100 мл.",
+        "nameLAT": "Glitserin (kimyoviy laboratoriya uchun) ГЛЭР kosmetik glitserin aloe ekstrakti bilan, polietilen flakon 100 ml.",
+        "nameRU": "Глицерин (для химической лаборатории) ГЛЭР глицерин косметический с экстрактом алоэ, полиэтиленовый флакон 100 мл.",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02921001005000000",
+        "nameUZ": "1-Нафтиламин",
+        "nameLAT": "1-Naftilamin",
+        "nameRU": "1-Нафтиламин",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02934001004000000",
+        "nameUZ": "Бромкресол бинафша ранг",
+        "nameLAT": "Bromkresol binafsha rang",
+        "nameRU": "Бромкрезоловый пурпурный",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02918001025000000",
+        "nameUZ": "Метилпарабен",
+        "nameLAT": "Metilparaben",
+        "nameRU": "Метилпарабен",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02928001008000001",
+        "nameUZ": "Дифенилкарбазон Дифенилкарбазон \"чда\"",
+        "nameLAT": "Difenilkarbazon Difenilkarbazon \"chda\"",
+        "nameRU": "Дифенилкарбазон Дифенилкарбазон \"чда\"",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02909001008000000",
+        "nameUZ": "Полестер қатронлар учун қаттиқлаштирувчи",
+        "nameLAT": "Polester qatronlar uchun qattiqlashtiruvchi",
+        "nameRU": "Отвердитель для полиэфирных смол",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02934001017000000",
+        "nameUZ": "Кинетин",
+        "nameLAT": "Kinetin",
+        "nameRU": "Кинетин",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02928001010000000",
+        "nameUZ": "Мельдоний дигидрат",
+        "nameLAT": "Meldoniy digidrat",
+        "nameRU": "Мельдоний дигидрат",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02922001011002007",
+        "nameUZ": "Глутамат натрий Китайская соль 80 г",
+        "nameLAT": "Glutamat natriy Китайская соль 80 g",
+        "nameRU": "Глутамат натрия Китайская соль 80 г",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02922001011001001",
+        "nameUZ": "Глутамат натрий Lotos 10 г",
+        "nameLAT": "Glutamat natriy Lotos 10 g",
+        "nameRU": "Глутамат натрия Lotos 10 г",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02915001005001003",
+        "nameUZ": "Сирка кислотаси Ухх аччиқ ухх пэт бутилка 300 мл.",
+        "nameLAT": "Sirka kislotasi Ухх achchiq uxx pet butilka 300 ml.",
+        "nameRU": "Уксусная кислота Ухх горький ухх пэт бутылка 300 мл.",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02931001001000000",
+        "nameUZ": "Оксиэтилидендифосфон кислотаси",
+        "nameLAT": "Oksietilidendifosfon kislotasi",
+        "nameRU": "Оксиэтилидендифосфоновая кислота",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02917001001000000",
+        "nameUZ": "Аммоний оксалат кислота",
+        "nameLAT": "Ammoniy oksalat kislota",
+        "nameRU": "Аммоний щавелевокислый",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02918001001000000",
+        "nameUZ": "Вино кислотаси",
+        "nameLAT": "Vino kislotasi",
+        "nameRU": "Винная кислота",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02919001002000000",
+        "nameUZ": "Фосфор кислотасининг бошқа эфирлари ва уларнинг тузлари, шу жумладан лактофосфатлар; уларнинг галогенланган, сульфонатланган, нитратланган ёки нитрозланган ҳосилалари",
+        "nameLAT": "Fosfor kislotasining boshqa efirlari va ularning tuzlari, shu jumladan laktofosfatlar; ularning galogenlangan, sulfonatlangan, nitratlangan yoki nitrozlangan hosilalari",
+        "nameRU": "Прочие эфиры фосфорной кислоты сложные и их соли, включая лактофосфаты; их галогенированные, сульфированные, нитрованные или нитрозированные производные",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02916001002000000",
+        "nameUZ": "Сорбат калий",
+        "nameLAT": "Sorbat kaliy",
+        "nameRU": "Сорбат калия",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02914001001000002",
+        "nameUZ": "Асиклик кетонлар Ацетон \"ч\"",
+        "nameLAT": "Asiklik ketonlar Atseton \"ch\"",
+        "nameRU": "Кетоны ациклические Ацетон \"ч\"",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02917001009000000",
+        "nameUZ": "Фтал ангидриди",
+        "nameLAT": "Ftal angidridi",
+        "nameRU": "Фталевый ангидрид",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02914001001000003",
+        "nameUZ": "Асиклик кетонлар Ацетон \"чда\"",
+        "nameLAT": "Asiklik ketonlar Atseton \"chda\"",
+        "nameRU": "Кетоны ациклические Ацетон \"чда\"",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02936001012000000",
+        "nameUZ": "Аквариум суви учун кондиционер",
+        "nameLAT": "Akvarium suvi uchun konditsioner",
+        "nameRU": "Кондиционер для аквариумной воды",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02918001007004003",
+        "nameUZ": "Лимон кислотаси Omega 50 г",
+        "nameLAT": "Limon kislotasi Omega 50 g",
+        "nameRU": "Лимонная кислота Omega 50 г",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02922001011002004",
+        "nameUZ": "Глутамат натрий Китайская соль 250 г",
+        "nameLAT": "Glutamat natriy Китайская соль 250 g",
+        "nameRU": "Глутамат натрия Китайская соль 250 г",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02930001004000000",
+        "nameUZ": "2-Меркаптоэтанол",
+        "nameLAT": "2-Merkaptoetanol",
+        "nameRU": "2-Меркаптоэтанол",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02933001009000000",
+        "nameUZ": "Меламин",
+        "nameLAT": "Melamin",
+        "nameRU": "Меламин",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02918001029000000",
+        "nameUZ": "Қўшимча кислород ўз ичига олган функционал гуруҳни ўз ичига олган бошқа карбоксилик кислоталар ва уларнинг ангидридлари, галоген кислоталар, пероксидлар ва пероксидлар; уларнинг галогенланган, сульфонатланган, нитратланган ёки нитрозланган маҳсулотлари",
+        "nameLAT": "Qo’shimcha kislorod o’z ichiga olgan funksional guruhni o’z ichiga olgan boshqa karboksilik kislotalar va ularning angidridlari, galogen kislotalar, peroksidlar va peroksidlar; ularning galogenlangan, sulfonatlangan, nitratlangan yoki nitrozlangan mahsulotlari",
+        "nameRU": "Прочие кислоты карбоновые, содержащие дополнительную кислородсодержащую функциональную группу, и их ангидриды, галогенангидриды, пероксиды и пероксикислоты; их галогенированные, сульфированные, нитрованные или нитрозированные произ",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02922001011002002",
+        "nameUZ": "Глутамат натрий Китайская соль 20 г",
+        "nameLAT": "Glutamat natriy Китайская соль 20 g",
+        "nameRU": "Глутамат натрия Китайская соль 20 г",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02922001011001005",
+        "nameUZ": "Глутамат натрий Lotos 200 г",
+        "nameLAT": "Glutamat natriy Lotos 200 g",
+        "nameRU": "Глутамат натрия Lotos 200 г",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02918001007002003",
+        "nameUZ": "Лимон кислотаси Asian Spices 30 г",
+        "nameLAT": "Limon kislotasi Asian Spices 30 g",
+        "nameRU": "Лимонная кислота Asian Spices 30 г",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02942001002000000",
+        "nameUZ": "Бошқа органик бирикмалар",
+        "nameLAT": "Boshqa organik birikmalar",
+        "nameRU": "Соединения органические прочие",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02915001005001004",
+        "nameUZ": "Сирка кислотаси Ухх лимон таъми билан ухх пэт бутилка 300 мл.",
+        "nameLAT": "Sirka kislotasi Ухх limon tami bilan uxx pet butilka 300 ml.",
+        "nameRU": "Уксусная кислота Ухх со вкусом лимона ухх пэт бутылка 300 мл.",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02905001016014001",
+        "nameUZ": "Глицерин (кимёвий лаборатория учун) Samara косметик глицерин ифорли, полиэтилен флакон 90мл.",
+        "nameLAT": "Glitserin (kimyoviy laboratoriya uchun) Samara kosmetik glitserin iforli, polietilen flakon 90ml.",
+        "nameRU": "Глицерин (для химической лаборатории) Samara глицерин косметический с ароматом, полиэтиленовый флакон 90мл.",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02922001017000000",
+        "nameUZ": "Дипропилнитрозамин",
+        "nameLAT": "Dipropilnitrozamin",
+        "nameRU": "Дипропилнитрозамин",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02915001010000000",
+        "nameUZ": "Натрий сирка кислотаси",
+        "nameLAT": "Natriy sirka kislotasi",
+        "nameRU": "Натрий уксуснокислый",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02935001002000000",
+        "nameUZ": "Сульфаниламид",
+        "nameLAT": "Sulfanilamid",
+        "nameRU": "Сульфаниламид",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02933001007000000",
+        "nameUZ": "Ёруғлик стабилизатори",
+        "nameLAT": "Yorug’lik stabilizatori",
+        "nameRU": "Светостабилизатор",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02909001003000000",
+        "nameUZ": "Диэтил эфир эритмаси",
+        "nameLAT": "Dietil efir eritmasi",
+        "nameRU": "Раствор диэтилового эфира",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02922001027000000",
+        "nameUZ": "Таркибида кислород сақловчи функционал гуруҳни ўз ичига олган бошқа аминокислоталар",
+        "nameLAT": "Tarkibida kislorod saqlovchi funksional guruhni o’z ichiga olgan boshqa aminokislotalar",
+        "nameRU": "Прочие аминосоединения, включающие кислородсодержащую функциональную группу",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02901001003000000",
+        "nameUZ": "Изо-октан",
+        "nameLAT": "Izo-oktan",
+        "nameRU": "Изо-октан",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02928001009000000",
+        "nameUZ": "Фенилгидразин",
+        "nameLAT": "Fenilgidrazin",
+        "nameRU": "Фенилгидразин",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02915001028000000",
+        "nameUZ": "Бошқа ациклик кислоталар",
+        "nameLAT": "Boshqa atsiklik kislotalar",
+        "nameRU": "Прочие кислоты ациклические",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02914001004000001",
+        "nameUZ": "Циклоалкан, циклоалкен ёки циклотерпен кетонлар Циклогексанон \"ч\"",
+        "nameLAT": "Sikloalkan, sikloalken yoki sikloterpen ketonlar Siklogeksanon \"ch\"",
+        "nameRU": "Кетоны циклоалкановые, циклоалкеновые или циклотерпеновые Циклогексанон \"ч\"",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02918001007003001",
+        "nameUZ": "Лимон кислотаси Lezzet 100 г",
+        "nameLAT": "Limon kislotasi Lezzet 100 g",
+        "nameRU": "Лимонная кислота Lezzet 100 г",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02918001007008001",
+        "nameUZ": "Лимон кислотаси Dr.Oetker пищевая 50 гр.",
+        "nameLAT": "Limon kislotasi Dr.Oetker piщevaya 50 gr.",
+        "nameRU": "Лимонная кислота Dr.Oetker пищевая 50 гр.",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02905001016012005",
+        "nameUZ": "Глицерин (кимёвий лаборатория учун) ГЛЭР косметик глицерин календула экстракти билан, полиэтилен флакон 100 мл.",
+        "nameLAT": "Glitserin (kimyoviy laboratoriya uchun) ГЛЭР kosmetik glitserin kalendula ekstrakti bilan, polietilen flakon 100 ml.",
+        "nameRU": "Глицерин (для химической лаборатории) ГЛЭР глицерин косметический с экстрактом календулы, полиэтиленовый флакон 100 мл.",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02905001016012009",
+        "nameUZ": "Глицерин (кимёвий лаборатория учун) ГЛЭР косметик глицерин мойчечак экстракти билан, полиэтилен флакон 100 мл.",
+        "nameLAT": "Glitserin (kimyoviy laboratoriya uchun) ГЛЭР kosmetik glitserin moychechak ekstrakti bilan, polietilen flakon 100 ml.",
+        "nameRU": "Глицерин (для химической лаборатории) ГЛЭР глицерин косметический с экстрактом ромашки, полиэтиленовый флакон 100 мл.",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02927001005000000",
+        "nameUZ": "Нитразин сариқ",
+        "nameLAT": "Nitrazin sariq",
+        "nameRU": "Нитразиновый желтый",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02901001005000000",
+        "nameUZ": "Ацетелин",
+        "nameLAT": "Atsetelin",
+        "nameRU": "Ацетилен",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02933001011000000",
+        "nameUZ": "Дротаверин гидрохлорид",
+        "nameLAT": "Drotaverin gidroxlorid",
+        "nameRU": "Дротаверин гидрохлорид",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02918001010000000",
+        "nameUZ": "Натрий салитцил кислотаси",
+        "nameLAT": "Natriy salitsil kislotasi",
+        "nameRU": "Натрий салициловокислый",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02907001002000000",
+        "nameUZ": "Фенол",
+        "nameLAT": "Fenol",
+        "nameRU": "Фенол",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02917001006000000",
+        "nameUZ": "Калий фталево кислотаси",
+        "nameLAT": "Kaliy ftalevo kislotasi",
+        "nameRU": "Калий фталевокислый кислый",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02934001007000000",
+        "nameUZ": "Бромофенол кўк",
+        "nameLAT": "Bromofenol ko’k",
+        "nameRU": "Бромфеноловый синий",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02917001008000000",
+        "nameUZ": "Изометилтетрагидрофталик ангидрид",
+        "nameLAT": "Izometiltetragidroftalik angidrid",
+        "nameRU": "Изометилтетрагидрофталевый ангидрид",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02935001001000000",
+        "nameUZ": "Бошқа сулфаниламидлар",
+        "nameLAT": "Boshqa sulfanilamidlar",
+        "nameRU": "Сульфонамиды прочие",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02903001006000000",
+        "nameUZ": "Фреон",
+        "nameLAT": "Freon",
+        "nameRU": "Фреон",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02905001023000000",
+        "nameUZ": "Цетил спирти",
+        "nameLAT": "Setil spirti",
+        "nameRU": "Цетиловый спирт",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02914001001000000",
+        "nameUZ": "Асиклик кетонлар",
+        "nameLAT": "Asiklik ketonlar",
+        "nameRU": "Кетоны ациклические",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02918001022000000",
+        "nameUZ": "Олма кислотаси",
+        "nameLAT": "Olma kislotasi",
+        "nameRU": "Яблочная кислота",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02932001002000000",
+        "nameUZ": "Фенолфталеин",
+        "nameLAT": "Fenolftalein",
+        "nameRU": "Фенолфталеин",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02918001019000000",
+        "nameUZ": "Палсгаард",
+        "nameLAT": "Palsgaard",
+        "nameRU": "Палсгаард",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02933001005000000",
+        "nameUZ": "Ортофенантролин",
+        "nameLAT": "Ortofenantrolin",
+        "nameRU": "Ортофенантролин",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02918001007002001",
+        "nameUZ": "Лимон кислотаси Asian Spices 10 г",
+        "nameLAT": "Limon kislotasi Asian Spices 10 g",
+        "nameRU": "Лимонная кислота Asian Spices 10 г",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02933001023000000",
+        "nameUZ": "L-гистидин моногидрохлорид моногидрати",
+        "nameLAT": "L-gistidin monogidroxlorid monogidrati",
+        "nameRU": "Моногидрат моногидрохлорида L-гистидина",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02905001016012004",
+        "nameUZ": "Глицерин (кимёвий лаборатория учун) ГЛЭР косметик глицерин гулсапсар экстракти билан, полиэтилен флакон 100 мл.",
+        "nameLAT": "Glitserin (kimyoviy laboratoriya uchun) ГЛЭР kosmetik glitserin gulsapsar ekstrakti bilan, polietilen flakon 100 ml.",
+        "nameRU": "Глицерин (для химической лаборатории) ГЛЭР глицерин косметический с экстрактом ириса, полиэтиленовый флакон 100 мл.",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02933001024000000",
+        "nameUZ": "Норфлоксацин стандарт намунаси",
+        "nameLAT": "Norfloksatsin standart namunasi",
+        "nameRU": "Стандартный образец Норфлоксацина",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02933001025000000",
+        "nameUZ": "Триглицидил изоцианурат",
+        "nameLAT": "Triglitsidil izotsianurat",
+        "nameRU": "Триглицидил изоцианурат",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02921001003000000",
+        "nameUZ": "Сулфанил кислота, шу жумладан ациклик моноаминлар",
+        "nameLAT": "Sulfanil kislota, shu jumladan atsiklik monoaminlar",
+        "nameRU": "Сульфаниловая кислота, в том числе ациклические моноамины",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02921001004000000",
+        "nameUZ": "Дифениламин",
+        "nameLAT": "Difenilamin",
+        "nameRU": "Дифениламин",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02934001012000000",
+        "nameUZ": "Қизил фенол",
+        "nameLAT": "Qizil fenol",
+        "nameRU": "Феноловый красный",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02929001002000000",
+        "nameUZ": "Толуолдиизоцианат",
+        "nameLAT": "Toluoldiizotsianat",
+        "nameRU": "Толуилендиизоцианат",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02905001015000000",
+        "nameUZ": "Этиленгликоль",
+        "nameLAT": "Etilenglikol",
+        "nameRU": "Этиленгликоль",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02907001004000000",
+        "nameUZ": "Резорцин",
+        "nameLAT": "Rezorsin",
+        "nameRU": "Резорцин",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02916001009000000",
+        "nameUZ": "Бошқа тўйинмаган асиклик монокарбоксилик кислоталар, сиклик монокарбоксилик кислоталар, уларнинг ангидридлари, кислота галогенидлари, пероксидлар ва пероксит кислоталар; уларнинг галогенланган, сульфонатланган, нитратланган ёки нитрозланган ҳосилалари",
+        "nameLAT": "Boshqa to’yinmagan asiklik monokarboksilik kislotalar, siklik monokarboksilik kislotalar, ularning angidridlari, kislota galogenidlari, peroksidlar va peroksit kislotalar; ularning galogenlangan, sulfonatlangan, nitratlangan yoki nitrozlangan hosilalari",
+        "nameRU": "Прочие кислоты ациклические монокарбоновые ненасыщенные, кислоты циклические монокарбоновые, их ангидриды, галогенангидриды, пероксиды и пероксикислоты; их галогенированные, сульфированные, нитрованные или нитрозированные производные",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02905001027000005",
+        "nameUZ": "Метил спирти Метил спирт 1dm3 в б/с да 0,012% ёки 0,03 %",
+        "nameLAT": "Metil spirti Metil spirt 1dm3 v b/s da 0,012% yoki 0,03 %",
+        "nameRU": "Метиловый спирт Метиловый спирт 0,012% или 0,03 % в 1dm3 в б/с",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02905001027000009",
+        "nameUZ": "Метил спирти Метил спирт 1dm3 в б/с да 0,13%",
+        "nameLAT": "Metil spirti Metil spirt 1dm3 v b/s da 0,13%",
+        "nameRU": "Метиловый спирт Метиловый спирт 0,13% в 1dm3 в б/с",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02928001007000000",
+        "nameUZ": "Метилетилкетоксим",
+        "nameLAT": "Metiletilketoksim",
+        "nameRU": "Метилэтилкетоксим",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02905001027000007",
+        "nameUZ": "Метил спирти Метил спирт 1dm3 в б/с да 0,03%",
+        "nameLAT": "Metil spirti Metil spirt 1dm3 v b/s da 0,03%",
+        "nameRU": "Метиловый спирт Метиловый спирт 0,03% в 1dm3 в б/с",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02905001027000006",
+        "nameUZ": "Метил спирти Метил спирт 0,02% ёки 0,05% в 1dm3 в б/с",
+        "nameLAT": "Metil spirti Metil spirt 0,02% yoki 0,05% v 1dm3 v b/s",
+        "nameRU": "Метиловый спирт Метиловый спирт 0,02% или 0,05% в 1dm3 в б/с",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02921001008000000",
+        "nameUZ": "Дансилхлорид",
+        "nameLAT": "Dansilxlorid",
+        "nameRU": "Дансилхлорид",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02933001020000000",
+        "nameUZ": "Мебендазол стандарт намунаси",
+        "nameLAT": "Mebendazol standart namunasi",
+        "nameRU": "Стандартный образец Мебендазола",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02932001007000000",
+        "nameUZ": "5-(Гидроксиметил) фурфурол",
+        "nameLAT": "5-(Gidroksimetil) furfurol",
+        "nameRU": "5-(Гидроксиметил) фурфурол",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02933001027000000",
+        "nameUZ": "Ситаглиптин фосфат моногидрат",
+        "nameLAT": "Sitagliptin fosfat monogidrat",
+        "nameRU": "Ситаглиптин фосфат моногидрат",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02929001003000000",
+        "nameUZ": "Диметилнитрозамин",
+        "nameLAT": "Dimetilnitrozamin",
+        "nameRU": "Диметилнитрозамин",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02905001016012007",
+        "nameUZ": "Глицерин (кимёвий лаборатория учун) ГЛЭР косметик глицерин пиёз экстракти билан, полиэтилен флакон 100 мл.",
+        "nameLAT": "Glitserin (kimyoviy laboratoriya uchun) ГЛЭР kosmetik glitserin piyoz ekstrakti bilan, polietilen flakon 100 ml.",
+        "nameRU": "Глицерин (для химической лаборатории) ГЛЭР глицерин косметический с экстрактом лука, полиэтиленовый флакон 100 мл.",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02915001014000000",
+        "nameUZ": "Трихлорсирка кислота",
+        "nameLAT": "Trixlorsirka kislota",
+        "nameRU": "Трихлоруксусная кислота",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02922001007000000",
+        "nameUZ": "Фенилантранил кислотаси",
+        "nameLAT": "Fenilantranil kislotasi",
+        "nameRU": "Фенилантраниловая кислота",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02933001003000000",
+        "nameUZ": "Мурексид",
+        "nameLAT": "Mureksid",
+        "nameRU": "Мурексид",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02917001003000000",
+        "nameUZ": "Натрий оксалат кислота",
+        "nameLAT": "Natriy oksalat kislota",
+        "nameRU": "Натрий щавелевокислый",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02922001011002001",
+        "nameUZ": "Глутамат натрий Китайская соль 150 г",
+        "nameLAT": "Glutamat natriy Китайская соль 150 g",
+        "nameRU": "Глутамат натрия Китайская соль 150 г",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02922001011001003",
+        "nameUZ": "Глутамат натрий Lotos 15 г",
+        "nameLAT": "Glutamat natriy Lotos 15 g",
+        "nameRU": "Глутамат натрия Lotos 15 г",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02909001011000000",
+        "nameUZ": "Бошқа эфирлар, эфир спиртлари, эфир феноллари, эфир спирти феноллари, спиртларнинг пероксидлари, эфирлар ва кетонлар ҳамда уларнинг галогенланган, сульфонатланган, нитратланган ёки нитрозланган ҳосилалари",
+        "nameLAT": "Boshqa efirlar, efir spirtlari, efir fenollari, efir spirti fenollari, spirtlarning peroksidlari, efirlar va ketonlar hamda ularning galogenlangan, sulfonatlangan, nitratlangan yoki nitrozlangan hosilalari",
+        "nameRU": "Прочие эфиры простые, эфироспирты, эфирофенолы, эфироспиртофенолы, пероксиды спиртов, простых эфиров и кетонов и их галогенированные, сульфированные, нитрованные или нитрозированные производные",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02918001007006001",
+        "nameUZ": "Лимон кислотаси Torto 20 г",
+        "nameLAT": "Limon kislotasi Torto 20 g",
+        "nameRU": "Лимонная кислота Torto 20 г",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02915001017000000",
+        "nameUZ": "Сирка кислотасининг тузлари",
+        "nameLAT": "Sirka kislotasining tuzlari",
+        "nameRU": "Соли уксусной кислоты",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02922001006000000",
+        "nameUZ": "Трилон",
+        "nameLAT": "Trilon",
+        "nameRU": "Трилон",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02905001024000000",
+        "nameUZ": "Маннитол",
+        "nameLAT": "Mannitol",
+        "nameRU": "Маннитол",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02941001010000000",
+        "nameUZ": "Хлорамфеникол (левомицетин)",
+        "nameLAT": "Xloramfenikol (levomitsetin)",
+        "nameRU": "Хлорамфеникол (левомицетин)",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02905001018000000",
+        "nameUZ": "Сорбит",
+        "nameLAT": "Sorbit",
+        "nameRU": "Сорбит",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02915001024000000",
+        "nameUZ": "Винилацетат",
+        "nameLAT": "Vinilatsetat",
+        "nameRU": "Винилацетат",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02918001007005001",
+        "nameUZ": "Лимон кислотаси Spice Expert 20 г",
+        "nameLAT": "Limon kislotasi Spice Expert 20 g",
+        "nameRU": "Лимонная кислота Spice Expert 20 г",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02934001003000000",
+        "nameUZ": "Бромкесол яшил рангли",
+        "nameLAT": "Bromkesol yashil rangli",
+        "nameRU": "Бромкрезоловый зеленый",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02905001012000000",
+        "nameUZ": "Бутанол",
+        "nameLAT": "Butanol",
+        "nameRU": "Бутанол",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02922001009000000",
+        "nameUZ": "Аминокислоталар",
+        "nameLAT": "Aminokislotalar",
+        "nameRU": "Аминокислоты",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02933001010000000",
+        "nameUZ": "Диазинон",
+        "nameLAT": "Diazinon",
+        "nameRU": "Диазинон",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02928001001000000",
+        "nameUZ": "Диметилглиоксим",
+        "nameLAT": "Dimetilglioksim",
+        "nameRU": "Диметилглиоксим",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02918001014000000",
+        "nameUZ": "Цитрат натрий",
+        "nameLAT": "Sitrat natriy",
+        "nameRU": "Цитрат натрия",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02933001028000000",
+        "nameUZ": "Пирантел Памоат",
+        "nameLAT": "Pirantel Pamoat",
+        "nameRU": "Пирантел Памоат",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02941001004000000",
+        "nameUZ": "Стрептомицина сульфат",
+        "nameLAT": "Streptomitsina sulfat",
+        "nameRU": "Стрептомицина сульфат",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02922001011001010",
+        "nameUZ": "Глутамат натрий Lotos 50 г",
+        "nameLAT": "Glutamat natriy Lotos 50 g",
+        "nameRU": "Глутамат натрия Lotos 50 г",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02922001011002005",
+        "nameUZ": "Глутамат натрий Китайская соль 300 г",
+        "nameLAT": "Glutamat natriy Китайская соль 300 g",
+        "nameRU": "Глутамат натрия Китайская соль 300 г",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02933001026000000",
+        "nameUZ": "Ципрофлоксацин фармацевтик иккиламчи стандарти",
+        "nameLAT": "Siprofloksatsin farmatsevtik ikkilamchi standarti",
+        "nameRU": "Фармацевтический вторичный стандарт Ципрофлоксацина",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02921001012000000",
+        "nameUZ": "Дифенгидрамин гидрохлориди (дифенгидрамин)",
+        "nameLAT": "Difengidramin gidroxloridi (difengidramin)",
+        "nameRU": "Дифенгидрамина гидрохлорид (дифенгидрамин)",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02905001016012002",
+        "nameUZ": "Глицерин (кимёвий лаборатория учун) ГЛЭР косметик глицерин лимон экстракти билан, полиэтилен флакон 100 мл.",
+        "nameLAT": "Glitserin (kimyoviy laboratoriya uchun) ГЛЭР kosmetik glitserin limon ekstrakti bilan, polietilen flakon 100 ml.",
+        "nameRU": "Глицерин (для химической лаборатории) ГЛЭР глицерин косметический лимон экстракти билан, полиэтиленовый флакон 100 мл.",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02916001003000000",
+        "nameUZ": "Сорбин кислотаси",
+        "nameLAT": "Sorbin kislotasi",
+        "nameRU": "Сорбиновая кислота",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02903001007000000",
+        "nameUZ": "Дихлорметан",
+        "nameLAT": "Dixlormetan",
+        "nameRU": "Дихлорметан",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02917001002000000",
+        "nameUZ": "Калий оксалат кислота",
+        "nameLAT": "Kaliy oksalat kislota",
+        "nameRU": "Калий щавелевокислый",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02930001003000000",
+        "nameUZ": "Калий ксантогенати",
+        "nameLAT": "Kaliy ksantogenati",
+        "nameRU": "Ксантогенат калия",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02934001011000000",
+        "nameUZ": "кўк тимол",
+        "nameLAT": "ko’k timol",
+        "nameRU": "Тимоловый синий",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02939001001000000",
+        "nameUZ": "Афюн алкалоидлари ва уларнинг ҳосилалари; бу бирикмаларнинг тузлари",
+        "nameLAT": "Afyun alkaloidlari va ularning hosilalari; bu birikmalarning tuzlari",
+        "nameRU": "Алкалоиды опия и их производные; соли этих соединений",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02916001004000000",
+        "nameUZ": "Трифторуксусли кислота 99%",
+        "nameLAT": "Triftoruksusli kislota 99%",
+        "nameRU": "Трифторуксусная кислота 99%",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02921001006000000",
+        "nameUZ": "Бензидин",
+        "nameLAT": "Benzidin",
+        "nameRU": "Бензидин",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02936001013000000",
+        "nameUZ": "Табиий ёки синтез қилинган бошқа провитаминлар ва витаминлар",
+        "nameLAT": "Tabiiy yoki sintez qilingan boshqa provitaminlar va vitaminlar",
+        "nameRU": "Прочие провитамины и витамины, природные или синтезированные ",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02922001010000000",
+        "nameUZ": "Аминокислот BCAA аралашмаси",
+        "nameLAT": "Aminokislot BCAA aralashmasi",
+        "nameRU": "Смесь Аминокислот BCAA",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02932001009000000",
+        "nameUZ": "Фақат кислородли ҳетероатом(лар)ни ўз ичига олган бошқа гетеросиклик бирикмалар",
+        "nameLAT": "Faqat kislorodli heteroatom(lar)ni o’z ichiga olgan boshqa geterosiklik birikmalar",
+        "nameRU": "Прочие соединения гетероциклические, содержащие лишь гетероатом(ы) кислорода",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02937001003000000",
+        "nameUZ": "Стероид гормонлар, уларнинг ҳосилалари ва таркибий аналоглари",
+        "nameLAT": "Steroid gormonlar, ularning hosilalari va tarkibiy analoglari",
+        "nameRU": "Стероидные гормоны, их производные и структурные аналоги",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02916001009000001",
+        "nameUZ": "Бошқа тўйинмаган асиклик монокарбоксилик кислоталар, сиклик монокарбоксилик кислоталар, уларнинг ангидридлари, кислота галогенидлари, пероксидлар ва пероксит кислоталар; уларнинг галогенланган, сульфонатланган, нитратланган ёки нитрозланган ҳосилалари Дори тайёрлаш учун фармацевтик субстанция",
+        "nameLAT": "Boshqa to’yinmagan asiklik monokarboksilik kislotalar, siklik monokarboksilik kislotalar, ularning angidridlari, kislota galogenidlari, peroksidlar va peroksit kislotalar; ularning galogenlangan, sulfonatlangan, nitratlangan yoki nitrozlangan hosilalari Dori tayyorlash uchun farmatsevtik substansiya",
+        "nameRU": "Прочие кислоты ациклические монокарбоновые ненасыщенные, кислоты циклические монокарбоновые, их ангидриды, галогенангидриды, пероксиды и пероксикислоты; их галогенированные, сульфированные, нитрованные или нитрозированные производные Фармацевтическая субстанция для приготовления лекарственных средств",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02941001012000000",
+        "nameUZ": "Бошқа антибиотиклар",
+        "nameLAT": "Boshqa antibiotiklar",
+        "nameRU": "Прочие антибиотики",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02936001005000000",
+        "nameUZ": "Цианокобаламин (Витамин В12)",
+        "nameLAT": "Sianokobalamin (Vitamin V12)",
+        "nameRU": "Цианокобаламин (Витамин В12)",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02905001010000000",
+        "nameUZ": "Изопропил спирти",
+        "nameLAT": "Izopropil spirti",
+        "nameRU": "Изопропиловый спирт",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02912001005000000",
+        "nameUZ": "Циклик альдегидлар",
+        "nameLAT": "Siklik aldegidlar",
+        "nameRU": "Альдегиды циклические",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02914001007000000",
+        "nameUZ": "Бошқа кетонлар ва хинонлар",
+        "nameLAT": "Boshqa ketonlar va xinonlar",
+        "nameRU": "Прочие кетоны и хиноны",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02904001003000000",
+        "nameUZ": "Перфтороктансульфоник кислота, унинг тузлари ва перфтороктансульфонил фторид",
+        "nameLAT": "Perftoroktansulfonik kislota, uning tuzlari va perftoroktansulfonil ftorid",
+        "nameRU": "Перфтороктансульфоновая кислота, ее соли и перфтороктансульфонилфторид",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02917001012000000",
+        "nameUZ": "Бошқа поликарбоксилик кислоталар, уларнинг ангидридлари, галогенидлари, пероксидлари ва пероксидлари; уларнинг галогенланган, сульфонатланган, нитратланган ёки нитрозланган ҳосилалари",
+        "nameLAT": "Boshqa polikarboksilik kislotalar, ularning angidridlari, galogenidlari, peroksidlari va peroksidlari; ularning galogenlangan, sulfonatlangan, nitratlangan yoki nitrozlangan hosilalari",
+        "nameRU": "Прочие кислоты поликарбоновые, их ангидриды, галогенангидриды, пероксиды и пероксикислоты; их галогенированные, сульфированные, нитрованные или нитрозированные производные",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02927001004000000",
+        "nameUZ": "Метил сабзирангли",
+        "nameLAT": "Metil sabzirangli",
+        "nameRU": "Метиловый оранжевый",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02932001004000000",
+        "nameUZ": "Тетрагидрофуран",
+        "nameLAT": "Tetragidrofuran",
+        "nameRU": "Тетрагидрофуран",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02930001009000000",
+        "nameUZ": "L-метионин",
+        "nameLAT": "L-metionin",
+        "nameRU": "L-метионин",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02915001005001001",
+        "nameUZ": "Сирка кислотаси Ухх лимон таъми билан ухх пэт бутилка 250 мл.",
+        "nameLAT": "Sirka kislotasi Ухх limon tami bilan uxx pet butilka 250 ml.",
+        "nameRU": "Уксусная кислота Ухх со вкусом лимона ухх пэт бутылка 250 мл.",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02922001016000000",
+        "nameUZ": "Метилдиэтаноламин (МДЭА)",
+        "nameLAT": "Metildietanolamin (MDEA)",
+        "nameRU": "Метилдиэтаноламин (МДЭА)",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02915001006000000",
+        "nameUZ": "Аммоний сирка кислотаси",
+        "nameLAT": "Ammoniy sirka kislotasi",
+        "nameRU": "Аммоний уксуснокислый",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02912001004000000",
+        "nameUZ": "Формалин",
+        "nameLAT": "Formalin",
+        "nameRU": "Формалин",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02918001007003003",
+        "nameUZ": "Лимон кислотаси Lezzet 50 г",
+        "nameLAT": "Limon kislotasi Lezzet 50 g",
+        "nameRU": "Лимонная кислота Lezzet 50 г",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02934001014000000",
+        "nameUZ": "Инозин фармацевтик моддаси",
+        "nameLAT": "Inozin farmatsevtik moddasi",
+        "nameRU": "Фармацевтическая субстанция инозин",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02905001007000000",
+        "nameUZ": "Аллил спирти",
+        "nameLAT": "Allil spirti",
+        "nameRU": "Аллиловый спирт",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02905001004000000",
+        "nameUZ": "Пентаэритрит",
+        "nameLAT": "Pentaeritrit",
+        "nameRU": "Пентаэритрит",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02905001002000000",
+        "nameUZ": "Метанол",
+        "nameLAT": "Metanol",
+        "nameRU": "Метанол",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02905001013000000",
+        "nameUZ": "Изобутил спирти",
+        "nameLAT": "Izobutil spirti",
+        "nameRU": "Изобутиловый спирт",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02936001010000000",
+        "nameUZ": "С витаминлари ва уларнинг ҳосилалари",
+        "nameLAT": "S vitaminlari va ularning hosilalari",
+        "nameRU": "Витамины C и их производные",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02940001003000000",
+        "nameUZ": "Малтитол",
+        "nameLAT": "Maltitol",
+        "nameRU": "Мальтитол",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02922001024000000",
+        "nameUZ": "Бензокаин",
+        "nameLAT": "Benzokain",
+        "nameRU": "Бензокаин",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02921001001000000",
+        "nameUZ": "Диэтиламин",
+        "nameLAT": "Dietilamin",
+        "nameRU": "Диэтиламин",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02928001003000000",
+        "nameUZ": "Дитизон",
+        "nameLAT": "Ditizon",
+        "nameRU": "Дитизон",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02924001001000000",
+        "nameUZ": "L-Глутамин",
+        "nameLAT": "L-Glutamin",
+        "nameRU": "L-Глутамин",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02915001005001002",
+        "nameUZ": "Сирка кислотаси Ухх нордон-ширин ухх пэт бутилка 250 мл.",
+        "nameLAT": "Sirka kislotasi Ухх nordon-shirin uxx pet butilka 250 ml.",
+        "nameRU": "Уксусная кислота Ухх кислосладкий ухх пэт бутылка 250 мл.",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02905001016012010",
+        "nameUZ": "Глицерин (кимёвий лаборатория учун) ГЛЭР косметик глицерин иттикинак экстракти билан, полиэтилен флакон 100 мл.",
+        "nameLAT": "Glitserin (kimyoviy laboratoriya uchun) ГЛЭР kosmetik glitserin ittikinak ekstrakti bilan, polietilen flakon 100 ml.",
+        "nameRU": "Глицерин (для химической лаборатории) ГЛЭР глицерин косметический с экстрактом череды, полиэтиленовый флакон 100 мл.",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02915001004000000",
+        "nameUZ": "Натрий формик кислота",
+        "nameLAT": "Natriy formik kislota",
+        "nameRU": "Натрий муравьинокислый",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02922001011001006",
+        "nameUZ": "Глутамат натрий Lotos 25 г",
+        "nameLAT": "Glutamat natriy Lotos 25 g",
+        "nameRU": "Глутамат натрия Lotos 25 г",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02915001023000000",
+        "nameUZ": "Натрий ацетат",
+        "nameLAT": "Natriy atsetat",
+        "nameRU": "Натрия ацетат",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02909001012000000",
+        "nameUZ": "Диэтиленгликоль",
+        "nameLAT": "Dietilenglikol",
+        "nameRU": "Диэтиленгликоль",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02936001004000000",
+        "nameUZ": "Рибофлавин (витамин В2)",
+        "nameLAT": "Riboflavin (vitamin V2)",
+        "nameRU": "Рибофлавин (витамин В2)",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02915001008000000",
+        "nameUZ": "Магний сирка кислотаси",
+        "nameLAT": "Magniy sirka kislotasi",
+        "nameRU": "Магний уксуснокислый",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02904001001000000",
+        "nameUZ": "Таркибида фақат сульфогуруҳлар, уларнинг тузлари ва этил эфирлари бўлган ҳосилалар",
+        "nameLAT": "Tarkibida faqat sulfoguruhlar, ularning tuzlari va etil efirlari bo’lgan hosilalar",
+        "nameRU": "Производные, содержащие только сульфогруппы, их соли и сложные этиловые эфиры",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02918001011000000",
+        "nameUZ": "Сульфосалицил кислотаси",
+        "nameLAT": "Sulfosalitsil kislotasi",
+        "nameRU": "Сульфосалициловая кислота",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02918001017000000",
+        "nameUZ": "Трикальций цитрат",
+        "nameLAT": "Trikaltsiy sitrat",
+        "nameRU": "Трикальций цитрат",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02939001002000000",
+        "nameUZ": "Бошқа табиий ёки синтезланган алкалоидлар, уларнинг тузлари, эфирлари ва бошқа ҳосилалари",
+        "nameLAT": "Boshqa tabiiy yoki sintezlangan alkaloidlar, ularning tuzlari, efirlari va boshqa hosilalari",
+        "nameRU": "Прочие алкалоиды, природные или синтезированные, их соли, простые и сложные эфиры и прочие производные",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02940001001000000",
+        "nameUZ": "Лактулоза",
+        "nameLAT": "Laktuloza",
+        "nameRU": "Лактулоза",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02922001011001002",
+        "nameUZ": "Глутамат натрий Lotos 100 г",
+        "nameLAT": "Glutamat natriy Lotos 100 g",
+        "nameRU": "Глутамат натрия Lotos 100 г",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02918001026000000",
+        "nameUZ": "Ацетилсалицил кислотаси",
+        "nameLAT": "Atsetilsalitsil kislotasi",
+        "nameRU": "Ацетилсалициловая кислота",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02914001001000004",
+        "nameUZ": "Асиклик кетонлар Ацетон \"чда\"",
+        "nameLAT": "Asiklik ketonlar Atseton \"chda\"",
+        "nameRU": "Кетоны ациклические Ацетон \"чда\" (из давальческого сырья)",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02915001013000000",
+        "nameUZ": "Этилацетат",
+        "nameLAT": "Etilatsetat",
+        "nameRU": "Этилацетат",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02914001001000001",
+        "nameUZ": "Асиклик кетонлар Ацетон \"осч\"",
+        "nameLAT": "Asiklik ketonlar Atseton \"osch\"",
+        "nameRU": "Кетоны ациклические Ацетон \"осч\"",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02909001004000003",
+        "nameUZ": "Этил эфири Этилли эфир \"ч\" (давал хом ашёси)",
+        "nameLAT": "Etil efiri Etilli efir \"ch\" (daval xom ashyosi)",
+        "nameRU": "Этиловый эфир Этиловый эфир \"ч\" (давальческого сырья)",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02907001003000000",
+        "nameUZ": "1-Нафтол",
+        "nameLAT": "1-Naftol",
+        "nameRU": "1-Нафтол",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02925001001000000",
+        "nameUZ": "L-аргинин",
+        "nameLAT": "L-arginin",
+        "nameRU": "L-аргинин",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02922001011001007",
+        "nameUZ": "Глутамат натрий Lotos 300 г",
+        "nameLAT": "Glutamat natriy Lotos 300 g",
+        "nameRU": "Глутамат натрия Lotos 300 г",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02901001002000000",
+        "nameUZ": "Гексан",
+        "nameLAT": "Geksan",
+        "nameRU": "Гексан",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02915001007000000",
+        "nameUZ": "Кадмий сирка кислотаси",
+        "nameLAT": "Kadmiy sirka kislotasi",
+        "nameRU": "Кадмий уксуснокислый",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02907001005000000",
+        "nameUZ": "Гидрохинон",
+        "nameLAT": "Gidroxinon",
+        "nameRU": "Гидрохинон",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02936001007000000",
+        "nameUZ": "Фоли кислотаси (Витамин B9)",
+        "nameLAT": "Foli kislotasi (Vitamin B9)",
+        "nameRU": "Фолиевая кислота (Витамин B9)",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02941001005000000",
+        "nameUZ": "Окситетрациклина гидрохлорид",
+        "nameLAT": "Oksitetratsiklina gidroxlorid",
+        "nameRU": "Окситетрациклина гидрохлорид",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02918001007004001",
+        "nameUZ": "Лимон кислотаси Omega 15 г",
+        "nameLAT": "Limon kislotasi Omega 15 g",
+        "nameRU": "Лимонная кислота Omega 15 г",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02905001016000000",
+        "nameUZ": "Глицерин (кимёвий лаборатория учун)",
+        "nameLAT": "Glitserin (kimyoviy laboratoriya uchun)",
+        "nameRU": "Глицерин (для химической лаборатории)",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02909001006000000",
+        "nameUZ": "Пероксид метилэтилкетон",
+        "nameLAT": "Peroksid metiletilketon",
+        "nameRU": "Пероксид метилэтилкетона",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02936001006000000",
+        "nameUZ": "Никотиник кислота амиди (витамин В3)",
+        "nameLAT": "Nikotinik kislota amidi (vitamin V3)",
+        "nameRU": "Амид никотиновой кислоты (витамин В3)\r\n",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02906001003000000",
+        "nameUZ": "Бошқа сиклик спиртлар ва уларнинг галогенланган, сульфонатланган, нитратланган ёки нитрозланган ҳосилалари",
+        "nameLAT": "Boshqa siklik spirtlar va ularning galogenlangan, sulfonatlangan, nitratlangan yoki nitrozlangan hosilalari",
+        "nameRU": "Прочие спирты циклические и их галогенированные, сульфированные, нитрованные или нитрозированные производные",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02936001011000000",
+        "nameUZ": "L-аскорбин кислотаси",
+        "nameLAT": "L-askorbin kislotasi",
+        "nameRU": "L-аскорбиновая кислота",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02914001004000000",
+        "nameUZ": "Циклоалкан, циклоалкен ёки циклотерпен кетонлар",
+        "nameLAT": "Sikloalkan, sikloalken yoki sikloterpen ketonlar",
+        "nameRU": "Кетоны циклоалкановые, циклоалкеновые или циклотерпеновые",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02936001008000000",
+        "nameUZ": "А витаминлари ва уларнинг ҳосилалари",
+        "nameLAT": "A vitaminlari va ularning hosilalari",
+        "nameRU": "Витамины A и их производные",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02918001015000000",
+        "nameUZ": "Сут кислотаси",
+        "nameLAT": "Sut kislotasi",
+        "nameRU": "Молочная кислота",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02909001010000000",
+        "nameUZ": "Диэтил эфири",
+        "nameLAT": "Dietil efiri",
+        "nameRU": "Диэтиловый эфир",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02936001009000000",
+        "nameUZ": "Д витаминлари ва уларнинг ҳосилалари",
+        "nameLAT": "D vitaminlari va ularning hosilalari",
+        "nameRU": "Витамины D и их производные",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02936001002000000",
+        "nameUZ": "Новвойлик буғдой унини бойитиш учун витамин-минерал аралашма",
+        "nameLAT": "Novvoylik bug’doy unini boyitish uchun vitamin-mineral aralashma",
+        "nameRU": "Витаминно минеральная смесь для обогащения муки пшеничной хлебопекарной",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02922001007000003",
+        "nameUZ": "Фенилантранил кислотаси NN-Фенилантранил кислотаси \"чда\"",
+        "nameLAT": "Fenilantranil kislotasi NN-Fenilantranil kislotasi \"chda\"",
+        "nameRU": "Фенилантраниловая кислота NN-Фенилантраниловая кислота \"чда\"",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02934001010000000",
+        "nameUZ": "Ксиленол апельсин ранг",
+        "nameLAT": "Ksilenol apelsin rang",
+        "nameRU": "Ксиленоловый оранжевый",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02902001004000000",
+        "nameUZ": "Ортоксилол",
+        "nameLAT": "Ortoksilol",
+        "nameRU": "Ортоксилол",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02922001011000000",
+        "nameUZ": "Глутамат натрий",
+        "nameLAT": "Glutamat natriy",
+        "nameRU": "Глутамат натрия",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02915001019000000",
+        "nameUZ": "Бирлаштирувчи восита",
+        "nameLAT": "Birlashtiruvchi vosita",
+        "nameRU": "Коалесцирующий агент",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02922001011002006",
+        "nameUZ": "Глутамат натрий Китайская соль 40 г",
+        "nameLAT": "Glutamat natriy Китайская соль 40 g",
+        "nameRU": "Глутамат натрия Китайская соль 40 г",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02922001021000000",
+        "nameUZ": "Фенилэфрина гидрохлорид",
+        "nameLAT": "Fenilefrina gidroxlorid",
+        "nameRU": "Фенилэфрина гидрохлорид",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02905001016012001",
+        "nameUZ": "Глицерин (кимёвий лаборатория учун) ГЛЭР косметик глицерин, полиэтилен флакон 100 мл.",
+        "nameLAT": "Glitserin (kimyoviy laboratoriya uchun) ГЛЭР kosmetik glitserin, polietilen flakon 100 ml.",
+        "nameRU": "Глицерин (для химической лаборатории) ГЛЭР глицерин косметический, полиэтиленовый флакон 100 мл.",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02918001008000000",
+        "nameUZ": "Аммоний лимон кислотаси",
+        "nameLAT": "Ammoniy limon kislotasi",
+        "nameRU": "Аммоний лимоннокислый",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02922001002000000",
+        "nameUZ": "Лизин",
+        "nameLAT": "Lizin",
+        "nameRU": "Лизин",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02905001016012012",
+        "nameUZ": "Глицерин (кимёвий лаборатория учун) ГЛЭР косметик глицерин тут экстракти билан, полиэтилен флакон 100 мл.",
+        "nameLAT": "Glitserin (kimyoviy laboratoriya uchun) ГЛЭР kosmetik glitserin tut ekstrakti bilan, polietilen flakon 100 ml.",
+        "nameRU": "Глицерин (для химической лаборатории) ГЛЭР глицерин косметический с экстрактом шелковицы, полиэтиленовый флакон 100 мл.",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02918001009000000",
+        "nameUZ": "Калий лимон кислотаси",
+        "nameLAT": "Kaliy limon kislotasi",
+        "nameRU": "Калий лимоннокислый",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02922001011001009",
+        "nameUZ": "Глутамат натрий Lotos 400 г",
+        "nameLAT": "Glutamat natriy Lotos 400 g",
+        "nameRU": "Глутамат натрия Lotos 400 г",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02905001016012008",
+        "nameUZ": "Глицерин (кимёвий лаборатория учун) ГЛЭР косметик глицерин петрушка экстракти билан, полиэтилен флакон 100 мл.",
+        "nameLAT": "Glitserin (kimyoviy laboratoriya uchun) ГЛЭР kosmetik glitserin petrushka ekstrakti bilan, polietilen flakon 100 ml.",
+        "nameRU": "Глицерин (для химической лаборатории) ГЛЭР глицерин косметический с экстрактом петрушки, полиэтиленовый флакон 100 мл.",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02922001022000000",
+        "nameUZ": "Глицин 99%",
+        "nameLAT": "Glitsin 99%",
+        "nameRU": "Глицин 99%",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02940001006001001",
+        "nameUZ": "Шакар ўрнини босувчи маҳсулот Novasweet Ошхона 72 гр фл",
+        "nameLAT": "Shakar o’rnini bosuvchi mahsulot Novasweet Oshxona 72 gr fl",
+        "nameRU": "Сахарозаменитель Novasweet Столовый 72 гр фл",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02932001005000000",
+        "nameUZ": "Глюкозамина гидрохлорид",
+        "nameLAT": "Glyukozamina gidroxlorid",
+        "nameRU": "Глюкозамина гидрохлорид",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02940001006001006",
+        "nameUZ": "Шакар ўрнини босувчи маҳсулот Novasweet Стевия 200 гр фл",
+        "nameLAT": "Shakar o’rnini bosuvchi mahsulot Novasweet Steviya 200 gr fl",
+        "nameRU": "Сахарозаменитель Novasweet Стевия 200 гр фл",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02940001006000000",
+        "nameUZ": "Шакар ўрнини босувчи маҳсулот",
+        "nameLAT": "Shakar o’rnini bosuvchi mahsulot",
+        "nameRU": "Сахарозаменитель",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02940001006001002",
+        "nameUZ": "Шакар ўрнини босувчи маҳсулот Novasweet Ошхона 39 гр фл",
+        "nameLAT": "Shakar o’rnini bosuvchi mahsulot Novasweet Oshxona 39 gr fl",
+        "nameRU": "Сахарозаменитель Novasweet Столовый 39 гр фл",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02940001006003002",
+        "nameUZ": "Шакар ўрнини босувчи маҳсулот Stevital шакар ўрнини босувчи",
+        "nameLAT": "Shakar o’rnini bosuvchi mahsulot Stevital shakar o’rnini bosuvchi",
+        "nameRU": "Сахарозаменитель Stevital заменитель сахара",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02940001006001005",
+        "nameUZ": "Шакар ўрнини босувчи маҳсулот Novasweet Стевия 21 гр фл",
+        "nameLAT": "Shakar o’rnini bosuvchi mahsulot Novasweet Steviya 21 gr fl",
+        "nameRU": "Сахарозаменитель Novasweet Стевия 21 гр фл",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02940001006004001",
+        "nameUZ": "Шакар ўрнини босувчи маҳсулот Стевиазит шакар ўрнини босувчи таблеткада",
+        "nameLAT": "Shakar o’rnini bosuvchi mahsulot Стевиазит shakar o’rnini bosuvchi tabletkada",
+        "nameRU": "Сахарозаменитель Стевиазит заменитель сахара в таблетках",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02940001006005001",
+        "nameUZ": "Шакар ўрнини босувчи маҳсулот ФитПарад эритритол асосида саше 60г",
+        "nameLAT": "Shakar o’rnini bosuvchi mahsulot ФитПарад eritritol asosida sashe 60g",
+        "nameRU": "Сахарозаменитель ФитПарад на основе эритритола саше 60г",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02940001006001004",
+        "nameUZ": "Шакар ўрнини босувчи маҳсулот Novasweet Ошхона 500 гр фл",
+        "nameLAT": "Shakar o’rnini bosuvchi mahsulot Novasweet Oshxona 500 gr fl",
+        "nameRU": "Сахарозаменитель Novasweet Столовый 500 гр фл",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02927001008000000",
+        "nameUZ": "Азобисизобутиронитрил",
+        "nameLAT": "Azobisizobutironitril",
+        "nameRU": "Азобисизобутиронитрил",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02940001006000001",
+        "nameUZ": "Шакар ўрнини босувчи маҳсулот 70% сувли эритмада",
+        "nameLAT": "Shakar o’rnini bosuvchi mahsulot 70% suvli eritmada",
+        "nameRU": "Сахарозаменитель 70% в водном растворе",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02927001007000000",
+        "nameUZ": "Азодикарбонамид",
+        "nameLAT": "Azodikarbonamid",
+        "nameRU": "Азодикарбонамид",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02940001006003001",
+        "nameUZ": "Шакар ўрнини босувчи маҳсулот Stevital шакар ўрнини босувчи",
+        "nameLAT": "Shakar o’rnini bosuvchi mahsulot Stevital shakar o’rnini bosuvchi",
+        "nameRU": "Сахарозаменитель Stevital заменитель сахара",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02940001006005002",
+        "nameUZ": "Шакар ўрнини босувчи маҳсулот ФитПарад эритритол асосида банка 180г",
+        "nameLAT": "Shakar o’rnini bosuvchi mahsulot ФитПарад eritritol asosida banka 180g",
+        "nameRU": "Сахарозаменитель ФитПарад на основе эритритола банка 180г",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02940001006002001",
+        "nameUZ": "Шакар ўрнини босувчи маҳсулот Lakrica шакар ўрнини босувчи 1,0 г.",
+        "nameLAT": "Shakar o’rnini bosuvchi mahsulot Lakrica shakar o’rnini bosuvchi 1,0 g.",
+        "nameRU": "Сахарозаменитель Lakrica заменитель сахара 1,0 г.",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02940001006001003",
+        "nameUZ": "Шакар ўрнини босувчи маҳсулот Novasweet Ошхона 21 гр фл",
+        "nameLAT": "Shakar o’rnini bosuvchi mahsulot Novasweet Oshxona 21 gr fl",
+        "nameRU": "Сахарозаменитель Novasweet Столовый 21 гр фл",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02903001008000000",
+        "nameUZ": "Перхлорэтилен (Тетрахлорэтилен)",
+        "nameLAT": "Perxloretilen (Tetraxloretilen)",
+        "nameRU": "Перхлорэтилен (Тетрахлорэтилен)",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02918001024000000",
+        "nameUZ": "Ферутинин",
+        "nameLAT": "Ferutinin",
+        "nameRU": "Ферутинин",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02933001016000000",
+        "nameUZ": "Эталон намунаси",
+        "nameLAT": "Etalon namunasi",
+        "nameRU": "Эталонный образец",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02935001003000000",
+        "nameUZ": "Нимесулид фармацевтик субстанцияси",
+        "nameLAT": "Nimesulid farmatsevtik substansiyasi",
+        "nameRU": "Фармацевтическая субстанция Нимесулид",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02930001006000000",
+        "nameUZ": "Диметилдисульфид",
+        "nameLAT": "Dimetildisulfid",
+        "nameRU": "Диметилдисульфид",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02914001005000001",
+        "nameUZ": "Хинонлар Ализарин комплексон \"чда\"",
+        "nameLAT": "Xinonlar Alizarin komplekson \"chda\"",
+        "nameRU": "Хиноны Ализарин комплексон \"чда\"",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02940001005000000",
+        "nameUZ": "Бошқа шакарлар кимёвий жиҳатдан тоза, сахароза, лактоза, мальтоза, глюкоза ва фруктозадан ташқари; қанд эфирлари, қанд ацеталлари ва қанд эфирлари, уларнинг тузлари",
+        "nameLAT": "Boshqa shakarlar kimyoviy jihatdan toza, saxaroza, laktoza, maltoza, glyukoza va fruktozadan tashqari; qand efirlari, qand atsetallari va qand efirlari, ularning tuzlari",
+        "nameRU": "Прочие сахара химически чистые, кроме сахарозы, лактозы, мальтозы, глюкозы и фруктозы; простые эфиры сахаров, ацетали сахаров и сложные эфиры сахаров, их соли",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02925001002000000",
+        "nameUZ": "Карбоксимид функционал гуруҳини ўз ичига олган бошқа бирикмалар (шу жумладан сахарин ва унинг тузлари) ва имин функционал гуруҳини ўз ичига олган бирикмалар",
+        "nameLAT": "Karboksimid funksional guruhini o’z ichiga olgan boshqa birikmalar (shu jumladan saxarin va uning tuzlari) va imin funksional guruhini o’z ichiga olgan birikmalar",
+        "nameRU": "Прочие соединения, содержащие карбоксимидную функциональную группу (включая сахарин и его соли) , и соединения, содержащие иминную функциональную группу",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02910001001000000",
+        "nameUZ": "Эпоксидлар, эпоксиалкоголлар, эпоксифеноллар ва тузилишида уч аъзоли ҳалқага эга эпоксиетерлар ва уларнинг галогенланган, сульфонатланган, нитратланган ёки нитрозланган ҳосилалари",
+        "nameLAT": "Epoksidlar, epoksialkogollar, epoksifenollar va tuzilishida uch azoli halqaga ega epoksiyeterlar va ularning galogenlangan, sulfonatlangan, nitratlangan yoki nitrozlangan hosilalari",
+        "nameRU": "Эпоксиды, эпоксиспирты, эпоксифенолы и эпоксиэфиры, содержащие в структуре трехчленное кольцо, и их галогенированные, сульфированные, нитрованные или нитрозированные производные",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02911001001000000",
+        "nameUZ": "Асеталлар ва яримацеталлар, таркибида кислород бўлган бошқа функционал гуруҳ бўлган ёки бўлмаган ва уларнинг галогенланган, сульфонланган, нитратланган ёки нитрозланган ҳосилалари",
+        "nameLAT": "Asetallar va yarimatsetallar, tarkibida kislorod bo’lgan boshqa funksional guruh bo’lgan yoki bo’lmagan va ularning galogenlangan, sulfonlangan, nitratlangan yoki nitrozlangan hosilalari",
+        "nameRU": "Ацетали и полуацетали, содержащие или не содержащие другую кислородсодержащую функциональную группу, и их галогенированные, сульфированные, нитрованные или нитрозированные производные",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02941001013000000",
+        "nameUZ": "Фармацевтик субстанция нистатин",
+        "nameLAT": "Farmatsevtik substansiya nistatin",
+        "nameRU": "Фармацевтическая субстанция нистатин",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02905001027000001",
+        "nameUZ": "Метил спирти Метил спирт 1dm3 в б/с да 0,003%",
+        "nameLAT": "Metil spirti Metil spirt 1dm3 v b/s da 0,003%",
+        "nameRU": "Метиловый спирт Метиловый спирт 0,003% в 1dm3 в б/с",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02934001018000000",
+        "nameUZ": "Сунъий нуклеин кислоталари",
+        "nameLAT": "Suniy nuklein kislotalari",
+        "nameRU": "Искусственные нуклеиновые кислоты",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYOVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02915001025000000",
+        "nameUZ": "Трифторуксус кислотаси",
+        "nameLAT": "Triftoruksus kislotasi",
+        "nameRU": "Трифторуксусная кислота",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02923001001000000",
+        "nameUZ": "Тўртламчи аммоний асоснинг тузлари ва гидроксидлари",
+        "nameLAT": "To’rtlamchi ammoniy asosning tuzlari va gidroksidlari",
+        "nameRU": "Соли и гидроксиды четвертичного аммониевого основания",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02918001022000001",
+        "nameUZ": "Олма кислотаси дори воситаларини тайёрлаш учун субстанция",
+        "nameLAT": "Olma kislotasi dori vositalarini tayyorlash uchun substansiya",
+        "nameRU": "Яблочная кислота субстанция для приготовления лекарственных средств",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYOVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02917001005000001",
+        "nameUZ": "Янтар кислотаси дори воситаларини тайёрлаш учун субстанция",
+        "nameLAT": "Yantar kislotasi dori vositalarini tayyorlash uchun substansiya",
+        "nameRU": "Янтарная кислота субстанция для приготовления лекарственных средств",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYOVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02924001002000000",
+        "nameUZ": "Циклик амидлар (шу жумладан циклик карбаматлар) ва уларнинг ҳосилалари, бу бирикмаларнинг тузлари",
+        "nameLAT": "Siklik amidlar (shu jumladan siklik karbamatlar) va ularning hosilalari, bu birikmalarning tuzlari",
+        "nameRU": "Амиды циклические (включая карбаматы циклические) и их производные, соли этих соединений",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02917001005000000",
+        "nameUZ": "Янтар кислотаси",
+        "nameLAT": "Yantar kislotasi",
+        "nameRU": "Янтарная кислота",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02905001014000000",
+        "nameUZ": "Исоамил спирти",
+        "nameLAT": "Isoamil spirti",
+        "nameRU": "Изоамиловый спирт",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02933001021000000",
+        "nameUZ": "Доксиламин Сукцинат",
+        "nameLAT": "Doksilamin Suksinat",
+        "nameRU": "Доксиламин Сукцинат",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02918001013000000",
+        "nameUZ": "Натрий додесил сульфат",
+        "nameLAT": "Natriy dodesil sulfat",
+        "nameRU": "Додецил сульфат натрия",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02918001027000000",
+        "nameUZ": "Магний лактат",
+        "nameLAT": "Magniy laktat",
+        "nameRU": "Магния лактат",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02915001011000000",
+        "nameUZ": "Қўрғошин сирка кислотаси",
+        "nameLAT": "Qo’rg’oshin sirka kislotasi",
+        "nameRU": "Свинец уксуснокислый",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02915001027000000",
+        "nameUZ": "Уксусли ангидрид",
+        "nameLAT": "Uksusli angidrid",
+        "nameRU": "Уксусный ангидрид",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02933001004000000",
+        "nameUZ": "Уротропин",
+        "nameLAT": "Urotropin",
+        "nameRU": "Уротропин",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02934001013000000",
+        "nameUZ": "Цитиколин натрий",
+        "nameLAT": "Sitikolin natriy",
+        "nameRU": "Цитиколин натрия",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02917001010000000",
+        "nameUZ": "Малеинли ангидриди",
+        "nameLAT": "Maleinli angidridi",
+        "nameRU": "Малеиновый ангидрид",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02915001026000000",
+        "nameUZ": "Триацетин",
+        "nameLAT": "Triatsetin",
+        "nameRU": "Триацетин",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02915001005000000",
+        "nameUZ": "Сирка кислотаси",
+        "nameLAT": "Sirka kislotasi",
+        "nameRU": "Уксусная кислота",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02905001027000000",
+        "nameUZ": "Метил спирти",
+        "nameLAT": "Metil spirti",
+        "nameRU": "Метиловый спирт",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02918001016000000",
+        "nameUZ": "Лактат натрий",
+        "nameLAT": "Laktat natriy",
+        "nameRU": "Лактат натрия",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02905001020000000",
+        "nameUZ": "Пропил спирти",
+        "nameLAT": "Propil spirti",
+        "nameRU": "Спирт пропиловый",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02915001012000000",
+        "nameUZ": "Рух сирка кислотаси",
+        "nameLAT": "Rux sirka kislotasi",
+        "nameRU": "Цинк уксуснокислый",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02918001018000000",
+        "nameUZ": "Цитрат кальций",
+        "nameLAT": "Sitrat kaltsiy",
+        "nameRU": "Цитрат кальция",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02905001027000002",
+        "nameUZ": "Метил спирти Метил спирт 1dm3 в б/с да 0,008% ёки 0,02%",
+        "nameLAT": "Metil spirti Metil spirt 1dm3 v b/s da 0,008% yoki 0,02%",
+        "nameRU": "Метиловый спирт Метиловый спирт 0,008% или 0,02% в 1dm3 в б/с",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02914001005000000",
+        "nameUZ": "Хинонлар",
+        "nameLAT": "Xinonlar",
+        "nameRU": "Хиноны",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02933001006000000",
+        "nameUZ": "Пиридин",
+        "nameLAT": "Piridin",
+        "nameRU": "Пиридин",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02905001027000008",
+        "nameUZ": "Метил спирти Метил спирт 1dm3 в б/с да 0,05%",
+        "nameLAT": "Metil spirti Metil spirt 1dm3 v b/s da 0,05%",
+        "nameRU": "Метиловый спирт Метиловый спирт 0,05% в 1dm3 в б/с",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02905001027000004",
+        "nameUZ": "Метил спирти Метил спирт 1dm3 в б/с да 0,012%",
+        "nameLAT": "Metil spirti Metil spirt 1dm3 v b/s da 0,012%",
+        "nameRU": "Метиловый спирт Метиловый спирт 0,012% в 1dm3 в б/с",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02912001001000000",
+        "nameUZ": "Ациклик альдегидлар",
+        "nameLAT": "Atsiklik aldegidlar",
+        "nameRU": "Альдегиды ациклические",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02905001027000003",
+        "nameUZ": "Метил спирти Метил спирт 1 dm3 в б/с да 0,01%",
+        "nameLAT": "Metil spirti Metil spirt 1 dm3 v b/s da 0,01%",
+        "nameRU": "Метиловый спирт Метиловый спирт 0,01% в 1 dm3 в б/с",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02938001001000000",
+        "nameUZ": "Табиий ёки синтезланган гликозидлар, уларнинг тузлари, эфирлари ва бошқа ҳосилалари",
+        "nameLAT": "Tabiiy yoki sintezlangan glikozidlar, ularning tuzlari, efirlari va boshqa hosilalari",
+        "nameRU": "Гликозиды, природные или синтезированные, их соли, простые и сложные эфиры и прочие производные",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02937001002000000",
+        "nameUZ": "Простагландинлар, тромбоксанлар ва лейкотриенлар, уларнинг ҳосилалари ва таркибий аналоглари",
+        "nameLAT": "Prostaglandinlar, tromboksanlar va leykotriyenlar, ularning hosilalari va tarkibiy analoglari",
+        "nameRU": "Простагландины, тромбоксаны и лейкотриены, их производные и структурные аналоги",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02902001007000000",
+        "nameUZ": "Хроматография учун бензол",
+        "nameLAT": "Xromatografiya uchun benzol",
+        "nameRU": "Бензол для хроматографии",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02931001003000000",
+        "nameUZ": "Бошқа органик-ноорганик бирикмалар",
+        "nameLAT": "Boshqa organik-noorganik birikmalar",
+        "nameRU": "Соединения органо-неорганические другие",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02912001003000000",
+        "nameUZ": "Ваниллин (4-гидрокси-3-метоксибензальдегид)",
+        "nameLAT": "Vanillin (4-gidroksi-3-metoksibenzaldegid)",
+        "nameRU": "Ванилин (4-гидрокси-3-метоксибензальдегид)",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02915001003000000",
+        "nameUZ": "Чумоли кислотаси",
+        "nameLAT": "Chumoli kislotasi",
+        "nameRU": "Муравьиная кислота",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02916001008000001",
+        "nameUZ": "Бензо кислотаси Бензой кислотаси \"ч\"",
+        "nameLAT": "Benzo kislotasi Benzoy kislotasi \"ch\"",
+        "nameRU": "Бензойная кислота Бензойная кислота \"ч\"",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02941001006000000",
+        "nameUZ": "Тетрациклина гидрохлорид",
+        "nameLAT": "Tetratsiklina gidroxlorid",
+        "nameRU": "Тетрациклина гидрохлорид",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02914001006000000",
+        "nameUZ": "Кетон спиртлари ва кетоалдегидлар",
+        "nameLAT": "Keton spirtlari va ketoaldegidlar",
+        "nameRU": "Кетоноспирты и кетоноальдегиды",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02909001005000000",
+        "nameUZ": "Бутилгликоль",
+        "nameLAT": "Butilglikol",
+        "nameRU": "Бутилгликоль",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02915001020000000",
+        "nameUZ": "Магний стеарат",
+        "nameLAT": "Magniy stearat",
+        "nameRU": "Стеарат магния",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02918001007000000",
+        "nameUZ": "Лимон кислотаси",
+        "nameLAT": "Limon kislotasi",
+        "nameRU": "Лимонная кислота",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02909001013000000",
+        "nameUZ": "Пергидроль (водород перекись) 33 %",
+        "nameLAT": "Pergidrol (vodorod perekis) 33 %",
+        "nameRU": "Пергидроль (перекись водорода) 33 %",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02905001028000000",
+        "nameUZ": "Суюқ сорбитал",
+        "nameLAT": "Suyuq sorbital",
+        "nameRU": "Сорбитол жидкий",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02904001004000000",
+        "nameUZ": "Бошқа углеводородлар",
+        "nameLAT": "Boshqa uglevodorodlar",
+        "nameRU": "Прочие углеводороды",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02927001006000000",
+        "nameUZ": "Хром тўқ кўк",
+        "nameLAT": "Xrom to’q ko’k",
+        "nameRU": "Хромовый темно-синий",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02937001001000000",
+        "nameUZ": "Полипептид гормонлари, оқсил гормонлари ва гликопротеин гормонлари, уларнинг ҳосилалари ва таркибий аналоглари",
+        "nameLAT": "Polipeptid gormonlari, oqsil gormonlari va glikoprotein gormonlari, ularning hosilalari va tarkibiy analoglari",
+        "nameRU": "Полипептидные гормоны, белковые гормоны и гликопротеиновые гормоны, их производные и структурные аналоги",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02908001001000000",
+        "nameUZ": "Феноллар ёки фенол спиртларининг галогенланган, сулфонатланган, нитратланган ёки нитрозланган ҳосилалари",
+        "nameLAT": "Fenollar yoki fenol spirtlarining galogenlangan, sulfonatlangan, nitratlangan yoki nitrozlangan hosilalari",
+        "nameRU": "Галогенированные, сульфированные, нитрованные или нитрозированные производные фенолов или фенолоспиртов",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02905001010000001",
+        "nameUZ": "Изопропил спирти Изопропил спирт \"ч\"",
+        "nameLAT": "Izopropil spirti Izopropil spirt \"ch\"",
+        "nameRU": "Изопропиловый спирт Изопропиловый спирт \"ч\"",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02906001002000000",
+        "nameUZ": "Циклогексанол",
+        "nameLAT": "Siklogeksanol",
+        "nameRU": "Циклогексанол",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02905001006000000",
+        "nameUZ": "Ксилит",
+        "nameLAT": "Ksilit",
+        "nameRU": "Ксилит",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02918001028000000",
+        "nameUZ": "Кальций глюконат",
+        "nameLAT": "Kaltsiy glyukonat",
+        "nameRU": "Кальция глюконат",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02916001001000000",
+        "nameUZ": "Бензоат натрий",
+        "nameLAT": "Benzoat natriy",
+        "nameRU": "Бензоат натрия",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02936001003000000",
+        "nameUZ": "Тиамин (витамин В1)",
+        "nameLAT": "Tiamin (vitamin V1)",
+        "nameRU": "Тиамин (витамин В1)",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02915001018000000",
+        "nameUZ": "Метилацетат",
+        "nameLAT": "Metilatsetat",
+        "nameRU": "Метилацетат",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02934001005000000",
+        "nameUZ": "Бромотимол Кўк",
+        "nameLAT": "Bromotimol Ko’k",
+        "nameRU": "Бромтимоловый синий",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02903001005000000",
+        "nameUZ": "Бромоформ",
+        "nameLAT": "Bromoform",
+        "nameRU": "Бромоформ",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02930001010000000",
+        "nameUZ": "Бошқа сероорганик бирикмалар",
+        "nameLAT": "Boshqa seroorganik birikmalar",
+        "nameRU": "Прочие соединения сероорганические",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02917001004000000",
+        "nameUZ": "Оксалат кислотаси",
+        "nameLAT": "Oksalat kislotasi",
+        "nameRU": "Щавелевая кислота",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02924001003000001",
+        "nameUZ": "Асиклик амидлар (шу жумладан асиклик карбаматлар) ва уларнинг ҳосилалари бу бирикмаларнинг тузлари Диметилформамид \"ч\"",
+        "nameLAT": "Asiklik amidlar (shu jumladan asiklik karbamatlar) va ularning hosilalari bu birikmalarning tuzlari Dimetilformamid \"ch\"",
+        "nameRU": "Амиды ациклические (включая карбаматы ациклические) и их производные, соли этих соединений Диметилформамид \"ч\"",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02927001003000000",
+        "nameUZ": "Метил қизил",
+        "nameLAT": "Metil qizil",
+        "nameRU": "Метиловый красный",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02909001002000000",
+        "nameUZ": "Хромотроп кислотаси динатрий тузи",
+        "nameLAT": "Xromotrop kislotasi dinatriy tuzi",
+        "nameRU": "Хромотроповая кислота динатриевая соль",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02918001020000000",
+        "nameUZ": "Салицил кислотаси",
+        "nameLAT": "Salitsil kislotasi",
+        "nameRU": "Салициловая кислота",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02921001002000000",
+        "nameUZ": "Анилин",
+        "nameLAT": "Anilin",
+        "nameRU": "Анилин",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02922001011001004",
+        "nameUZ": "Глутамат натрий Lotos 20 г",
+        "nameLAT": "Glutamat natriy Lotos 20 g",
+        "nameRU": "Глутамат натрия Lotos 20 г",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02912001006000000",
+        "nameUZ": "Бошқа альдегидлар, таркибида кислород бўлган бошқа функционал гуруҳ бўлган ёки бўлмаган; альдегидларнинг сиклик полимерлари; параформальдегид",
+        "nameLAT": "Boshqa aldegidlar, tarkibida kislorod bo’lgan boshqa funksional guruh bo’lgan yoki bo’lmagan; aldegidlarning siklik polimerlari; paraformaldegid",
+        "nameRU": "Прочие альдегиды, содержащие или не содержащие другую кислородсодержащую функциональную группу; полимеры альдегидов циклические; параформальдегид",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02933001008000000",
+        "nameUZ": "Индолил-3-ёғ кислотаси",
+        "nameLAT": "Indolil-3-yog’ kislotasi",
+        "nameRU": "Индол-3-масляная кислота",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02917001007000000",
+        "nameUZ": "Диоктилтерефталат",
+        "nameLAT": "Dioktiltereftalat",
+        "nameRU": "Диоктилтерефталат",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02905001025000003",
+        "nameUZ": "Бошқа ациклик спиртлар ва уларнинг галогенланган, сульфонатланган, нитратланган ёки нитрозланган ҳосилалари Поливинил спирти",
+        "nameLAT": "Boshqa atsiklik spirtlar va ularning galogenlangan, sulfonatlangan, nitratlangan yoki nitrozlangan hosilalari Polivinil spirti",
+        "nameRU": "Прочие спирты ациклические и их галогенированные, сульфированные, нитрованные или нитрозированные производные Спирт поливиниловый",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02905001025000007",
+        "nameUZ": "Бошқа ациклик спиртлар ва уларнинг галогенланган, сульфонатланган, нитратланган ёки нитрозланган ҳосилалари Р404А совутгич (10,9 кг шиша)",
+        "nameLAT": "Boshqa atsiklik spirtlar va ularning galogenlangan, sulfonatlangan, nitratlangan yoki nitrozlangan hosilalari R404A sovutgich (10,9 kg shisha)",
+        "nameRU": "Прочие спирты ациклические и их галогенированные, сульфированные, нитрованные или нитрозированные производные хладагента R404A (баллон 10,9 кг)",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02909001004000001",
+        "nameUZ": "Этил эфири Техник этил ефир",
+        "nameLAT": "Etil efiri Texnik etil efir",
+        "nameRU": "Этиловый эфир Эфир этиловый технический",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02918001004000001",
+        "nameUZ": "Калий натрий тартарик 4-сув",
+        "nameLAT": "Kaliy natriy tartarik 4-suv",
+        "nameRU": "Калий натрий виннокислый 4-водный",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02902001008000002",
+        "nameUZ": "Бошқа циклик углеводородлар Ксилол",
+        "nameLAT": "Boshqa siklik uglevodorodlar Ksilol",
+        "nameRU": "Прочие углеводороды циклические Ксилол",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02902001008000003",
+        "nameUZ": "Бошқа циклик углеводородлар О-ксилен",
+        "nameLAT": "Boshqa siklik uglevodorodlar O-ksilen",
+        "nameRU": "Прочие углеводороды циклические О-ксилол",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02902001008000004",
+        "nameUZ": "Бошқа циклик углеводородлар Епокси қатронлар учун модификацияланган амин сертлестириcи",
+        "nameLAT": "Boshqa siklik uglevodorodlar Epoksi qatronlar uchun modifikatsiyalangan amin sertleştirici",
+        "nameRU": "Прочие углеводороды циклические Отвердитель эпоксидных смол модифицированный, аминный",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02902001008000007",
+        "nameUZ": "Бошқа циклик углеводородлар амино-фенол қаттиқлаштирувчи",
+        "nameLAT": "Boshqa siklik uglevodorodlar Amino-fenol qattiqlashtiruvchi",
+        "nameRU": "Прочие углеводороды циклические Отвердитель амино-фенольный",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02909001004000002",
+        "nameUZ": "Этил эфири Бутил сирка кислотаси естери (бутил етаноат) тоза",
+        "nameLAT": "Etil efiri Butil sirka kislotasi esteri (butil etanoat) toza",
+        "nameRU": "Этиловый эфир Эфир бутиловый уксусной кислоты (бутилэтаноат) чистый",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02918001004000002",
+        "nameUZ": "Калий натрий тартарик Чда",
+        "nameLAT": "Kaliy natriy tartarik ChDA",
+        "nameRU": "Калий натрий виннокислый ЧДА",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02926001001000001",
+        "nameUZ": "Ацетонитрил техник, И даража",
+        "nameLAT": "Atsetonitril texnik, I daraja",
+        "nameRU": "Ацетонитрил технический, сорт I",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02926001001000002",
+        "nameUZ": "Ацетонитрил техник, енг юқори даража",
+        "nameLAT": "Atsetonitril texnik, eng yuqori daraja",
+        "nameRU": "Ацетонитрил технический, сорт высший",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02902001008000008",
+        "nameUZ": "Бошқа циклик углеводородлар Епокси қатрони қаттиқлаштирувчи",
+        "nameLAT": "Boshqa siklik uglevodorodlar Epoksi qatroni qattiqlashtiruvchi",
+        "nameRU": "Прочие углеводороды циклические Отвердитель эпоксидных смол",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02902001008000009",
+        "nameUZ": "Бошқа циклик углеводородлар полиэстер қатронлар, Бутанох М-50 тури",
+        "nameLAT": "Boshqa siklik uglevodorodlar polyester qatronlar, Butanox M-50 turi",
+        "nameRU": "Прочие углеводороды циклические полиэфирных смол, тип Бутанокс М-50",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02902001008000011",
+        "nameUZ": "Бошқа циклик углеводородлар Изофорон диамин ва бензилкарбинол асосидаги икки компонентли епокси бўёқ учун қаттиқлаштирувчи моддалар",
+        "nameLAT": "Boshqa siklik uglevodorodlar Izoforon diamin va benzilkarbinol asosidagi ikki komponentli epoksi bo'yoq uchun qattiqlashtiruvchi moddalar",
+        "nameRU": "Прочие углеводороды циклические Отвердители для двухкомпонентной эпоксидной краски, на основе изофорондиамина и бензилкарбинола",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02909001004000005",
+        "nameUZ": "Этил эфири Етил асетат (етил ефир) тоза",
+        "nameLAT": "Etil efiri Etil asetat (etil efir) toza",
+        "nameRU": "Этиловый эфир Этилацетат (эфир этиловый) чистый",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02929001004000001",
+        "nameUZ": "Таркибида азот мавжуд бошқа функционал гуруҳларни ўз ичига олган бошқа бирикмалар Полиуретан кўпикини пускуртмек учун суюқ компонентларнинг изосиянат тизими",
+        "nameLAT": "Tarkibida azot mavjud boshqa funksional guruhlarni o’z ichiga olgan boshqa birikmalar Poliuretan ko'pikini püskürtmek uchun suyuq komponentlarning izosiyanat tizimi",
+        "nameRU": "Прочие соединения, содержащие другие азотсодержащие функциональные группы Изоцианат системы жидких компонентов для напыления ППУ",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02929001004000002",
+        "nameUZ": "Таркибида азот мавжуд бошқа функционал гуруҳларни ўз ичига олган бошқа бирикмалар Кўпикли полиуретан аралашмасининг суюқ таркибий қисмларининг изосиянат тизими",
+        "nameLAT": "Tarkibida azot mavjud boshqa funksional guruhlarni o’z ichiga olgan boshqa birikmalar Ko'pikli poliuretan aralashmasining suyuq tarkibiy qismlarining izosiyanat tizimi",
+        "nameRU": "Прочие соединения, содержащие другие азотсодержащие функциональные группы Изоцианат системы жидких компонентов заливочной смеси ППУ",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02902001008000010",
+        "nameUZ": "Бошқа циклик углеводородлар 4,4 ъ-метилендисиклогексамин ва бензилкарбинол асосидаги икки компонентли епокси лак учун қаттиқлаштирувчи моддалар",
+        "nameLAT": "Boshqa siklik uglevodorodlar 4,4'-metilendisiklogeksamin va benzilkarbinol asosidagi ikki komponentli epoksi lak uchun qattiqlashtiruvchi moddalar",
+        "nameRU": "Прочие углеводороды циклические Отвердители для двухкомпонентного эпоксидного лака, на основе 4,4'-Метилендициклогексаминамина и Бензилкарбинола",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02902001008000012",
+        "nameUZ": "Бошқа циклик углеводородлар Икки компонентли епокси бўёқ учун сертлестириcилер, ксилен асосли",
+        "nameLAT": "Boshqa siklik uglevodorodlar Ikki komponentli epoksi bo'yoq uchun sertleştiriciler, ksilen asosli",
+        "nameRU": "Прочие углеводороды циклические Отвердители для двухкомпонентной эпоксидной краски, на основе ксилола",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02902001008000013",
+        "nameUZ": "Бошқа циклик углеводородлар № 2",
+        "nameLAT": "Boshqa siklik uglevodorodlar № 2",
+        "nameRU": "Прочие углеводороды циклические № 2",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02902001008000014",
+        "nameUZ": "Бошқа циклик углеводородлар Комплекс қаттиқлаштирувчи аминопропилтриетоксилан",
+        "nameLAT": "Boshqa siklik uglevodorodlar Kompleks qattiqlashtiruvchi aminopropiltrietoksilan",
+        "nameRU": "Прочие углеводороды циклические Отвердитель комплексный аминопропилтриэтоксилан",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02934001016000001",
+        "nameUZ": "Нуклеин кислоталар ва уларнинг тузлари бензотриазол 3%",
+        "nameLAT": "Nuklein kislotalar va ularning tuzlari benzotriazol 3%",
+        "nameRU": "Нуклеиновые кислоты и их соли прочие Бензотриазол 3%",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02934001016000002",
+        "nameUZ": "Нуклеин кислоталар ва уларнинг тузлари Бензотриазол (азимидобензол) 99,8%",
+        "nameLAT": "Nuklein kislotalar va ularning tuzlari Benzotriazol (azimidobenzol) 99,8%",
+        "nameRU": "Нуклеиновые кислоты и их соли прочие Бензотриазол (азимидобензол) 99,8%",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02915001018000001",
+        "nameUZ": "Метилацетат Метил сирка кислотаси естери (метил асетат)",
+        "nameLAT": "Metilatsetat Metil sirka kislotasi esteri (metil asetat)",
+        "nameRU": "Метилацетат Эфир метиловый уксусной кислоты (метилацетат)",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02932001009000001",
+        "nameUZ": "Фақат кислородли ҳетероатом(лар)ни ўз ичига олган бошқа гетеросиклик бирикмалар Диоксан",
+        "nameLAT": "Faqat kislorodli heteroatom(lar)ni o’z ichiga olgan boshqa geterosiklik birikmalar Dioksan",
+        "nameRU": "Прочие соединения гетероциклические, содержащие лишь гетероатом(ы) кислорода Диоксан",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02902001008000015",
+        "nameUZ": "Бошқа циклик углеводородлар АСОТ-2 мураккаб тури",
+        "nameLAT": "Boshqa siklik uglevodorodlar ASOT-2 murakkab turi",
+        "nameRU": "Прочие углеводороды циклические комплексный тип АСОТ-2",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02903001009000001",
+        "nameUZ": "Углеводородларнинг бошқа галогенли ҳосилалари СФ6 гази",
+        "nameLAT": "Uglevodorodlarning boshqa galogenli hosilalari SF6 gazi",
+        "nameRU": "Прочие галогенированные производные углеводородов Элегаз",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02905001002000001",
+        "nameUZ": "Метанол Техник метанол",
+        "nameLAT": "Metanol Texnik metanol",
+        "nameRU": "Метанол Метанол технический",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02914001001000005",
+        "nameUZ": "Асиклик кетонлар Тоза асетон",
+        "nameLAT": "Asiklik ketonlar Toza aseton",
+        "nameRU": "Кетоны ациклические Ацетон чистый",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02916001008000003",
+        "nameUZ": "Бензо кислотаси Бензой кислотаси тоза",
+        "nameLAT": "Benzo kislotasi Benzoy kislotasi toza",
+        "nameRU": "Бензойная кислота Кислота бензойная чистая",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02915001006000001",
+        "nameUZ": "Аммоний сирка кислотаси Аммоний асетат",
+        "nameLAT": "Ammoniy sirka kislotasi Ammoniy asetat",
+        "nameRU": "Аммоний уксуснокислый Аммоний уксуснокислый  ",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02917001012000001",
+        "nameUZ": "Бошқа поликарбоксилик кислоталар, уларнинг ангидридлари, галогенидлари, пероксидлари ва пероксидлари; уларнинг галогенланган, сульфонатланган, нитратланган ёки нитрозланган ҳосилалари Диоктил фталат",
+        "nameLAT": "Boshqa polikarboksilik kislotalar, ularning angidridlari, galogenidlari, peroksidlari va peroksidlari; ularning galogenlangan, sulfonatlangan, nitratlangan yoki nitrozlangan hosilalari Dioktil ftalat",
+        "nameRU": "Прочие кислоты поликарбоновые, их ангидриды, галогенангидриды, пероксиды и пероксикислоты; их галогенированные, сульфированные, нитрованные или нитрозированные производные Диоктилфталат",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02905001025000006",
+        "nameUZ": "Бошқа ациклик спиртлар ва уларнинг галогенланган, сульфонатланган, нитратланган ёки нитрозланган ҳосилалари Антифризли совутиш суви (консентрат) ТН-65",
+        "nameLAT": "Boshqa atsiklik spirtlar va ularning galogenlangan, sulfonatlangan, nitratlangan yoki nitrozlangan hosilalari Antifrizli sovutish suvi (konsentrat) TN-65",
+        "nameRU": "Прочие спирты ациклические и их галогенированные, сульфированные, нитрованные или нитрозированные производные Антифриз-теплоноситель (концентрат) ТН-65",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02905001025000008",
+        "nameUZ": "Бошқа ациклик спиртлар ва уларнинг галогенланган, сульфонатланган, нитратланган ёки нитрозланган ҳосилалари Етилен гликол асосидаги консентрланган, паст музлатувчи совутиш суюқлиги",
+        "nameLAT": "Boshqa atsiklik spirtlar va ularning galogenlangan, sulfonatlangan, nitratlangan yoki nitrozlangan hosilalari Etilen glikol asosidagi konsentrlangan, past muzlatuvchi sovutish suyuqligi",
+        "nameRU": "Прочие спирты ациклические и их галогенированные, сульфированные, нитрованные или нитрозированные производные Жидкость охлаждающая низкозамерзающая концентрированная на основе этиленгликоля",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02905001025000009",
+        "nameUZ": "Бошқа ациклик спиртлар ва уларнинг галогенланган, сульфонатланган, нитратланган ёки нитрозланган ҳосилалари Пропилен гликолга асосланган совутиш суви, кристалланиш/музлаш/қайнатиш ҳарорати -40/-71/109 С, пҳ қиймати 8,0 дан 10,0 пҳ гача, динамик ёпишқоқлик 20 С - 4,5 Мпа х с.",
+        "nameLAT": "Boshqa atsiklik spirtlar va ularning galogenlangan, sulfonatlangan, nitratlangan yoki nitrozlangan hosilalari Propilen glikolga asoslangan sovutish suvi, kristallanish/muzlash/qaynatish harorati -40/-71/109 ˚S, pH qiymati 8,0 dan 10,0 pH gacha, dinamik yopishqoqlik 20 ˚S - 4,5 MPa x s.",
+        "nameRU": "Прочие спирты ациклические и их галогенированные, сульфированные, нитрованные или нитрозированные производные Теплоноситель на основе пропиленгликоля, температура начала кристаллизации/замерзания/кипения -40/-71/109 ˚С, водородный показатель от 8,0 до 10,0 рН, динамическая вязкость при 20 ˚С - 4,5 МПа х с",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02903001006000001",
+        "nameUZ": "Фреон фреон",
+        "nameLAT": "Freon freon",
+        "nameRU": "Фреон Фреон",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02905001010000002",
+        "nameUZ": "Изопропил спирти Изопропил спирти",
+        "nameLAT": "Izopropil spirti Izopropil spirti",
+        "nameRU": "Изопропиловый спирт Спирт изопропиловый",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02901001005000001",
+        "nameUZ": "Ацетелин газли техник",
+        "nameLAT": "Atsetelin gazli texnik",
+        "nameRU": "Ацетилен газообразный технический",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02905001025000004",
+        "nameUZ": "Бошқа ациклик спиртлар ва уларнинг галогенланган, сульфонатланган, нитратланган ёки нитрозланган ҳосилалари Оддий бутил техник спирти, Б нави",
+        "nameLAT": "Boshqa atsiklik spirtlar va ularning galogenlangan, sulfonatlangan, nitratlangan yoki nitrozlangan hosilalari Oddiy butil texnik spirti, B navi",
+        "nameRU": "Прочие спирты ациклические и их галогенированные, сульфированные, нитрованные или нитрозированные производные Спирт нормальный бутиловый технический, марка Б",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02901001005000002",
+        "nameUZ": "Ацетелин ериган техник, Б даража",
+        "nameLAT": "Atsetelin erigan texnik, B daraja",
+        "nameRU": "Ацетилен растворенный технический, марка Б",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02903001004000001",
+        "nameUZ": "Этилендихлорид Техник диклороетан, И даража",
+        "nameLAT": "Etilendixlorid Texnik dikloroetan, I daraja",
+        "nameRU": "Этилендихлорид Дихлорэтан технический, сорт I",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02905001025000005",
+        "nameUZ": "Бошқа ациклик спиртлар ва уларнинг галогенланган, сульфонатланган, нитратланган ёки нитрозланган ҳосилалари Ректификация қилинган техник гидролиз этил спирти",
+        "nameLAT": "Boshqa atsiklik spirtlar va ularning galogenlangan, sulfonatlangan, nitratlangan yoki nitrozlangan hosilalari Rektifikatsiya qilingan texnik gidroliz etil spirti",
+        "nameRU": "Прочие спирты ациклические и их галогенированные, сульфированные, нитрованные или нитрозированные производные Спирт этиловый технический гидролизный ректификованный",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02909001011000001",
+        "nameUZ": "Бошқа эфирлар, эфир спиртлари, эфир феноллари, эфир спирти феноллари, спиртларнинг пероксидлари, эфирлар ва кетонлар ҳамда уларнинг галогенланган, сульфонатланган, нитратланган ёки нитрозланган ҳосилалари Чангни босувчи восита, А тоифаси",
+        "nameLAT": "Boshqa efirlar, efir spirtlari, efir fenollari, efir spirti fenollari, spirtlarning peroksidlari, efirlar va ketonlar hamda ularning galogenlangan, sulfonatlangan, nitratlangan yoki nitrozlangan hosilalari Changni bosuvchi vosita, A toifasi",
+        "nameRU": "Прочие эфиры простые, эфироспирты, эфирофенолы, эфироспиртофенолы, пероксиды спиртов, простых эфиров и кетонов и их галогенированные, сульфированные, нитрованные или нитрозированные производные Пылеподавитель, марка А",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02903001004000002",
+        "nameUZ": "Этилендихлорид Техник дихлороетан, ИИ даража",
+        "nameLAT": "Etilendixlorid Texnik dixloroetan, II daraja",
+        "nameRU": "Этилендихлорид Дихлорэтан технический, сорт II",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02909001011000002",
+        "nameUZ": "Бошқа эфирлар, эфир спиртлари, эфир феноллари, эфир спирти феноллари, спиртларнинг пероксидлари, эфирлар ва кетонлар ҳамда уларнинг галогенланган, сульфонатланган, нитратланган ёки нитрозланган ҳосилалари Чангни босувчи восита, Б тоифаси",
+        "nameLAT": "Boshqa efirlar, efir spirtlari, efir fenollari, efir spirti fenollari, spirtlarning peroksidlari, efirlar va ketonlar hamda ularning galogenlangan, sulfonatlangan, nitratlangan yoki nitrozlangan hosilalari Changni bosuvchi vosita, B toifasi",
+        "nameRU": "Прочие эфиры простые, эфироспирты, эфирофенолы, эфироспиртофенолы, пероксиды спиртов, простых эфиров и кетонов и их галогенированные, сульфированные, нитрованные или нитрозированные производные Пылеподавитель, марка Б",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02909001011000003",
+        "nameUZ": "Бошқа эфирлар, эфир спиртлари, эфир феноллари, эфир спирти феноллари, спиртларнинг пероксидлари, эфирлар ва кетонлар ҳамда уларнинг галогенланган, сульфонатланган, нитратланган ёки нитрозланган ҳосилалари Чангни бостирувчи, Б тоифаси",
+        "nameLAT": "Boshqa efirlar, efir spirtlari, efir fenollari, efir spirti fenollari, spirtlarning peroksidlari, efirlar va ketonlar hamda ularning galogenlangan, sulfonatlangan, nitratlangan yoki nitrozlangan hosilalari Changni bostiruvchi, B toifasi",
+        "nameRU": "Прочие эфиры простые, эфироспирты, эфирофенолы, эфироспиртофенолы, пероксиды спиртов, простых эфиров и кетонов и их галогенированные, сульфированные, нитрованные или нитрозированные производные Пылеподавитель, марка В",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02904001001000001",
+        "nameUZ": "Таркибида фақат сульфогуруҳлар, уларнинг тузлари ва этил эфирлари бўлган ҳосилалар Бензенсулфоник кислота",
+        "nameLAT": "Tarkibida faqat sulfoguruhlar, ularning tuzlari va etil efirlari bo’lgan hosilalar Benzensulfonik kislota",
+        "nameRU": "Производные, содержащие только сульфогруппы, их соли и сложные этиловые эфиры Бензолсульфокислота",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02905001016000001",
+        "nameUZ": "Глицерин (кимёвий лаборатория учун) Синтетик глицерин",
+        "nameLAT": "Glitserin (kimyoviy laboratoriya uchun) Sintetik glitserin",
+        "nameRU": "Глицерин (для химической лаборатории) Глицерин синтетический",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02921001003000001",
+        "nameUZ": "Сулфанил кислота, шу жумладан ациклик моноаминлар Техник диетилентриамин, енг юқори нав",
+        "nameLAT": "Sulfanil kislota, shu jumladan atsiklik monoaminlar Texnik dietilentriamin, eng yuqori nav",
+        "nameRU": "Сульфаниловая кислота, в том числе ациклические моноамины Диэтилентриамин технический, сорт высший",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02905001025000001",
+        "nameUZ": "Бошқа ациклик спиртлар ва уларнинг галогенланган, сульфонатланган, нитратланган ёки нитрозланган ҳосилалари Синтетик бутил спирти",
+        "nameLAT": "Boshqa atsiklik spirtlar va ularning galogenlangan, sulfonatlangan, nitratlangan yoki nitrozlangan hosilalari Sintetik butil spirti",
+        "nameRU": "Прочие спирты ациклические и их галогенированные, сульфированные, нитрованные или нитрозированные производные Спирт бутиловый синтетический",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02905001025000002",
+        "nameUZ": "Бошқа ациклик спиртлар ва уларнинг галогенланган, сульфонатланган, нитратланган ёки нитрозланган ҳосилалари Фурфурил спирти",
+        "nameLAT": "Boshqa atsiklik spirtlar va ularning galogenlangan, sulfonatlangan, nitratlangan yoki nitrozlangan hosilalari Furfuril spirti",
+        "nameRU": "Прочие спирты ациклические и их галогенированные, сульфированные, нитрованные или нитрозированные производные Спирт фурфуриловый",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02902001008000001",
+        "nameUZ": "Бошқа циклик углеводородлар Нефт ксилен, А нави",
+        "nameLAT": "Boshqa siklik uglevodorodlar Neft ksilen, A navi",
+        "nameRU": "Прочие углеводороды циклические Ксилол нефтяной, марка А",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02902001008000005",
+        "nameUZ": "Бошқа циклик углеводородлар № 1",
+        "nameLAT": "Boshqa siklik uglevodorodlar № 1",
+        "nameRU": "Прочие углеводороды циклические № 1",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      },
+      {
+        "mxikCode": "02902001008000006",
+        "nameUZ": "Бошқа циклик углеводородлар № 3",
+        "nameLAT": "Boshqa siklik uglevodorodlar № 3",
+        "nameRU": "Прочие углеводороды циклические № 3",
+        "groupCODE": "029",
+        "groupNameUZ": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+        "groupNameRU": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ",
+        "groupNameLAT": "ORGANIK KIMYoVIY MODDALAR"
+      }
+    ],
+    "recordTotal": 414,
+    "errors": null,
+    "permitted": false
+  }
+}

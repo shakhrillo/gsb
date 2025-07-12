@@ -1,0 +1,1457 @@
+{
+  "metadata": {
+    "groupId": 89,
+    "fetchedAt": "2025-07-12T16:36:16.630Z",
+    "source": "https://tasnif.soliq.uz/api/cl-api/integration-mxik/references/group/code?group=89"
+  },
+  "data": {
+    "success": true,
+    "code": 200,
+    "reason": null,
+    "data": [
+      {
+        "mxikCode": "08901001001000000",
+        "nameUZ": "Кемалар",
+        "nameLAT": "Kemalar",
+        "nameRU": "Корабли",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08902001001000000",
+        "nameUZ": "Балиқ овлаш кемалари",
+        "nameLAT": "Baliq ovlash kemalari",
+        "nameRU": "Суда рыболовные",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000000",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар)",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar)",
+        "nameRU": "Земснаряды (морские и прочие)",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08904001001000000",
+        "nameUZ": "Буксерловчи ва итарувчи кемалар",
+        "nameLAT": "Bukserlovchi va itaruvchi kemalar",
+        "nameRU": "Буксиры и суда-толкачи",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08903002001000000",
+        "nameUZ": "Шишириладиган қайиқ",
+        "nameLAT": "Shishiriladigan qayiq",
+        "nameRU": "Надувная лодка",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08903001001000000",
+        "nameUZ": "Дам олиш ёки спорт учун сузиш воситалари",
+        "nameLAT": "Dam olish yoki sport uchun suzish vositalari",
+        "nameRU": "Яхты и прочие плавучие средства для отдыха или спорта",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08903001003000000",
+        "nameUZ": "Моторли қайиқ",
+        "nameLAT": "Motorli qayiq",
+        "nameRU": "Моторная лодка",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08907001001000000",
+        "nameUZ": "Бошқа сузувчи конструкциялар",
+        "nameLAT": "Boshqa suzuvchi konstruksiyalar",
+        "nameRU": "Плавучие конструкции прочие",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVCHI VOSITALAR"
+      },
+      {
+        "mxikCode": "08901001001000001",
+        "nameUZ": "Кемалар Ўзиюрар бўлмаган баржалар, юк кўтариш қуввати 100 т",
+        "nameLAT": "Kemalar O'ziyurar bo'lmagan barjalar, yuk ko'tarish quvvati 100 t",
+        "nameRU": "Корабли Баржи несамоходные, грузоподъемность 100 т",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08901001001000002",
+        "nameUZ": "Кемалар Ўзиюрар бўлмаган баржалар, юк кўтариш қуввати 200 т",
+        "nameLAT": "Kemalar O'ziyurar bo'lmagan barjalar, yuk ko'tarish quvvati 200 t",
+        "nameRU": "Корабли Баржи несамоходные, грузоподъемность 200 т",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08901001001000024",
+        "nameUZ": "Кемалар Ўзи юрадиган тупроқ ташувчи, пастки корпусни очиш тизимига эга ўз-ўзидан юк кўтарувчи, юкни сақлаш ҳажми 2000 м3",
+        "nameLAT": "Kemalar O'zi yuradigan tuproq tashuvchi, pastki korpusni ochish tizimiga ega o'z-o'zidan yuk ko'taruvchi, yukni saqlash hajmi 2000 m3",
+        "nameRU": "Корабли Шаланды самоходные грунтовозные саморазгружающиеся с днищевой системой раскрытия корпуса, вместимость грузового трюма 2000 м3",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000015",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Сузувчи платформалар йиғиладиган, кўтариш қуввати 29 т",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) Suzuvchi platformalar yig'iladigan, ko'tarish quvvati 29 t",
+        "nameRU": "Земснаряды (морские и прочие) Плавучие площадки сборно-разборные, грузоподъемность 29 т",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000016",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Сузувчи домкрат платформалари, йиғиладиган, кўтариш қуввати 250 т",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) Suzuvchi domkrat platformalari, yig'iladigan, ko'tarish quvvati 250 t",
+        "nameRU": "Земснаряды (морские и прочие) Плавучие самоподъемные платформы сборно-разборные, грузоподъемность 250 т",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000042",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Фрезели бўшаштирувчи воситали ўзиюрар папиллон тўлдирувчи драгерлар, фрезалаш қуввати 3000 квт",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) Frezeli bo'shashtiruvchi vositali o'ziyurar papillon to'ldiruvchi dragerlar, frezalash quvvati 3000 kVt",
+        "nameRU": "Земснаряды (морские и прочие) Землесосы папильонажные рефулерные самоходные с фрезерным разрыхлителем, мощность привода фрезы 3000 кВт",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000070",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Кўп челакли дрегерлар, челак ҳажми 0,5 м3",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) Ko'p chelakli dregerlar, chelak hajmi 0,5 m3",
+        "nameRU": "Земснаряды (морские и прочие) Земснаряды многочерпаковые, вместимость ковша 0,5 м3",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000071",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Кўп челакли дрегерлар, челак ҳажми 0,6 м3",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) Ko'p chelakli dregerlar, chelak hajmi 0,6 m3",
+        "nameRU": "Земснаряды (морские и прочие) Земснаряды многочерпаковые, вместимость ковша 0,6 м3",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08901001001000003",
+        "nameUZ": "Кемалар Ўзиюрар бўлмаган баржалар, юк кўтариш қуввати 300 т",
+        "nameLAT": "Kemalar O'ziyurar bo'lmagan barjalar, yuk ko'tarish quvvati 300 t",
+        "nameRU": "Корабли Баржи несамоходные, грузоподъемность 300 т",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08901001001000004",
+        "nameUZ": "Кемалар Ўзиюрар бўлмаган баржалар, юк кўтариш қуввати 400 т",
+        "nameLAT": "Kemalar O'ziyurar bo'lmagan barjalar, yuk ko'tarish quvvati 400 t",
+        "nameRU": "Корабли Баржи несамоходные, грузоподъемность 400 т",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08901001001000025",
+        "nameUZ": "Кемалар Ўзиюрар тупроқ ташувчи, ўз-ўзидан тушувчи сковородкалар пастки корпусни очиш тизимига ега, юкни сақлаш ҳажми 1200 м3",
+        "nameLAT": "Kemalar O'ziyurar tuproq tashuvchi, o'z-o'zidan tushuvchi skovorodkalar pastki korpusni ochish tizimiga ega, yukni saqlash hajmi 1200 m3",
+        "nameRU": "Корабли Шаланды самоходные грунтовозные саморазгружающиеся с днищевой системой раскрытия корпуса, вместимость грузового трюма 1200 м3",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000017",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Ёпиқ сувларда ишлаганда понтонлар, 40 т",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) Yopiq suvlarda ishlaganda pontonlar, 40 t",
+        "nameRU": "Земснаряды (морские и прочие) Понтоны при работе в закрытой акватории, 40 т",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000018",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Ёпиқ сувларда ишлаганда понтонлар, 400-450 т",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) Yopiq suvlarda ishlaganda pontonlar, 400-450 t",
+        "nameRU": "Земснаряды (морские и прочие) Понтоны при работе в закрытой акватории, 400-450 т",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000043",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Фрезели бўшаштирувчи воситали ўзиюрар папиллон тўлдирувчи драгерлар, фрезалаш қуввати 4000 квт",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) Frezeli bo'shashtiruvchi vositali o'ziyurar papillon to'ldiruvchi dragerlar, frezalash quvvati 4000 kVt",
+        "nameRU": "Земснаряды (морские и прочие) Землесосы папильонажные рефулерные самоходные с фрезерным разрыхлителем, мощность привода фрезы 4000 кВт",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000072",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Кўп челакли дрегерлар, челак ҳажми 0,7 м3",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) Ko'p chelakli dregerlar, chelak hajmi 0,7 m3",
+        "nameRU": "Земснаряды (морские и прочие) Земснаряды многочерпаковые, вместимость ковша 0,7 м3",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000073",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Кўп челакли дрегерлар, челак ҳажми 0,8 м3",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) Ko'p chelakli dregerlar, chelak hajmi 0,8 m3",
+        "nameRU": "Земснаряды (морские и прочие) Земснаряды многочерпаковые, вместимость ковша 0,8 м3",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08901001001000005",
+        "nameUZ": "Кемалар Ўзиюрар бўлмаган баржалар, юк кўтариш қуввати 600 т",
+        "nameLAT": "Kemalar O'ziyurar bo'lmagan barjalar, yuk ko'tarish quvvati 600 t",
+        "nameRU": "Корабли Баржи несамоходные, грузоподъемность 600 т",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08901001001000006",
+        "nameUZ": "Кемалар Ёпиқ сувларда ишлаганда баржалар ўзиюрар эмас, юк кўтариш қуввати 250 тоннани ташкил қилади.",
+        "nameLAT": "Kemalar Yopiq suvlarda ishlaganda barjalar o'ziyurar emas, yuk ko'tarish quvvati 250 tonnani tashkil qiladi.",
+        "nameRU": "Корабли Баржи при работе в закрытой акватории несамоходные, грузоподъемность 250 т",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08901001001000026",
+        "nameUZ": "Кемалар Ўзиюрар тупроқ ташувчи, ўз-ўзидан тушириладиган коваклар, пастки корпусни очиш тизимига ега, юкни сақлаш ҳажми 1600 м3",
+        "nameLAT": "Kemalar O'ziyurar tuproq tashuvchi, o'z-o'zidan tushiriladigan kovaklar, pastki korpusni ochish tizimiga ega, yukni saqlash hajmi 1600 m3",
+        "nameRU": "Корабли Шаланды самоходные грунтовозные саморазгружающиеся с днищевой системой раскрытия корпуса, вместимость грузового трюма 1600 м3",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000019",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Ёпиқ сувларда ишлаганда понтонлар, 800 т",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) Yopiq suvlarda ishlaganda pontonlar, 800 t",
+        "nameRU": "Земснаряды (морские и прочие) Понтоны при работе в закрытой акватории, 800 т",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000020",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Понтонлар очиқ йўлда ишлаганда, 40 т",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) Pontonlar ochiq yo'lda ishlaganda, 40 t",
+        "nameRU": "Земснаряды (морские и прочие) Понтоны при работе на открытом рейде, 40 т",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000044",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Фрезели бўшаштирувчи воситали ўзиюрар папиллон тўлдирувчи драгерлар, фрезалаш қуввати 4500 квт",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) Frezeli bo'shashtiruvchi vositali o'ziyurar papillon to'ldiruvchi dragerlar, frezalash quvvati 4500 kVt",
+        "nameRU": "Земснаряды (морские и прочие) Землесосы папильонажные рефулерные самоходные с фрезерным разрыхлителем, мощность привода фрезы 4500 кВт",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000074",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Кўп челакли дрегерлар, челак ҳажми 0,9 м3",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) Ko'p chelakli dregerlar, chelak hajmi 0,9 m3",
+        "nameRU": "Земснаряды (морские и прочие) Земснаряды многочерпаковые, вместимость ковша 0,9 м3",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000075",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Кўп челакли дрегерлар, челак ҳажми 0,175 м3",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) Ko'p chelakli dregerlar, chelak hajmi 0,175 m3",
+        "nameRU": "Земснаряды (морские и прочие) Земснаряды многочерпаковые, вместимость ковша 0,175 м3",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08901001001000007",
+        "nameUZ": "Кемалар Ёпиқ сувларда ишлаганда баржалар ўзиюрар эмас, юк кўтариш қуввати 400-450 тоннани ташкил қилади.",
+        "nameLAT": "Kemalar Yopiq suvlarda ishlaganda barjalar o'ziyurar emas, yuk ko'tarish quvvati 400-450 tonnani tashkil qiladi.",
+        "nameRU": "Корабли Баржи при работе в закрытой акватории несамоходные, грузоподъемность 400-450 т",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08901001001000008",
+        "nameUZ": "Кемалар Ёпиқ сувларда ишлаганда баржалар ўзиюрар эмас, юк кўтариш қуввати 1000 тоннани ташкил қилади.",
+        "nameLAT": "Kemalar Yopiq suvlarda ishlaganda barjalar o'ziyurar emas, yuk ko'tarish quvvati 1000 tonnani tashkil qiladi.",
+        "nameRU": "Корабли Баржи при работе в закрытой акватории несамоходные, грузоподъемность 1000 т",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08901001001000027",
+        "nameUZ": "Кемалар Ўзиюрар тупроқ ташувчи, ўз-ўзидан тушувчи сковородкалар пастки корпусни очиш тизимига ега, юк ташиш ҳажми 1800 м3",
+        "nameLAT": "Kemalar O'ziyurar tuproq tashuvchi, o'z-o'zidan tushuvchi skovorodkalar pastki korpusni ochish tizimiga ega, yuk tashish hajmi 1800 m3",
+        "nameRU": "Корабли Шаланды самоходные грунтовозные саморазгружающиеся с днищевой системой раскрытия корпуса, вместимость грузового трюма 1800 м3",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000021",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Понтонлар очиқ йўлда ишлаганда, 400-450 т",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) Pontonlar ochiq yo'lda ishlaganda, 400-450 t",
+        "nameRU": "Земснаряды (морские и прочие) Понтоны при работе на открытом рейде, 400-450 т",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000022",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Очиқ йўлда ишлаганда понтонлар, 800 т",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) Ochiq yo'lda ishlaganda pontonlar, 800 t",
+        "nameRU": "Земснаряды (морские и прочие) Понтоны при работе на открытом рейде, 800 т",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000045",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Фрезели бўшаштирувчи воситали ўзиюрар папиллон тўлдирувчи драгерлар, фрезалаш қуввати 6000 квт",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) Frezeli bo'shashtiruvchi vositali o'ziyurar papillon to'ldiruvchi dragerlar, frezalash quvvati 6000 kVt",
+        "nameRU": "Земснаряды (морские и прочие) Землесосы папильонажные рефулерные самоходные с фрезерным разрыхлителем, мощность привода фрезы 6000 кВт",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000076",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Кўп челакли дрегерлар, челак ҳажми 1 м3",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) Ko'p chelakli dregerlar, chelak hajmi 1 m3",
+        "nameRU": "Земснаряды (морские и прочие) Земснаряды многочерпаковые, вместимость ковша 1 м3",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000077",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Бир челакли дрегерлар, челак ҳажми 1,6 м3",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) Bir chelakli dregerlar, chelak hajmi 1,6 m3",
+        "nameRU": "Земснаряды (морские и прочие) Земснаряды одночерпаковые, вместимость ковша 1,6 м3",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08901001001000009",
+        "nameUZ": "Кемалар Баржалар ёпиқ сувларда ишлаганда ўзиюрар, юк кўтариш қуввати 250 тонна.",
+        "nameLAT": "Kemalar Barjalar yopiq suvlarda ishlaganda o'ziyurar, yuk ko'tarish quvvati 250 tonna.",
+        "nameRU": "Корабли Баржи при работе в закрытой акватории самоходные, грузоподъемность 250 т",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08901001001000010",
+        "nameUZ": "Кемалар Очиқ йўлларда ишлайдиган баржалар ўзиюрар эмас, юк кўтариш қуввати 250 тоннани ташкил қилади.",
+        "nameLAT": "Kemalar Ochiq yo'llarda ishlaydigan barjalar o'ziyurar emas, yuk ko'tarish quvvati 250 tonnani tashkil qiladi.",
+        "nameRU": "Корабли Баржи при работе на открытом рейде несамоходные, грузоподъемность 250 т",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08901001001000028",
+        "nameUZ": "Кемалар Ўзиюрар тупроқ ташувчи, ўз-ўзидан тушириладиган, пастки корпусни очиш тизимига ега, юк ташиш ҳажми 3700 м3",
+        "nameLAT": "Kemalar O'ziyurar tuproq tashuvchi, o'z-o'zidan tushiriladigan, pastki korpusni ochish tizimiga ega, yuk tashish hajmi 3700 m3",
+        "nameRU": "Корабли Шаланды самоходные грунтовозные саморазгружающиеся с днищевой системой раскрытия корпуса, вместимость грузового трюма 3700 м3",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000023",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Юк тушириш понтонлари, юк кўтариш қобилияти 1,5 т",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) Yuk tushirish pontonlari, yuk ko'tarish qobiliyati 1,5 t",
+        "nameRU": "Земснаряды (морские и прочие) Понтоны разгружающие, грузоподъемность 1,5 т",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000024",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Юк тушириш понтонлари, юк кўтариш қуввати 3 тонна",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) Yuk tushirish pontonlari, yuk ko'tarish quvvati 3 tonna",
+        "nameRU": "Земснаряды (морские и прочие) Понтоны разгружающие, грузоподъемность 3 т",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000046",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Фрезели бўшаштирувчи воситали ўзиюрар папиллон тўлдирувчи драгерлар, фрезалаш қуввати 7600 квт",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) Frezeli bo'shashtiruvchi vositali o'ziyurar papillon to'ldiruvchi dragerlar, frezalash quvvati 7600 kVt",
+        "nameRU": "Земснаряды (морские и прочие) Землесосы папильонажные рефулерные самоходные с фрезерным разрыхлителем, мощность привода фрезы 7600 кВт",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000047",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Ўз-ўзидан олинадиган дрегерлар, ушлагич ҳажми 900 м3",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) O'z-o'zidan olinadigan dregerlar, ushlagich hajmi 900 m3",
+        "nameRU": "Земснаряды (морские и прочие) Землесосы самоотвозные, объем трюма 900 м3",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000078",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Бир челакли дрегерлар, челак ҳажми 3 м3",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) Bir chelakli dregerlar, chelak hajmi 3 m3",
+        "nameRU": "Земснаряды (морские и прочие) Земснаряды одночерпаковые, вместимость ковша 3 м3",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000079",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Бир челакли дрегерлар, челак ҳажми 4 м3",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) Bir chelakli dregerlar, chelak hajmi 4 m3",
+        "nameRU": "Земснаряды (морские и прочие) Земснаряды одночерпаковые, вместимость ковша 4 м3",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08901001001000011",
+        "nameUZ": "Кемалар Очиқ йўлларда ишлаганда баржалар ўзиюрар эмас, юк кўтариш қуввати 400-450 тоннани ташкил қилади.",
+        "nameLAT": "Kemalar Ochiq yo'llarda ishlaganda barjalar o'ziyurar emas, yuk ko'tarish quvvati 400-450 tonnani tashkil qiladi.",
+        "nameRU": "Корабли Баржи при работе на открытом рейде несамоходные, грузоподъемность 400-450 т",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08901001001000012",
+        "nameUZ": "Кемалар Баржалар очиқ йўлда ишлаганда ўзиюрар, юк кўтариш қуввати 1250 тонна.",
+        "nameLAT": "Kemalar Barjalar ochiq yo'lda ishlaganda o'ziyurar, yuk ko'tarish quvvati 1250 tonna.",
+        "nameRU": "Корабли Баржи при работе на открытом рейде самоходные, грузоподъемность 1250 т",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08901001001000029",
+        "nameUZ": "Кемалар Ўзиюрар тупроқ ташувчи, ўз-ўзидан тушириладиган коваклар, пастки корпусни очиш тизимига ега, юкни сақлаш ҳажми 7000 м3",
+        "nameLAT": "Kemalar O'ziyurar tuproq tashuvchi, o'z-o'zidan tushiriladigan kovaklar, pastki korpusni ochish tizimiga ega, yukni saqlash hajmi 7000 m3",
+        "nameRU": "Корабли Шаланды самоходные грунтовозные саморазгружающиеся с днищевой системой раскрытия корпуса, вместимость грузового трюма 7000 м3",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08904001001000001",
+        "nameUZ": "Буксерловчи ва итарувчи кемалар қувват 110 квт (150 от кучи)",
+        "nameLAT": "Bukserlovchi va itaruvchi kemalar quvvat 110 kVt (150 ot kuchi)",
+        "nameRU": "Буксиры и суда-толкачи мощность 110 кВт (150 л.с.)",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000025",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Юк тушириш понтонлари, юк кўтариш қуввати 5 тонна",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) Yuk tushirish pontonlari, yuk ko'tarish quvvati 5 tonna",
+        "nameRU": "Земснаряды (морские и прочие) Понтоны разгружающие, грузоподъемность 5 т",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000026",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Юк тушириш понтонлари, кўтариш қуввати 10 т",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) Yuk tushirish pontonlari, ko'tarish quvvati 10 t",
+        "nameRU": "Земснаряды (морские и прочие) Понтоны разгружающие, грузоподъемность 10 т",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000048",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Ўз-ўзидан олинадиган драгерлар, ушлагич ҳажми 1300 м3",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) O'z-o'zidan olinadigan dragerlar, ushlagich hajmi 1300 m3",
+        "nameRU": "Земснаряды (морские и прочие) Землесосы самоотвозные, объем трюма 1300 м3",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000049",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Ўз-ўзидан олинадиган драгерлар, ушлаш ҳажми 1800 м3",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) O'z-o'zidan olinadigan dragerlar, ushlash hajmi 1800 m3",
+        "nameRU": "Земснаряды (морские и прочие) Землесосы самоотвозные, объем трюма 1800 м3",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000080",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Бир челакли дрегерлар, челак ҳажми 4,3 м3",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) Bir chelakli dregerlar, chelak hajmi 4,3 m3",
+        "nameRU": "Земснаряды (морские и прочие) Земснаряды одночерпаковые, вместимость ковша 4,3 м3",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000081",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Бир челакли дрегерлар, челак ҳажми 5 м3",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) Bir chelakli dregerlar, chelak hajmi 5 m3",
+        "nameRU": "Земснаряды (морские и прочие) Земснаряды одночерпаковые, вместимость ковша 5 м3",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08901001001000013",
+        "nameUZ": "Кемалар Ёпиқ сувларда ишлаганда, ўзиюрар бўлмаган 250 т",
+        "nameLAT": "Kemalar Yopiq suvlarda ishlaganda, o'ziyurar bo'lmagan 250 t",
+        "nameRU": "Корабли Шаланды при работе в закрытой акватории несамоходные 250 т",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08901001001000014",
+        "nameUZ": "Кемалар Очиқ йўлларда ишлаганда, ўзиюрар бўлмаган 250 т",
+        "nameLAT": "Kemalar Ochiq yo'llarda ishlaganda, o'ziyurar bo'lmagan 250 t",
+        "nameRU": "Корабли Шаланды при работе на открытом рейде несамоходные 250 т",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08904001001000002",
+        "nameUZ": "Буксерловчи ва итарувчи кемалар қувват 221 квт (300 от кучи)",
+        "nameLAT": "Bukserlovchi va itaruvchi kemalar quvvat 221 kVt (300 ot kuchi)",
+        "nameRU": "Буксиры и суда-толкачи мощность 221 кВт (300 л.с.)",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08904001001000003",
+        "nameUZ": "Буксерловчи ва итарувчи кемалар қувват 331 квт (450 от кучи)",
+        "nameLAT": "Bukserlovchi va itaruvchi kemalar quvvat 331 kVt (450 ot kuchi)",
+        "nameRU": "Буксиры и суда-толкачи мощность 331 кВт (450 л.с.)",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08904001001000004",
+        "nameUZ": "Буксерловчи ва итарувчи кемалар ёпиқ сувда ишлаганда дизел, қувват 221 квт (300 от кучи)",
+        "nameLAT": "Bukserlovchi va itaruvchi kemalar yopiq suvda ishlaganda dizel, quvvat 221 kVt (300 ot kuchi)",
+        "nameRU": "Буксиры и суда-толкачи дизельные при работе в закрытой акватории, мощность 221 кВт (300 л.с.)",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000027",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Сув ости хандақларини ишлаб чиқиш учун гидравлик ежектор ва сўрғичлар, унумдорлиги 30 м3 / соат",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) Suv osti xandaqlarini ishlab chiqish uchun gidravlik ejektor va so'rg'ichlar, unumdorligi 30 m3 / soat",
+        "nameRU": "Земснаряды (морские и прочие) Гидромониторно-эжекторные и землесосные снаряды для разработки подводных траншей, производительность 30 м3/ч",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000050",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Ўз-ўзидан олинадиган драгерлар, ушлаб туриш ҳажми 2400 м3",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) O'z-o'zidan olinadigan dragerlar, ushlab turish hajmi 2400 m3",
+        "nameRU": "Земснаряды (морские и прочие) Землесосы самоотвозные, объем трюма 2400 м3",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000051",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Ўз-ўзидан олинадиган драгерлар, ушлаб туриш ҳажми 2700 м3",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) O'z-o'zidan olinadigan dragerlar, ushlab turish hajmi 2700 m3",
+        "nameRU": "Земснаряды (морские и прочие) Землесосы самоотвозные, объем трюма 2700 м3",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000082",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Бир челакли дрегерлар, челак ҳажми 5,7 м3",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) Bir chelakli dregerlar, chelak hajmi 5,7 m3",
+        "nameRU": "Земснаряды (морские и прочие) Земснаряды одночерпаковые, вместимость ковша 5,7 м3",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000083",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Бир челакли дрегерлар, челак ҳажми 8,5 м3",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) Bir chelakli dregerlar, chelak hajmi 8,5 m3",
+        "nameRU": "Земснаряды (морские и прочие) Земснаряды одночерпаковые, вместимость ковша 8,5 м3",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08901001001000015",
+        "nameUZ": "Кемалар Ёпиқ сувларда ишлаганда ўзиюрар скраблар 450 т",
+        "nameLAT": "Kemalar Yopiq suvlarda ishlaganda o'ziyurar skrablar 450 t",
+        "nameRU": "Корабли Шаланды самоходные при работе в закрытой акватории 450 т",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08904001001000005",
+        "nameUZ": "Буксерловчи ва итарувчи кемалар ёпиқ сувда ишлаганда дизел, қувват 294 квт (400 от кучи)",
+        "nameLAT": "Bukserlovchi va itaruvchi kemalar yopiq suvda ishlaganda dizel, quvvat 294 kVt (400 ot kuchi)",
+        "nameRU": "Буксиры и суда-толкачи дизельные при работе в закрытой акватории, мощность 294 кВт (400 л.с.)",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08904001001000006",
+        "nameUZ": "Буксерловчи ва итарувчи кемалар очиқ йўлда ишлаганда дизел, қуввати 294 квт (400 от кучи)",
+        "nameLAT": "Bukserlovchi va itaruvchi kemalar ochiq yo'lda ishlaganda dizel, quvvati 294 kVt (400 ot kuchi)",
+        "nameRU": "Буксиры и суда-толкачи дизельные при работе на открытом рейде, мощность 294 кВт (400 л.с.)",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000028",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Сув ости хандақларини ўзлаштириш учун гидравлик ежектор ва сўрғичлар, тупроқ унумдорлиги 70 м3 / соатгача",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) Suv osti xandaqlarini o'zlashtirish uchun gidravlik ejektor va so'rg'ichlar, tuproq unumdorligi 70 m3 / soatgacha",
+        "nameRU": "Земснаряды (морские и прочие) Гидромониторно-эжекторные и землесосные снаряды для разработки подводных траншей, производительность по грунту до 70 м3/ч",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000029",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Дизелли сузувчи сўрғичлар, оқим 80 м3/соат, боши 30 м",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) Dizelli suzuvchi so'rg'ichlar, oqim 80 m3/soat, boshi 30 m",
+        "nameRU": "Земснаряды (морские и прочие) Землесосные плавучие снаряды дизельные, подача 80 м3/ч, напор 30 м",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000052",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Ўз-ўзидан олинадиган драгерлар, ушлаш ҳажми 3500 м3",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) O'z-o'zidan olinadigan dragerlar, ushlash hajmi 3500 m3",
+        "nameRU": "Земснаряды (морские и прочие) Землесосы самоотвозные, объем трюма 3500 м3",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000053",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Ўз-ўзидан олинадиган драгерлар, ушлаб туриш ҳажми 4700 м3",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) O'z-o'zidan olinadigan dragerlar, ushlab turish hajmi 4700 m3",
+        "nameRU": "Земснаряды (морские и прочие) Землесосы самоотвозные, объем трюма 4700 м3",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000084",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Бир челакли дрегерлар, челак ҳажми 11 м3",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) Bir chelakli dregerlar, chelak hajmi 11 m3",
+        "nameRU": "Земснаряды (морские и прочие) Земснаряды одночерпаковые, вместимость ковша 11 м3",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000085",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Бир челакли дрегерлар, челак ҳажми 15 м3",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) Bir chelakli dregerlar, chelak hajmi 15 m3",
+        "nameRU": "Земснаряды (морские и прочие) Земснаряды одночерпаковые, вместимость ковша 15 м3",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08901001001000016",
+        "nameUZ": "Кемалар Ўзиюрар тупроқ ташувчи, ўз-ўзидан тушириладиган коваклар пастки корпусни очиш тизимига ега, юкни сақлаш ҳажми 250 м3",
+        "nameLAT": "Kemalar O'ziyurar tuproq tashuvchi, o'z-o'zidan tushiriladigan kovaklar pastki korpusni ochish tizimiga ega, yukni saqlash hajmi 250 m3",
+        "nameRU": "Корабли Шаланды самоходные грунтовозные саморазгружающиеся с днищевой системой раскрытия корпуса, вместимость грузового трюма 250 м3",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08904001001000007",
+        "nameUZ": "Буксерловчи ва итарувчи кемалар очиқ йўлда ишлаганда дизел, қуввати 552 квт (750 от кучи)",
+        "nameLAT": "Bukserlovchi va itaruvchi kemalar ochiq yo'lda ishlaganda dizel, quvvati 552 kVt (750 ot kuchi)",
+        "nameRU": "Буксиры и суда-толкачи дизельные при работе на открытом рейде, мощность 552 кВт (750 л.с.)",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08904001001000008",
+        "nameUZ": "Буксерловчи ва итарувчи кемалар Қайиқлар, қуввати 66 квт (90 от кучи)",
+        "nameLAT": "Bukserlovchi va itaruvchi kemalar Qayiqlar, quvvati 66 kVt (90 ot kuchi)",
+        "nameRU": "Буксиры и суда-толкачи Катера, мощность 66 кВт (90 л.с.)",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08904001001000009",
+        "nameUZ": "Буксерловчи ва итарувчи кемалар Қайиқлар, қувват 96 квт (130 от кучи)",
+        "nameLAT": "Bukserlovchi va itaruvchi kemalar Qayiqlar, quvvat 96 kVt (130 ot kuchi)",
+        "nameRU": "Буксиры и суда-толкачи Катера, мощность 96 кВт (130 л.с.)",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000030",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Дизелли сузувчи сўрғичлар, оқим 140 м3/соат, боши 37-52 м",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) Dizelli suzuvchi so'rg'ichlar, oqim 140 m3/soat, boshi 37-52 m",
+        "nameRU": "Земснаряды (морские и прочие) Землесосные плавучие снаряды дизельные, подача 140 м3/ч, напор 37-52 м",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000031",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Сузувчи сўрғичлар Электр таъминоти 80 м3/соат, боши 40 м",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) Suzuvchi so'rg'ichlar elektr ta'minoti 80 m3/soat, boshi 40 m",
+        "nameRU": "Земснаряды (морские и прочие) Землесосные плавучие снаряды электрические подача 80 м3/ч, напор 40 м",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000054",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Ўз-ўзидан олинадиган драгерлар, ушлагич ҳажми 6200 м3",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) O'z-o'zidan olinadigan dragerlar, ushlagich hajmi 6200 m3",
+        "nameRU": "Земснаряды (морские и прочие) Землесосы самоотвозные, объем трюма 6200 м3",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000055",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Ўз-ўзидан олинадиган драгерлар, ушлаб туриш ҳажми 7700 м3",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) O'z-o'zidan olinadigan dragerlar, ushlab turish hajmi 7700 m3",
+        "nameRU": "Земснаряды (морские и прочие) Землесосы самоотвозные, объем трюма 7700 м3",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000086",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Бир челакли дрегерлар, челак ҳажми 25 м3",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) Bir chelakli dregerlar, chelak hajmi 25 m3",
+        "nameRU": "Земснаряды (морские и прочие) Земснаряды одночерпаковые, вместимость ковша 25 м3",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000087",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Ўзиюрар қозиқ-папиллонли фрезели тўсарлар, тўсар қуввати 350 квт",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) O'ziyurar qoziq-papillonli frezeli to'sarlar, to'sar quvvati 350 kVt",
+        "nameRU": "Земснаряды (морские и прочие) Земснаряды свайно-папильонажные несамоходные с фрезерным разрыхлителем, мощность привода фрезы 350 кВт",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08901001001000017",
+        "nameUZ": "Кемалар Ўзиюрар тупроқ ташувчи, ўз-ўзидан тушириладиган коваклар, пастки корпусни очиш тизими, юк сақлаш ҳажми 400 м3",
+        "nameLAT": "Kemalar O'ziyurar tuproq tashuvchi, o'z-o'zidan tushiriladigan kovaklar, pastki korpusni ochish tizimi, yuk saqlash hajmi 400 m3",
+        "nameRU": "Корабли Шаланды самоходные грунтовозные саморазгружающиеся с днищевой системой раскрытия корпуса, вместимость грузового трюма 400 м3",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000001",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Стационар Электр насосли екскаваторлар, оқим 600 м3/соат, боши 80 м",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) Statsionar elektr nasosli ekskavatorlar, oqim 600 m3/soat, boshi 80 m",
+        "nameRU": "Земснаряды (морские и прочие) Землесосные станции перекачки электрические стационарные, подача 600 м3/ч, напор 80 м",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000002",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Ёпиқ сувларда 2-зона учун сузувчи тебраниш сиқиш мосламалари",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) Yopiq suvlarda 2-zona uchun suzuvchi tebranish siqish moslamalari",
+        "nameRU": "Земснаряды (морские и прочие) Установки виброуплотнительные плавучие для 2 зоны в закрытой акватории",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000032",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Сузувчи сўрғичлар Электр таъминоти 140 м3/соат, боши 37-52 м",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) Suzuvchi so'rg'ichlar elektr ta'minoti 140 m3/soat, boshi 37-52 m",
+        "nameRU": "Земснаряды (морские и прочие) Землесосные плавучие снаряды электрические подача 140 м3/ч, напор 37-52 м",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000033",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Сузувчи сўрғичлар Электр таъминоти 200 м3/соат, боши 50-63 м",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) Suzuvchi so'rg'ichlar elektr ta'minoti 200 m3/soat, boshi 50-63 m",
+        "nameRU": "Земснаряды (морские и прочие) Землесосные плавучие снаряды электрические подача 200 м3/ч, напор 50-63 м",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000056",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Ўз-ўзидан олинадиган драгерлар, ушлаб туриш ҳажми 9100 м3",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) O'z-o'zidan olinadigan dragerlar, ushlab turish hajmi 9100 m3",
+        "nameRU": "Земснаряды (морские и прочие) Землесосы самоотвозные, объем трюма 9100 м3",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000057",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Ўз-ўзидан олинадиган дрегерлар, ушлаш ҳажми 11000 м3",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) O'z-o'zidan olinadigan dregerlar, ushlash hajmi 11000 m3",
+        "nameRU": "Земснаряды (морские и прочие) Землесосы самоотвозные, объем трюма 11000 м3",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000088",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Ўзиюрар қозиқ-папиллонли фрезалаш машиналари, фрезалаш қуввати 550 квт.",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) O'ziyurar qoziq-papillonli frezalash mashinalari, frezalash quvvati 550 kVt.",
+        "nameRU": "Земснаряды (морские и прочие) Земснаряды свайно-папильонажные несамоходные с фрезерным разрыхлителем, мощность привода фрезы 550 кВт",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000089",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Ўзиюрар қозиқли папиллонли фрезалаш машиналари, фрезалаш қуввати 750 квт.",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) O'ziyurar qoziqli papillonli frezalash mashinalari, frezalash quvvati 750 kVt.",
+        "nameRU": "Земснаряды (морские и прочие) Земснаряды свайно-папильонажные несамоходные с фрезерным разрыхлителем, мощность привода фрезы 750 кВт",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08901001001000018",
+        "nameUZ": "Кемалар Ўзиюрар тупроқ ташувчи, ўз-ўзидан тушириладиган коваклар, пастки корпусни очиш тизимига ега, юкни сақлаш ҳажми 500 м3",
+        "nameLAT": "Kemalar O'ziyurar tuproq tashuvchi, o'z-o'zidan tushiriladigan kovaklar, pastki korpusni ochish tizimiga ega, yukni saqlash hajmi 500 m3",
+        "nameRU": "Корабли Шаланды самоходные грунтовозные саморазгружающиеся с днищевой системой раскрытия корпуса, вместимость грузового трюма 500 м3",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000003",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Очиқ йўлда 2-зона учун сузувчи тебраниш сиқиш мосламалари",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) Ochiq yo'lda 2-zona uchun suzuvchi tebranish siqish moslamalari",
+        "nameRU": "Земснаряды (морские и прочие) Установки виброуплотнительные плавучие для 2 зоны на открытом рейде",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000004",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Темир-бетон қатламли қозиқлар ва қозиқларни ҳайдаш учун сузувчи ўтказгичлар",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) Temir-beton qatlamli qoziqlar va qoziqlarni haydash uchun suzuvchi o'tkazgichlar",
+        "nameRU": "Земснаряды (морские и прочие) Кондукторы плавучие для погружения железобетонного шпунта и свай",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000034",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Сузувчи сўрғичлар Электр таъминоти 400 м3/соат, боши 71 м",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) Suzuvchi so'rg'ichlar elektr ta'minoti 400 m3/soat, boshi 71 m",
+        "nameRU": "Земснаряды (морские и прочие) Землесосные плавучие снаряды электрические подача 400 м3/ч, напор 71 м",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000035",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Сузувчи сўрғичлар, Электр, оқим 600 м3/соат, боши 80 м",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) Suzuvchi so'rg'ichlar, elektr, oqim 600 m3/soat, boshi 80 m",
+        "nameRU": "Земснаряды (морские и прочие) Землесосные плавучие снаряды электрические подача 600 м3/ч, напор 80 м",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000058",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Ўз-ўзидан олинадиган драгерлар, ушлаб туриш ҳажми 12500 м3",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) O'z-o'zidan olinadigan dragerlar, ushlab turish hajmi 12500 m3",
+        "nameRU": "Земснаряды (морские и прочие) Землесосы самоотвозные, объем трюма 12500 м3",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000059",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Ўз-ўзидан олинадиган дрегерлар, ушлагич ҳажми 13500 м3",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) O'z-o'zidan olinadigan dregerlar, ushlagich hajmi 13500 m3",
+        "nameRU": "Земснаряды (морские и прочие) Землесосы самоотвозные, объем трюма 13500 м3",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000090",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Фрезели тўсарли ўзиюрар қозиқ-папиллонли драгерлар, фрезалаш қуввати 900 квт",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) Frezeli to'sarli o'ziyurar qoziq-papillonli dragerlar, frezalash quvvati 900 kVt",
+        "nameRU": "Земснаряды (морские и прочие) Земснаряды свайно-папильонажные несамоходные с фрезерным разрыхлителем, мощность привода фрезы 900 кВт",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000091",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) 4 м3 сиғимли челакли род (чўп) снарядлари",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) 4 m3 sig'imli chelakli rod (cho'p) snaryadlari",
+        "nameRU": "Земснаряды (морские и прочие) Штанговые (черпаковые) снаряды с ковшом вместимостью 4 м3",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08901001001000019",
+        "nameUZ": "Кемалар Ўзиюрар тупроқ ташувчи, ўз-ўзидан тушириладиган ковакларнинг пастки корпусини очиш тизими, юк сақлаш ҳажми 600 м3",
+        "nameLAT": "Kemalar O'ziyurar tuproq tashuvchi, o'z-o'zidan tushiriladigan kovaklarning pastki korpusini ochish tizimi, yuk saqlash hajmi 600 m3",
+        "nameRU": "Корабли Шаланды самоходные грунтовозные саморазгружающиеся с днищевой системой раскрытия корпуса, вместимость грузового трюма 600 м3",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000005",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Темир-бетон қобиқли қозиқларни ҳайдаш учун сузувчи ўтказгичлар",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) Temir-beton qobiqli qoziqlarni haydash uchun suzuvchi o'tkazgichlar",
+        "nameRU": "Земснаряды (морские и прочие) Кондукторы плавучие для погружения железобетонных свай-оболочек",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000006",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Ёпиқ сувларда ишлаганда қобиқ қозиқларини ҳайдаш учун сузувчи ўтказгичлар",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) Yopiq suvlarda ishlaganda qobiq qoziqlarini haydash uchun suzuvchi o'tkazgichlar",
+        "nameRU": "Земснаряды (морские и прочие) Кондукторы плавучие для погружения свай-оболочек при работе в закрытой акватории",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000036",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Сузувчи Электр сўрғичлар Электр қўзғатувчи блокли, оқим 200 м3/соат, боши 50-63 м",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) Suzuvchi elektr so'rg'ichlar elektr qo'zg'atuvchi blokli, oqim 200 m3/soat, boshi 50-63 m",
+        "nameRU": "Земснаряды (морские и прочие) Землесосные плавучие снаряды электрические с ЭГЗУ, подача 200 м3/ч напор 50-63 м",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000037",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Сузувчи Электр сўрғичлар Электр қўзғатувчи блокли, оқим 400 м3/соат, боши 71 м",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) Suzuvchi elektr so'rg'ichlar elektr qo'zg'atuvchi blokli, oqim 400 m3/soat, boshi 71 m",
+        "nameRU": "Земснаряды (морские и прочие) Землесосные плавучие снаряды электрические с ЭГЗУ, подача 400 м3/ч, напор 71 м",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000060",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Ўз-ўзидан олинадиган дрегерлар, ушлаш ҳажми 18 000 м3",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) O'z-o'zidan olinadigan dregerlar, ushlash hajmi 18 000 m3",
+        "nameRU": "Земснаряды (морские и прочие) Землесосы самоотвозные, объем трюма 18000 м3",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000061",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Ўз-ўзидан олинадиган дрегерлар, ушлаш ҳажми 19 000 м3",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) O'z-o'zidan olinadigan dregerlar, ushlash hajmi 19 000 m3",
+        "nameRU": "Земснаряды (морские и прочие) Землесосы самоотвозные, объем трюма 19000 м3",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000092",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Ҳажми 2,5 м3 гача бўлган челакли род (чўп) снарядлари",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) Hajmi 2,5 m3 gacha bo'lgan chelakli rod (cho'p) snaryadlari",
+        "nameRU": "Земснаряды (морские и прочие) Штанговые (черпаковые) снаряды с ковшом вместимостью до 2,5 м3",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000093",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Фрезели бўшаштирувчи воситали ўзиюрар папиллон тўлдирувчи драгерлар, фрезалаш қуввати 6600 квт",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) Frezeli bo'shashtiruvchi vositali o'ziyurar papillon to'ldiruvchi dragerlar, frezalash quvvati 6600 kVt",
+        "nameRU": "Земснаряды (морские и прочие) Землесосы папильонажные рефулерные самоходные с фрезерным разрыхлителем, мощность привода фрезы 6600 кВт",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08901001001000020",
+        "nameUZ": "Кемалар Ўзиюрар тупроқ ташувчи, ўз-ўзидан тушириладиган коваклар, пастки корпусни очиш тизимига ега, юк ташиш ҳажми 700 м3",
+        "nameLAT": "Kemalar O'ziyurar tuproq tashuvchi, o'z-o'zidan tushiriladigan kovaklar, pastki korpusni ochish tizimiga ega, yuk tashish hajmi 700 m3",
+        "nameRU": "Корабли Шаланды самоходные грунтовозные саморазгружающиеся с днищевой системой раскрытия корпуса, вместимость грузового трюма 700 м3",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000007",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Очиқ йўлда ишлаганда қобиқ қозиқларини ботириш учун сузувчи ўтказгичлар",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) Ochiq yo'lda ishlaganda qobiq qoziqlarini botirish uchun suzuvchi o'tkazgichlar",
+        "nameRU": "Земснаряды (морские и прочие) Кондукторы плавучие для погружения свай-оболочек при работе на открытом рейде",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000008",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Ёпиқ сувларда ишлаш учун сузувчи қозиқлар, 6 т",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) Yopiq suvlarda ishlash uchun suzuvchi qoziqlar, 6 t",
+        "nameRU": "Земснаряды (морские и прочие) Копры плавучие при работе в закрытой акватории, 6 т",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000038",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Фрезели бўшаштирувчи воситали ўзиюрар папиллон тўлдирувчи драгерлар, фрезалаш қуввати 1350 квт",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) Frezeli bo'shashtiruvchi vositali o'ziyurar papillon to'ldiruvchi dragerlar, frezalash quvvati 1350 kVt",
+        "nameRU": "Земснаряды (морские и прочие) Землесосы папильонажные рефулерные самоходные с фрезерным разрыхлителем, мощность привода фрезы 1350 кВт",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000062",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Ўз-ўзидан олинадиган дрегерлар, ушлагич ҳажми 22500 м3",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) O'z-o'zidan olinadigan dregerlar, ushlagich hajmi 22500 m3",
+        "nameRU": "Земснаряды (морские и прочие) Землесосы самоотвозные, объем трюма 22500 м3",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000063",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Ўз-ўзидан олинадиган драгерлар, ушлаб туриш ҳажми 24 000 м3",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) O'z-o'zidan olinadigan dragerlar, ushlab turish hajmi 24 000 m3",
+        "nameRU": "Земснаряды (морские и прочие) Землесосы самоотвозные, объем трюма 24000 м3",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000094",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) 25 м3/соат сузувчи драж агрегатлари",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) 25 m3/soat suzuvchi draj agregatlari",
+        "nameRU": "Земснаряды (морские и прочие) Землесосные плавучие установки 25 м3/ч",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000095",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Электр сузувчи насос стансиялари, оқим 200 м3/соат, боши 63 м",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) Elektr suzuvchi nasos stansiyalari, oqim 200 m3/soat, boshi 63 m",
+        "nameRU": "Земснаряды (морские и прочие) Землесосные станции перекачки электрические плавучие, подача 200 м3/ч, напор 63 м",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08901001001000021",
+        "nameUZ": "Кемалар Ўзиюрар тупроқ ташувчи, ўз-ўзидан тушириладиган коваклар, пастки корпусни очиш тизимига ега, юк ташиш ҳажми 850 м3",
+        "nameLAT": "Kemalar O'ziyurar tuproq tashuvchi, o'z-o'zidan tushiriladigan kovaklar, pastki korpusni ochish tizimiga ega, yuk tashish hajmi 850 m3",
+        "nameRU": "Корабли Шаланды самоходные грунтовозные саморазгружающиеся с днищевой системой раскрытия корпуса, вместимость грузового трюма 850 м3",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000009",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Очиқ йўлларда ишлаганда сузувчи қозиқ ҳайдовчилари, 6 т",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) Ochiq yo'llarda ishlaganda suzuvchi qoziq haydovchilari, 6 t",
+        "nameRU": "Земснаряды (морские и прочие) Копры плавучие при работе на открытом рейде, 6 т",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000010",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Дизел болға билан сузувчи қозиқли драйвлар, 1,8 т",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) Dizel bolg'a bilan suzuvchi qoziqli drayvlar, 1,8 t",
+        "nameRU": "Земснаряды (морские и прочие) Копры плавучие с дизель-молотом, 1,8 т",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000039",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Фрезели бўшаштирувчи воситали ўзиюрар папиллон тўлдирувчи драгерлар, фрезалаш қуввати 1750 квт",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) Frezeli bo'shashtiruvchi vositali o'ziyurar papillon to'ldiruvchi dragerlar, frezalash quvvati 1750 kVt",
+        "nameRU": "Земснаряды (морские и прочие) Землесосы папильонажные рефулерные самоходные с фрезерным разрыхлителем, мощность привода фрезы 1750 кВт",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000064",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Ўз-ўзидан олинадиган драгерлар, ушлаш ҳажми 35 000 м3",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) O'z-o'zidan olinadigan dragerlar, ushlash hajmi 35 000 m3",
+        "nameRU": "Земснаряды (морские и прочие) Землесосы самоотвозные, объем трюма 35000 м3",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000065",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Ўз-ўзидан олинадиган драгерлар, ушлаб туриш ҳажми 45 000 м3",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) O'z-o'zidan olinadigan dragerlar, ushlab turish hajmi 45 000 m3",
+        "nameRU": "Земснаряды (морские и прочие) Землесосы самоотвозные, объем трюма 45000 м3",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000096",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Электр сузувчи насос стансиялари, оқим 400 м3/соат, боши 71 м",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) Elektr suzuvchi nasos stansiyalari, oqim 400 m3/soat, boshi 71 m",
+        "nameRU": "Земснаряды (морские и прочие) Землесосные станции перекачки электрические плавучие, подача 400 м3/ч, напор 71 м",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000097",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Электр сузувчи насос стансиялари, оқим 600 м3/соат, боши 80 м",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) Elektr suzuvchi nasos stansiyalari, oqim 600 m3/soat, boshi 80 m",
+        "nameRU": "Земснаряды (морские и прочие) Землесосные станции перекачки электрические плавучие, подача 600 м3/ч, напор 80 м",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08901001001000022",
+        "nameUZ": "Кемалар Ўзиюрар тупроқ ташувчи, ўз-ўзидан тушувчи сковородкалар пастки корпусни очиш тизимига ега, юкни сақлаш ҳажми 1000 м3",
+        "nameLAT": "Kemalar O'ziyurar tuproq tashuvchi, o'z-o'zidan tushuvchi skovorodkalar pastki korpusni ochish tizimiga ega, yukni saqlash hajmi 1000 m3",
+        "nameRU": "Корабли Шаланды самоходные грунтовозные саморазгружающиеся с днищевой системой раскрытия корпуса, вместимость грузового трюма 1000 м3",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000011",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Дизел болға билан сузувчи қозиқли ҳайдовчилар, 6 т",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) Dizel bolg'a bilan suzuvchi qoziqli haydovchilar, 6 t",
+        "nameRU": "Земснаряды (морские и прочие) Копры плавучие с дизель-молотом, 6 т",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000012",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Сузувчи платформалар йиғиладиган, кўтариш қуввати 3,5 т",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) Suzuvchi platformalar yig'iladigan, ko'tarish quvvati 3,5 t",
+        "nameRU": "Земснаряды (морские и прочие) Плавучие площадки сборно-разборные, грузоподъемность 3,5 т",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000040",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Фрезели бўшаштирувчи воситали ўзиюрар папиллон тўлдирувчи драгерлар, фрезалаш қуввати 2000 квт",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) Frezeli bo'shashtiruvchi vositali o'ziyurar papillon to'ldiruvchi dragerlar, frezalash quvvati 2000 kVt",
+        "nameRU": "Земснаряды (морские и прочие) Землесосы папильонажные рефулерные самоходные с фрезерным разрыхлителем, мощность привода фрезы 2000 кВт",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000066",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) 0,4 м3 сиғимли тескари челакли кўп функцияли ўзиюрар драгерлар",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) 0,4 m3 sig'imli teskari chelakli ko'p funktsiyali o'ziyurar dragerlar",
+        "nameRU": "Земснаряды (морские и прочие) Земснаряды многофункциональные самоходные с обратным ковшом емкостью 0,4 м3",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000067",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Пулпа (тупроқ) учун қуввати 400 м3/соат (40 м3/соат) бўлган фрезалаштирувчи бўшаштирувчи билан кўп функцияли ўзиюрар драгерлар.",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) Pulpa (tuproq) uchun quvvati 400 m3/soat (40 m3/soat) bo'lgan frezalashtiruvchi bo'shashtiruvchi bilan ko'p funktsiyali o'ziyurar dragerlar.",
+        "nameRU": "Земснаряды (морские и прочие) Земснаряды многофункциональные самоходные с фрезерным разрыхлителем производительностью 400 м3/ч (40 м3/ч) по пульпе (грунту)",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000098",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Қутқарув қайиқлари",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) Qutqaruv qayiqlari",
+        "nameRU": "Земснаряды (морские и прочие) Шлюпки",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08901001001000023",
+        "nameUZ": "Кемалар Ўзиюрар тупроқ ташувчи, ўз-ўзидан тушириладиган сковородкалар, пастки корпусни очиш тизимига ега, юк ташиш ҳажми 1500 м3",
+        "nameLAT": "Kemalar O'ziyurar tuproq tashuvchi, o'z-o'zidan tushiriladigan skovorodkalar, pastki korpusni ochish tizimiga ega, yuk tashish hajmi 1500 m3",
+        "nameRU": "Корабли Шаланды самоходные грунтовозные саморазгружающиеся с днищевой системой раскрытия корпуса, вместимость грузового трюма 1500 м3",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000013",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Сузувчи платформалар йиғиладиган, юк кўтариш қобилияти 7 т",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) Suzuvchi platformalar yig'iladigan, yuk ko'tarish qobiliyati 7 t",
+        "nameRU": "Земснаряды (морские и прочие) Плавучие площадки сборно-разборные, грузоподъемность 7 т",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000014",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Сузувчи платформалар йиғиладиган, кўтариш қуввати 13 т",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) Suzuvchi platformalar yig'iladigan, ko'tarish quvvati 13 t",
+        "nameRU": "Земснаряды (морские и прочие) Плавучие площадки сборно-разборные, грузоподъемность 13 т",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000041",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Фрезели бўшаштирувчи воситали ўзиюрар папиллон тўлдирувчи драгерлар, фрезалаш қуввати 2500 квт",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) Frezeli bo'shashtiruvchi vositali o'ziyurar papillon to'ldiruvchi dragerlar, frezalash quvvati 2500 kVt",
+        "nameRU": "Земснаряды (морские и прочие) Землесосы папильонажные рефулерные самоходные с фрезерным разрыхлителем, мощность привода фрезы 2500 кВт",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000068",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Кўп челакли дрегерлар, челак ҳажми 0,3 м3",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) Ko'p chelakli dregerlar, chelak hajmi 0,3 m3",
+        "nameRU": "Земснаряды (морские и прочие) Земснаряды многочерпаковые, вместимость ковша 0,3 м3",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      },
+      {
+        "mxikCode": "08905002001000069",
+        "nameUZ": "Земснарядлар (денгиз ва бошқалар) Кўп челакли дрегерлар, челак ҳажми 0,4 м3",
+        "nameLAT": "Zemsnaryadlar (dengiz va boshqalar) Ko'p chelakli dregerlar, chelak hajmi 0,4 m3",
+        "nameRU": "Земснаряды (морские и прочие) Земснаряды многочерпаковые, вместимость ковша 0,4 м3",
+        "groupCODE": "089",
+        "groupNameUZ": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+        "groupNameRU": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ",
+        "groupNameLAT": "QAYIQ VA SUZUVChI VOSITALAR"
+      }
+    ],
+    "recordTotal": 144,
+    "errors": null,
+    "permitted": false
+  }
+}

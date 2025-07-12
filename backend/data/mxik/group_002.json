@@ -1,0 +1,1947 @@
+{
+  "metadata": {
+    "groupId": 2,
+    "fetchedAt": "2025-07-12T16:28:57.875Z",
+    "source": "https://tasnif.soliq.uz/api/cl-api/integration-mxik/references/group/code?group=2"
+  },
+  "data": {
+    "success": true,
+    "code": 200,
+    "reason": null,
+    "data": [
+      {
+        "mxikCode": "00210001001001001",
+        "nameUZ": "Тузланган мол гўшти Delmark кесилган хом қуритилган, олий нав",
+        "nameLAT": "Tuzlangan mol go’shti Delmark kesilgan xom quritilgan, oliy nav",
+        "nameRU": "Вяленое говяжье мясо (вяленая говядина) Delmark нарезка сыро вяленая высший сорт",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00210001001001002",
+        "nameUZ": "Тузланган мол гўшти Delmark хом-қуритилган, олий нав",
+        "nameLAT": "Tuzlangan mol go’shti Delmark xom-quritilgan, oliy nav",
+        "nameRU": "Вяленое говяжье мясо (вяленая говядина) Delmark вырезка сыро вяленая высший сорт",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00201001002008001",
+        "nameUZ": "Музлатилган суяксиз гўшт (мол гўшти) Madul музлатилган товуқ ва мол гўшти қиймаси, пластик контейнерда 200 гр",
+        "nameLAT": "Muzlatilgan suyaksiz go’sht (mol go’shti) Madul muzlatilgan tovuq va mol go’shti qiymasi, plastik konteynerda 200 gr",
+        "nameRU": "Замороженное говяжье мясо без костей (говядина) Madul фарш из говяжьего и куриного мясо замороженное пластиковый контейнер 200",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00207001008000000",
+        "nameUZ": "Товуқ кўкрак гўшти",
+        "nameLAT": "Tovuq ko’krak go’shti",
+        "nameRU": "Грудка куриная",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00205006002000000",
+        "nameUZ": "Музлатилган от, эшак, хачир қовурғаси ёки ярим қовурға суяклари",
+        "nameLAT": "Muzlatilgan ot, eshak, xachir qovurg’asi yoki yarim qovurg’a suyaklari",
+        "nameRU": "Туши и полутуши ослов, мулов или лошаков замороженные",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00203001002000000",
+        "nameUZ": "Чўчқа гўшти қиймаси",
+        "nameLAT": "Cho’chqa go’shti qiymasi",
+        "nameRU": "Фарш свинины",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00204005001000000",
+        "nameUZ": "Янги, совутилган эчки гўшти",
+        "nameLAT": "Yangi, sovutilgan echki go’shti",
+        "nameRU": "Мясо козы свежее, охлажденное",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00204005003000000",
+        "nameUZ": "Эчки гўшти қиймаси",
+        "nameLAT": "Echki go’shti qiymasi",
+        "nameRU": "Фарш из козлятины",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00207001009003002",
+        "nameUZ": "Музлатилган товуқ гўшти Mo'rella Товуқ болдири тузламада BBQ, ПЭТ контейнер 975 г",
+        "nameLAT": "Muzlatilgan tovuq go’shti Mo'rella Tovuq boldiri tuzlamada BBQ, PET konteyner 975 g",
+        "nameRU": "Замороженное куриное мясо (курица) Mo'rella Голень куриная в маринаде BBQ, ПЭТ контейнер 975 г",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00207001001004007",
+        "nameUZ": "Янги сўйилган совутилган товуқ гўшти (товуқ) Roster тозаланган бройлер 1 тоифа, полиэтилен пакет 1900 гр",
+        "nameLAT": "Yangi so’yilgan sovutilgan tovuq go’shti (tovuq) Roster tozalangan broyler 1 toifa, polietilen paket 1900 gr",
+        "nameRU": "Свежезабойное куриное мясо охлажденное (курица) Roster тушка бройлера 1 категории, полиэтиленовый пакет 1900 г.",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00207001008001001",
+        "nameUZ": "Товуқ кўкрак гўшти To'xtaniyoz-ota ярим дудланган, фиброузли қоплама 500 гр",
+        "nameLAT": "Tovuq ko’krak go’shti To'xtaniyoz-ota yarim dudlangan, fibrouzli qoplama 500 gr",
+        "nameRU": "Грудка куриная To'xtaniyoz-ota полукопченая, фиброузная оболочка 500 г.",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00201001002000001",
+        "nameUZ": "Музлатилган суяксиз гўшт (мол гўшти) тримминг",
+        "nameLAT": "Muzlatilgan suyaksiz go’sht (mol go’shti) trimming",
+        "nameRU": "Замороженное говяжье мясо без костей (говядина) тримминг",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00210004002000000",
+        "nameUZ": "Қуритилган чўчқа гўшти ва унинг озуқабоп маҳсулотлари",
+        "nameLAT": "Quritilgan cho’chqa go’shti va uning ozuqabop mahsulotlari",
+        "nameRU": "Сушеная свинина и субпродукты из них",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00205006001000000",
+        "nameUZ": "Янги сўйилган, эшак, хачир қовурға ёки ярим қовурғаси",
+        "nameLAT": "Yangi so’yilgan, eshak, xachir qovurg’a yoki yarim qovurg’asi",
+        "nameRU": "Туши и полутуши ослов, мулов или лошаков свежие, охлажденные",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00201001002009003",
+        "nameUZ": "Музлатилган суяксиз гўшт (мол гўшти) Morozko қийма, полиэтилен пакетда 500 гр",
+        "nameLAT": "Muzlatilgan suyaksiz go’sht (mol go’shti) Morozko qiyma, polietilen paketda 500 gr",
+        "nameRU": "Замороженное говяжье мясо без костей (говядина) Morozko фарш , полиэтиленовый пакет 500 г.",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00207001001004003",
+        "nameUZ": "Янги сўйилган совутилган товуқ гўшти (товуқ) Roster тозаланган бройлер 1 тоифа, полиэтилен пакет 1700 гр",
+        "nameLAT": "Yangi so’yilgan sovutilgan tovuq go’shti (tovuq) Roster tozalangan broyler 1 toifa, polietilen paket 1700 gr",
+        "nameRU": "Свежезабойное куриное мясо охлажденное (курица) Roster тушка бройлера 1 категории, полиэтиленовый пакет 1700 г.",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00204002002000000",
+        "nameUZ": "Музлатилган қўй гўшти",
+        "nameLAT": "Muzlatilgan qo’y go’shti",
+        "nameRU": "Мясо баранина замороженное",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00201001002011001",
+        "nameUZ": "Музлатилган суяксиз гўшт (мол гўшти) Zomin Toshkent қийма, полиэтилен пакет 150 гр",
+        "nameLAT": "Muzlatilgan suyaksiz go’sht (mol go’shti) Zomin Toshkent qiyma, polietilen paket 150 gr",
+        "nameRU": "Замороженное говяжье мясо без костей (говядина) Zomin Toshkent фарш, полиэтиленовый пакет 150 г.",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00210004003002002",
+        "nameUZ": "Дудланган чўчқа гўшти ва унинг озуқабоп маҳсулотлари Мяссорти сон гўшти, вакуум қадоқ 250 гр",
+        "nameLAT": "Dudlangan cho’chqa go’shti va uning ozuqabop mahsulotlari Мяссорти son go’shti, vakuum qadoq 250 gr",
+        "nameRU": "Копченая свинина и мясные субпродукты Мяссорти окорок, вакуумная упаковка 250г",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00210004003003001",
+        "nameUZ": "Дудланган чўчқа гўшти ва унинг озуқабоп маҳсулотлари Окорок Пражский сон гўшти хом дудланган, 1,0 кг.",
+        "nameLAT": "Dudlangan cho’chqa go’shti va uning ozuqabop mahsulotlari Окорок Пражский son go’shti xom dudlangan, 1,0 kg.",
+        "nameRU": "Копченая свинина и мясные субпродукты Окорок Пражский окорок сырокопчённый, 1,0 кг.",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00205004001000000",
+        "nameUZ": "Бўлинган янги от, эшак, хачир гўшти",
+        "nameLAT": "Bo’lingan yangi ot, eshak, xachir go’shti",
+        "nameRU": "Отрубленное мясо ослов, мулов или лошаков свежее, охлажденное",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00210006004000000",
+        "nameUZ": "Қуритилган от гўшти ва унинг қўшимча маҳсулотлари",
+        "nameLAT": "Quritilgan ot go’shti va uning qo’shimcha mahsulotlari",
+        "nameRU": "Сушеная конина и субпродукты из них",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00201001002011002",
+        "nameUZ": "Музлатилган суяксиз гўшт (мол гўшти) Zomin Toshkent қийма, полиэтилен пакет 250 гр",
+        "nameLAT": "Muzlatilgan suyaksiz go’sht (mol go’shti) Zomin Toshkent qiyma, polietilen paket 250 gr",
+        "nameRU": "Замороженное говяжье мясо без костей (говядина) Zomin Toshkent фарш, полиэтиленовый пакет 250 г.",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00210007002000000",
+        "nameUZ": "Қуритилган парранда гўшти ва унинг озуқабоп маҳсулотлари",
+        "nameLAT": "Quritilgan parranda go’shti va uning ozuqabop mahsulotlari",
+        "nameRU": "Сушеная птица и субпродукты из них",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00210007003000000",
+        "nameUZ": "Дудланган парранда гўшти",
+        "nameLAT": "Dudlangan parranda go’shti",
+        "nameRU": "Копченое мясо птицы",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00207001001007002",
+        "nameUZ": "Янги сўйилган совутилган товуқ гўшти (товуқ) Savr парма филе, вакуум қадоқ 100 гр",
+        "nameLAT": "Yangi so’yilgan sovutilgan tovuq go’shti (tovuq) Savr parma file, vakuum qadoq 100 gr",
+        "nameRU": "Свежезабойное куриное мясо охлажденное (курица) Savr парма филе, вакуумная упаковка100 г",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00205005001000000",
+        "nameUZ": "Янги сўйилган, совутилган, эшак, хачир суяксиз гўшти",
+        "nameLAT": "Yangi so’yilgan, sovutilgan, eshak, xachir suyaksiz go’shti",
+        "nameRU": "Обваленное мясо ослов, мулов или лошаков свежее, охлажденное",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00207001009000000",
+        "nameUZ": "Музлатилган товуқ гўшти",
+        "nameLAT": "Muzlatilgan tovuq go’shti",
+        "nameRU": "Замороженное куриное мясо (курица)",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00210007003002001",
+        "nameUZ": "Дудланган парранда гўшти Шукрона товуқ гўшти дудланган, вакуум пакет 350 гр",
+        "nameLAT": "Dudlangan parranda go’shti Шукрона tovuq go’shti dudlangan, vakuum paket 350 gr",
+        "nameRU": "Копченое мясо птицы Шукрона мясо куриное, ваакумный пакет 350г",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00210007003002003",
+        "nameUZ": "Дудланган парранда гўшти Шукрона товуқ гўшти, вакуум пакет 700 гр",
+        "nameLAT": "Dudlangan parranda go’shti Шукрона tovuq go’shti, vakuum paket 700 gr",
+        "nameRU": "Копченое мясо птицы Шукрона мясо куриное,ваакумный пакет 700г",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00201001001000000",
+        "nameUZ": "Совутилган лаҳм мол гўшти",
+        "nameLAT": "Sovutilgan lahm mol go’shti",
+        "nameRU": "Говяжье мясо без костей свежее, охлажденное (говядина)",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00210007003001001",
+        "nameUZ": "Дудланган парранда гўшти Asl товуқ сон гўшти, вакуум қадоқ 1,0 кг",
+        "nameLAT": "Dudlangan parranda go’shti Asl tovuq son go’shti, vakuum qadoq 1,0 kg",
+        "nameRU": "Копченое мясо птицы Asl окорочка куриные, вакуумная упаковка 1,0 кг",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00204004001000000",
+        "nameUZ": "Бўлинган янги, совутилган эчки гўшти",
+        "nameLAT": "Bo’lingan yangi, sovutilgan echki go’shti",
+        "nameRU": "Отрубленное мясо козы свежее, охлажденное",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00210007003004001",
+        "nameUZ": "Дудланган парранда гўшти Nishon baxt дудланиб-қайнатилган курка гўшти, хушбўйлаштрилган ёмби, 900 гр",
+        "nameLAT": "Dudlangan parranda go’shti Nishon baxt dudlanib-qaynatilgan kurka go’shti, xushbo’ylashtrilgan yombi, 900 gr",
+        "nameRU": "Копченое мясо птицы Nishon baxt индейка пряная, копчено вареная , слиток, 900 гр",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00201001002001003",
+        "nameUZ": "Музлатилган суяксиз гўшт (мол гўшти) Meat&Milk ёғсиз, пэт пакет 130 г",
+        "nameLAT": "Muzlatilgan suyaksiz go’sht (mol go’shti) Meat&Milk yog’siz, pet paket 130 g",
+        "nameRU": "Замороженное говяжье мясо без костей (говядина) Meat&Milk не жирный, пэт пакет 130 г",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00210007001000000",
+        "nameUZ": "Тузланган парранда гўшти",
+        "nameLAT": "Tuzlangan parranda go’shti",
+        "nameRU": "Вяленое мясо птицы",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00207001008001002",
+        "nameUZ": "Товуқ кўкрак гўшти To'xtaniyoz-ota ярим дудланган, фиброузли қоплама 400 гр",
+        "nameLAT": "Tovuq ko’krak go’shti To'xtaniyoz-ota yarim dudlangan, fibrouzli qoplama 400 gr",
+        "nameRU": "Грудка куриная To'xtaniyoz-ota полукопченая, фиброузная оболочка 400 г.",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00204006002000000",
+        "nameUZ": "Музлатилган эчки қовурғаси ёки ярим қовурға суяклари",
+        "nameLAT": "Muzlatilgan echki qovurg’asi yoki yarim qovurg’a suyaklari",
+        "nameRU": "Туши и полутуши козы замороженные",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00204003002000000",
+        "nameUZ": "Музлатилган қўй қовурғаси ёки ярим қовурға суяклари",
+        "nameLAT": "Muzlatilgan qo’y qovurg’asi yoki yarim qovurg’a suyaklari",
+        "nameRU": "Туши и полутуши баранина замороженные",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00207001001004001",
+        "nameUZ": "Янги сўйилган совутилган товуқ гўшти (товуқ) Roster тозаланган бройлер 1 тоифа, полиэтилен пакет 1500 гр",
+        "nameLAT": "Yangi so’yilgan sovutilgan tovuq go’shti (tovuq) Roster tozalangan broyler 1 toifa, polietilen paket 1500 gr",
+        "nameRU": "Свежезабойное куриное мясо охлажденное (курица) Roster тушка бройлера 1 категории, полиэтиленовый пакет 1500 г.",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00207001001004005",
+        "nameUZ": "Янги сўйилган совутилган товуқ гўшти (товуқ) Roster тозаланган бройлер 1 тоифа, полиэтилен пакет 1800 гр",
+        "nameLAT": "Yangi so’yilgan sovutilgan tovuq go’shti (tovuq) Roster tozalangan broyler 1 toifa, polietilen paket 1800 gr",
+        "nameRU": "Свежезабойное куриное мясо охлажденное (курица) Roster тушка бройлера 1 категории, полиэтиленовый пакет 1800 г.",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00204002001000000",
+        "nameUZ": "Совутилган, янги сўйилган лаҳм қўй гўшти",
+        "nameLAT": "Sovutilgan, yangi so’yilgan lahm qo’y go’shti",
+        "nameRU": "Мясо баранина свежее, охлажденное",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00201001001003002",
+        "nameUZ": "Совутилган лаҳм мол гўшти Marinad House бўлаклари, пластик контейнерда 500 гр",
+        "nameLAT": "Sovutilgan lahm mol go’shti Marinad House bo’laklari, plastik konteynerda 500 gr",
+        "nameRU": "Говяжье мясо без костей свежее, охлажденное (говядина) Marinad House кусками, пластиковый контейнер 500 г.",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00204002003000000",
+        "nameUZ": "Қўй гўшти қиймаси",
+        "nameLAT": "Qo’y go’shti qiymasi",
+        "nameRU": "Бараний фарш",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00201001002008002",
+        "nameUZ": "Музлатилган суяксиз гўшт (мол гўшти) Madul музлатилган товуқ ва мол гўшти қиймаси, пластик контейнер 250 гр",
+        "nameLAT": "Muzlatilgan suyaksiz go’sht (mol go’shti) Madul muzlatilgan tovuq va mol go’shti qiymasi, plastik konteyner 250 gr",
+        "nameRU": "Замороженное говяжье мясо без костей (говядина) Madul фарш из говяжьего и куриного мясо замороженное пластиковый контейнер 250",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00208001001000000",
+        "nameUZ": "Янги сўйилган қуён гўшти",
+        "nameLAT": "Yangi so’yilgan quyon go’shti",
+        "nameRU": "Свежезабойное мясо кролика",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00201001002010001",
+        "nameUZ": "Музлатилган суяксиз гўшт (мол гўшти) Promeat қийма, вакуумли қадоқ 500 гр",
+        "nameLAT": "Muzlatilgan suyaksiz go’sht (mol go’shti) Promeat qiyma, vakuumli qadoq 500 gr",
+        "nameRU": "Замороженное говяжье мясо без костей (говядина) Promeat фарш, вакуумная упаковка 500 г.",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00207001001005001",
+        "nameUZ": "Янги сўйилган совутилган товуқ гўшти (товуқ) To'xtaniyoz-ota ярим дудланган тана гўшти, вакуум қадоқ 700 гр",
+        "nameLAT": "Yangi so’yilgan sovutilgan tovuq go’shti (tovuq) To'xtaniyoz-ota yarim dudlangan tana go’shti, vakuum qadoq 700 gr",
+        "nameRU": "Свежезабойное куриное мясо охлажденное (курица) To'xtaniyoz-ota тушка полукопченая, вакуумная упаковка 700 г.",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00206001013000000",
+        "nameUZ": "От суяги",
+        "nameLAT": "Ot suyagi",
+        "nameRU": "Кость лошади",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00205001001000000",
+        "nameUZ": "Янги, совутилган от гўшти",
+        "nameLAT": "Yangi, sovutilgan ot go’shti",
+        "nameRU": "Мясо лошадей свежее, охлажденное",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00201001002005003",
+        "nameUZ": "Музлатилган суяксиз гўшт (мол гўшти) Qibray ПЭТ тарелка термо плёнкада 200 г",
+        "nameLAT": "Muzlatilgan suyaksiz go’sht (mol go’shti) Qibray PET tarelka termo plyonkada 200 g",
+        "nameRU": "Замороженное говяжье мясо без костей (говядина) Qibray ПЭТ тарелка в термоусадочной плёнке 200 г",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00201001002007001",
+        "nameUZ": "Музлатилган суяксиз гўшт (мол гўшти) Hilol металл пакет 250 г",
+        "nameLAT": "Muzlatilgan suyaksiz go’sht (mol go’shti) Hilol metall paket 250 g",
+        "nameRU": "Замороженное говяжье мясо без костей (говядина) Hilol металлизированный пакет 250 г",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00207001001004006",
+        "nameUZ": "Янги сўйилган совутилган товуқ гўшти (товуқ) Roster тозаланган бройлер 1 тоифа, полиэтилен пакет 1850 гр",
+        "nameLAT": "Yangi so’yilgan sovutilgan tovuq go’shti (tovuq) Roster tozalangan broyler 1 toifa, polietilen paket 1850 gr",
+        "nameRU": "Свежезабойное куриное мясо охлажденное (курица) Roster тушка бройлера 1 категории, полиэтиленовый пакет 1850 г.",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00203002001000000",
+        "nameUZ": "Янги, совутилган бўлинган чўчқа гўшти",
+        "nameLAT": "Yangi, sovutilgan bo’lingan cho’chqa go’shti",
+        "nameRU": "Отрубленное мясо свинина свежее, охлажденное",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00207001001004002",
+        "nameUZ": "Янги сўйилган совутилган товуқ гўшти (товуқ) Roster тозаланган бройлер 1 тоифа, полиэтилен пакет 1600 гр",
+        "nameLAT": "Yangi so’yilgan sovutilgan tovuq go’shti (tovuq) Roster tozalangan broyler 1 toifa, polietilen paket 1600 gr",
+        "nameRU": "Свежезабойное куриное мясо охлажденное (курица) Roster тушка бройлера 1 категории, полиэтиленовый пакет 1600 г.",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00210007003002002",
+        "nameUZ": "Дудланган парранда гўшти Шукрона товуқ гўшти, вакуум пакет 400 гр",
+        "nameLAT": "Dudlangan parranda go’shti Шукрона tovuq go’shti, vakuum paket 400 gr",
+        "nameRU": "Копченое мясо птицы Шукрона мясо куриное, ваакумный пакет 400г",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00207001010000000",
+        "nameUZ": "Музлатилган товуқ оёғи",
+        "nameLAT": "Muzlatilgan tovuq oyog’i",
+        "nameRU": "Замороженные куриные ножки",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00207001001001001",
+        "nameUZ": "Янги сўйилган совутилган товуқ гўшти (товуқ) Донер Кебаб донар учун кесилган, полиэтилен пакет 400±10",
+        "nameLAT": "Yangi so’yilgan sovutilgan tovuq go’shti (tovuq) Донер Кебаб donar uchun kesilgan, polietilen paket 400±10",
+        "nameRU": "Свежезабойное куриное мясо охлажденное (курица) Донер Кебаб нарезное для донара, полиэтиленовый пакет 400±10",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00201001002009001",
+        "nameUZ": "Музлатилган суяксиз гўшт (мол гўшти) Morozko қийма, полиэтилен пакетда 140 гр",
+        "nameLAT": "Muzlatilgan suyaksiz go’sht (mol go’shti) Morozko qiyma, polietilen paketda 140 gr",
+        "nameRU": "Замороженное говяжье мясо без костей (говядина) Morozko фарш, полиэтиленовый пакет 140 г.",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00201001002012001",
+        "nameUZ": "Музлатилган суяксиз гўшт (мол гўшти) Shirin полиэтилен пакет 150 гр",
+        "nameLAT": "Muzlatilgan suyaksiz go’sht (mol go’shti) Shirin polietilen paket 150 gr",
+        "nameRU": "Замороженное говяжье мясо без костей (говядина) Shirin полиэтиленовой пакет 150 г.",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00210004001000000",
+        "nameUZ": "Тузланган чўчқа гўшти",
+        "nameLAT": "Tuzlangan cho’chqa go’shti",
+        "nameRU": "Вяленое свиное мясо (вяленая свинина)",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00210007003003001",
+        "nameUZ": "Дудланган парранда гўшти Мяссорти товуқ сон гўшти, вакуум қадоқ 1,0 кг",
+        "nameLAT": "Dudlangan parranda go’shti Мяссорти tovuq son go’shti, vakuum qadoq 1,0 kg",
+        "nameRU": "Копченое мясо птицы Мяссорти окорочок куриный, вакуумная упаковка 1кг",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00210007003005001",
+        "nameUZ": "Дудланган парранда гўшти БАХТ товуқ филеси парма, 1 дона",
+        "nameLAT": "Dudlangan parranda go’shti БАХТ tovuq filesi parma, 1 dona",
+        "nameRU": "Копченое мясо птицы БАХТ филе куриное парма, 1 шт.",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00201001002012002",
+        "nameUZ": "Музлатилган суяксиз гўшт (мол гўшти) Shirin пластмасса стакан 150 гр",
+        "nameLAT": "Muzlatilgan suyaksiz go’sht (mol go’shti) Shirin plastmassa stakan 150 gr",
+        "nameRU": "Замороженное говяжье мясо без костей (говядина) Shirin пластмассовый стакан 150 г.",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00209001003000000",
+        "nameUZ": "Совутилган, янги сўйилган чўчқа ёғи",
+        "nameLAT": "Sovutilgan, yangi so’yilgan cho’chqa yog’i",
+        "nameRU": "Свежее, охлаждённое сало",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00203001001000000",
+        "nameUZ": "Совутилган лаҳм чўчқа гўшти",
+        "nameLAT": "Sovutilgan lahm cho’chqa go’shti",
+        "nameRU": "Свиное мясо без костей свежее, охлажденное",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00201001002004001",
+        "nameUZ": "Музлатилган суяксиз гўшт (мол гўшти) Родной дом ПЭТ пакет 150 г",
+        "nameLAT": "Muzlatilgan suyaksiz go’sht (mol go’shti) Родной дом PET paket 150 g",
+        "nameRU": "Замороженное говяжье мясо без костей (говядина) Родной дом ПЭТ пакет 150 г",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00201001002005001",
+        "nameUZ": "Музлатилган суяксиз гўшт (мол гўшти) Qibray ПЭТ пакет 200 г",
+        "nameLAT": "Muzlatilgan suyaksiz go’sht (mol go’shti) Qibray PET paket 200 g",
+        "nameRU": "Замороженное говяжье мясо без костей (говядина) Qibray ПЭТ пакет 200 г",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00210001001002001",
+        "nameUZ": "Тузланган мол гўшти Мяссорти кесиб қуритилган, вакуум қадоқ 1,0 кг",
+        "nameLAT": "Tuzlangan mol go’shti Мяссорти kesib quritilgan, vakuum qadoq 1,0 kg",
+        "nameRU": "Вяленое говяжье мясо (вяленая говядина) Мяссорти вяленое нарезное мясо, вакуумная упаковка 1 кг",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00207001001003001",
+        "nameUZ": "Янги сўйилган совутилган товуқ гўшти (товуқ) Momiq полиэтилен пакет 1200 гр",
+        "nameLAT": "Yangi so’yilgan sovutilgan tovuq go’shti (tovuq) Momiq polietilen paket 1200 gr",
+        "nameRU": "Свежезабойное куриное мясо охлажденное (курица) Momiq полиэтиленовый пакет 1200 г.",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00210001001000000",
+        "nameUZ": "Тузланган мол гўшти",
+        "nameLAT": "Tuzlangan mol go’shti",
+        "nameRU": "Вяленое говяжье мясо (вяленая говядина)",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00209001002000000",
+        "nameUZ": "Музлатилган чўчқа ёғи",
+        "nameLAT": "Muzlatilgan cho’chqa yog’i",
+        "nameRU": "Замороженное сало",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00207001011000000",
+        "nameUZ": "Музлатилган товуқ гўшти (қийма)",
+        "nameLAT": "Muzlatilgan tovuq go’shti (qiyma)",
+        "nameRU": "Замороженное куриное мясо (фарш)",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00207001001006001",
+        "nameUZ": "Янги сўйилган совутилган товуқ гўшти (товуқ) Zo`r tovuq полиэтилен пакет 1300 гр",
+        "nameLAT": "Yangi so’yilgan sovutilgan tovuq go’shti (tovuq) Zo`r tovuq polietilen paket 1300 gr",
+        "nameRU": "Свежезабойное куриное мясо охлажденное (курица) Zo`r tovuq полиэтиленовый пакет 1300 г.",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00201001002012003",
+        "nameUZ": "Музлатилган суяксиз гўшт (мол гўшти) Shirin люкс, полиэтилен пакет 150 гр",
+        "nameLAT": "Muzlatilgan suyaksiz go’sht (mol go’shti) Shirin lyuks, polietilen paket 150 gr",
+        "nameRU": "Замороженное говяжье мясо без костей (говядина) Shirin люкс полиэтиленовой пакет 150 г.",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00206001012000000",
+        "nameUZ": "Қорамол суяги",
+        "nameLAT": "Qoramol suyagi",
+        "nameRU": "Кость говяжья",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00201001002009002",
+        "nameUZ": "Музлатилган суяксиз гўшт (мол гўшти) Morozko қийма, полиэтилен пакетда 250 гр",
+        "nameLAT": "Muzlatilgan suyaksiz go’sht (mol go’shti) Morozko qiyma, polietilen paketda 250 gr",
+        "nameRU": "Замороженное говяжье мясо без костей (говядина) Morozko фарш, полиэтиленовый пакет 250 г.",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00203003001000000",
+        "nameUZ": "Музлатилган қовурға ёки ярим қовурға суяклари чўчқа гўшти",
+        "nameLAT": "Muzlatilgan qovurg’a yoki yarim qovurg’a suyaklari cho’chqa go’shti",
+        "nameRU": "Туши и полутуши свинина замороженные",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00203003002000000",
+        "nameUZ": "Янги сўйилган қовурға ёки ярим қовурға, совутилган чўчқа гўшти",
+        "nameLAT": "Yangi so’yilgan qovurg’a yoki yarim qovurg’a, sovutilgan cho’chqa go’shti",
+        "nameRU": "Туши и полутуши свинина свежие, охлажденные",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00203002002000000",
+        "nameUZ": "Музлатилган бўлинган чўчқа гўшти",
+        "nameLAT": "Muzlatilgan bo’lingan cho’chqa go’shti",
+        "nameRU": "Отрубленное мясо свинина замороженное",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00203001003000000",
+        "nameUZ": "Музлатилган лаҳм чўчқа гўшти",
+        "nameLAT": "Muzlatilgan lahm cho’chqa go’shti",
+        "nameRU": "Свиное мясо без костей замороженное",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00201002001000000",
+        "nameUZ": "Янги, совутилган йирик қорамол тўлиқ ва ярим қовурға гўшти (мол гўшти)",
+        "nameLAT": "Yangi, sovutilgan yirik qoramol to’liq va yarim qovurg’a go’shti (mol go’shti)",
+        "nameRU": "Свежие, охлажденные туши и полутуши крупного рогатого скота  (говядина)",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00201003001000000",
+        "nameUZ": "Янги, совутилган суякли мол гўшти",
+        "nameLAT": "Yangi, sovutilgan suyakli mol go’shti",
+        "nameRU": "Говяжье мясо с костями  свежее, охлажденное (говядина)",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00201003002000000",
+        "nameUZ": "Суякли мол гўшти, музлатилган",
+        "nameLAT": "Suyakli mol go’shti, muzlatilgan",
+        "nameRU": "Замороженное говяжье мясо с костями",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00201001004001002",
+        "nameUZ": "Мол гўштидан фарш Мастер Полуфабрикатов музлатилган, вакуумли қадоқда 300 гр",
+        "nameLAT": "Mol go’shtidan farsh Мастер Полуфабрикатов muzlatilgan, vakuumli qadoqda 300 gr",
+        "nameRU": "Фарш говяжий Мастер Полуфабрикатов замороженный, вакуумная упаковка 300 г",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00201001002002001",
+        "nameUZ": "Музлатилган суяксиз гўшт (мол гўшти) Aziz Chicken Broiler музлатилган, 1 нав, ПЭТ пакет 1,0 кг",
+        "nameLAT": "Muzlatilgan suyaksiz go’sht (mol go’shti) Aziz Chicken Broiler muzlatilgan, 1 nav, PET paket 1,0 kg",
+        "nameRU": "Замороженное говяжье мясо без костей (говядина) Aziz Chicken Broiler замороженный, 1 сорт, ПЭТ пакет 1,0 кг",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00201001004001001",
+        "nameUZ": "Мол гўштидан фарш Мастер Полуфабрикатов музлатилган, вакуумли қадоқда 500 гр",
+        "nameLAT": "Mol go’shtidan farsh Мастер Полуфабрикатов muzlatilgan, vakuumli qadoqda 500 gr",
+        "nameRU": "Фарш говяжий Мастер Полуфабрикатов замороженный, вакуумная упаковка 500 г",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00201001004002001",
+        "nameUZ": "Мол гўштидан фарш Элитный фарш музлатилган, металл пакетда 180 гр",
+        "nameLAT": "Mol go’shtidan farsh Элитный фарш muzlatilgan, metall paketda 180 gr",
+        "nameRU": "Фарш говяжий Элитный фарш замороженный, ветализированный пакет 180 г",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00201001002013001",
+        "nameUZ": "Музлатилган суяксиз гўшт (мол гўшти) Мираторг мол гўшти стейки мачете 480 гр",
+        "nameLAT": "Muzlatilgan suyaksiz go’sht (mol go’shti) Мираторг mol go’shti steyki machete 480 gr",
+        "nameRU": "Замороженное говяжье мясо без костей (говядина) Мираторг стейк мачете говядина, 480 г",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00201001001001001",
+        "nameUZ": "Совутилган лаҳм мол гўшти Promeat олий навли, вакуумли қадоқда 500 гр",
+        "nameLAT": "Sovutilgan lahm mol go’shti Promeat oliy navli, vakuumli qadoqda 500 gr",
+        "nameRU": "Говяжье мясо без костей свежее, охлажденное (говядина) Promeat высший сорт, вакуумная упаковка 500 г .",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00201001002011003",
+        "nameUZ": "Музлатилган суяксиз гўшт (мол гўшти) Zomin Toshkent қийма, полиэтилен пакетда 500 гр",
+        "nameLAT": "Muzlatilgan suyaksiz go’sht (mol go’shti) Zomin Toshkent qiyma, polietilen paketda 500 gr",
+        "nameRU": "Замороженное говяжье мясо без костей (говядина) Zomin Toshkent фарш, полиэтиленовый пакет 500 г.",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00201001002001002",
+        "nameUZ": "Музлатилган суяксиз гўшт (мол гўшти) Meat&Milk ёғлилик миқдори 20%, пэт пакет 500 г",
+        "nameLAT": "Muzlatilgan suyaksiz go’sht (mol go’shti) Meat&Milk yog’lilik miqdori 20%, pet paket 500 g",
+        "nameRU": "Замороженное говяжье мясо без костей (говядина) Meat&Milk жирность 20% , пэт пакет 500 г",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00201001002005002",
+        "nameUZ": "Музлатилган суяксиз гўшт (мол гўшти) Qibray ПЭТ пакет 300 г",
+        "nameLAT": "Muzlatilgan suyaksiz go’sht (mol go’shti) Qibray PET paket 300 g",
+        "nameRU": "Замороженное говяжье мясо без костей (говядина) Qibray ПЭТ пакет 300 г",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00208001002000000",
+        "nameUZ": "Янги сўйилган туя гўшти",
+        "nameLAT": "Yangi so’yilgan tuya go’shti",
+        "nameRU": "Свежезабойное мясо верблюда",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00201001004000000",
+        "nameUZ": "Мол гўштидан фарш",
+        "nameLAT": "Mol go’shtidan farsh",
+        "nameRU": "Фарш говяжий",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00206001004000000",
+        "nameUZ": "Дум",
+        "nameLAT": "Dum",
+        "nameRU": "Хвост",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00204004002000000",
+        "nameUZ": "Бўлинган музлатилган эчки гўшти",
+        "nameLAT": "Bo’lingan muzlatilgan echki go’shti",
+        "nameRU": "Отрубленное мясо козы замороженное",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00204001005000000",
+        "nameUZ": "Бўлинган музлатилган лаҳм қўй гўшти",
+        "nameLAT": "Bo’lingan muzlatilgan lahm qo’y go’shti",
+        "nameRU": "Отрубленное мясо баранины замороженное",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00204005002000000",
+        "nameUZ": "Музлатилган эчки гўшти",
+        "nameLAT": "Muzlatilgan echki go’shti",
+        "nameRU": "Мясо козы замороженное",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00207006003000000",
+        "nameUZ": "Товуқ жигари",
+        "nameLAT": "Tovuq jigari",
+        "nameRU": "Куриная печень",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00205001005000000",
+        "nameUZ": "Музлатилган от гўшти",
+        "nameLAT": "Muzlatilgan ot go’shti",
+        "nameRU": "Мясо лошадей замороженное",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00206001005000000",
+        "nameUZ": "Болдир",
+        "nameLAT": "Boldir",
+        "nameRU": "Голяшка",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00204006001000000",
+        "nameUZ": "Янги сўйилган, совутилган эчки қовурғаси ёки ярим қовурға суяклари",
+        "nameLAT": "Yangi so’yilgan, sovutilgan echki qovurg’asi yoki yarim qovurg’a suyaklari",
+        "nameRU": "Туши и полутуши козы свежие, охлажденные",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00204003001000000",
+        "nameUZ": "Янги сўйилган, совутилган қўй қовурғаси ёки ярим қовурға гўшти",
+        "nameLAT": "Yangi so’yilgan, sovutilgan qo’y qovurg’asi yoki yarim qovurg’a go’shti",
+        "nameRU": "Туши и полутуши баранина свежие, охлажденные",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00207002003000000",
+        "nameUZ": "Совутилган ўрдак гўшти",
+        "nameLAT": "Sovutilgan o’rdak go’shti",
+        "nameRU": "Охлажденное утиное мясо",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00210007001001001",
+        "nameUZ": "Тузланган парранда гўшти Delmark олий навли навли қуритилган курка кўкраги, 1,0 кг.",
+        "nameLAT": "Tuzlangan parranda go’shti Delmark oliy navli navli quritilgan kurka ko’kragi, 1,0 kg.",
+        "nameRU": "Вяленое мясо птицы Delmark грудка сыро-вяленая из индейки высший сорт, 1,0 кг.",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00206001008000000",
+        "nameUZ": "Тил (музлатилган)",
+        "nameLAT": "Til (muzlatilgan)",
+        "nameRU": "Язык (замороженный)",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00207003002000000",
+        "nameUZ": "Музлатилган ғоз гўшти",
+        "nameLAT": "Muzlatilgan g’oz go’shti",
+        "nameRU": "Замороженное гусиное мясо",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00201001002003001",
+        "nameUZ": "Музлатилган суяксиз гўшт (мол гўшти) Afsona ПЭТ пакет 170 г",
+        "nameLAT": "Muzlatilgan suyaksiz go’sht (mol go’shti) Afsona PET paket 170 g",
+        "nameRU": "Замороженное говяжье мясо без костей (говядина) Afsona ПЭТ пакет 170 г",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00201001001003001",
+        "nameUZ": "Совутилган лаҳм мол гўшти Marinad House бўлаклар, пластик контейнерда 1000 гр",
+        "nameLAT": "Sovutilgan lahm mol go’shti Marinad House bo’laklar, plastik konteynerda 1000 gr",
+        "nameRU": "Говяжье мясо без костей свежее, охлажденное (говядина) Marinad House кусками, пластиковый контейнер 1,0 кг.",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00204001001001002",
+        "nameUZ": "Бўлинган янги, совутилган лаҳм қўй гўшти Marinad House бўлаклари, пластик контейнер 500 гр",
+        "nameLAT": "Bo’lingan yangi, sovutilgan lahm qo’y go’shti Marinad House bo’laklari, plastik konteyner 500 gr",
+        "nameRU": "Отрубленное мясо баранины свежее, охлажденное Marinad House кусками, пластиковый контейнер 500 г",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00210001009002001",
+        "nameUZ": "Дудланган мол гўшти ва унинг озуқабоп маҳсулотлари To'xtaniyoz-ota вакуум қадоқ 250 гр",
+        "nameLAT": "Dudlangan mol go’shti va uning ozuqabop mahsulotlari To'xtaniyoz-ota vakuum qadoq 250 gr",
+        "nameRU": "Копченая говядина и мясные субпродукты To'xtaniyoz-ota вакуумная упаковка 250 г.",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00207003002000001",
+        "nameUZ": "Музлатилган ғоз гўшти Фарш",
+        "nameLAT": "Muzlatilgan g’oz go’shti Farsh",
+        "nameRU": "Замороженное гусиное мясо Фарш",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00207006004000000",
+        "nameUZ": "Товуқ суяги",
+        "nameLAT": "Tovuq suyagi",
+        "nameRU": "Кость куриная",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00207006002000000",
+        "nameUZ": "Товуқ ошқозони",
+        "nameLAT": "Tovuq oshqozoni",
+        "nameRU": "Куриные желудки",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00209001001000000",
+        "nameUZ": "Дудланган чўчқа ёғи",
+        "nameLAT": "Dudlangan cho’chqa yog’i",
+        "nameRU": "Копченое сало ",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00210001009000000",
+        "nameUZ": "Дудланган мол гўшти ва унинг озуқабоп маҳсулотлари",
+        "nameLAT": "Dudlangan mol go’shti va uning ozuqabop mahsulotlari",
+        "nameRU": "Копченая говядина и мясные субпродукты",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00210001009002002",
+        "nameUZ": "Дудланган мол гўшти ва унинг озуқабоп маҳсулотлари To'xtaniyoz-ota вакуумли қадоқ 350 гр",
+        "nameLAT": "Dudlangan mol go’shti va uning ozuqabop mahsulotlari To'xtaniyoz-ota vakuumli qadoq 350 gr",
+        "nameRU": "Копченая говядина и мясные субпродукты To'xtaniyoz-ota вакуумная упаковка 350 г.",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00210005001000000",
+        "nameUZ": "Тузланган қўй гўшти",
+        "nameLAT": "Tuzlangan qo’y go’shti",
+        "nameRU": "Вяленная баранина",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00201001003000000",
+        "nameUZ": "Музлатилган суяксиз мол гўшти, майдаланган",
+        "nameLAT": "Muzlatilgan suyaksiz mol go’shti, maydalangan",
+        "nameRU": "Замороженное говяжье мясо без костей (говядина) тримминг",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00210006001000000",
+        "nameUZ": "Тузланган от гўшти",
+        "nameLAT": "Tuzlangan ot go’shti",
+        "nameRU": "Конина вяленая",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00210005002000000",
+        "nameUZ": "Тузланган эчки гўшти",
+        "nameLAT": "Tuzlangan echki go’shti",
+        "nameRU": "Вяленое козье мясо",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00210006003000000",
+        "nameUZ": "Дудланган от гўшти",
+        "nameLAT": "Dudlangan ot go’shti",
+        "nameRU": "Копченая конина",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00210001009001002",
+        "nameUZ": "Дудланган мол гўшти ва унинг озуқабоп маҳсулотлари Мяссорти дудланган мол гўшти карбонати, вакуум қадоқ 300 гр",
+        "nameLAT": "Dudlangan mol go’shti va uning ozuqabop mahsulotlari Мяссорти dudlangan mol go’shti karbonati, vakuum qadoq 300 gr",
+        "nameRU": "Копченая говядина и мясные субпродукты Мяссорти карбонат говяжий копчёный, вакуумная упаковка 300г",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00210001009002003",
+        "nameUZ": "Дудланган мол гўшти ва унинг озуқабоп маҳсулотлари To'xtaniyoz-ota вакуум қадоқ 700 гр",
+        "nameLAT": "Dudlangan mol go’shti va uning ozuqabop mahsulotlari To'xtaniyoz-ota vakuum qadoq 700 gr",
+        "nameRU": "Копченая говядина и мясные субпродукты To'xtaniyoz-ota вакуумная упаковка 700 г.",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00210001009001001",
+        "nameUZ": "Дудланган мол гўшти ва унинг озуқабоп маҳсулотлари Мяссорти дудланган мол гўшти карбонати, вакуум қадоқ 250 гр",
+        "nameLAT": "Dudlangan mol go’shti va uning ozuqabop mahsulotlari Мяссорти dudlangan mol go’shti karbonati, vakuum qadoq 250 gr",
+        "nameRU": "Копченая говядина и мясные субпродукты Мяссорти карбонат говяжий копчёный, вакуумная упаковка 250г",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00206001014000000",
+        "nameUZ": "Чўчқа териси ва суяги",
+        "nameLAT": "Cho’chqa terisi va suyagi",
+        "nameRU": "Свиная шкура и кость",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00207001001000000",
+        "nameUZ": "Янги сўйилган совутилган товуқ гўшти (товуқ)",
+        "nameLAT": "Yangi so’yilgan sovutilgan tovuq go’shti (tovuq)",
+        "nameRU": "Свежезабойное куриное мясо охлажденное (курица)",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00206001009000000",
+        "nameUZ": "Табиий ёғ",
+        "nameLAT": "Tabiiy yog’",
+        "nameRU": "Естественный жир",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00207001001004004",
+        "nameUZ": "Янги сўйилган совутилган товуқ гўшти (товуқ) Roster тозаланган бройлер 1 тоифа, полиэтилен пакет 1750 гр",
+        "nameLAT": "Yangi so’yilgan sovutilgan tovuq go’shti (tovuq) Roster tozalangan broyler 1 toifa, polietilen paket 1750 gr",
+        "nameRU": "Свежезабойное куриное мясо охлажденное (курица) Roster тушка бройлера 1 категории, полиэтиленовый пакет 1750 г.",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00207004004000001",
+        "nameUZ": "Музлатилган курка гўшти Фарш",
+        "nameLAT": "Muzlatilgan kurka go’shti Farsh",
+        "nameRU": "Замороженное мясо индейки Фарш",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00206001003000000",
+        "nameUZ": "Ўпка\r\n",
+        "nameLAT": "O’pka\r\n",
+        "nameRU": "Легкие",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00201001002001001",
+        "nameUZ": "Музлатилган суяксиз гўшт (мол гўшти) Meat&Milk ёғлилик миқдори 20%, пэт пакет 300 г",
+        "nameLAT": "Muzlatilgan suyaksiz go’sht (mol go’shti) Meat&Milk yog’lilik miqdori 20%, pet paket 300 g",
+        "nameRU": "Замороженное говяжье мясо без костей (говядина) Meat&Milk жирность 20% , пэт пакет 300 г",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00207004004000000",
+        "nameUZ": "Музлатилган курка гўшти",
+        "nameLAT": "Muzlatilgan kurka go’shti",
+        "nameRU": "Замороженное мясо индейки",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00206001006000000",
+        "nameUZ": "Юрак",
+        "nameLAT": "Yurak",
+        "nameRU": "Сердце",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00207006001001001",
+        "nameUZ": "Музлатилган товуқ оёқчалари Marinad House маринадланган, пластик контейнер 1,0 кг",
+        "nameLAT": "Muzlatilgan tovuq oyoqchalari Marinad House marinadlangan, plastik konteyner 1,0 kg",
+        "nameRU": "Лапки куриные замороженные Marinad House маринованные, пластиковый контейнер 1 кг",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00207006001000000",
+        "nameUZ": "Музлатилган товуқ оёқчалари",
+        "nameLAT": "Muzlatilgan tovuq oyoqchalari",
+        "nameRU": "Лапки куриные замороженные",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00201001002000000",
+        "nameUZ": "Музлатилган суяксиз гўшт (мол гўшти)",
+        "nameLAT": "Muzlatilgan suyaksiz go’sht (mol go’shti)",
+        "nameRU": "Замороженное говяжье мясо без костей (говядина)",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00206001001000000",
+        "nameUZ": "Тил",
+        "nameLAT": "Til",
+        "nameRU": "Язык",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00204001001000000",
+        "nameUZ": "Бўлинган янги, совутилган лаҳм қўй гўшти",
+        "nameLAT": "Bo’lingan yangi, sovutilgan lahm qo’y go’shti",
+        "nameRU": "Отрубленное мясо баранины свежее, охлажденное",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00207002008000000",
+        "nameUZ": "Музлатилган ўрдак гўшти",
+        "nameLAT": "Muzlatilgan o’rdak go’shti",
+        "nameRU": "Замороженное утиное мясо",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00207001009000002",
+        "nameUZ": "Музлатилган товуқ гўшти Тери",
+        "nameLAT": "Muzlatilgan tovuq go’shti Teri",
+        "nameRU": "Замороженное куриное мясо (курица) Шкура",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00207001009000001",
+        "nameUZ": "Музлатилган товуқ гўшти Фарш",
+        "nameLAT": "Muzlatilgan tovuq go’shti Farsh",
+        "nameRU": "Замороженное куриное мясо (курица) Фарш",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00207005001000000",
+        "nameUZ": "Янги, совутилган ёки музлатилган бедана гўшти",
+        "nameLAT": "Yangi, sovutilgan yoki muzlatilgan bedana go’shti",
+        "nameRU": "Мясо перепелки свежие, охлажденные или замороженные",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00207003001000000",
+        "nameUZ": "Совутилган ғоз гўшти",
+        "nameLAT": "Sovutilgan g’oz go’shti",
+        "nameRU": "Охлажденное гусиное мясо",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00210004003002004",
+        "nameUZ": "Дудланган чўчқа гўшти ва унинг озуқабоп маҳсулотлари Мяссорти сон гўшти, вакуум қадоқ 300 гр",
+        "nameLAT": "Dudlangan cho’chqa go’shti va uning ozuqabop mahsulotlari Мяссорти son go’shti, vakuum qadoq 300 gr",
+        "nameRU": "Копченая свинина и мясные субпродукты Мяссорти окорок, вакуумная упаковка 300",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00210004003000000",
+        "nameUZ": "Дудланган чўчқа гўшти ва унинг озуқабоп маҳсулотлари",
+        "nameLAT": "Dudlangan cho’chqa go’shti va uning ozuqabop mahsulotlari",
+        "nameRU": "Копченая свинина и мясные субпродукты",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00207004003001001",
+        "nameUZ": "Совутилган курка гўшти To'xtaniyoz-ota дудланган, фиброузли қоплама 350 гр",
+        "nameLAT": "Sovutilgan kurka go’shti To'xtaniyoz-ota dudlangan, fibrouzli qoplama 350 gr",
+        "nameRU": "Охлажденное мясо индейки To'xtaniyoz-ota копченная, фиброузная оболочка 350 г.",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00206001002000000",
+        "nameUZ": "Жигар",
+        "nameLAT": "Jigar",
+        "nameRU": "Печень",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00210004003001001",
+        "nameUZ": "Дудланган чўчқа гўшти ва унинг озуқабоп маҳсулотлари Корейка Чўчқа гўштидан хом-дудланган тўш гўшти",
+        "nameLAT": "Dudlangan cho’chqa go’shti va uning ozuqabop mahsulotlari Корейка Cho’chqa go’shtidan xom-dudlangan to’sh go’shti",
+        "nameRU": "Копченая свинина и мясные субпродукты Корейка Корейка сырокопчёная из свиного мяса",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00210004003002001",
+        "nameUZ": "Дудланган чўчқа гўшти ва унинг озуқабоп маҳсулотлари Мяссорти карбонат, вакуум қадоқ 250 гр",
+        "nameLAT": "Dudlangan cho’chqa go’shti va uning ozuqabop mahsulotlari Мяссорти karbonat, vakuum qadoq 250 gr",
+        "nameRU": "Копченая свинина и мясные субпродукты Мяссорти карбонат , вакуумная упаковка 250г",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00210001008000000",
+        "nameUZ": "Қуритилган мол гўшти ва унинг озуқабоп маҳсулотлари",
+        "nameLAT": "Quritilgan mol go’shti va uning ozuqabop mahsulotlari",
+        "nameRU": "Сушеная говядина и субпродукты из них",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00207004003000000",
+        "nameUZ": "Совутилган курка гўшти",
+        "nameLAT": "Sovutilgan kurka go’shti",
+        "nameRU": "Охлажденное мясо индейки",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00206001010000000",
+        "nameUZ": "Юрак (музлатилган)",
+        "nameLAT": "Yurak (muzlatilgan)",
+        "nameRU": "Сердце (замороженное)",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00207001001002001",
+        "nameUZ": "Янги сўйилган совутилган товуқ гўшти (товуқ) Uychi Broyler товуқ гўшти қисмлари, полиэтилен пакетда 1000 гр",
+        "nameLAT": "Yangi so’yilgan sovutilgan tovuq go’shti (tovuq) Uychi Broyler tovuq go’shti qismlari, polietilen paketda 1000 gr",
+        "nameRU": "Свежезабойное куриное мясо охлажденное (курица) Uychi Broyler части куриного мяса, полиэтиленовый пакет 1,0 кг",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00206001007000000",
+        "nameUZ": "Дум (музлатилган)",
+        "nameLAT": "Dum (muzlatilgan)",
+        "nameRU": "Хвост (замороженный)",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00207001009010001",
+        "nameUZ": "Музлатилган товуқ гўшти Marinad House бўлаги, пластик контейнер 1,0 кг",
+        "nameLAT": "Muzlatilgan tovuq go’shti Marinad House bo’lagi, plastik konteyner 1,0 kg",
+        "nameRU": "Замороженное куриное мясо (курица) Marinad House кусками, пластиковый контейнер 1,0 кг",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00207001009004001",
+        "nameUZ": "Музлатилган товуқ гўшти Barbecue Товуқ болдири тузламада, ПЭТ пакет 900 г",
+        "nameLAT": "Muzlatilgan tovuq go’shti Barbecue Tovuq boldiri tuzlamada, PET paket 900 g",
+        "nameRU": "Замороженное куриное мясо (курица) Barbecue Голень тушки курицы в маринаде, ПЭТ пакет 900±10 г",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00207001009010002",
+        "nameUZ": "Музлатилган товуқ гўшти Marinad House бўлаги, пластик контейнер 500 гр",
+        "nameLAT": "Muzlatilgan tovuq go’shti Marinad House bo’lagi, plastik konteyner 500 gr",
+        "nameRU": "Замороженное куриное мясо (курица) Marinad House кусками, пластиковый контейнер 500 г.",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00207001009002001",
+        "nameUZ": "Музлатилган товуқ гўшти Aziz Chicken Broiler товуқ болдири, пэт пакет 1,0 кг",
+        "nameLAT": "Muzlatilgan tovuq go’shti Aziz Chicken Broiler tovuq boldiri, pet paket 1,0 kg",
+        "nameRU": "Замороженное куриное мясо (курица) Aziz Chicken Broiler голень куриная, пэт пакет 1,0 кг",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00207001009003006",
+        "nameUZ": "Музлатилган товуқ гўшти Mo'rella Товуқ сонлари тузламада BBQ, ПЭТ контейнер 975 г",
+        "nameLAT": "Muzlatilgan tovuq go’shti Mo'rella Tovuq sonlari tuzlamada BBQ, PET konteyner 975 g",
+        "nameRU": "Замороженное куриное мясо (курица) Mo'rella Бёдра куриные в маринаде BBQ, ПЭТ контейнер 975 г",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00207001009003003",
+        "nameUZ": "Музлатилган товуқ гўшти Mo'rella Товуқ болдири тузламада Mexicano, ПЭТ контейнер 575 г",
+        "nameLAT": "Muzlatilgan tovuq go’shti Mo'rella Tovuq boldiri tuzlamada Mexicano, PET konteyner 575 g",
+        "nameRU": "Замороженное куриное мясо (курица) Mo'rella Голень куриная в маринаде Mexicano, ПЭТ контейнер 575 г",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00207001009003008",
+        "nameUZ": "Музлатилган товуқ гўшти Mo'rella Товуқ сонлари тузламада Mexicano, ПЭТ контейнер 975 г",
+        "nameLAT": "Muzlatilgan tovuq go’shti Mo'rella Tovuq sonlari tuzlamada Mexicano, PET konteyner 975 g",
+        "nameRU": "Замороженное куриное мясо (курица) Mo'rella Бёдра куриные в маринаде Mexicano, ПЭТ контейнер 975 г",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00207001009006001",
+        "nameUZ": "Музлатилган товуқ гўшти Saxovat Бойлер товуқ сонлари кавказ аджикасида, Вакуум қадоқ 900 г",
+        "nameLAT": "Muzlatilgan tovuq go’shti Saxovat Boyler tovuq sonlari kavkaz adjikasida, Vakuum qadoq 900 g",
+        "nameRU": "Замороженное куриное мясо (курица) Saxovat Бедра цыпленка бройлера в кавказской аджике, Вакуумная упаковка 900 г",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00207001009002002",
+        "nameUZ": "Музлатилган товуқ гўшти Aziz Chicken Broiler товуқ сонлари, пэт пакет 1,0 кг",
+        "nameLAT": "Muzlatilgan tovuq go’shti Aziz Chicken Broiler tovuq sonlari, pet paket 1,0 kg",
+        "nameRU": "Замороженное куриное мясо (курица) Aziz Chicken Broiler бёдра куриные, пэт пакет 1,0 кг",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00207001009003005",
+        "nameUZ": "Музлатилган товуқ гўшти Mo'rella Товуқ сонлари тузламада BBQ, ПЭТ контейнер 575 г",
+        "nameLAT": "Muzlatilgan tovuq go’shti Mo'rella Tovuq sonlari tuzlamada BBQ, PET konteyner 575 g",
+        "nameRU": "Замороженное куриное мясо (курица) Mo'rella Бёдра куриные в маринаде BBQ, ПЭТ контейнер 575 г",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00207001009003001",
+        "nameUZ": "Музлатилган товуқ гўшти Mo'rella Товуқ болдири тузламада BBQ, ПЭТ контейнер 575 г",
+        "nameLAT": "Muzlatilgan tovuq go’shti Mo'rella Tovuq boldiri tuzlamada BBQ, PET konteyner 575 g",
+        "nameRU": "Замороженное куриное мясо (курица) Mo'rella Голень куриная в маринаде BBQ, ПЭТ контейнер 575 г",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00207001009003004",
+        "nameUZ": "Музлатилган товуқ гўшти Mo'rella Товуқ болдири тузламада Mexicano, ПЭТ контейнер 975 г",
+        "nameLAT": "Muzlatilgan tovuq go’shti Mo'rella Tovuq boldiri tuzlamada Mexicano, PET konteyner 975 g",
+        "nameRU": "Замороженное куриное мясо (курица) Mo'rella Голень куриная в маринаде Mexicano, ПЭТ контейнер 975 г",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00207001009003007",
+        "nameUZ": "Музлатилган товуқ гўшти Mo'rella Товуқ сонлари тузламада Mexicano, ПЭТ контейнер 575 г",
+        "nameLAT": "Muzlatilgan tovuq go’shti Mo'rella Tovuq sonlari tuzlamada Mexicano, PET konteyner 575 g",
+        "nameRU": "Замороженное куриное мясо (курица) Mo'rella Бёдра куриные в маринаде Mexicano, ПЭТ контейнер 575 г",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00207001009005001",
+        "nameUZ": "Музлатилган товуқ гўшти Tbilisi Товуқ болдири тузламада, ПЭТ пакет 1,0 кг",
+        "nameLAT": "Muzlatilgan tovuq go’shti Tbilisi Tovuq boldiri tuzlamada, PET paket 1,0 kg",
+        "nameRU": "Замороженное куриное мясо (курица) Tbilisi Голень тушки курицы в маринаде, ПЭТ пакет 1,0 кг",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00207001009004002",
+        "nameUZ": "Музлатилган товуқ гўшти Barbecue Тузланган товуқ сонлари, ПЭТ пакет 900 г",
+        "nameLAT": "Muzlatilgan tovuq go’shti Barbecue Tuzlangan tovuq sonlari, PET paket 900 g",
+        "nameRU": "Замороженное куриное мясо (курица) Barbecue Бёдра тушки курицы в маринаде, ПЭТ пакет 900±10 г",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00207001009007002",
+        "nameUZ": "Музлатилган товуқ гўшти NISHON BAXT маринадда пишириш учун курка болдири, вакуум қадоқ 600 гр",
+        "nameLAT": "Muzlatilgan tovuq go’shti NISHON BAXT marinadda pishirish uchun kurka boldiri, vakuum qadoq 600 gr",
+        "nameRU": "Замороженное куриное мясо (курица) NISHON BAXT Голень Индейки для запекания в маринаде, вакуумная упаковка 600 гр",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00207001009005002",
+        "nameUZ": "Музлатилган товуқ гўшти Tbilisi Тузланган товуқ сонлари, ПЭТ пакет 1,0 кг",
+        "nameLAT": "Muzlatilgan tovuq go’shti Tbilisi Tuzlangan tovuq sonlari, PET paket 1,0 kg",
+        "nameRU": "Замороженное куриное мясо (курица) Tbilisi Бёдра тушки курицы в маринаде, ПЭТ пакет 1,0 кг",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00207001009007001",
+        "nameUZ": "Музлатилган товуқ гўшти NISHON BAXT маринадда пишириш учун курка болдири, вакуум қадоқ 400 гр",
+        "nameLAT": "Muzlatilgan tovuq go’shti NISHON BAXT marinadda pishirish uchun kurka boldiri, vakuum qadoq 400 gr",
+        "nameRU": "Замороженное куриное мясо (курица) NISHON BAXT Голень Индейки для запекания в маринаде, вакуумная упаковка 400 гр",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00205004002000000",
+        "nameUZ": "Бўлинган, музлатилган эшак, хачир гўшти",
+        "nameLAT": "Bo’lingan, muzlatilgan eshak, xachir go’shti",
+        "nameRU": "Отрубленное мясо ослов, мулов или лошаков замороженное",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00205003001000000",
+        "nameUZ": "Янги сўйилган, совутилган от қовурғаси ёки ярим қовурғаси",
+        "nameLAT": "Yangi so’yilgan, sovutilgan ot qovurg’asi yoki yarim qovurg’asi",
+        "nameRU": "Туши и полутуши лошади свежие, охлажденные",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00210005004000000",
+        "nameUZ": "Дудланган қўзичоқ, эчки гўшти ва ичаклари",
+        "nameLAT": "Dudlangan qo’zichoq, echki go’shti va ichaklari",
+        "nameRU": "Копченая баранина, козлятина  и мясные субпродукты",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00205002003000000",
+        "nameUZ": "От гўштидан қийма",
+        "nameLAT": "Ot go’shtidan qiyma",
+        "nameRU": "Фарш из конины",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00207002009000000",
+        "nameUZ": "Музлатилгган ўрдак гўшти (қийма)",
+        "nameLAT": "Muzlatilggan o’rdak go’shti (qiyma)",
+        "nameRU": "Замороженное утиное мясо (фарш)",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00207003003000000",
+        "nameUZ": "Музлатиган ғоз гўшти (қийма)",
+        "nameLAT": "Muzlatigan g’oz go’shti (qiyma)",
+        "nameRU": "Замороженное гусиное мясо (фарш)",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00205002002000000",
+        "nameUZ": "Музлатилган лаҳм от гўшти",
+        "nameLAT": "Muzlatilgan lahm ot go’shti",
+        "nameRU": "Обваленное мясо  лошадей замороженное",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00207004005000000",
+        "nameUZ": "Музлатилган курка гўшти (қийма)",
+        "nameLAT": "Muzlatilgan kurka go’shti (qiyma)",
+        "nameRU": "Замороженное мясо индейки (фарш)",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00207001012000000",
+        "nameUZ": "Музлатилган товуқ гўшти (териси)",
+        "nameLAT": "Muzlatilgan tovuq go’shti (terisi)",
+        "nameRU": "Замороженное куриное мясо (шкура)",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00205002001000000",
+        "nameUZ": "Янги сўйилган, совутилган лаҳм от гўшти",
+        "nameLAT": "Yangi so’yilgan, sovutilgan lahm ot go’shti",
+        "nameRU": "Обваленное мясо лошадей свежее, охлажденное",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00205003002000000",
+        "nameUZ": "Музлатилган от қовурғаси ёки ярим қовурғаси",
+        "nameLAT": "Muzlatilgan ot qovurg’asi yoki yarim qovurg’asi",
+        "nameRU": "Туши и полутуши лошади замороженные",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00210005003000000",
+        "nameUZ": "Қуритилган қўзичоқ, эчки гўшти ва бошқа озуқабоп маҳсулотлари",
+        "nameLAT": "Quritilgan qo’zichoq, echki go’shti va boshqa ozuqabop mahsulotlari",
+        "nameRU": "Сушеная баранина, козлятина и субпродукты из них",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00205005002000000",
+        "nameUZ": "Музлатилган эшак, хачир гўшти",
+        "nameLAT": "Muzlatilgan eshak, xachir go’shti",
+        "nameRU": "Мясо ослов, мулов или лошаков замороженное",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00204001001001001",
+        "nameUZ": "Бўлинган янги, совутилган лаҳм қўй гўшти Marinad House бўлаклари, пластик контейнерда 1000 гр",
+        "nameLAT": "Bo’lingan yangi, sovutilgan lahm qo’y go’shti Marinad House bo’laklari, plastik konteynerda 1000 gr",
+        "nameRU": "Отрубленное мясо баранины свежее, охлажденное Marinad House кусками, пластиковый контейнер 1,0 кг.",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00207001001007001",
+        "nameUZ": "Янги сўйилган совутилган товуқ гўшти (товуқ) Savr товуқ гўштидан таёқчалари, вакуум қадоқ 100 гр",
+        "nameLAT": "Yangi so’yilgan sovutilgan tovuq go’shti (tovuq) Savr tovuq go’shtidan tayoqchalari, vakuum qadoq 100 gr",
+        "nameRU": "Свежезабойное куриное мясо охлажденное (курица) Savr палочки из куриного мяса, вакуумная упаковка 100 г",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00201001002006001",
+        "nameUZ": "Музлатилган суяксиз гўшт (мол гўшти) Ziyo ПЭТ пакет 165 г",
+        "nameLAT": "Muzlatilgan suyaksiz go’sht (mol go’shti) Ziyo PET paket 165 g",
+        "nameRU": "Замороженное говяжье мясо без костей (говядина) Ziyo ПЭТ пакет 165 г",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00201002002000000",
+        "nameUZ": "Музлатилган йирик қорамол тўлиқ ва ярим қовурға гўшти (мол гўшти)",
+        "nameLAT": "Muzlatilgan yirik qoramol to’liq va yarim qovurg’a go’shti (mol go’shti)",
+        "nameRU": "Замороженные туши и полутуши крупного рогатого скота  (говядина)",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00206001015000000",
+        "nameUZ": "Қўй суяги",
+        "nameLAT": "Qo’y suyagi",
+        "nameRU": "Кость баранина",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’ShT VA GO’ShTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      },
+      {
+        "mxikCode": "00207006005000000",
+        "nameUZ": "Паррандаларнинг бошқа озуқабоп маҳсулотлари",
+        "nameLAT": "Parrandalarning boshqa ozuqabop mahsulotlari",
+        "nameRU": "Прочие субпродукты домашней птицы",
+        "groupCODE": "002",
+        "groupNameUZ": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+        "groupNameRU": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ",
+        "groupNameLAT": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+      }
+    ],
+    "recordTotal": 193,
+    "errors": null,
+    "permitted": false
+  }
+}

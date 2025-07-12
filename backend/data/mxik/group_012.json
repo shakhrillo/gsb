@@ -1,0 +1,1057 @@
+{
+  "metadata": {
+    "groupId": 12,
+    "fetchedAt": "2025-07-12T16:30:35.161Z",
+    "source": "https://tasnif.soliq.uz/api/cl-api/integration-mxik/references/group/code?group=12"
+  },
+  "data": {
+    "success": true,
+    "code": 200,
+    "reason": null,
+    "data": [
+      {
+        "mxikCode": "01212001002010001",
+        "nameUZ": "Мевалар данаги ва уларнинг мағзи Spiris Dried Fruits Ўрик мағзи, қоғоз стаканчада 70",
+        "nameLAT": "Mevalar danagi va ularning mag’zi Spiris Dried Fruits O’rik mag’zi, qog’oz stakanchada 70",
+        "nameRU": "Косточки плодов и их ядра Spiris Dried Fruits Ядра абрикоса Бумажный стаканчик 70",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01214001003000000",
+        "nameUZ": "Пичан",
+        "nameLAT": "Pichan",
+        "nameRU": "Сено",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01208001003000000",
+        "nameUZ": "Хантал уруғидан ташқари, мойли ўсимлик уруғи ёки мевасидан тайёрланган бошқа ун",
+        "nameLAT": "Xantal urug’idan tashqari, moyli o’simlik urug’i yoki mevasidan tayyorlangan boshqa un",
+        "nameRU": "Прочие муки тонкого и грубого помола из семян или плодов масличных культур, кроме семян горчицы",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01208001002000000",
+        "nameUZ": "Соя дукаклари уни",
+        "nameLAT": "Soya dukaklari uni",
+        "nameRU": "Мука из соевых бобов",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01214001002000000",
+        "nameUZ": "Маккажўхори силоси",
+        "nameLAT": "Makkajo’xori silosi",
+        "nameRU": "Силос кукурузы",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01209001006000000",
+        "nameUZ": "Полиз экинлари уруғлари",
+        "nameLAT": "Poliz ekinlari urug’lari",
+        "nameRU": "Семена бахчевых культур",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01209001004000000",
+        "nameUZ": "Сабзи уруғи",
+        "nameLAT": "Sabzi urug’i",
+        "nameRU": "Семена моркови",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01209001003000000",
+        "nameUZ": "Карам уруғи",
+        "nameLAT": "Karam urug’i",
+        "nameRU": "Семена капусты",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01209001002000000",
+        "nameUZ": "Бодринг уруғи",
+        "nameLAT": "Bodring urug’i",
+        "nameRU": "Семена огурцов",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01209006002000000",
+        "nameUZ": "Лавлаги уруғи",
+        "nameLAT": "Lavlagi urug’i",
+        "nameRU": "Семена свеклы",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01209002052000000",
+        "nameUZ": "Газон ўсимлиги уруғи",
+        "nameLAT": "Gazon o’simligi urug’i",
+        "nameRU": "Семена газонных растений",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01211001007001001",
+        "nameUZ": "Бошқа ўсимликлар ва уларнинг қисмлари GERBOFARM Қичитқи ўт барглари картон қути 30г",
+        "nameLAT": "Boshqa o’simliklar va ularning qismlari GERBOFARM Qichitqi o’t barglari karton quti 30g",
+        "nameRU": "Прочие растения и их части GERBOFARM Листья крапивы картонная коробка 30г.",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01211001007001008",
+        "nameUZ": "Бошқа ўсимликлар ва уларнинг қисмлари GERBOFARM Гулҳамишабаҳор 20 г 1,5 қоғоз филтри сумкалар бир картон тўплами гуллар 1,5 г.",
+        "nameLAT": "Boshqa o’simliklar va ularning qismlari GERBOFARM Gulhamishabahor 20 g 1,5 qog’oz filtri sumkalar bir karton to’plami gullar 1,5 g.",
+        "nameRU": "Прочие растения и их части GERBOFARM Цветки календулы в картонной пачке 20 бумажных фильтр пакетов по 1,5 г.",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01211001007001002",
+        "nameUZ": "Бошқа ўсимликлар ва уларнинг қисмлари GERBOFARM Чинор барглари картон қутида 30г",
+        "nameLAT": "Boshqa o’simliklar va ularning qismlari GERBOFARM Chinor barglari karton qutida 30g",
+        "nameRU": "Прочие растения и их части GERBOFARM Листья подорожника картонная коробка 30г.",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01209003002000000",
+        "nameUZ": "Клевер уруғлари",
+        "nameLAT": "Klever urug’lari",
+        "nameRU": "Семена клевера",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01204001002000000",
+        "nameUZ": "Бошқа зиғир уруғлари",
+        "nameLAT": "Boshqa zig’ir urug’lari",
+        "nameRU": "Семена льна прочие",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01207001009000000",
+        "nameUZ": "Бошқа ёғли ўсимликларнинг уруғлари ва мевалари",
+        "nameLAT": "Boshqa yog’li o’simliklarning urug’lari va mevalari",
+        "nameRU": "Прочие семена и плоды масличных растений",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01206001002000000",
+        "nameUZ": "Бошқа кунгабоқар уруғлари",
+        "nameLAT": "Boshqa kungaboqar urug’lari",
+        "nameRU": "Семена подсолнечника прочие",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01202001003000000",
+        "nameUZ": "Бошқа ерёнғоқлар",
+        "nameLAT": "Boshqa yeryong’oqlar",
+        "nameRU": "Арахис прочие",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01211001007001006",
+        "nameUZ": "Бошқа ўсимликлар ва уларнинг қисмлари GERBOFARM Зиравор ўти 30 г.картон қутили",
+        "nameLAT": "Boshqa o’simliklar va ularning qismlari GERBOFARM Ziravor o’ti 30 g.karton qutili",
+        "nameRU": "Прочие растения и их части GERBOFARM Трава зверобоя картонная коробка 30 г.",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01209003003000000",
+        "nameUZ": "Бошқа ем-хашак ўсимликларининг уруғлари",
+        "nameLAT": "Boshqa yem-xashak o’simliklarining urug’lari",
+        "nameRU": "Семена прочих кормовых растений",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01205001002000000",
+        "nameUZ": "Бошқа рапс уруғлари",
+        "nameLAT": "Boshqa raps urug’lari",
+        "nameRU": "Семена рапса прочие",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01209002053000000",
+        "nameUZ": "Бошқа ўт ўсимликларининг уруғлари",
+        "nameLAT": "Boshqa o’t o’simliklarining urug’lari",
+        "nameRU": "Семена прочих травянистых растений",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01201001002000000",
+        "nameUZ": "Бошқа соя уруғи",
+        "nameLAT": "Boshqa soya urug’i",
+        "nameRU": "Соевые бобы прочие",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01211001007001005",
+        "nameUZ": "Бошқа ўсимликлар ва уларнинг қисмлари GERBOFARM Гулҳамишабаҳор меваси пластик идишда 100 г.",
+        "nameLAT": "Boshqa o’simliklar va ularning qismlari GERBOFARM Gulhamishabahor mevasi plastik idishda 100 g.",
+        "nameRU": "Прочие растения и их части GERBOFARM Плоды шиповника полиэтиленовый пакет 100 г.",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01212001003000000",
+        "nameUZ": "Кароб, қанд лавлаги ва бошқа мевалар",
+        "nameLAT": "Karob, qand lavlagi va boshqa mevalar",
+        "nameRU": "Плоды рожкового дерева, свекла сахарная и другие",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01208001001001002",
+        "nameUZ": "Арахис уни Almonda almonda almonda қоғоз пакет 300 г.",
+        "nameLAT": "Araxis uni Almonda almonda almonda qog’oz paket 300 g.",
+        "nameRU": "Мука арахисовая Almonda almonda almonda бумажный пакет 300 г.",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01208001001001001",
+        "nameUZ": "Арахис уни Almonda almonda almonda қоғоз пакет 150 г.",
+        "nameLAT": "Araxis uni Almonda almonda almonda qog’oz paket 150 g.",
+        "nameRU": "Мука арахисовая Almonda almonda almonda бумажный пакет 150 г.",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01208001001000000",
+        "nameUZ": "Арахис уни",
+        "nameLAT": "Araxis uni",
+        "nameRU": "Мука арахисовая",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01207001008000001",
+        "nameUZ": "Пахта чигити (техник) 1-сорт",
+        "nameLAT": "Paxta chigiti (texnik) 1-sort",
+        "nameRU": "Семена хлопчатника (технические) 1-сорт",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01207001008000002",
+        "nameUZ": "Пахта чигити (техник) 2-сорт",
+        "nameLAT": "Paxta chigiti (texnik) 2-sort",
+        "nameRU": "Семена хлопчатника (технические) 2-сорт",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01213001001000000",
+        "nameUZ": "Ғалла похоли ва сомони",
+        "nameLAT": "G’alla poxoli va somoni",
+        "nameRU": "Солома и мякина зерновых",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01214001005000000",
+        "nameUZ": "Бошқа шунга ўхшаш озуқа маҳсулотлари",
+        "nameLAT": "Boshqa shunga o’xshash ozuqa mahsulotlari",
+        "nameRU": "Прочие аналогичные кормовые продукты",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01209003004000000",
+        "nameUZ": "Беда уруғи",
+        "nameLAT": "Beda urug’i",
+        "nameRU": "Семена люцерны",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01212001005001008",
+        "nameUZ": "Шакарқамиш Sharqona шакар рафинад қамишдан",
+        "nameLAT": "Shakarqamish Sharqona shakar rafinad qamishdan",
+        "nameRU": "Сахарный тростник Sharqona сахар рафинад тростниковый",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01212001005001005",
+        "nameUZ": "Шакарқамиш Sharqona шакар рафинад + шакар қамишдан",
+        "nameLAT": "Shakarqamish Sharqona shakar rafinad + shakar qamishdan",
+        "nameRU": "Сахарный тростник Sharqona сахар рафинад + сахар тросниковый",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01212001005001010",
+        "nameUZ": "Шакарқамиш Sharqona шакар рафинад қамишдан+ шакар рафинад",
+        "nameLAT": "Shakarqamish Sharqona shakar rafinad qamishdan+ shakar rafinad",
+        "nameRU": "Сахарный тростник Sharqona сахар рафинад тростниковый+ сахар рафинад",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01212001005001009",
+        "nameUZ": "Шакарқамиш Sharqona шакар рафинад қамишдан",
+        "nameLAT": "Shakarqamish Sharqona shakar rafinad qamishdan",
+        "nameRU": "Сахарный тростник Sharqona сахар рафинад тростниковый",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01212001005002001",
+        "nameUZ": "Шакарқамиш Unitrade шакар қамишдан жигарранг",
+        "nameLAT": "Shakarqamish Unitrade shakar qamishdan jigarrang",
+        "nameRU": "Сахарный тростник Unitrade сахар тростниковый коричневый",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01212001006001002",
+        "nameUZ": "Денгиз ва бошқа сув ўтлари Santa Bremor Қўзиқоринли қутиейс денгиз ўтлари 150 гр лот",
+        "nameLAT": "Dengiz va boshqa suv o’tlari Santa Bremor Qo’ziqorinli qutiyeys dengiz o’tlari 150 gr lot",
+        "nameRU": "Морские и прочие водоросли Santa Bremor Морская капуста по-коробкаейски с грибами 150 гр лот",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01212001006001001",
+        "nameUZ": "Денгиз ва бошқа сув ўтлари Santa Bremor Маринадланган денгиз ўтлари 150 гр лот",
+        "nameLAT": "Dengiz va boshqa suv o’tlari Santa Bremor Marinadlangan dengiz o’tlari 150 gr lot",
+        "nameRU": "Морские и прочие водоросли Santa Bremor Морская капуста маринованная 150 гр лот",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01212001006001003",
+        "nameUZ": "Денгиз ва бошқа сув ўтлари Santa Bremor Бақлажонли қутиейс денгиз ўтлари 150 гр лот",
+        "nameLAT": "Dengiz va boshqa suv o’tlari Santa Bremor Baqlajonli qutiyeys dengiz o’tlari 150 gr lot",
+        "nameRU": "Морские и прочие водоросли Santa Bremor Морская капуста по-коробкаейски с баклажанами 150 гр лот",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01212001006002001",
+        "nameUZ": "Денгиз ва бошқа сув ўтлари Sen Soy суши нори 28г",
+        "nameLAT": "Dengiz va boshqa suv o’tlari Sen Soy sushi nori 28g",
+        "nameRU": "Морские и прочие водоросли Sen Soy суши нори 28г",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01210002001000000",
+        "nameUZ": "Хмел сўтаси",
+        "nameLAT": "Xmel so’tasi",
+        "nameRU": "Шишки хмеля",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01203001001000000",
+        "nameUZ": "Копра",
+        "nameLAT": "Kopra",
+        "nameRU": "Копра",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01208001003001001",
+        "nameUZ": "Хантал уруғидан ташқари, мойли ўсимлик уруғи ёки мевасидан тайёрланган бошқа ун Кудесница ярим ёғсизланган 400 г",
+        "nameLAT": "Xantal urug’idan tashqari, moyli o’simlik urug’i yoki mevasidan tayyorlangan boshqa un Кудесница yarim yog’sizlangan 400 g",
+        "nameRU": "Прочие муки тонкого и грубого помола из семян или плодов масличных культур, кроме семян горчицы Кудесница полуобезжиренная 400 г",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01207001008000005",
+        "nameUZ": "Пахта чигити (техник) яровсиз (ностандарт)",
+        "nameLAT": "Paxta chigiti (texnik) yarovsiz (nostandart)",
+        "nameRU": "Семена хлопчатника (технические) нестандартные",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01205001001000000",
+        "nameUZ": "Экиш учун рапс уруғлари",
+        "nameLAT": "Ekish uchun raps urug’lari",
+        "nameRU": "Семена рапса для посева",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01212001002011002",
+        "nameUZ": "Мевалар данаги ва уларнинг мағзи Ideal Nuts қовурилган тузланган ideal nuts полиэтилен пакет 30 г.",
+        "nameLAT": "Mevalar danagi va ularning mag’zi Ideal Nuts qovurilgan tuzlangan ideal nuts polietilen paket 30 g.",
+        "nameRU": "Косточки плодов и их ядра Ideal Nuts жареные с солью ideal nuts полиэтиленовый пакет 30 г.",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01209001008000000",
+        "nameUZ": "Экиш учун уруғлар, мевалар ва бошқа споралар",
+        "nameLAT": "Ekish uchun urug’lar, mevalar va boshqa sporalar",
+        "nameRU": "Семена, плоды и споры прочие для посева",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01207001008000003",
+        "nameUZ": "Пахта чигити (техник) 3-сорт",
+        "nameLAT": "Paxta chigiti (texnik) 3-sort",
+        "nameRU": "Семена хлопчатника (технические) 3-сорт",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01208001004000000",
+        "nameUZ": "Қушқўнмас уруғларидан ун",
+        "nameLAT": "Qushqo’nmas urug’laridan un",
+        "nameRU": "Мука из семян расторопши",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01211001002000000",
+        "nameUZ": "Наъматак (дорилик учун)",
+        "nameLAT": "Namatak (dorilik uchun)",
+        "nameRU": "Шиповник (лекарственный)",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01207001008000004",
+        "nameUZ": "Пахта чигити (техник) 4-сорт",
+        "nameLAT": "Paxta chigiti (texnik) 4-sort",
+        "nameRU": "Семена хлопчатника (технические) 4-сорт",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01204001002001002",
+        "nameUZ": "Бошқа зиғир уруғлари Вита комплекс майдаланган вита комплекс 15 картон қути 300 г.",
+        "nameLAT": "Boshqa zig’ir urug’lari Вита комплекс maydalangan vita kompleks 15 karton quti 300 g.",
+        "nameRU": "Семена льна прочие Вита комплекс молотые вита комплекс 15 картонная коробка 300 г.",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01204001002001003",
+        "nameUZ": "Бошқа зиғир уруғлари Вита комплекс вита комплекс 15 картон қути 300 г.",
+        "nameLAT": "Boshqa zig’ir urug’lari Вита комплекс vita kompleks 15 karton quti 300 g.",
+        "nameRU": "Семена льна прочие Вита комплекс вита комплекс 15 картонная коробка 300 г.",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01211001003000000",
+        "nameUZ": "Эрва сертук ўти (пол-пола)",
+        "nameLAT": "Erva sertuk o’ti (pol-pola)",
+        "nameRU": "Эрва шерстистая (пол-пола)",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01207001003000000",
+        "nameUZ": "Кунжут уруғи",
+        "nameLAT": "Kunjut urug’i",
+        "nameRU": "Семена кунжута",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01214001001000000",
+        "nameUZ": "Рутабага",
+        "nameLAT": "Rutabaga",
+        "nameRU": "Брюква",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01204001002001001",
+        "nameUZ": "Бошқа зиғир уруғлари Вита комплекс кепак билан вита комплекс 14 картон қути 300 г.",
+        "nameLAT": "Boshqa zig’ir urug’lari Вита комплекс kepak bilan vita kompleks 14 karton quti 300 g.",
+        "nameRU": "Семена льна прочие Вита комплекс с отрубями вита комплекс 14 картонная коробка 300 г.",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01211001005000000",
+        "nameUZ": "Жўхори попуги",
+        "nameLAT": "Jo’xori popugi",
+        "nameRU": "Кукурузные рыльца",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01211001006000000",
+        "nameUZ": "Мойчечак гуллари (Доривор ўт)",
+        "nameLAT": "Moychechak gullari (Dorivor o’t)",
+        "nameRU": "Ромашка цветки (Лекарственная трава)",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01204001001000000",
+        "nameUZ": "Экиш учун зиғир уруғлари",
+        "nameLAT": "Ekish uchun zig’ir urug’lari",
+        "nameRU": "Семена льна для посева",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01202001001000000",
+        "nameUZ": "Ерёнғоқ уруғи",
+        "nameLAT": "Yeryong’oq urug’i",
+        "nameRU": "Арахис семенной",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01204001002002001",
+        "nameUZ": "Бошқа зиғир уруғлари Biolavka оқ, Zip-Lock пакет 400 гр",
+        "nameLAT": "Boshqa zig’ir urug’lari Biolavka oq, Zip-Lock paket 400 gr",
+        "nameRU": "Семена льна прочие Biolavka белые, Zip-Lock пакет 400 гр",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01214001004000000",
+        "nameUZ": "Беда озуқаси",
+        "nameLAT": "Beda ozuqasi",
+        "nameRU": "Люцерна кормовая",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01209001006001001",
+        "nameUZ": "Полиз экинлари уруғлари Biolavka ёғли, қисман глазурланган, кокос қириндиси билан, ПП пакет 225 г",
+        "nameLAT": "Poliz ekinlari urug’lari Biolavka yog’li, qisman glazurlangan, kokos qirindisi bilan, PP paket 225 g",
+        "nameRU": "Семена бахчевых культур Biolavka сдобное частично глазированное с кокосовой стружкой Полипропиленовый пакет 225 г.",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01207001010000000",
+        "nameUZ": "Пахта чигити, уруғ учун",
+        "nameLAT": "Paxta chigiti, urug’ uchun",
+        "nameRU": "Семена хлопчатника, семенные",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01211001007000000",
+        "nameUZ": "Бошқа ўсимликлар ва уларнинг қисмлари",
+        "nameLAT": "Boshqa o’simliklar va ularning qismlari",
+        "nameRU": "Прочие растения и их части",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01211001007001010",
+        "nameUZ": "Бошқа ўсимликлар ва уларнинг қисмлари GERBOFARM Иттиканак ўти 2 гр.дан 20 та фильтрли пакет",
+        "nameLAT": "Boshqa o’simliklar va ularning qismlari GERBOFARM Ittikanak o’ti 2 gr.dan 20 ta filtrli paket",
+        "nameRU": "Прочие растения и их части GERBOFARM Трава Череды 20 бумажных фильтр пакетов по 2 гр.",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01211001007001009",
+        "nameUZ": "Бошқа ўсимликлар ва уларнинг қисмлари GERBOFARM Чинор барглари картон қутида 30г",
+        "nameLAT": "Boshqa o’simliklar va ularning qismlari GERBOFARM Chinor barglari karton qutida 30g",
+        "nameRU": "Прочие растения и их части GERBOFARM Листья подорожника картонная коробка 30г.",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01211001007001004",
+        "nameUZ": "Бошқа ўсимликлар ва уларнинг қисмлари GERBOFARM Гулҳамишабаҳор меваси 2 г. фильтр пакетли 20 та пачкадан иборат картон қутида",
+        "nameLAT": "Boshqa o’simliklar va ularning qismlari GERBOFARM Gulhamishabahor mevasi 2 g. filtr paketli 20 ta pachkadan iborat karton qutida",
+        "nameRU": "Прочие растения и их части GERBOFARM Плоды шиповника в картонной пачке 20 бумажных фильтр пакетов по 2,0 г.",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01201001001000000",
+        "nameUZ": "Соя уруғи",
+        "nameLAT": "Soya urug’i",
+        "nameRU": "Соевые бобы семенные",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01211001007001007",
+        "nameUZ": "Бошқа ўсимликлар ва уларнинг қисмлари GERBOFARM Серияли ўт 2,5 г. фильтр пакетли 20 та пачкадан иборат картон қутида",
+        "nameLAT": "Boshqa o’simliklar va ularning qismlari GERBOFARM Seriyali o’t 2,5 g. filtr paketli 20 ta pachkadan iborat karton qutida",
+        "nameRU": "Прочие растения и их части GERBOFARM Трава череды в картонной пачке 20 бумажных фильтр пакетов по 2,5 г.",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01211001007001003",
+        "nameUZ": "Бошқа ўсимликлар ва уларнинг қисмлари GERBOFARM Чинор барглари картон пакетли қоғоз филтри сумкалари  1,5г №20",
+        "nameLAT": "Boshqa o’simliklar va ularning qismlari GERBOFARM Chinor barglari karton paketli qog’oz filtri sumkalari  1,5g №20",
+        "nameRU": "Прочие растения и их части GERBOFARM Листья подорожника картонная пачка бумажные фильтр пакеты 1,5г №20",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01209001006001003",
+        "nameUZ": "Полиз экинлари уруғлари Biolavka сендвич шоколадли қиём билан, гофра қути 3,0 кг",
+        "nameLAT": "Poliz ekinlari urug’lari Biolavka sendvich shokoladli qiyom bilan, gofra quti 3,0 kg",
+        "nameRU": "Семена бахчевых культур Biolavka сендвич с Шоколадной начинкой Гофрокоробка 3,0 кг.",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01212001002011001",
+        "nameUZ": "Мевалар данаги ва уларнинг мағзи Ideal Nuts қовурилган тузланган ideal nuts полиэтилен пакет 100 г.",
+        "nameLAT": "Mevalar danagi va ularning mag’zi Ideal Nuts qovurilgan tuzlangan ideal nuts polietilen paket 100 g.",
+        "nameRU": "Косточки плодов и их ядра Ideal Nuts жареные с солью ideal nuts полиэтиленовый пакет 100 г.",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01209002051000000",
+        "nameUZ": "Ферула (коврак) уруғи",
+        "nameLAT": "Ferula (kovrak) urug’i",
+        "nameRU": "Ферула (каврак) семена",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01209001006002005",
+        "nameUZ": "Полиз экинлари уруғлари Bek ёғли, кўпиртирилган қиём билан, қулупнай таъмли кондитерли глазури билан глазурланган, ПП пакет 168 г",
+        "nameLAT": "Poliz ekinlari urug’lari Bek yog’li, ko’pirtirilgan qiyom bilan, qulupnay tamli konditerli glazuri bilan glazurlangan, PP paket 168 g",
+        "nameRU": "Семена бахчевых культур Bek сдобное со сбивной начинкой глазированный кондитерской глазурью со вкусом клубники Полипропиленовый пакет 168 г.",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01209001006001002",
+        "nameUZ": "Полиз экинлари уруғлари Biolavka тузланган, картон қути 1,5 кг",
+        "nameLAT": "Poliz ekinlari urug’lari Biolavka tuzlangan, karton quti 1,5 kg",
+        "nameRU": "Семена бахчевых культур Biolavka слоённое Картонная коробка 1,5 кг.",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01209001006002002",
+        "nameUZ": "Полиз экинлари уруғлари Bek ёғли, қуюлтирилган сут ва глазурида, ПЭ пакет 40 г",
+        "nameLAT": "Poliz ekinlari urug’lari Bek yog’li, quyultirilgan sut va glazurida, PE paket 40 g",
+        "nameRU": "Семена бахчевых культур Bek сдобное со сгущенкой и глазурью Полиэтиленовый пакет 40 г.",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01212001005000000",
+        "nameUZ": "Шакарқамиш",
+        "nameLAT": "Shakarqamish",
+        "nameRU": "Сахарный тростник",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01212001005002002",
+        "nameUZ": "Шакарқамиш Unitrade шакар рафинад қамишдан жигарранг",
+        "nameLAT": "Shakarqamish Unitrade shakar rafinad qamishdan jigarrang",
+        "nameRU": "Сахарный тростник Unitrade сахар рафинад тростниковый коричневый",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01212001005001006",
+        "nameUZ": "Шакарқамиш Sharqona шакар рафинад куб шаклида қамишдан",
+        "nameLAT": "Shakarqamish Sharqona shakar rafinad kub shaklida qamishdan",
+        "nameRU": "Сахарный тростник Sharqona сахар рафинад в форме кубика тростниковый",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01212001005001001",
+        "nameUZ": "Шакарқамиш Sharqona шакар қамишдан",
+        "nameLAT": "Shakarqamish Sharqona shakar qamishdan",
+        "nameRU": "Сахарный тростник Sharqona сахар тростниковый",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01212001005001004",
+        "nameUZ": "Шакарқамиш Sharqona шакар қамишдан Колумбиядан куб шаклида",
+        "nameLAT": "Shakarqamish Sharqona shakar qamishdan Kolumbiyadan kub shaklida",
+        "nameRU": "Сахарный тростник Sharqona сахар тростниковый из Колумбии в форме кубики",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01212001005001002",
+        "nameUZ": "Шакарқамиш Sharqona шакар қамишдан",
+        "nameLAT": "Shakarqamish Sharqona shakar qamishdan",
+        "nameRU": "Сахарный тростник Sharqona сахар тростниковый",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01212001005001007",
+        "nameUZ": "Шакарқамиш Sharqona шакар рафинад куб шаклида қамишдан",
+        "nameLAT": "Shakarqamish Sharqona shakar rafinad kub shaklida qamishdan",
+        "nameRU": "Сахарный тростник Sharqona сахар рафинад в форме кубика тростниковый",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01209001007000000",
+        "nameUZ": "Бута ва дарахт уруғлари",
+        "nameLAT": "Buta va daraxt urug’lari",
+        "nameRU": "Семена кустарников и деревьев",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01209001006001004",
+        "nameUZ": "Полиз экинлари уруғлари Biolavka тузланган, картон қути 2,0 кг",
+        "nameLAT": "Poliz ekinlari urug’lari Biolavka tuzlangan, karton quti 2,0 kg",
+        "nameRU": "Семена бахчевых культур Biolavka слоённое Картонная коробка 2,0 кг.",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01209001006002004",
+        "nameUZ": "Полиз экинлари уруғлари Bek ёғли, қуюлтирилган сут билан, картон қути 340 г",
+        "nameLAT": "Poliz ekinlari urug’lari Bek yog’li, quyultirilgan sut bilan, karton quti 340 g",
+        "nameRU": "Семена бахчевых культур Bek Сдобное со сгущенкой Картонная коробка 340 г.",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01209001006002006",
+        "nameUZ": "Полиз экинлари уруғлари Bek ёғли, қуюлтирилган сут билан,картон қути 170 г",
+        "nameLAT": "Poliz ekinlari urug’lari Bek yog’li, quyultirilgan sut bilan,karton quti 170 g",
+        "nameRU": "Семена бахчевых культур Bek Сдобное со сгущенкой Картонная коробка 170 г.",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01209001006002003",
+        "nameUZ": "Полиз экинлари уруғлари Bek ёғли, қуюлтирилган сут билан, ПЭ пакет 40 г",
+        "nameLAT": "Poliz ekinlari urug’lari Bek yog’li, quyultirilgan sut bilan, PE paket 40 g",
+        "nameRU": "Семена бахчевых культур Bek сдобное со сгущенкой Полиэтиленовый пакет 40 г.",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01209001006002008",
+        "nameUZ": "Полиз экинлари уруғлари Bek ёғли, қуюлтирилган сут билан, таёқча шаклида, картон Show Box 500 гр",
+        "nameLAT": "Poliz ekinlari urug’lari Bek yog’li, quyultirilgan sut bilan, tayoqcha shaklida, karton Show Box 500 gr",
+        "nameRU": "Семена бахчевых культур Bek сдобное со сгущённым молоком в виде палочек Картонный Show Box 500 гр.",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01209001005000000",
+        "nameUZ": "Томат (помидор) уруғи",
+        "nameLAT": "Tomat (pomidor) urug’i",
+        "nameRU": "Семена томатов (помидоров)",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01206001001000000",
+        "nameUZ": "Экиш учун кунгабоқар уруғлари",
+        "nameLAT": "Ekish uchun kungaboqar urug’lari",
+        "nameRU": "Семена подсолнечника для посева",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01207001005000000",
+        "nameUZ": "Қовоқ уруғи",
+        "nameLAT": "Qovoq urug’i",
+        "nameRU": "Семена тыквы",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01212001002010002",
+        "nameUZ": "Мевалар данаги ва уларнинг мағзи Spiris Dried Fruits Ўрик мағзи, полиэтилен пакетда 200",
+        "nameLAT": "Mevalar danagi va ularning mag’zi Spiris Dried Fruits O’rik mag’zi, polietilen paketda 200",
+        "nameRU": "Косточки плодов и их ядра Spiris Dried Fruits Ядра абрикоса Полиэтиленовый пакет 200",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01212001002000000",
+        "nameUZ": "Мевалар данаги ва уларнинг мағзи",
+        "nameLAT": "Mevalar danagi va ularning mag’zi",
+        "nameRU": "Косточки плодов и их ядра",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01209002001000000",
+        "nameUZ": "Гуллар уруғлари",
+        "nameLAT": "Gullar urug’lari",
+        "nameRU": "Семена цветов",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01212001006000000",
+        "nameUZ": "Денгиз ва бошқа сув ўтлари",
+        "nameLAT": "Dengiz va boshqa suv o’tlari",
+        "nameRU": "Морские и прочие водоросли",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01209001006002001",
+        "nameUZ": "Полиз экинлари уруғлари Bek ёғли, кўпиртирилган қиём билан, қулупнай таъмли кондитерли глазури билан глазурланган, ПП пакет 28 г",
+        "nameLAT": "Poliz ekinlari urug’lari Bek yog’li, ko’pirtirilgan qiyom bilan, qulupnay tamli konditerli glazuri bilan glazurlangan, PP paket 28 g",
+        "nameRU": "Семена бахчевых культур Bek сдобное со сбивной начинкой глазированный кондитерской глазурью со вкусом клубники Полипропиленовый пакет 28 г.",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01212001005001003",
+        "nameUZ": "Шакарқамиш Sharqona шакар қамишдан Колумбиядан куб шаклида",
+        "nameLAT": "Shakarqamish Sharqona shakar qamishdan Kolumbiyadan kub shaklida",
+        "nameRU": "Сахарный тростник Sharqona сахар тростниковый из Колумбии в форме кубики",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01213001001000001",
+        "nameUZ": "Ғалла похоли ва сомони босилган",
+        "nameLAT": "G’alla poxoli va somoni bosilgan",
+        "nameRU": "Солома и мякина зерновых прессованная",
+        "groupCODE": "012",
+        "groupNameUZ": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+        "groupNameRU": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ",
+        "groupNameLAT": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR"
+      }
+    ],
+    "recordTotal": 104,
+    "errors": null,
+    "permitted": false
+  }
+}

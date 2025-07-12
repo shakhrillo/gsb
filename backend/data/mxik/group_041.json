@@ -1,0 +1,127 @@
+{
+  "metadata": {
+    "groupId": 41,
+    "fetchedAt": "2025-07-12T16:32:46.498Z",
+    "source": "https://tasnif.soliq.uz/api/cl-api/integration-mxik/references/group/code?group=41"
+  },
+  "data": {
+    "success": true,
+    "code": 200,
+    "reason": null,
+    "data": [
+      {
+        "mxikCode": "04103001001000000",
+        "nameUZ": "Ишлов берилмаган терлар, 04101 ёки 04102 товар классларидаги товарлардан ташқари",
+        "nameLAT": "Ishlov berilmagan terlar, 04101 yoki 04102 tovar klasslaridagi tovarlardan tashqari",
+        "nameRU": "Необработанные шкуры, кроме входящих в товарные классы 04101 или 04102",
+        "groupCODE": "041",
+        "groupNameUZ": "ХОМ ВА КЕСИЛГАН ТЕРИ",
+        "groupNameRU": "НЕОБРАБОТАННЫЕ ШКУРЫ (КРОМЕ НАТУРАЛЬНОГО МЕХА) И ВЫДЕЛАННАЯ КОЖА",
+        "groupNameLAT": "XOM VA KESILGAN TERI"
+      },
+      {
+        "mxikCode": "04105001001000000",
+        "nameUZ": "Қўй ёки қўзиларнинг териларидан, жунсиз, келгусида қайта ишланмайдиган ошланган чарм ёки чарм краст",
+        "nameLAT": "Qo’y yoki qo’zilarning terilaridan, junsiz, kelgusida qayta ishlanmaydigan oshlangan charm yoki charm krast",
+        "nameRU": "Дубленая кожа или кожевенный краст из шкур овец или шкурок ягнят, без шерстного покрова, но без дальнейшей обработки",
+        "groupCODE": "041",
+        "groupNameUZ": "ХОМ ВА КЕСИЛГАН ТЕРИ",
+        "groupNameRU": "НЕОБРАБОТАННЫЕ ШКУРЫ (КРОМЕ НАТУРАЛЬНОГО МЕХА) И ВЫДЕЛАННАЯ КОЖА",
+        "groupNameLAT": "XOM VA KESILGAN TERI"
+      },
+      {
+        "mxikCode": "04106001001000000",
+        "nameUZ": "Бошқа ҳайвонларнинг териларидан, жунсиз, келгусида қайта ишланмайдиган ошланган чарм ёки чарм краст",
+        "nameLAT": "Boshqa hayvonlarning terilaridan, junsiz, kelgusida qayta ishlanmaydigan oshlangan charm yoki charm krast",
+        "nameRU": "Дубленая кожа или кожевенный краст из шкур прочих животных, без шерстного или волосяного покрова, но без дальнейшей обработки",
+        "groupCODE": "041",
+        "groupNameUZ": "ХОМ ВА КЕСИЛГАН ТЕРИ",
+        "groupNameRU": "НЕОБРАБОТАННЫЕ ШКУРЫ (КРОМЕ НАТУРАЛЬНОГО МЕХА) И ВЫДЕЛАННАЯ КОЖА",
+        "groupNameLAT": "XOM VA KESILGAN TERI"
+      },
+      {
+        "mxikCode": "04104001001000000",
+        "nameUZ": "Қайта ишланган қорамол терилари",
+        "nameLAT": "Qayta ishlangan qoramol terilari",
+        "nameRU": "Дубленая кожа или кожевенный краст из шкур крупного рогатого скота",
+        "groupCODE": "041",
+        "groupNameUZ": "ХОМ ВА КЕСИЛГАН ТЕРИ",
+        "groupNameRU": "НЕОБРАБОТАННЫЕ ШКУРЫ (КРОМЕ НАТУРАЛЬНОГО МЕХА) И ВЫДЕЛАННАЯ КОЖА",
+        "groupNameLAT": "XOM VA KESILGAN TERI"
+      },
+      {
+        "mxikCode": "04107001001000000",
+        "nameUZ": "Ошланган чарм ёки чарм крастга қўшимча ишлов берилган, жумладан пергамент қопланган қорамол (жумладан, буйвол) ёки отсимонлар оиласига таалуқли ҳайвонлар терилари, 04114 товар синфидаги теридан ташқари",
+        "nameLAT": "Oshlangan charm yoki charm krastga qo’shimcha ishlov berilgan, jumladan pergament qoplangan qoramol (jumladan, buyvol) yoki otsimonlar oilasiga taaluqli hayvonlar terilari, 04114 tovar sinfidagi teridan tashqari",
+        "nameRU": "Кожа, дополнительно обработанная после дубления или в виде кожевенного краста, включая выделанную под пергамент, кроме кожи товарного класса 04114",
+        "groupCODE": "041",
+        "groupNameUZ": "ХОМ ВА КЕСИЛГАН ТЕРИ",
+        "groupNameRU": "НЕОБРАБОТАННЫЕ ШКУРЫ (КРОМЕ НАТУРАЛЬНОГО МЕХА) И ВЫДЕЛАННАЯ КОЖА",
+        "groupNameLAT": "XOM VA KESILGAN TERI"
+      },
+      {
+        "mxikCode": "04115001003000000",
+        "nameUZ": "Табиий ёки композит тери қирқинди ва бошқа чиқиндилар",
+        "nameLAT": "Tabiiy yoki kompozit teri qirqindi va boshqa chiqindilar",
+        "nameRU": "Обрезь и прочие отходы натуральной или композиционной кожи",
+        "groupCODE": "041",
+        "groupNameUZ": "ХОМ ВА КЕСИЛГАН ТЕРИ",
+        "groupNameRU": "НЕОБРАБОТАННЫЕ ШКУРЫ (КРОМЕ НАТУРАЛЬНОГО МЕХА) И ВЫДЕЛАННАЯ КОЖА",
+        "groupNameLAT": "XOM VA KESILGAN TERI"
+      },
+      {
+        "mxikCode": "04115001002000000",
+        "nameUZ": "Композит тери",
+        "nameLAT": "Kompozit teri",
+        "nameRU": "Композиционная кожа",
+        "groupCODE": "041",
+        "groupNameUZ": "ХОМ ВА КЕСИЛГАН ТЕРИ",
+        "groupNameRU": "НЕОБРАБОТАННЫЕ ШКУРЫ (КРОМЕ НАТУРАЛЬНОГО МЕХА) И ВЫДЕЛАННАЯ КОЖА",
+        "groupNameLAT": "XOM VA KESILGAN TERI"
+      },
+      {
+        "mxikCode": "04101001001000000",
+        "nameUZ": "Ишлов берилмаган қорамол (жумладан, буйвол) ёки отсимонлар оиласига тааллуқли ҳайвонлар терилари",
+        "nameLAT": "Ishlov berilmagan qoramol (jumladan, buyvol) yoki otsimonlar oilasiga taalluqli hayvonlar terilari",
+        "nameRU": "Необработанные шкуры крупного рогатого скота (включая буйволов) или животных семейства лошадиных",
+        "groupCODE": "041",
+        "groupNameUZ": "ХОМ ВА КЕСИЛГАН ТЕРИ",
+        "groupNameRU": "НЕОБРАБОТАННЫЕ ШКУРЫ (КРОМЕ НАТУРАЛЬНОГО МЕХА) И ВЫДЕЛАННАЯ КОЖА",
+        "groupNameLAT": "XOM VA KESILGAN TERI"
+      },
+      {
+        "mxikCode": "04102001001000000",
+        "nameUZ": "Ишлов берилмаган қўй ёки қўзиларнинг терилари",
+        "nameLAT": "Ishlov berilmagan qo’y yoki qo’zilarning terilari",
+        "nameRU": "Необработанные шкуры овец или шкурки ягнят",
+        "groupCODE": "041",
+        "groupNameUZ": "ХОМ ВА КЕСИЛГАН ТЕРИ",
+        "groupNameRU": "НЕОБРАБОТАННЫЕ ШКУРЫ (КРОМЕ НАТУРАЛЬНОГО МЕХА) И ВЫДЕЛАННАЯ КОЖА",
+        "groupNameLAT": "XOM VA KESILGAN TERI"
+      },
+      {
+        "mxikCode": "04114001002000000",
+        "nameUZ": "Локланган чарм ва ламинацияланган локланган чарм, металлизацияланган чарм",
+        "nameLAT": "Loklangan charm va laminatsiyalangan loklangan charm, metallizatsiyalangan charm",
+        "nameRU": "Лаковая кожа и лаковая ламинированная кожа, металлизированная кожа",
+        "groupCODE": "041",
+        "groupNameUZ": "ХОМ ВА КЕСИЛГАН ТЕРИ",
+        "groupNameRU": "НЕОБРАБОТАННЫЕ ШКУРЫ (КРОМЕ НАТУРАЛЬНОГО МЕХА) И ВЫДЕЛАННАЯ КОЖА",
+        "groupNameLAT": "XOM VA KESILGAN TERI"
+      },
+      {
+        "mxikCode": "04114001001000000",
+        "nameUZ": "Замш (жумладан, комбинацияланган замша)",
+        "nameLAT": "Zamsh (jumladan, kombinatsiyalangan zamsha)",
+        "nameRU": "Замша (включая комбинированную замшу)",
+        "groupCODE": "041",
+        "groupNameUZ": "ХОМ ВА КЕСИЛГАН ТЕРИ",
+        "groupNameRU": "НЕОБРАБОТАННЫЕ ШКУРЫ (КРОМЕ НАТУРАЛЬНОГО МЕХА) И ВЫДЕЛАННАЯ КОЖА",
+        "groupNameLAT": "XOM VA KESILGAN TERI"
+      }
+    ],
+    "recordTotal": 11,
+    "errors": null,
+    "permitted": false
+  }
+}

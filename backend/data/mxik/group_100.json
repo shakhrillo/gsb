@@ -1,0 +1,387 @@
+{
+  "metadata": {
+    "groupId": 100,
+    "fetchedAt": "2025-07-12T16:38:05.083Z",
+    "source": "https://tasnif.soliq.uz/api/cl-api/integration-mxik/references/group/code?group=100"
+  },
+  "data": {
+    "success": true,
+    "code": 200,
+    "reason": null,
+    "data": [
+      {
+        "mxikCode": "10013001010000000",
+        "nameUZ": "Эшиклар, деразалар, эшик қулфлари ва бошқа шунга ўхшаш маҳсулотларни ўрнатиш ва техник хизмат кўрсатиш бўйича хизматлар",
+        "nameLAT": "Eshiklar, derazalar, eshik qulflari va boshqa shunga o’xshash mahsulotlarni o’rnatish va texnik xizmat ko’rsatish bo’yicha xizmatlar",
+        "nameRU": "Услуги монтажа и обслуживанию дверей, окон, дверных замков и других аналогичных изделий",
+        "groupCODE": "100",
+        "groupNameUZ": "ҚУРИЛИШ ХИЗМАТЛАРИ",
+        "groupNameRU": "СТРОИТЕЛЬНЫЕ УСЛУГИ",
+        "groupNameLAT": "QURILISh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10011001006000000",
+        "nameUZ": "Маълумотлар узатиш тармоқларини қуриш, ўрнатиш ва ишга тушириш хизматлари",
+        "nameLAT": "Malumotlar uzatish tarmoqlarini qurish, o’rnatish va ishga tushirish xizmatlari",
+        "nameRU": "Услуги по строительству, монтажу и пуско-наладке сетей передачи данных",
+        "groupCODE": "100",
+        "groupNameUZ": "ҚУРИЛИШ ХИЗМАТЛАРИ",
+        "groupNameRU": "СТРОИТЕЛЬНЫЕ УСЛУГИ",
+        "groupNameLAT": "QURILISh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10015001003000000",
+        "nameUZ": "Хавфли ишлаб чиқариш объектларини аниқлаш хизматлари",
+        "nameLAT": "Xavfli ishlab chiqarish obyektlarini aniqlash xizmatlari",
+        "nameRU": "Услуги идентификации опасных производственных обьектов",
+        "groupCODE": "100",
+        "groupNameUZ": "ҚУРИЛИШ ХИЗМАТЛАРИ",
+        "groupNameRU": "СТРОИТЕЛЬНЫЕ УСЛУГИ",
+        "groupNameLAT": "QURILISh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10012002003000000",
+        "nameUZ": "Барча турдаги коммунал тармоқларни реконструкция қилиш хизмати",
+        "nameLAT": "Barcha turdagi kommunal tarmoqlarni rekonstruksiya qilish xizmati",
+        "nameRU": "Услуга по реконструкции коммунальных сетей всех видов",
+        "groupCODE": "100",
+        "groupNameUZ": "ҚУРИЛИШ ХИЗМАТЛАРИ",
+        "groupNameRU": "СТРОИТЕЛЬНЫЕ УСЛУГИ",
+        "groupNameLAT": "QURILISh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10012003001000000",
+        "nameUZ": "Биноларни капитал ва жорий таъмирлаш хизматлари (яшашга тайёр)",
+        "nameLAT": "Binolarni kapital va joriy tamirlash xizmatlari (yashashga tayyor)",
+        "nameRU": "Услуги капитального и текущего ремонта помещений (комплексный ремонт, \"под ключ\")",
+        "groupCODE": "100",
+        "groupNameUZ": "ҚУРИЛИШ ХИЗМАТЛАРИ",
+        "groupNameRU": "СТРОИТЕЛЬНЫЕ УСЛУГИ",
+        "groupNameLAT": "QURILISh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10012001002000000",
+        "nameUZ": "Бино ва иншоотларни (унинг алоҳида қисмларини) жорий (шу жумладан қисман)таъмирлаш хизматлари",
+        "nameLAT": "Bino va inshootlarni (uning alohida qismlarini) joriy (shu jumladan qisman)tamirlash xizmatlari",
+        "nameRU": "Услуги текущего (в т.ч. частичного) ремонта зданий и сооружений (его отдельных частей)",
+        "groupCODE": "100",
+        "groupNameUZ": "ҚУРИЛИШ ХИЗМАТЛАРИ",
+        "groupNameRU": "СТРОИТЕЛЬНЫЕ УСЛУГИ",
+        "groupNameLAT": "QURILISh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10013001001000000",
+        "nameUZ": "Сантехника хизматлари (барча турдаги)",
+        "nameLAT": "Santexnika xizmatlari (barcha turdagi)",
+        "nameRU": "Сантехнические услуги (всех видов)",
+        "groupCODE": "100",
+        "groupNameUZ": "ҚУРИЛИШ ХИЗМАТЛАРИ",
+        "groupNameRU": "СТРОИТЕЛЬНЫЕ УСЛУГИ",
+        "groupNameLAT": "QURILISh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10011001001000000",
+        "nameUZ": "Бино ва иншоотларни қуриш хизмати",
+        "nameLAT": "Bino va inshootlarni qurish xizmati",
+        "nameRU": "Услуга по строительству зданий и сооружений",
+        "groupCODE": "100",
+        "groupNameUZ": "ҚУРИЛИШ ХИЗМАТЛАРИ",
+        "groupNameRU": "СТРОИТЕЛЬНЫЕ УСЛУГИ",
+        "groupNameLAT": "QURILISh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10013001998000000",
+        "nameUZ": "Пойдеворларни, полларни, деворларни ва бошқа қурилиш элементларини ташқи омиллар таъсиридан ҳимоя қилиш бўйича хизматлар (барча турдаги)",
+        "nameLAT": "Poydevorlarni, pollarni, devorlarni va boshqa qurilish elementlarini tashqi omillar tasiridan himoya qilish bo’yicha xizmatlar (barcha turdagi)",
+        "nameRU": "Услуги по защите фундаментов, полов, стен и других строительных эллементов от воздействия внешних факторов (всех видов)",
+        "groupCODE": "100",
+        "groupNameUZ": "ҚУРИЛИШ ХИЗМАТЛАРИ",
+        "groupNameRU": "СТРОИТЕЛЬНЫЕ УСЛУГИ",
+        "groupNameLAT": "QURILISh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10098001999000000",
+        "nameUZ": "Бошқа қурилиш хизматлари",
+        "nameLAT": "Boshqa qurilish xizmatlari",
+        "nameRU": "Прочие строительные работы",
+        "groupCODE": "100",
+        "groupNameUZ": "ҚУРИЛИШ ХИЗМАТЛАРИ",
+        "groupNameRU": "СТРОИТЕЛЬНЫЕ УСЛУГИ",
+        "groupNameLAT": "QURILISh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10012002002000000",
+        "nameUZ": "Ирригация каналларини ва мелиоратив тизимларни реконструкция қилиш хазматлари",
+        "nameLAT": "Irrigatsiya kanallarini va meliorativ tizimlarni rekonstruksiya qilish xazmatlari",
+        "nameRU": "Услуги по реконструкции ирригационных и мелиоративных сетей",
+        "groupCODE": "100",
+        "groupNameUZ": "ҚУРИЛИШ ХИЗМАТЛАРИ",
+        "groupNameRU": "СТРОИТЕЛЬНЫЕ УСЛУГИ",
+        "groupNameLAT": "QURILISh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10098001998000000",
+        "nameUZ": "Бошқа автомобил йўллари хизматлари",
+        "nameLAT": "Boshqa avtomobil yo’llari xizmatlari",
+        "nameRU": "Услуги автодорожные прочие",
+        "groupCODE": "100",
+        "groupNameUZ": "ҚУРИЛИШ ХИЗМАТЛАРИ",
+        "groupNameRU": "СТРОИТЕЛЬНЫЕ УСЛУГИ",
+        "groupNameLAT": "QURILISh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10013001003000000",
+        "nameUZ": "Бўёқчилик хизматлари (барча турдаги)",
+        "nameLAT": "Bo’yoqchilik xizmatlari (barcha turdagi)",
+        "nameRU": "Малярные услуги (всех видов)",
+        "groupCODE": "100",
+        "groupNameUZ": "ҚУРИЛИШ ХИЗМАТЛАРИ",
+        "groupNameRU": "СТРОИТЕЛЬНЫЕ УСЛУГИ",
+        "groupNameLAT": "QURILISh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10014001001000000",
+        "nameUZ": "Лойиҳалаштириш ва дизайн (шу жумладан ландшафт ва флористика) хизматлари",
+        "nameLAT": "Loyihalashtirish va dizayn (shu jumladan landshaft va floristika) xizmatlari",
+        "nameRU": "Услуги по проектированию и дизайну (в том числе ландшафтному и флористике)",
+        "groupCODE": "100",
+        "groupNameUZ": "ҚУРИЛИШ ХИЗМАТЛАРИ",
+        "groupNameRU": "СТРОИТЕЛЬНЫЕ УСЛУГИ",
+        "groupNameLAT": "QURILISh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10015001002000000",
+        "nameUZ": "Қурилиш иншоотлари, объектлари ва ишларини лаборатория ишлари ва синовлари хизматлари",
+        "nameLAT": "Qurilish inshootlari, obyektlari va ishlarini laboratoriya ishlari va sinovlari xizmatlari",
+        "nameRU": "Услуги лабораторных работ и испытаний строительных конструкций, объектов и работ",
+        "groupCODE": "100",
+        "groupNameUZ": "ҚУРИЛИШ ХИЗМАТЛАРИ",
+        "groupNameRU": "СТРОИТЕЛЬНЫЕ УСЛУГИ",
+        "groupNameLAT": "QURILISh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10013001004000000",
+        "nameUZ": "Бетон ишлари (барча турдаги)",
+        "nameLAT": "Beton ishlari (barcha turdagi)",
+        "nameRU": "Бетонные работы (всех видов)",
+        "groupCODE": "100",
+        "groupNameUZ": "ҚУРИЛИШ ХИЗМАТЛАРИ",
+        "groupNameRU": "СТРОИТЕЛЬНЫЕ УСЛУГИ",
+        "groupNameLAT": "QURILISh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10013001007000000",
+        "nameUZ": "Пайвандлаш ишлари (барча турлари)",
+        "nameLAT": "Payvandlash ishlari (barcha turlari)",
+        "nameRU": "Сварочные работы (всех видов)",
+        "groupCODE": "100",
+        "groupNameUZ": "ҚУРИЛИШ ХИЗМАТЛАРИ",
+        "groupNameRU": "СТРОИТЕЛЬНЫЕ УСЛУГИ",
+        "groupNameLAT": "QURILISh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10012002001000000",
+        "nameUZ": "Бинолар, иморатлар ва иншоотларни реконструкция қилиш хазматлари",
+        "nameLAT": "Binolar, imoratlar va inshootlarni rekonstruksiya qilish xazmatlari",
+        "nameRU": "Услуги по реконструкции зданий, сооружений, помещений",
+        "groupCODE": "100",
+        "groupNameUZ": "ҚУРИЛИШ ХИЗМАТЛАРИ",
+        "groupNameRU": "СТРОИТЕЛЬНЫЕ УСЛУГИ",
+        "groupNameLAT": "QURILISh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10014003002000000",
+        "nameUZ": "Сифатни назорат қилиш ва текшириш (шу жумладан паспортлаштириш), қурилиш объектлари ва барча турдаги ишларни текшириш хизматлари",
+        "nameLAT": "Sifatni nazorat qilish va tekshirish (shu jumladan pasportlashtirish), qurilish obyektlari va barcha turdagi ishlarni tekshirish xizmatlari",
+        "nameRU": "Услуга по контролю и проверке качества (в т.ч. с паспортизацией), техобследований строительных объектов и работ всех видов",
+        "groupCODE": "100",
+        "groupNameUZ": "ҚУРИЛИШ ХИЗМАТЛАРИ",
+        "groupNameRU": "СТРОИТЕЛЬНЫЕ УСЛУГИ",
+        "groupNameLAT": "QURILISh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10011001999000000",
+        "nameUZ": "Бошқа объектларни қуриш бўйича хизматлар (бинолар, иншоотлар, автомобил йўллари, модулли ва металл конструкциялардан ташқари)",
+        "nameLAT": "Boshqa obyektlarni qurish bo’yicha xizmatlar (binolar, inshootlar, avtomobil yo’llari, modulli va metall konstruksiyalardan tashqari)",
+        "nameRU": "Услуги по строительству других объектов (кроме зданий, сооружений, автодорог, модульных и металлоконструкций)",
+        "groupCODE": "100",
+        "groupNameUZ": "ҚУРИЛИШ ХИЗМАТЛАРИ",
+        "groupNameRU": "СТРОИТЕЛЬНЫЕ УСЛУГИ",
+        "groupNameLAT": "QURILISh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10011001002000000",
+        "nameUZ": "Барча турдаги автомобил йўлларини қуриш хизматлари (йўл-қурилиш ишлари)",
+        "nameLAT": "Barcha turdagi avtomobil yo’llarini qurish xizmatlari (yo’l-qurilish ishlari)",
+        "nameRU": "Услуги по строительству автодорог всех типов (дорожно-строительные работы)",
+        "groupCODE": "100",
+        "groupNameUZ": "ҚУРИЛИШ ХИЗМАТЛАРИ",
+        "groupNameRU": "СТРОИТЕЛЬНЫЕ УСЛУГИ",
+        "groupNameLAT": "QURILISh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10012001001000000",
+        "nameUZ": "Бино ва иншоотларни капитал таъмирлаш хизматлари",
+        "nameLAT": "Bino va inshootlarni kapital tamirlash xizmatlari",
+        "nameRU": "Услуги капитального ремонта зданий и сооружений",
+        "groupCODE": "100",
+        "groupNameUZ": "ҚУРИЛИШ ХИЗМАТЛАРИ",
+        "groupNameRU": "СТРОИТЕЛЬНЫЕ УСЛУГИ",
+        "groupNameLAT": "QURILISh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10013001009000000",
+        "nameUZ": "Тайёргарлик, демонтаж хизматлари (барча турдаги)",
+        "nameLAT": "Tayyorgarlik, demontaj xizmatlari (barcha turdagi)",
+        "nameRU": "Услуги подготовительные, демонтажные (всех видов)",
+        "groupCODE": "100",
+        "groupNameUZ": "ҚУРИЛИШ ХИЗМАТЛАРИ",
+        "groupNameRU": "СТРОИТЕЛЬНЫЕ УСЛУГИ",
+        "groupNameLAT": "QURILISh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10015001001000000",
+        "nameUZ": "Қурилиш материалларини лаборатория синовлари хизматлари",
+        "nameLAT": "Qurilish materiallarini laboratoriya sinovlari xizmatlari",
+        "nameRU": "Услуги лабораторных испытаний строительных материалов",
+        "groupCODE": "100",
+        "groupNameUZ": "ҚУРИЛИШ ХИЗМАТЛАРИ",
+        "groupNameRU": "СТРОИТЕЛЬНЫЕ УСЛУГИ",
+        "groupNameLAT": "QURILISh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10012001003000000",
+        "nameUZ": "Автомобиль йўлларини, коммунал линияларни, ирригация каналларини, мелиоратив тизимларни жорий таъмирлаш, диагностика қилиш ва техник хизмат кўрсатиш бўйича хизматлар",
+        "nameLAT": "Avtomobil yo’llarini, kommunal liniyalarni, irrigatsiya kanallarini, meliorativ tizimlarni joriy tamirlash, diagnostika qilish va texnik xizmat ko’rsatish bo’yicha xizmatlar",
+        "nameRU": "Услуги по текущему ремонту, диагностике и техсобслуживанию автодорог, коммунальных линий, ирригационных каналов, меллиоративных систем",
+        "groupCODE": "100",
+        "groupNameUZ": "ҚУРИЛИШ ХИЗМАТЛАРИ",
+        "groupNameRU": "СТРОИТЕЛЬНЫЕ УСЛУГИ",
+        "groupNameLAT": "QURILISh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10098001001000000",
+        "nameUZ": "Бош пудратчи хизматлари (бош пудратчи фоизлари)",
+        "nameLAT": "Bosh pudratchi xizmatlari (bosh pudratchi foizlari)",
+        "nameRU": "Услуги генподряда (генподрядный процент)",
+        "groupCODE": "100",
+        "groupNameUZ": "ҚУРИЛИШ ХИЗМАТЛАРИ",
+        "groupNameRU": "СТРОИТЕЛЬНЫЕ УСЛУГИ",
+        "groupNameLAT": "QURILISh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10014003001000000",
+        "nameUZ": "Муаллифлик назорати хизматлари (қурилиш объектлари ва ишларининг барча турлари бўйича)",
+        "nameLAT": "Mualliflik nazorati xizmatlari (qurilish obyektlari va ishlarining barcha turlari bo’yicha)",
+        "nameRU": "Услуги авторского надзора (по всем типам строительных объектов и работ)",
+        "groupCODE": "100",
+        "groupNameUZ": "ҚУРИЛИШ ХИЗМАТЛАРИ",
+        "groupNameRU": "СТРОИТЕЛЬНЫЕ УСЛУГИ",
+        "groupNameLAT": "QURILISh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10012001004000000",
+        "nameUZ": "Темир йўлларни жорий таъмирлаш, диагностика қилиш ва техник хизмат кўрсатиш бўйича хизматлар",
+        "nameLAT": "Temir yo’llarni joriy tamirlash, diagnostika qilish va texnik xizmat ko’rsatish bo’yicha xizmatlar",
+        "nameRU": "Услуги текущего ремонта, диагностики и техобслуживания железных дорог",
+        "groupCODE": "100",
+        "groupNameUZ": "ҚУРИЛИШ ХИЗМАТЛАРИ",
+        "groupNameRU": "СТРОИТЕЛЬНЫЕ УСЛУГИ",
+        "groupNameLAT": "QURILISh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10013001002000000",
+        "nameUZ": "Электр ва кабелларни монтаж қилиш хизматлари (барча турдаги)",
+        "nameLAT": "Elektr va kabellarni montaj qilish xizmatlari (barcha turdagi)",
+        "nameRU": "Услуги электромонтажные и монтаж кабелей (всех видов)",
+        "groupCODE": "100",
+        "groupNameUZ": "ҚУРИЛИШ ХИЗМАТЛАРИ",
+        "groupNameRU": "СТРОИТЕЛЬНЫЕ УСЛУГИ",
+        "groupNameLAT": "QURILISh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10011001003000000",
+        "nameUZ": "Барча турдаги металл конструкциялар ва енгил конструкцияларни (модулли, иссиқхоналар, тўсиқлар ва бошқалар) қуриш, ўрнатиш ва монтаж қилиш хизматлари",
+        "nameLAT": "Barcha turdagi metall konstruksiyalar va yengil konstruksiyalarni (modulli, issiqxonalar, to’siqlar va boshqalar) qurish, o’rnatish va montaj qilish xizmatlari",
+        "nameRU": "Услуги по строительству, установке и монтажу металоконтрукций и легких конструкций всех типов (модульные, теплицы, заборы и т.д.)",
+        "groupCODE": "100",
+        "groupNameUZ": "ҚУРИЛИШ ХИЗМАТЛАРИ",
+        "groupNameRU": "СТРОИТЕЛЬНЫЕ УСЛУГИ",
+        "groupNameLAT": "QURILISh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10098001002000000",
+        "nameUZ": "Устки қатламни очиш ишлари",
+        "nameLAT": "Ustki qatlamni ochish ishlari",
+        "nameRU": "Вскрышные работы",
+        "groupCODE": "100",
+        "groupNameUZ": "ҚУРИЛИШ ХИЗМАТЛАРИ",
+        "groupNameRU": "СТРОИТЕЛЬНЫЕ УСЛУГИ",
+        "groupNameLAT": "QURILISH XIZMATLARI"
+      },
+      {
+        "mxikCode": "10011001005000000",
+        "nameUZ": "Биноларни, иншоотларни, йўлларни, мелиоратив тизимларни монтаж ва демонтаж қилиш,  коммунал линияларни ётқизиш ва ойнаклаш хизматлари",
+        "nameLAT": "Binolarni, inshootlarni, yo’llarni, meliorativ tizimlarni montaj va demontaj qilish,  kommunal liniyalarni yotqizish va oynaklash xizmatlari",
+        "nameRU": "Услуги по монтажу и демонтажу зданий, остеклению сооружений, дорог, мелиоративных систем и прокладке коммунальных линий",
+        "groupCODE": "100",
+        "groupNameUZ": "ҚУРИЛИШ ХИЗМАТЛАРИ",
+        "groupNameRU": "СТРОИТЕЛЬНЫЕ УСЛУГИ",
+        "groupNameLAT": "QURILISh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10013001006000000",
+        "nameUZ": "Гранит ва тош, шу жумладан мармар ишлари (барча турдаги)",
+        "nameLAT": "Granit va tosh, shu jumladan marmar ishlari (barcha turdagi)",
+        "nameRU": "Гранитно-каменные работы, в т.ч. мраморные (всех видов)",
+        "groupCODE": "100",
+        "groupNameUZ": "ҚУРИЛИШ ХИЗМАТЛАРИ",
+        "groupNameRU": "СТРОИТЕЛЬНЫЕ УСЛУГИ",
+        "groupNameLAT": "QURILISh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10013001005000000",
+        "nameUZ": "Кафел ишлари (барча турдаги)",
+        "nameLAT": "Kafel ishlari (barcha turdagi)",
+        "nameRU": "Кафельные работы (всех видов)",
+        "groupCODE": "100",
+        "groupNameUZ": "ҚУРИЛИШ ХИЗМАТЛАРИ",
+        "groupNameRU": "СТРОИТЕЛЬНЫЕ УСЛУГИ",
+        "groupNameLAT": "QURILISh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10013001999000000",
+        "nameUZ": "Бошқа қурилиш-монтаж ва таъмирлаш хизматлари",
+        "nameLAT": "Boshqa qurilish-montaj va tamirlash xizmatlari",
+        "nameRU": "Прочие услуги строительно-монтажные и ремонтные",
+        "groupCODE": "100",
+        "groupNameUZ": "ҚУРИЛИШ ХИЗМАТЛАРИ",
+        "groupNameRU": "СТРОИТЕЛЬНЫЕ УСЛУГИ",
+        "groupNameLAT": "QURILISh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10011001004000000",
+        "nameUZ": "Коммунал линияларни (сув таъминоти, канализация, электро ва газ линиялари тизимларини), ирригация каналларини, мелиоратив тизимларни ва бошқаларни қуриш ва ўтказиш бўйича хизматлар",
+        "nameLAT": "Kommunal liniyalarni (suv taminoti, kanalizatsiya, elektro va gaz liniyalari tizimlarini), irrigatsiya kanallarini, meliorativ tizimlarni va boshqalarni qurish va o’tkazish bo’yicha xizmatlar",
+        "nameRU": "Услуги по строительству и прокладке коммунальных линий (систем водоснабжения, канализации, электро и газо линий), ирригационных каналов, мелиоративные системы и пр.",
+        "groupCODE": "100",
+        "groupNameUZ": "ҚУРИЛИШ ХИЗМАТЛАРИ",
+        "groupNameRU": "СТРОИТЕЛЬНЫЕ УСЛУГИ",
+        "groupNameLAT": "QURILISh XIZMATLARI"
+      },
+      {
+        "mxikCode": "10014002001000000",
+        "nameUZ": "Қурилиш объектлари ва барча турдаги ишларнинг лойиҳа-смета ҳужжатларини ишлаб чиқиш хизматлари",
+        "nameLAT": "Qurilish obyektlari va barcha turdagi ishlarning loyiha-smeta hujjatlarini ishlab chiqish xizmatlari",
+        "nameRU": "Услуги разработки проектно-сметной документации строительных объектов и работ всех видов",
+        "groupCODE": "100",
+        "groupNameUZ": "ҚУРИЛИШ ХИЗМАТЛАРИ",
+        "groupNameRU": "СТРОИТЕЛЬНЫЕ УСЛУГИ",
+        "groupNameLAT": "QURILISh XIZMATLARI"
+      }
+    ],
+    "recordTotal": 37,
+    "errors": null,
+    "permitted": false
+  }
+}

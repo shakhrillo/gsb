@@ -1,0 +1,119 @@
+openapi: 3.0.0
+info:
+  title: Buyurtma API
+  version: 1.0.0
+  description: API documentation using Swagger and YAML
+servers:
+  - url: http://localhost:2000
+    description: Local development server
+
+paths:
+  /api/login:
+    post:
+      tags:
+        - Authentication
+      summary: User login
+      description: Authenticate a user and return a JWT token.
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/User'
+      responses:
+        '200':
+          description: User authenticated successfully
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  token:
+                    type: string
+                    example: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9..."
+        '400':
+          description: Bad request
+        '401':
+          description: Unauthorized
+        '500':
+          description: Internal server error
+  /api/products:
+    put: 
+      tags:
+        - Products
+      summary: Update an existing product
+      description: Update the details of an existing product in the database.
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/Product'
+      responses:
+        '200':
+          description: Product updated successfully
+        '400':
+          description: Bad request
+        '404':
+          description: Product not found
+        '500':
+          description: Internal server error
+    post:
+      tags:
+        - Products
+      summary: Add a new product
+      description: Create a new product and add it to the database.
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/Product'
+      responses:
+        '201':
+          description: Product created successfully
+        '400':
+          description: Bad request
+        '500':
+          description: Internal server error
+
+components:
+  schemas:
+    User:
+      type: object
+      required:
+        - username
+        - password
+    Product:
+      type: object
+      required:
+        - name
+        - price
+        - unit
+        - categoryId
+        - merchantId
+      properties:
+        name:
+          type: string
+          example: "Fresh Milk 1L"
+        description:
+          type: string
+          example: "Organic whole milk"
+        price:
+          type: number
+          example: 1.5
+        unit:
+          type: string
+          example: "liter"
+        isAvailable:
+          type: boolean
+          example: true
+        imageUrl:
+          type: string
+          example: "https://example.com/image.jpg"
+        categoryId:
+          type: string
+          example: "dairy"
+        merchantId:
+          type: string
+          example: "merchant123"

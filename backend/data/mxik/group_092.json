@@ -1,0 +1,517 @@
+{
+  "metadata": {
+    "groupId": 92,
+    "fetchedAt": "2025-07-12T16:36:29.057Z",
+    "source": "https://tasnif.soliq.uz/api/cl-api/integration-mxik/references/group/code?group=92"
+  },
+  "data": {
+    "success": true,
+    "code": 200,
+    "reason": null,
+    "data": [
+      {
+        "mxikCode": "09201001002000000",
+        "nameUZ": "Рояль",
+        "nameLAT": "Royal",
+        "nameRU": "Рояль",
+        "groupCODE": "092",
+        "groupNameUZ": "МУСИҚА АСБОБЛАРИ",
+        "groupNameRU": "МУЗЫКАЛЬНЫЕ ИНСТРУМЕНТЫ",
+        "groupNameLAT": "MUSIQA ASBOBLARI"
+      },
+      {
+        "mxikCode": "09201001004000000",
+        "nameUZ": "Бошқа клавиатурали торли асбоблар",
+        "nameLAT": "Boshqa klaviaturali torli asboblar",
+        "nameRU": "Прочие клавишные струнные инструменты",
+        "groupCODE": "092",
+        "groupNameUZ": "МУСИҚА АСБОБЛАРИ",
+        "groupNameRU": "МУЗЫКАЛЬНЫЕ ИНСТРУМЕНТЫ",
+        "groupNameLAT": "MUSIQA ASBOBLARI"
+      },
+      {
+        "mxikCode": "09202001007000000",
+        "nameUZ": "Бузуки",
+        "nameLAT": "Buzuki",
+        "nameRU": "Бузуки",
+        "groupCODE": "092",
+        "groupNameUZ": "МУСИҚА АСБОБЛАРИ",
+        "groupNameRU": "МУЗЫКАЛЬНЫЕ ИНСТРУМЕНТЫ",
+        "groupNameLAT": "MUSIQA ASBOBLARI"
+      },
+      {
+        "mxikCode": "09205001003000000",
+        "nameUZ": "Най",
+        "nameLAT": "Nay",
+        "nameRU": "Най",
+        "groupCODE": "092",
+        "groupNameUZ": "МУСИҚА АСБОБЛАРИ",
+        "groupNameRU": "МУЗЫКАЛЬНЫЕ ИНСТРУМЕНТЫ",
+        "groupNameLAT": "MUSIQA ASBOBLARI"
+      },
+      {
+        "mxikCode": "09205001005000000",
+        "nameUZ": "Валторна",
+        "nameLAT": "Valtorna",
+        "nameRU": "Валторна",
+        "groupCODE": "092",
+        "groupNameUZ": "МУСИҚА АСБОБЛАРИ",
+        "groupNameRU": "МУЗЫКАЛЬНЫЕ ИНСТРУМЕНТЫ",
+        "groupNameLAT": "MUSIQA ASBOBLARI"
+      },
+      {
+        "mxikCode": "09209002001000000",
+        "nameUZ": "Гитара учун каподастр",
+        "nameLAT": "Gitara uchun kapodastr",
+        "nameRU": "Каподастр для гитары",
+        "groupCODE": "092",
+        "groupNameUZ": "МУСИҚА АСБОБЛАРИ",
+        "groupNameRU": "МУЗЫКАЛЬНЫЕ ИНСТРУМЕНТЫ",
+        "groupNameLAT": "MUSIQA ASBOBLARI"
+      },
+      {
+        "mxikCode": "09202001006000000",
+        "nameUZ": "Рубаб",
+        "nameLAT": "Rubab",
+        "nameRU": "Рубоб",
+        "groupCODE": "092",
+        "groupNameUZ": "МУСИҚА АСБОБЛАРИ",
+        "groupNameRU": "МУЗЫКАЛЬНЫЕ ИНСТРУМЕНТЫ",
+        "groupNameLAT": "MUSIQA ASBOBLARI"
+      },
+      {
+        "mxikCode": "09201001001000000",
+        "nameUZ": "Пианино",
+        "nameLAT": "Pianino",
+        "nameRU": "Пианино",
+        "groupCODE": "092",
+        "groupNameUZ": "МУСИҚА АСБОБЛАРИ",
+        "groupNameRU": "МУЗЫКАЛЬНЫЕ ИНСТРУМЕНТЫ",
+        "groupNameLAT": "MUSIQA ASBOBLARI"
+      },
+      {
+        "mxikCode": "09202001010000000",
+        "nameUZ": "Гитара",
+        "nameLAT": "Gitara",
+        "nameRU": "Гитара",
+        "groupCODE": "092",
+        "groupNameUZ": "МУСИҚА АСБОБЛАРИ",
+        "groupNameRU": "МУЗЫКАЛЬНЫЕ ИНСТРУМЕНТЫ",
+        "groupNameLAT": "MUSIQA ASBOBLARI"
+      },
+      {
+        "mxikCode": "09205001006000000",
+        "nameUZ": "Карнай",
+        "nameLAT": "Karnay",
+        "nameRU": "Горн",
+        "groupCODE": "092",
+        "groupNameUZ": "МУСИҚА АСБОБЛАРИ",
+        "groupNameRU": "МУЗЫКАЛЬНЫЕ ИНСТРУМЕНТЫ",
+        "groupNameLAT": "MUSIQA ASBOBLARI"
+      },
+      {
+        "mxikCode": "09202001008000000",
+        "nameUZ": "Дутор",
+        "nameLAT": "Dutor",
+        "nameRU": "Дутар",
+        "groupCODE": "092",
+        "groupNameUZ": "МУСИҚА АСБОБЛАРИ",
+        "groupNameRU": "МУЗЫКАЛЬНЫЕ ИНСТРУМЕНТЫ",
+        "groupNameLAT": "MUSIQA ASBOBLARI"
+      },
+      {
+        "mxikCode": "09202001001001007",
+        "nameUZ": "Бошқа симли чолғу асбоблар YAMAHA акустик FS100CNT",
+        "nameLAT": "Boshqa simli cholg’u asboblar YAMAHA akustik FS100CNT",
+        "nameRU": "Прочие струнные музыкальные инструменты YAMAHA акустическая FS100CNT",
+        "groupCODE": "092",
+        "groupNameUZ": "МУСИҚА АСБОБЛАРИ",
+        "groupNameRU": "МУЗЫКАЛЬНЫЕ ИНСТРУМЕНТЫ",
+        "groupNameLAT": "MUSIQA ASBOBLARI"
+      },
+      {
+        "mxikCode": "09207001003000000",
+        "nameUZ": "Рақамли фортепиано",
+        "nameLAT": "Raqamli fortepiano",
+        "nameRU": "Цифровые фортепиано",
+        "groupCODE": "092",
+        "groupNameUZ": "МУСИҚА АСБОБЛАРИ",
+        "groupNameRU": "МУЗЫКАЛЬНЫЕ ИНСТРУМЕНТЫ",
+        "groupNameLAT": "MUSIQA ASBOBLARI"
+      },
+      {
+        "mxikCode": "09209002003000000",
+        "nameUZ": "Мусиқа асбобларининг бошқа қисмлари",
+        "nameLAT": "Musiqa asboblarining boshqa qismlari",
+        "nameRU": "Прочие части музыкальных инструментов",
+        "groupCODE": "092",
+        "groupNameUZ": "МУСИҚА АСБОБЛАРИ",
+        "groupNameRU": "МУЗЫКАЛЬНЫЕ ИНСТРУМЕНТЫ",
+        "groupNameLAT": "MUSIQA ASBOBLARI"
+      },
+      {
+        "mxikCode": "09205001002000000",
+        "nameUZ": "Саксофон",
+        "nameLAT": "Saksofon",
+        "nameRU": "Саксофон",
+        "groupCODE": "092",
+        "groupNameUZ": "МУСИҚА АСБОБЛАРИ",
+        "groupNameRU": "МУЗЫКАЛЬНЫЕ ИНСТРУМЕНТЫ",
+        "groupNameLAT": "MUSIQA ASBOBLARI"
+      },
+      {
+        "mxikCode": "09207001002000000",
+        "nameUZ": "Синтезатор",
+        "nameLAT": "Sintezator",
+        "nameRU": "Синтезатор",
+        "groupCODE": "092",
+        "groupNameUZ": "МУСИҚА АСБОБЛАРИ",
+        "groupNameRU": "МУЗЫКАЛЬНЫЕ ИНСТРУМЕНТЫ",
+        "groupNameLAT": "MUSIQA ASBOBLARI"
+      },
+      {
+        "mxikCode": "09209003001000000",
+        "nameUZ": "Метрономлар ва камертонлар",
+        "nameLAT": "Metronomlar va kamertonlar",
+        "nameRU": "Метрономы и Камертоны",
+        "groupCODE": "092",
+        "groupNameUZ": "МУСИҚА АСБОБЛАРИ",
+        "groupNameRU": "МУЗЫКАЛЬНЫЕ ИНСТРУМЕНТЫ",
+        "groupNameLAT": "MUSIQA ASBOBLARI"
+      },
+      {
+        "mxikCode": "09206001005000000",
+        "nameUZ": "Доира",
+        "nameLAT": "Doira",
+        "nameRU": "Бубен",
+        "groupCODE": "092",
+        "groupNameUZ": "МУСИҚА АСБОБЛАРИ",
+        "groupNameRU": "МУЗЫКАЛЬНЫЕ ИНСТРУМЕНТЫ",
+        "groupNameLAT": "MUSIQA ASBOBLARI"
+      },
+      {
+        "mxikCode": "09202001005000000",
+        "nameUZ": "Тор",
+        "nameLAT": "Tor",
+        "nameRU": "Тар",
+        "groupCODE": "092",
+        "groupNameUZ": "МУСИҚА АСБОБЛАРИ",
+        "groupNameRU": "МУЗЫКАЛЬНЫЕ ИНСТРУМЕНТЫ",
+        "groupNameLAT": "MUSIQA ASBOBLARI"
+      },
+      {
+        "mxikCode": "09202001003000000",
+        "nameUZ": "Ситар",
+        "nameLAT": "Sitar",
+        "nameRU": "Ситар",
+        "groupCODE": "092",
+        "groupNameUZ": "МУСИҚА АСБОБЛАРИ",
+        "groupNameRU": "МУЗЫКАЛЬНЫЕ ИНСТРУМЕНТЫ",
+        "groupNameLAT": "MUSIQA ASBOBLARI"
+      },
+      {
+        "mxikCode": "09202001002000000",
+        "nameUZ": "Танбур",
+        "nameLAT": "Tanbur",
+        "nameRU": "Танбур",
+        "groupCODE": "092",
+        "groupNameUZ": "МУСИҚА АСБОБЛАРИ",
+        "groupNameRU": "МУЗЫКАЛЬНЫЕ ИНСТРУМЕНТЫ",
+        "groupNameLAT": "MUSIQA ASBOBLARI"
+      },
+      {
+        "mxikCode": "09202001004000000",
+        "nameUZ": "Акустик скрипка",
+        "nameLAT": "Akustik skripka",
+        "nameRU": "Скрипка акустическая",
+        "groupCODE": "092",
+        "groupNameUZ": "МУСИҚА АСБОБЛАРИ",
+        "groupNameRU": "МУЗЫКАЛЬНЫЕ ИНСТРУМЕНТЫ",
+        "groupNameLAT": "MUSIQA ASBOBLARI"
+      },
+      {
+        "mxikCode": "09206001002000000",
+        "nameUZ": "Учбурчак (мусиқа асбоби)",
+        "nameLAT": "Uchburchak (musiqa asbobi)",
+        "nameRU": "Треугольник (музыкальный инструмент)",
+        "groupCODE": "092",
+        "groupNameUZ": "МУСИҚА АСБОБЛАРИ",
+        "groupNameRU": "МУЗЫКАЛЬНЫЕ ИНСТРУМЕНТЫ",
+        "groupNameLAT": "MUSIQA ASBOBLARI"
+      },
+      {
+        "mxikCode": "09205001001000000",
+        "nameUZ": "Бошқа пуфлама асбоблари",
+        "nameLAT": "Boshqa puflama asboblari",
+        "nameRU": "Прочие духовые инструменты",
+        "groupCODE": "092",
+        "groupNameUZ": "МУСИҚА АСБОБЛАРИ",
+        "groupNameRU": "МУЗЫКАЛЬНЫЕ ИНСТРУМЕНТЫ",
+        "groupNameLAT": "MUSIQA ASBOBLARI"
+      },
+      {
+        "mxikCode": "09206001004000000",
+        "nameUZ": "Ксилофон",
+        "nameLAT": "Ksilofon",
+        "nameRU": "Ксилофон",
+        "groupCODE": "092",
+        "groupNameUZ": "МУСИҚА АСБОБЛАРИ",
+        "groupNameRU": "МУЗЫКАЛЬНЫЕ ИНСТРУМЕНТЫ",
+        "groupNameLAT": "MUSIQA ASBOBLARI"
+      },
+      {
+        "mxikCode": "09206001001000000",
+        "nameUZ": "Бошқа зарбли чолғулар",
+        "nameLAT": "Boshqa zarbli cholg’ular",
+        "nameRU": "Прочие ударные инструменты",
+        "groupCODE": "092",
+        "groupNameUZ": "МУСИҚА АСБОБЛАРИ",
+        "groupNameRU": "МУЗЫКАЛЬНЫЕ ИНСТРУМЕНТЫ",
+        "groupNameLAT": "MUSIQA ASBOBLARI"
+      },
+      {
+        "mxikCode": "09205001004000000",
+        "nameUZ": "Флейта",
+        "nameLAT": "Fleyta",
+        "nameRU": "Флейта",
+        "groupCODE": "092",
+        "groupNameUZ": "МУСИҚА АСБОБЛАРИ",
+        "groupNameRU": "МУЗЫКАЛЬНЫЕ ИНСТРУМЕНТЫ",
+        "groupNameLAT": "MUSIQA ASBOBLARI"
+      },
+      {
+        "mxikCode": "09207001004000000",
+        "nameUZ": "Электрогитара",
+        "nameLAT": "Elektrogitara",
+        "nameRU": "Электрогитара",
+        "groupCODE": "092",
+        "groupNameUZ": "МУСИҚА АСБОБЛАРИ",
+        "groupNameRU": "МУЗЫКАЛЬНЫЕ ИНСТРУМЕНТЫ",
+        "groupNameLAT": "MUSIQA ASBOBLARI"
+      },
+      {
+        "mxikCode": "09206001003000000",
+        "nameUZ": "Ноғора",
+        "nameLAT": "Nog’ora",
+        "nameRU": "Ноғора",
+        "groupCODE": "092",
+        "groupNameUZ": "МУСИҚА АСБОБЛАРИ",
+        "groupNameRU": "МУЗЫКАЛЬНЫЕ ИНСТРУМЕНТЫ",
+        "groupNameLAT": "MUSIQA ASBOBLARI"
+      },
+      {
+        "mxikCode": "09202001009000000",
+        "nameUZ": "Ғижжак",
+        "nameLAT": "G’ijjak",
+        "nameRU": "Гиджак",
+        "groupCODE": "092",
+        "groupNameUZ": "МУСИҚА АСБОБЛАРИ",
+        "groupNameRU": "МУЗЫКАЛЬНЫЕ ИНСТРУМЕНТЫ",
+        "groupNameLAT": "MUSIQA ASBOBLARI"
+      },
+      {
+        "mxikCode": "09202001001000000",
+        "nameUZ": "Бошқа симли чолғу асбоблар",
+        "nameLAT": "Boshqa simli cholg’u asboblar",
+        "nameRU": "Прочие струнные музыкальные инструменты",
+        "groupCODE": "092",
+        "groupNameUZ": "МУСИҚА АСБОБЛАРИ",
+        "groupNameRU": "МУЗЫКАЛЬНЫЕ ИНСТРУМЕНТЫ",
+        "groupNameLAT": "MUSIQA ASBOBLARI"
+      },
+      {
+        "mxikCode": "09207001001000000",
+        "nameUZ": "Орган",
+        "nameLAT": "Organ",
+        "nameRU": "Орган",
+        "groupCODE": "092",
+        "groupNameUZ": "МУСИҚА АСБОБЛАРИ",
+        "groupNameRU": "МУЗЫКАЛЬНЫЕ ИНСТРУМЕНТЫ",
+        "groupNameLAT": "MUSIQA ASBOBLARI"
+      },
+      {
+        "mxikCode": "09209002002000000",
+        "nameUZ": "Мусиқа асбоблари учун торлар",
+        "nameLAT": "Musiqa asboblari uchun torlar",
+        "nameRU": "Струны для музыкальных инструментов",
+        "groupCODE": "092",
+        "groupNameUZ": "МУСИҚА АСБОБЛАРИ",
+        "groupNameRU": "МУЗЫКАЛЬНЫЕ ИНСТРУМЕНТЫ",
+        "groupNameLAT": "MUSIQA ASBOBLARI"
+      },
+      {
+        "mxikCode": "09202001001001001",
+        "nameUZ": "Бошқа симли чолғу асбоблар YAMAHA акустик F310",
+        "nameLAT": "Boshqa simli cholg’u asboblar YAMAHA akustik F310",
+        "nameRU": "Прочие струнные музыкальные инструменты YAMAHA акустическая F310",
+        "groupCODE": "092",
+        "groupNameUZ": "МУСИҚА АСБОБЛАРИ",
+        "groupNameRU": "МУЗЫКАЛЬНЫЕ ИНСТРУМЕНТЫ",
+        "groupNameLAT": "MUSIQA ASBOBLARI"
+      },
+      {
+        "mxikCode": "09202001001001002",
+        "nameUZ": "Бошқа симли чолғу асбоблар YAMAHA классик С40BL//02",
+        "nameLAT": "Boshqa simli cholg’u asboblar YAMAHA klassik S40BL//02",
+        "nameRU": "Прочие струнные музыкальные инструменты YAMAHA классическая С40BL//02",
+        "groupCODE": "092",
+        "groupNameUZ": "МУСИҚА АСБОБЛАРИ",
+        "groupNameRU": "МУЗЫКАЛЬНЫЕ ИНСТРУМЕНТЫ",
+        "groupNameLAT": "MUSIQA ASBOBLARI"
+      },
+      {
+        "mxikCode": "09202001001001003",
+        "nameUZ": "Бошқа симли чолғу асбоблар YAMAHA электр акустикали FX310AII",
+        "nameLAT": "Boshqa simli cholg’u asboblar YAMAHA elektr akustikali FX310AII",
+        "nameRU": "Прочие струнные музыкальные инструменты YAMAHA электроакустическая FX310AII",
+        "groupCODE": "092",
+        "groupNameUZ": "МУСИҚА АСБОБЛАРИ",
+        "groupNameRU": "МУЗЫКАЛЬНЫЕ ИНСТРУМЕНТЫ",
+        "groupNameLAT": "MUSIQA ASBOBLARI"
+      },
+      {
+        "mxikCode": "09207001002001003",
+        "nameUZ": "Синтезатор YAMAHA PSS-F30",
+        "nameLAT": "Sintezator YAMAHA PSS-F30",
+        "nameRU": "Синтезатор YAMAHA PSS-F30",
+        "groupCODE": "092",
+        "groupNameUZ": "МУСИҚА АСБОБЛАРИ",
+        "groupNameRU": "МУЗЫКАЛЬНЫЕ ИНСТРУМЕНТЫ",
+        "groupNameLAT": "MUSIQA ASBOBLARI"
+      },
+      {
+        "mxikCode": "09207001003001002",
+        "nameUZ": "Рақамли фортепиано YAMAHA Рақамли P-45B",
+        "nameLAT": "Raqamli fortepiano YAMAHA Raqamli P-45B",
+        "nameRU": "Цифровые фортепиано YAMAHA Цифровое P-45B",
+        "groupCODE": "092",
+        "groupNameUZ": "МУСИҚА АСБОБЛАРИ",
+        "groupNameRU": "МУЗЫКАЛЬНЫЕ ИНСТРУМЕНТЫ",
+        "groupNameLAT": "MUSIQA ASBOBLARI"
+      },
+      {
+        "mxikCode": "09207001002001001",
+        "nameUZ": "Синтезатор YAMAHA PSR-F52",
+        "nameLAT": "Sintezator YAMAHA PSR-F52",
+        "nameRU": "Синтезатор YAMAHA PSR-F52",
+        "groupCODE": "092",
+        "groupNameUZ": "МУСИҚА АСБОБЛАРИ",
+        "groupNameRU": "МУЗЫКАЛЬНЫЕ ИНСТРУМЕНТЫ",
+        "groupNameLAT": "MUSIQA ASBOBLARI"
+      },
+      {
+        "mxikCode": "09207001002001002",
+        "nameUZ": "Синтезатор YAMAHA PSS-A50",
+        "nameLAT": "Sintezator YAMAHA PSS-A50",
+        "nameRU": "Синтезатор YAMAHA PSS-A50",
+        "groupCODE": "092",
+        "groupNameUZ": "МУСИҚА АСБОБЛАРИ",
+        "groupNameRU": "МУЗЫКАЛЬНЫЕ ИНСТРУМЕНТЫ",
+        "groupNameLAT": "MUSIQA ASBOBLARI"
+      },
+      {
+        "mxikCode": "09207001002001004",
+        "nameUZ": "Синтезатор YAMAHA YPT-370",
+        "nameLAT": "Sintezator YAMAHA YPT-370",
+        "nameRU": "Синтезатор YAMAHA YPT-370",
+        "groupCODE": "092",
+        "groupNameUZ": "МУСИҚА АСБОБЛАРИ",
+        "groupNameRU": "МУЗЫКАЛЬНЫЕ ИНСТРУМЕНТЫ",
+        "groupNameLAT": "MUSIQA ASBOBLARI"
+      },
+      {
+        "mxikCode": "09202001001001006",
+        "nameUZ": "Бошқа симли чолғу асбоблар YAMAHA акустик F310TBS",
+        "nameLAT": "Boshqa simli cholg’u asboblar YAMAHA akustik F310TBS",
+        "nameRU": "Прочие струнные музыкальные инструменты YAMAHA акустическая F310TBS",
+        "groupCODE": "092",
+        "groupNameUZ": "МУСИҚА АСБОБЛАРИ",
+        "groupNameRU": "МУЗЫКАЛЬНЫЕ ИНСТРУМЕНТЫ",
+        "groupNameLAT": "MUSIQA ASBOBLARI"
+      },
+      {
+        "mxikCode": "09207001003001001",
+        "nameUZ": "Рақамли фортепиано YAMAHA Рақамли P-125WH",
+        "nameLAT": "Raqamli fortepiano YAMAHA Raqamli P-125WH",
+        "nameRU": "Цифровые фортепиано YAMAHA Цифровое P-125WH",
+        "groupCODE": "092",
+        "groupNameUZ": "МУСИҚА АСБОБЛАРИ",
+        "groupNameRU": "МУЗЫКАЛЬНЫЕ ИНСТРУМЕНТЫ",
+        "groupNameLAT": "MUSIQA ASBOBLARI"
+      },
+      {
+        "mxikCode": "09202001001001004",
+        "nameUZ": "Бошқа симли чолғу асбоблар YAMAHA классик СM40//02",
+        "nameLAT": "Boshqa simli cholg’u asboblar YAMAHA klassik SM40//02",
+        "nameRU": "Прочие струнные музыкальные инструменты YAMAHA классическая СM40//02",
+        "groupCODE": "092",
+        "groupNameUZ": "МУСИҚА АСБОБЛАРИ",
+        "groupNameRU": "МУЗЫКАЛЬНЫЕ ИНСТРУМЕНТЫ",
+        "groupNameLAT": "MUSIQA ASBOBLARI"
+      },
+      {
+        "mxikCode": "09202001001001005",
+        "nameUZ": "Бошқа симли чолғу асбоблар YAMAHA классик CX40",
+        "nameLAT": "Boshqa simli cholg’u asboblar YAMAHA klassik CX40",
+        "nameRU": "Прочие струнные музыкальные инструменты YAMAHA классическая CX40",
+        "groupCODE": "092",
+        "groupNameUZ": "МУСИҚА АСБОБЛАРИ",
+        "groupNameRU": "МУЗЫКАЛЬНЫЕ ИНСТРУМЕНТЫ",
+        "groupNameLAT": "MUSIQA ASBOBLARI"
+      },
+      {
+        "mxikCode": "09208001001000000",
+        "nameUZ": "Мусиқий қутилар, ярмарка органлари, механик органлар, механик қўшиқчи қушлар, мусиқий арра ва бошқа мусиқа асбоблари",
+        "nameLAT": "Musiqiy qutilar, yarmarka organlari, mexanik organlar, mexanik qo’shiqchi qushlar, musiqiy arra va boshqa musiqa asboblari",
+        "nameRU": "Шкатулки музыкальные, органы ярмарочные, шарманки механические, птицы поющие механические, пилы музыкальные и прочие инструменты музыкальные",
+        "groupCODE": "092",
+        "groupNameUZ": "МУСИҚА АСБОБЛАРИ",
+        "groupNameRU": "МУЗЫКАЛЬНЫЕ ИНСТРУМЕНТЫ",
+        "groupNameLAT": "MUSIQA ASBOBLARI"
+      },
+      {
+        "mxikCode": "09209003002000000",
+        "nameUZ": "Мусиқа асбоблари учун аксессуарлар",
+        "nameLAT": "Musiqa asboblari uchun aksessuarlar",
+        "nameRU": "Принадлежности музыкальных инструментов",
+        "groupCODE": "092",
+        "groupNameUZ": "МУСИҚА АСБОБЛАРИ",
+        "groupNameRU": "МУЗЫКАЛЬНЫЕ ИНСТРУМЕНТЫ",
+        "groupNameLAT": "MUSIQA ASBOBLARI"
+      },
+      {
+        "mxikCode": "09207001005000000",
+        "nameUZ": "Аккордеон",
+        "nameLAT": "Akkordeon",
+        "nameRU": "Аккордеон",
+        "groupCODE": "092",
+        "groupNameUZ": "МУСИҚА АСБОБЛАРИ",
+        "groupNameRU": "МУЗЫКАЛЬНЫЕ ИНСТРУМЕНТЫ",
+        "groupNameLAT": "MUSIQA ASBOBLARI"
+      },
+      {
+        "mxikCode": "09201001003000000",
+        "nameUZ": "Фортепиано",
+        "nameLAT": "Fortepiano",
+        "nameRU": "Фортепиано",
+        "groupCODE": "092",
+        "groupNameUZ": "МУСИҚА АСБОБЛАРИ",
+        "groupNameRU": "МУЗЫКАЛЬНЫЕ ИНСТРУМЕНТЫ",
+        "groupNameLAT": "MUSIQA ASBOBLARI"
+      },
+      {
+        "mxikCode": "09210001001000000",
+        "nameUZ": "Бошқа мусиқа жиҳозлари ва ускуналари",
+        "nameLAT": "Boshqa musiqa jihozlari va uskunalari",
+        "nameRU": "Прочие музыкальные инструменты и оборудования",
+        "groupCODE": "092",
+        "groupNameUZ": "МУСИҚА АСБОБЛАРИ",
+        "groupNameRU": "МУЗЫКАЛЬНЫЕ ИНСТРУМЕНТЫ",
+        "groupNameLAT": "MUSIQA ASBOBLARI"
+      }
+    ],
+    "recordTotal": 50,
+    "errors": null,
+    "permitted": false
+  }
+}

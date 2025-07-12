@@ -1,0 +1,1667 @@
+{
+  "metadata": {
+    "groupId": 86,
+    "fetchedAt": "2025-07-12T16:36:04.271Z",
+    "source": "https://tasnif.soliq.uz/api/cl-api/integration-mxik/references/group/code?group=86"
+  },
+  "data": {
+    "success": true,
+    "code": 200,
+    "reason": null,
+    "data": [
+      {
+        "mxikCode": "08607001021000000",
+        "nameUZ": "Автомашиналарни маҳкамлаш учун ғилдирак таянчлари",
+        "nameLAT": "Avtomashinalarni mahkamlash uchun g’ildirak tayanchlari",
+        "nameRU": "Колесные упоры для крепления автомашин",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08603001002000000",
+        "nameUZ": "Темир йўл вагони",
+        "nameLAT": "Temir yo’l vagoni",
+        "nameRU": "Железнодорожный вагон",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08607001005000000",
+        "nameUZ": "Рессора юқорисидаги балка",
+        "nameLAT": "Ressora yuqorisidagi balka",
+        "nameRU": "Балка надрессорная",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08609001001000000",
+        "nameUZ": "Ташиш учун контейнерлар",
+        "nameLAT": "Tashish uchun konteynerlar",
+        "nameRU": "Контейнеры для перевозки",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001003000000",
+        "nameUZ": "Боллард (Тўсувчи устуни)",
+        "nameLAT": "Bollard (To’suvchi ustuni)",
+        "nameRU": "Боллард (Столб заградительный)",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08601001001000000",
+        "nameUZ": "Темир йўл локомотиви",
+        "nameLAT": "Temir yo’l lokomotivi",
+        "nameRU": "Железнодорожный локомотив",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08607001002000000",
+        "nameUZ": "Жуфт ғилдирак",
+        "nameLAT": "Juft g’ildirak",
+        "nameRU": "Колесная пара",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08607001003000000",
+        "nameUZ": "Вагонлар учун ён томон рамаси",
+        "nameLAT": "Vagonlar uchun yon tomon ramasi",
+        "nameRU": "Рама боковая для вагонов",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08607001008000000",
+        "nameUZ": "Кўчма состав ўқи",
+        "nameLAT": "Ko’chma sostav o’qi",
+        "nameRU": "Ось подвижного состава",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001006000000",
+        "nameUZ": "Стрелка ўтказиш (темир йўл учун ускуна)",
+        "nameLAT": "Strelka o’tkazish (temir yo’l uchun uskuna)",
+        "nameRU": "Стрелочный перевод (оборудование для железнодорожных путей)",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001004000000",
+        "nameUZ": "Автоматик йўл блокиратори",
+        "nameLAT": "Avtomatik yo’l blokiratori",
+        "nameRU": "Автоматический дорожный  блокиратор",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08607001004000000",
+        "nameUZ": "Вагонлар учун автосцепкалар",
+        "nameLAT": "Vagonlar uchun avtossepkalar",
+        "nameRU": "Автосцепки для вагонов",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08603001001000000",
+        "nameUZ": "Трамвай вагони",
+        "nameLAT": "Tramvay vagoni",
+        "nameRU": "Трамвайный вагон",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08607001016000000",
+        "nameUZ": "Пневматик тормозлар ва уларнинг қисмлари",
+        "nameLAT": "Pnevmatik tormozlar va ularning qismlari",
+        "nameRU": "Пневматические тормоза и их части",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08607001015000000",
+        "nameUZ": "Жуфт ғилдирак бандажи",
+        "nameLAT": "Juft g’ildirak bandaji",
+        "nameRU": "Бандаж колесной пары",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08607001014000000",
+        "nameUZ": "Пятник",
+        "nameLAT": "Pyatnik",
+        "nameRU": "Пятник",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08607001020000000",
+        "nameUZ": "Тебрангичли подвеска",
+        "nameLAT": "Tebrangichli podveska",
+        "nameRU": "Подвеска маятниковая",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08603001003000000",
+        "nameUZ": "Ўзиюрар бўлмаган  юк трамвай вагони",
+        "nameLAT": "O’ziyurar bo’lmagan  yuk tramvay vagoni",
+        "nameRU": "Вагон трамвайный грузовой несамоходный",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08607001023000000",
+        "nameUZ": "Қулф ушлагич",
+        "nameLAT": "Qulf ushlagich",
+        "nameRU": "Замкодержатель",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08609001002000000",
+        "nameUZ": "Ташиш учун махсус идишлар",
+        "nameLAT": "Tashish uchun maxsus idishlar",
+        "nameRU": "Ёмкости для перевозки",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08607001019000000",
+        "nameUZ": "Тормозларни блоклаш қурилмаси",
+        "nameLAT": "Tormozlarni bloklash qurilmasi",
+        "nameRU": "Устройство блокировки тормозов",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08607001022000000",
+        "nameUZ": "Маҳкамланувчи қопқоқ",
+        "nameLAT": "Mahkamlanuvchi qopqoq",
+        "nameRU": "Крышка крепительная",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08607001024000000",
+        "nameUZ": "Темир йўл локомотивлари, трамвайлар ёки ҳаракатланувчи таркибнинг бошқа қисмлари (бошқа сарлавҳаларда кўрсатилмаган)",
+        "nameLAT": "Temir yo’l lokomotivlari, tramvaylar yoki harakatlanuvchi tarkibning boshqa qismlari (boshqa sarlavhalarda ko’rsatilmagan)",
+        "nameRU": "Другие части железнодорожных локомотивов, трамвая или подвижного состава (не перечисленные в других субпозициях)",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08604001003000000",
+        "nameUZ": "Темир йўл ёки трамвай йўлларини таъмирлаш ёки техник хизмат кўрсатиш учун мўлжалланган ўзиюрар ёки ўзиюрар бўлмаган транспорт воситалари",
+        "nameLAT": "Temir yo'l yoki tramvay yo'llarini ta'mirlash yoki texnik xizmat ko'rsatish uchun mo'ljallangan o'ziyurar yoki o'ziyurar bo'lmagan transport vositalari",
+        "nameRU": "Транспортные средства самоходные или несамоходные, предназначенные для ремонта или технического обслуживания железнодорожных или трамвайных путей",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UCHUN JIHOZ YOKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08601001001000001",
+        "nameUZ": "Темир йўл локомотиви шахта дизели, тортиш кучи (ёпишқоқлик оғирлиги) 30 т",
+        "nameLAT": "Temir yo’l lokomotivi shaxta dizeli, tortish kuchi (yopishqoqlik og'irligi) 30 t",
+        "nameRU": "Железнодорожный локомотив шахтные дизельные, тяговое усилие (сцепной вес) 30 т",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001002000001",
+        "nameUZ": "Шлагбаум Электр ҳайдовчи ва узатмалар қутиси билан автоматик йўл тўсиғи, акс еттирувчи стикерли тўртбурчак бом, бом узунлиги 4200 мм гача",
+        "nameLAT": "Shlagbaum Elektr haydovchi va uzatmalar qutisi bilan avtomatik yo'l to'sig'i, aks ettiruvchi stikerli to'rtburchak bom, bom uzunligi 4200 mm gacha",
+        "nameRU": "Шлагбаум Шлагбаум автоматический дорожный тумбовый с электроприводом и редуктором, стрела прямоугольная со светоотражающими наклейками, длина стрелы до 4200 мм",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001002000017",
+        "nameUZ": "Шлагбаум Қўлда бошқариладиган ва горизонтал тўсинли кўтарувчи, тўсиқларга қарши пўлатдан ясалган тўсиқли тўсиқ, йўл юзасидан нур баландлиги 900 мм гача, кенглиги 6000 мм",
+        "nameLAT": "Shlagbaum Qo'lda boshqariladigan va gorizontal to'sinli ko'taruvchi, to'siqlarga qarshi po'latdan yasalgan to'siqli to'siq, yo'l yuzasidan nur balandligi 900 mm gacha, kengligi 6000 mm",
+        "nameRU": "Шлагбаум Барьер противотаранный стальной шлагбаумного типа с ручным приводом и горизонтальным подъемом балки, высота балки от дорожного полотна до 900 мм, ширина 6000 мм",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001002000033",
+        "nameUZ": "Шлагбаум Шланги қўзғалувчан ва горизонтал тўсинли кўтарувчи анти-рам тўсиқли пўлат тўсиқ, йўл юзасидан нур баландлиги 900 мм гача, кенглиги 7000 мм",
+        "nameLAT": "Shlagbaum Shlangi qo'zg'aluvchan va gorizontal to'sinli ko'taruvchi anti-ram to'siqli po'lat to'siq, yo'l yuzasidan nur balandligi 900 mm gacha, kengligi 7000 mm",
+        "nameRU": "Шлагбаум Барьер противотаранный стальной шлагбаумного типа с гидравлическим приводом и горизонтальным подъемом балки, высота балки от дорожного полотна до 900 мм, ширина 7000 мм",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001004000015",
+        "nameUZ": "Автоматик йўл блокиратори Шланги қўзғалувчан пўлатдан ясалган пўлатдан ясалган кўтарилган тўсиқ, олдинги четининг кўтарилиш баландлиги 700 мм гача, кенглиги 5000 мм",
+        "nameLAT": "Avtomatik yo’l blokiratori Shlangi qo'zg'aluvchan po'latdan yasalgan po'latdan yasalgan ko'tarilgan to'siq, oldingi chetining ko'tarilish balandligi 700 mm gacha, kengligi 5000 mm",
+        "nameRU": "Автоматический дорожный  блокиратор Барьер поднимающийся противотаранный стальной врезного типа с гидравлическим приводом, высота подъема передней кромки до 700 мм, ширина 5000 мм",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001006000005",
+        "nameUZ": "Стрелка ўтказиш (темир йўл учун ускуна) носимметрик, йўл кенглиги 1520 мм, релс тури П65, тоифа 1/11, лойиҳа 1848.00.000",
+        "nameLAT": "Strelka o’tkazish (temir yo’l uchun uskuna) nosimmetrik, yo'l kengligi 1520 mm, rels turi P65, toifa 1/11, loyiha 1848.00.000",
+        "nameRU": "Стрелочный перевод (оборудование для железнодорожных путей) симметричный, ширина колеи 1520 мм, тип рельса Р65, марка 1/11, проект 1848.00.000",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001006000024",
+        "nameUZ": "Стрелка ўтказиш (темир йўл учун ускуна) П50, 1/9-синф, лойиҳа 1623.00.000",
+        "nameLAT": "Strelka o’tkazish (temir yo’l uchun uskuna) P50, 1/9-sinf, loyiha 1623.00.000",
+        "nameRU": "Стрелочный перевод (оборудование для железнодорожных путей) Р50, марка 1/9, проект 1623.00.000",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001006000025",
+        "nameUZ": "Стрелка ўтказиш (темир йўл учун ускуна) П50, 1/9-синф, лойиҳа 2498.00.000",
+        "nameLAT": "Strelka o’tkazish (temir yo’l uchun uskuna) P50, 1/9-sinf, loyiha 2498.00.000",
+        "nameRU": "Стрелочный перевод (оборудование для железнодорожных путей) Р50, марка 1/9, проект 2498.00.000",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001006000051",
+        "nameUZ": "Стрелка ўтказиш (темир йўл учун ускуна) йўлнинг эгилган қисмларида ёғоч нурларга ётқизиш учун, Эгри, Р-65 тури, 1/11, лойиҳа 2802.00.000",
+        "nameLAT": "Strelka o’tkazish (temir yo’l uchun uskuna) yo'lning egilgan qismlarida yog'och nurlarga yotqizish uchun, egri, R-65 turi, 1/11, loyiha 2802.00.000",
+        "nameRU": "Стрелочный перевод (оборудование для железнодорожных путей) для укладки в кривых участках пути на деревянных брусьях, криволинейный, тип Р-65, 1/11, проект 2802.00.000",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08601001001000002",
+        "nameUZ": "Темир йўл локомотиви Кенг калибрли манёврли тепловозлар, қуввати 550 квт (750 от кучи)",
+        "nameLAT": "Temir yo’l lokomotivi Keng kalibrli manyovrli teplovozlar, quvvati 550 kVt (750 ot kuchi)",
+        "nameRU": "Железнодорожный локомотив Тепловозы широкой колеи маневровые, мощность 550 кВт (750 л.с.)",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08601001001000003",
+        "nameUZ": "Темир йўл локомотиви Кенг калибрли манёврли тепловозлар, қуввати 880 квт (1200 от кучи)",
+        "nameLAT": "Temir yo’l lokomotivi Keng kalibrli manyovrli teplovozlar, quvvati 880 kVt (1200 ot kuchi)",
+        "nameRU": "Железнодорожный локомотив Тепловозы широкой колеи маневровые, мощность 880 кВт (1200 л.с.)",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001002000002",
+        "nameUZ": "Шлагбаум Электр ҳайдовчи ва узатмалар қутиси билан автоматик йўл тўсиғи, акс еттирувчи стикерли тўртбурчак бом, бом узунлиги 8000 мм гача",
+        "nameLAT": "Shlagbaum Elektr haydovchi va uzatmalar qutisi bilan avtomatik yo'l to'sig'i, aks ettiruvchi stikerli to'rtburchak bom, bom uzunligi 8000 mm gacha",
+        "nameRU": "Шлагбаум Шлагбаум автоматический дорожный тумбовый с электроприводом и редуктором, стрела прямоугольная со светоотражающими наклейками, длина стрелы до 8000 мм",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001002000018",
+        "nameUZ": "Шлагбаум Қўлда қўзғалувчан ва горизонтал тўсинли кўтарувчи пўлатдан ясалган тўсиқларга қарши тўсиқли тўсиқ, йўл юзасидан нур баландлиги 900 мм гача, кенглиги 7000 мм",
+        "nameLAT": "Shlagbaum Qo'lda qo'zg'aluvchan va gorizontal to'sinli ko'taruvchi po'latdan yasalgan to'siqlarga qarshi to'siqli to'siq, yo'l yuzasidan nur balandligi 900 mm gacha, kengligi 7000 mm",
+        "nameRU": "Шлагбаум Барьер противотаранный стальной шлагбаумного типа с ручным приводом и горизонтальным подъемом балки, высота балки от дорожного полотна до 900 мм, ширина 7000 мм",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001002000034",
+        "nameUZ": "Шлагбаум Шланги қўзғалувчан ва горизонтал тўсинли кўтаргичли қўчқорга қарши тўсиқли пўлат тўсиқ тури, нур баландлиги йўл юзасидан 900 мм гача, кенглиги 8000 мм",
+        "nameLAT": "Shlagbaum Shlangi qo'zg'aluvchan va gorizontal to'sinli ko'targichli qo'chqorga qarshi to'siqli po'lat to'siq turi, nur balandligi yo'l yuzasidan 900 mm gacha, kengligi 8000 mm",
+        "nameRU": "Шлагбаум Барьер противотаранный стальной шлагбаумного типа с гидравлическим приводом и горизонтальным подъемом балки, высота балки от дорожного полотна до 900 мм, ширина 8000 мм",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001004000016",
+        "nameUZ": "Автоматик йўл блокиратори Гидравлик қўзғалувчан, тепанинг кўтарилиш баландлиги 700 мм гача, кенглиги 5000 мм.",
+        "nameLAT": "Avtomatik yo’l blokiratori Gidravlik qo'zg'aluvchan, tepaning ko'tarilish balandligi 700 mm gacha, kengligi 5000 mm.",
+        "nameRU": "Автоматический дорожный  блокиратор Барьер поднимающийся противотаранный стальной накладного типа с гидравлическим приводом, высота подъема передней кромки до 700 мм, ширина 5000 мм",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001006000006",
+        "nameUZ": "Стрелка ўтказиш (темир йўл учун ускуна) префабрик релсли хоч билан, йўл кенглиги 1520 мм, релс тури П50, тоифа 1/9, лойиҳа 1623.00.000-03",
+        "nameLAT": "Strelka o’tkazish (temir yo’l uchun uskuna) prefabrik relsli xoch bilan, yo'l kengligi 1520 mm, rels turi P50, toifa 1/9, loyiha 1623.00.000-03",
+        "nameRU": "Стрелочный перевод (оборудование для железнодорожных путей) со сборно-рельсовой крестовиной, ширина колеи 1520 мм, тип рельса Р50, марка 1/9, проект 1623.00.000-03",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001006000026",
+        "nameUZ": "Стрелка ўтказиш (темир йўл учун ускуна) П50, 1/9-синф, лойиҳа 2498.00.000-16/17",
+        "nameLAT": "Strelka o’tkazish (temir yo’l uchun uskuna) P50, 1/9-sinf, loyiha 2498.00.000-16/17",
+        "nameRU": "Стрелочный перевод (оборудование для железнодорожных путей) Р50, марка 1/9, проект 2498.00.000-16/17",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001006000027",
+        "nameUZ": "Стрелка ўтказиш (темир йўл учун ускуна) П50, 1/9-синф, лойиҳа 2891.00.000",
+        "nameLAT": "Strelka o’tkazish (temir yo’l uchun uskuna) P50, 1/9-sinf, loyiha 2891.00.000",
+        "nameRU": "Стрелочный перевод (оборудование для железнодорожных путей) Р50, марка 1/9, проект 2891.00.000",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001006000052",
+        "nameUZ": "Стрелка ўтказиш (темир йўл учун ускуна) оддий темир-бетон нурларга йўлнинг Эгри қисмларида ётқизиш учун, Р-65 тури, 1/11 синф",
+        "nameLAT": "Strelka o’tkazish (temir yo’l uchun uskuna) oddiy temir-beton nurlarga yo'lning egri qismlarida yotqizish uchun, R-65 turi, 1/11 sinf",
+        "nameRU": "Стрелочный перевод (оборудование для железнодорожных путей) для укладки в кривых участках пути на ЖБ брусе обыкновенный, тип Р-65, марка 1/11",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08601001001000004",
+        "nameUZ": "Темир йўл локомотиви Икки сексияли кенг ўлчовли магистрал тепловозлар, қуввати 5300 квт (7200 от кучи)",
+        "nameLAT": "Temir yo’l lokomotivi Ikki seksiyali keng o'lchovli magistral teplovozlar, quvvati 5300 kVt (7200 ot kuchi)",
+        "nameRU": "Железнодорожный локомотив Тепловозы двухсекционные широкой колеи магистральные, мощность 5300  кВт (7200 л.с.)",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08601001001000005",
+        "nameUZ": "Темир йўл локомотиви Кенг калибрли тепловозлар, қуввати 552 квт (750 от кучи)",
+        "nameLAT": "Temir yo’l lokomotivi Keng kalibrli teplovozlar, quvvati 552 kVt (750 ot kuchi)",
+        "nameRU": "Железнодорожный локомотив Тепловозы широкой колеи, мощность до 552 кВт (750 л.с.)",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001002000003",
+        "nameUZ": "Шлагбаум Электр ҳайдовчи ва узатмалар қутиси билан автоматик йўл тўсиғи, акс еттирувчи стикерли ва қарши оғирликдаги думалоқ бом, бом узунлиги 12000 мм гача",
+        "nameLAT": "Shlagbaum Elektr haydovchi va uzatmalar qutisi bilan avtomatik yo'l to'sig'i, aks ettiruvchi stikerli va qarshi og'irlikdagi dumaloq bom, bom uzunligi 12000 mm gacha",
+        "nameRU": "Шлагбаум Шлагбаум автоматический дорожный тумбовый с электроприводом и редуктором, стрела круглая со светоотражающими наклейками и противовесом, длина стрелы до 12000 мм",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001002000019",
+        "nameUZ": "Шлагбаум Қўлда қўзғалувчан ва горизонтал тўсинли кўтарувчи пўлатдан ясалган тўсиқларга қарши тўсиқли тўсиқ, йўл юзасидан нур баландлиги 900 мм гача, кенглиги 8000 мм",
+        "nameLAT": "Shlagbaum Qo'lda qo'zg'aluvchan va gorizontal to'sinli ko'taruvchi po'latdan yasalgan to'siqlarga qarshi to'siqli to'siq, yo'l yuzasidan nur balandligi 900 mm gacha, kengligi 8000 mm",
+        "nameRU": "Шлагбаум Барьер противотаранный стальной шлагбаумного типа с ручным приводом и горизонтальным подъемом балки, высота балки от дорожного полотна до 900 мм, ширина 8000 мм",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001004000001",
+        "nameUZ": "Автоматик йўл блокиратори Электромеханик қўзғалувчан пўлатдан ясалган пўлатдан ясалган кўтарилган тўсиқ, олдинги четининг кўтарилиш баландлиги 700 мм гача, кенглиги 2500 мм",
+        "nameLAT": "Avtomatik yo’l blokiratori Elektromexanik qo'zg'aluvchan po'latdan yasalgan po'latdan yasalgan ko'tarilgan to'siq, oldingi chetining ko'tarilish balandligi 700 mm gacha, kengligi 2500 mm",
+        "nameRU": "Автоматический дорожный  блокиратор Барьер поднимающийся противотаранный стальной врезного типа с электромеханическим приводом, высота подъема передней кромки до 700 мм, ширина 2500 мм",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001004000017",
+        "nameUZ": "Автоматик йўл блокиратори Шланги қўзғалувчан пўлатдан ясалган пўлатдан ясалган кўтарилган тўсиқ, олдинги четининг кўтарилиш баландлиги 700 мм гача, кенглиги 6000 мм",
+        "nameLAT": "Avtomatik yo’l blokiratori Shlangi qo'zg'aluvchan po'latdan yasalgan po'latdan yasalgan ko'tarilgan to'siq, oldingi chetining ko'tarilish balandligi 700 mm gacha, kengligi 6000 mm",
+        "nameRU": "Автоматический дорожный  блокиратор Барьер поднимающийся противотаранный стальной врезного типа с гидравлическим приводом, высота подъема передней кромки до 700 мм, ширина 6000 мм",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001006000007",
+        "nameUZ": "Стрелка ўтказиш (темир йўл учун ускуна) битта, йўл кенглиги 1520 мм, релс тури П65, тоифа 1/11, лойиҳа 2764.00.000",
+        "nameLAT": "Strelka o’tkazish (temir yo’l uchun uskuna) bitta, yo'l kengligi 1520 mm, rels turi P65, toifa 1/11, loyiha 2764.00.000",
+        "nameRU": "Стрелочный перевод (оборудование для железнодорожных путей) одиночный, ширина колеи 1520 мм, тип рельса Р65, марка 1/11, проект 2764.00.000",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001006000028",
+        "nameUZ": "Стрелка ўтказиш (темир йўл учун ускуна) П50, 1/9-синф, лойиҳа 2941.00.000",
+        "nameLAT": "Strelka o’tkazish (temir yo’l uchun uskuna) P50, 1/9-sinf, loyiha 2941.00.000",
+        "nameRU": "Стрелочный перевод (оборудование для железнодорожных путей) Р50, марка 1/9, проект 2941.00.000",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001006000029",
+        "nameUZ": "Стрелка ўтказиш (темир йўл учун ускуна) П50, 1/9-синф, лойиҳа 3045.00.000",
+        "nameLAT": "Strelka o’tkazish (temir yo’l uchun uskuna) P50, 1/9-sinf, loyiha 3045.00.000",
+        "nameRU": "Стрелочный перевод (оборудование для железнодорожных путей) Р50, марка 1/9, проект 3045.00.000",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001006000053",
+        "nameUZ": "Стрелка ўтказиш (темир йўл учун ускуна) носимметрик турдаги Р-65, 1/11 тоифали ёғоч нурлар билан",
+        "nameLAT": "Strelka o’tkazish (temir yo’l uchun uskuna) nosimmetrik turdagi R-65, 1/11 toifali yog'och nurlar bilan",
+        "nameRU": "Стрелочный перевод (оборудование для железнодорожных путей) симметричный тип Р-65, марка 1/11 с деревянными брусьями",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08603001002000001",
+        "nameUZ": "Темир йўл вагони Самосваллар (самосваллар), юк кўтариш қобилияти 136 т",
+        "nameLAT": "Temir yo’l vagoni Samosvallar (samosvallar), yuk ko'tarish qobiliyati 136 t",
+        "nameRU": "Железнодорожный вагон Вагоны-самосвалы (думпкары), грузоподъемность 136 т",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08603001002000002",
+        "nameUZ": "Темир йўл вагони қурилиш-монтаж кенг ўлчагич",
+        "nameLAT": "Temir yo’l vagoni qurilish-montaj keng o'lchagich",
+        "nameRU": "Железнодорожный вагон строительно-монтажные широкой колеи",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001002000004",
+        "nameUZ": "Шлагбаум Электромеханик қўзғалувчан ва вертикал тўсинли кўтарувчи, тўқнашувга қарши тўсиқли пўлат тўсиқ, йўл юзасидан нур баландлиги 900 мм гача, кенглиги 4000 мм",
+        "nameLAT": "Shlagbaum Elektromexanik qo'zg'aluvchan va vertikal to'sinli ko'taruvchi, to'qnashuvga qarshi to'siqli po'lat to'siq, yo'l yuzasidan nur balandligi 900 mm gacha, kengligi 4000 mm",
+        "nameRU": "Шлагбаум Барьер противотаранный стальной шлагбаумного типа с электромеханическим приводом и вертикальным подъемом балки, высота балки от дорожного полотна до 900 мм, ширина 4000 мм",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001002000020",
+        "nameUZ": "Шлагбаум Электромеханик қўзғалувчан ва тортиб олинадиган тўсинли анти-рам тўсиқли пўлат тўсиқ, йўл юзасидан нур баландлиги 900 мм гача, кенглиги 4000 мм",
+        "nameLAT": "Shlagbaum Elektromexanik qo'zg'aluvchan va tortib olinadigan to'sinli anti-ram to'siqli po'lat to'siq, yo'l yuzasidan nur balandligi 900 mm gacha, kengligi 4000 mm",
+        "nameRU": "Шлагбаум Барьер противотаранный стальной шлагбаумного типа с электромеханическим приводом и выдвижной балкой, высота балки от дорожного полотна до 900 мм, ширина 4000 мм",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001004000002",
+        "nameUZ": "Автоматик йўл блокиратори Электромеханик қўзғайсанли юқори турдаги пўлатдан ясалган тўсиқларга қарши кўтарилган тўсиқ, олдинги четининг кўтарилиш баландлиги 700 мм гача, кенглиги 2500 мм",
+        "nameLAT": "Avtomatik yo’l blokiratori Elektromexanik qo'zg'aysanli yuqori turdagi po'latdan yasalgan to'siqlarga qarshi ko'tarilgan to'siq, oldingi chetining ko'tarilish balandligi 700 mm gacha, kengligi 2500 mm",
+        "nameRU": "Автоматический дорожный  блокиратор Барьер поднимающийся противотаранный стальной накладного типа с электромеханическим приводом, высота подъема передней кромки до 700 мм, ширина 2500 мм",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001004000018",
+        "nameUZ": "Автоматик йўл блокиратори Гидравлик қўзғалувчан, тепанинг кўтарилиш баландлиги 700 мм гача, эни 6000 мм гача бўлган юқори пўлатдан ясалган тўсиқ.",
+        "nameLAT": "Avtomatik yo’l blokiratori Gidravlik qo'zg'aluvchan, tepaning ko'tarilish balandligi 700 mm gacha, eni 6000 mm gacha bo'lgan yuqori po'latdan yasalgan to'siq.",
+        "nameRU": "Автоматический дорожный  блокиратор Барьер поднимающийся противотаранный стальной накладного типа с гидравлическим приводом, высота подъема передней кромки до 700 мм, ширина 6000 мм",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001006000008",
+        "nameUZ": "Стрелка ўтказиш (темир йўл учун ускуна) битта, йўл кенглиги 1520 мм, релс тури П65, тоифа 1/11, лойиҳа 2768.00.00",
+        "nameLAT": "Strelka o’tkazish (temir yo’l uchun uskuna) bitta, yo'l kengligi 1520 mm, rels turi P65, toifa 1/11, loyiha 2768.00.00",
+        "nameRU": "Стрелочный перевод (оборудование для железнодорожных путей) одиночный, ширина колеи 1520 мм, тип рельса Р65, марка 1/11, проект 2768.00.00",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001006000030",
+        "nameUZ": "Стрелка ўтказиш (темир йўл учун ускуна) Р50, 1/9-синф, ЛПТП.665121.105 лойиҳаси",
+        "nameLAT": "Strelka o’tkazish (temir yo’l uchun uskuna) R50, 1/9-sinf, LPTP.665121.105 loyihasi",
+        "nameRU": "Стрелочный перевод (оборудование для железнодорожных путей) Р50, марка 1/9, проект ЛПТП.665121.105",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001006000031",
+        "nameUZ": "Стрелка ўтказиш (темир йўл учун ускуна) Р65, 1/11-синф, лойиҳа 1740.00.000",
+        "nameLAT": "Strelka o’tkazish (temir yo’l uchun uskuna) R65, 1/11-sinf, loyiha 1740.00.000",
+        "nameRU": "Стрелочный перевод (оборудование для железнодорожных путей) Р65, марка 1/11, проект 1740.00.000",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001006000054",
+        "nameUZ": "Стрелка ўтказиш (темир йўл учун ускуна) носимметрик, темир-бетон барларда П65 градусли 1/6 релслар тури",
+        "nameLAT": "Strelka o’tkazish (temir yo’l uchun uskuna) nosimmetrik, temir-beton barlarda P65 gradusli 1/6 relslar turi",
+        "nameRU": "Стрелочный перевод (оборудование для железнодорожных путей) симметричный, тип рельсов Р65 марка 1/6 на железобетонных брусьях",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08603001002000003",
+        "nameUZ": "Темир йўл вагони кенг калибрли 20 т",
+        "nameLAT": "Temir yo’l vagoni keng kalibrli 20 t",
+        "nameRU": "Железнодорожный вагон широкой колеи 20 т",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08603001002000004",
+        "nameUZ": "Темир йўл вагони Треклеер учун моторли платформалар",
+        "nameLAT": "Temir yo’l vagoni Trekleyer uchun motorli platformalar",
+        "nameRU": "Железнодорожный вагон Платформы моторные к путеукладчику",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001002000005",
+        "nameUZ": "Шлагбаум Электромеханик қўзғалувчан ва вертикал тўсинли кўтарувчи пўлатдан ясалган тўсиқларга қарши тўсиқли тўсиқ, йўл юзасидан нур баландлиги 900 мм гача, кенглиги 5000 мм",
+        "nameLAT": "Shlagbaum Elektromexanik qo'zg'aluvchan va vertikal to'sinli ko'taruvchi po'latdan yasalgan to'siqlarga qarshi to'siqli to'siq, yo'l yuzasidan nur balandligi 900 mm gacha, kengligi 5000 mm",
+        "nameRU": "Шлагбаум Барьер противотаранный стальной шлагбаумного типа с электромеханическим приводом и вертикальным подъемом балки, высота балки от дорожного полотна до 900 мм, ширина 5000 мм",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001002000021",
+        "nameUZ": "Шлагбаум Электромеханик қўзғалувчан ва тортиб олинадиган тўсинли анти-рам тўсиқли пўлат тўсиқ, йўл юзасидан нур баландлиги 900 мм гача, кенглиги 5000 мм",
+        "nameLAT": "Shlagbaum Elektromexanik qo'zg'aluvchan va tortib olinadigan to'sinli anti-ram to'siqli po'lat to'siq, yo'l yuzasidan nur balandligi 900 mm gacha, kengligi 5000 mm",
+        "nameRU": "Шлагбаум Барьер противотаранный стальной шлагбаумного типа с электромеханическим приводом и выдвижной балкой, высота балки от дорожного полотна до 900 мм, ширина 5000 мм",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001004000003",
+        "nameUZ": "Автоматик йўл блокиратори Электромеханик қўзғалувчан пўлатдан ясалган пўлатдан ясалган кўтарилган тўсиқ, олдинги четининг кўтарилиш баландлиги 700 мм гача, кенглиги 3000 мм",
+        "nameLAT": "Avtomatik yo’l blokiratori Elektromexanik qo'zg'aluvchan po'latdan yasalgan po'latdan yasalgan ko'tarilgan to'siq, oldingi chetining ko'tarilish balandligi 700 mm gacha, kengligi 3000 mm",
+        "nameRU": "Автоматический дорожный  блокиратор Барьер поднимающийся противотаранный стальной врезного типа с электромеханическим приводом, высота подъема передней кромки до 700 мм, ширина 3000 мм",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001004000019",
+        "nameUZ": "Автоматик йўл блокиратори Қўлда қўзғалувчан пўлатдан ясалган пўлатдан ясалган кўтарилган тўсиқ, олдинги четининг кўтарилиш баландлиги 700 мм гача, кенглиги 3000 мм",
+        "nameLAT": "Avtomatik yo’l blokiratori Qo'lda qo'zg'aluvchan po'latdan yasalgan po'latdan yasalgan ko'tarilgan to'siq, oldingi chetining ko'tarilish balandligi 700 mm gacha, kengligi 3000 mm",
+        "nameRU": "Автоматический дорожный  блокиратор Барьер поднимающийся противотаранный стальной врезного типа с ручным приводом, высота подъема передней кромки до 700 мм, ширина 3000 мм",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001006000009",
+        "nameUZ": "Стрелка ўтказиш (темир йўл учун ускуна) битта, йўл кенглиги 1520 мм, релс тури П65, тоифа 1/9, лойиҳа 2434.00.000",
+        "nameLAT": "Strelka o’tkazish (temir yo’l uchun uskuna) bitta, yo'l kengligi 1520 mm, rels turi P65, toifa 1/9, loyiha 2434.00.000",
+        "nameRU": "Стрелочный перевод (оборудование для железнодорожных путей) одиночный, ширина колеи 1520 мм, тип рельса Р65, марка 1/9, проект 2434.00.000",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001006000032",
+        "nameUZ": "Стрелка ўтказиш (темир йўл учун ускуна) Р65, 1/11-синф, лойиҳа 2193.00.000",
+        "nameLAT": "Strelka o’tkazish (temir yo’l uchun uskuna) R65, 1/11-sinf, loyiha 2193.00.000",
+        "nameRU": "Стрелочный перевод (оборудование для железнодорожных путей) Р65, марка 1/11, проект 2193.00.000",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001006000033",
+        "nameUZ": "Стрелка ўтказиш (темир йўл учун ускуна) Р65, 1/11-синф, лойиҳа 2372.00.000",
+        "nameLAT": "Strelka o’tkazish (temir yo’l uchun uskuna) R65, 1/11-sinf, loyiha 2372.00.000",
+        "nameRU": "Стрелочный перевод (оборудование для железнодорожных путей) Р65, марка 1/11, проект 2372.00.000",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001006000055",
+        "nameUZ": "Стрелка ўтказиш (темир йўл учун ускуна) Коммутатор, релс тури П65 тоифаси 1/11, ёғоч панжараларда",
+        "nameLAT": "Strelka o’tkazish (temir yo’l uchun uskuna) Kommutator, rels turi P65 toifasi 1/11, yog'och panjaralarda",
+        "nameRU": "Стрелочный перевод (оборудование для железнодорожных путей) Перевод стрелочный, тип рельсов Р65 марка 1/11, на деревянных брусьях",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08603001002000005",
+        "nameUZ": "Темир йўл вагони Тор ўлчовли платформалар",
+        "nameLAT": "Temir yo’l vagoni Tor o'lchovli platformalar",
+        "nameRU": "Железнодорожный вагон Платформы узкой колеи",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08603001002000006",
+        "nameUZ": "Темир йўл вагони Роликли конвеерли кенг ўлчовли платформалар",
+        "nameLAT": "Temir yo’l vagoni Rolikli konveyerli keng o'lchovli platformalar",
+        "nameRU": "Железнодорожный вагон Платформы широкой колеи с роликовым транспортером",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001002000006",
+        "nameUZ": "Шлагбаум Электромеханик қўзғалувчан ва вертикал тўсинли кўтарувчи пўлатдан ясалган тўсиқларга қарши тўсиқли тўсиқ, йўл юзасидан нур баландлиги 900 мм гача, кенглиги 6000 мм",
+        "nameLAT": "Shlagbaum Elektromexanik qo'zg'aluvchan va vertikal to'sinli ko'taruvchi po'latdan yasalgan to'siqlarga qarshi to'siqli to'siq, yo'l yuzasidan nur balandligi 900 mm gacha, kengligi 6000 mm",
+        "nameRU": "Шлагбаум Барьер противотаранный стальной шлагбаумного типа с электромеханическим приводом и вертикальным подъемом балки, высота балки от дорожного полотна до 900 мм, ширина 6000 мм",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001002000022",
+        "nameUZ": "Шлагбаум Электромеханик қўзғалувчан ва тортиб олинадиган тўсинли анти-рам тўсиқли пўлат тўсиқ, йўл юзасидан нур баландлиги 900 мм гача, кенглиги 6000 мм",
+        "nameLAT": "Shlagbaum Elektromexanik qo'zg'aluvchan va tortib olinadigan to'sinli anti-ram to'siqli po'lat to'siq, yo'l yuzasidan nur balandligi 900 mm gacha, kengligi 6000 mm",
+        "nameRU": "Шлагбаум Барьер противотаранный стальной шлагбаумного типа с электромеханическим приводом и выдвижной балкой, высота балки от дорожного полотна до 900 мм, ширина 6000 мм",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001004000004",
+        "nameUZ": "Автоматик йўл блокиратори Электромеханик қўзғайсанли юқори турдаги пўлатдан ясалган тўсиқни кўтарувчи, олдинги четининг кўтарилиш баландлиги 700 мм гача, кенглиги 3000 мм",
+        "nameLAT": "Avtomatik yo’l blokiratori Elektromexanik qo'zg'aysanli yuqori turdagi po'latdan yasalgan to'siqni ko'taruvchi, oldingi chetining ko'tarilish balandligi 700 mm gacha, kengligi 3000 mm",
+        "nameRU": "Автоматический дорожный  блокиратор Барьер поднимающийся противотаранный стальной накладного типа с электромеханическим приводом, высота подъема передней кромки до 700 мм, ширина 3000 мм",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001004000020",
+        "nameUZ": "Автоматик йўл блокиратори Қўлда қўзғалувчан юқори турдаги пўлатдан ясалган тўсиқни кўтарувчи, олдинги четининг кўтарилиш баландлиги 700 мм гача, кенглиги 3000 мм",
+        "nameLAT": "Avtomatik yo’l blokiratori Qo'lda qo'zg'aluvchan yuqori turdagi po'latdan yasalgan to'siqni ko'taruvchi, oldingi chetining ko'tarilish balandligi 700 mm gacha, kengligi 3000 mm",
+        "nameRU": "Автоматический дорожный  блокиратор Барьер поднимающийся противотаранный стальной накладного типа с ручным приводом, высота подъема передней кромки до 700 мм, ширина 3000 мм",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001006000010",
+        "nameUZ": "Стрелка ўтказиш (темир йўл учун ускуна) мустаҳкамланган хочли битта, йўл кенглиги 1520 мм, релс тури П65, тоифа 1/11, лойиҳа 2764.00.000",
+        "nameLAT": "Strelka o’tkazish (temir yo’l uchun uskuna) mustahkamlangan xochli bitta, yo'l kengligi 1520 mm, rels turi P65, toifa 1/11, loyiha 2764.00.000",
+        "nameRU": "Стрелочный перевод (оборудование для железнодорожных путей) одиночный с упрочненной крестовиной, ширина колеи 1520 мм, тип рельса Р65, марка 1/11, проект 2764.00.000",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001006000034",
+        "nameUZ": "Стрелка ўтказиш (темир йўл учун ускуна) Р65, 1/11-синф, лойиҳа 2433.00.000",
+        "nameLAT": "Strelka o’tkazish (temir yo’l uchun uskuna) R65, 1/11-sinf, loyiha 2433.00.000",
+        "nameRU": "Стрелочный перевод (оборудование для железнодорожных путей) Р65, марка 1/11, проект 2433.00.000",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001006000035",
+        "nameUZ": "Стрелка ўтказиш (темир йўл учун ускуна) Р65, 1/11-синф, лойиҳа 2561.00.000",
+        "nameLAT": "Strelka o’tkazish (temir yo’l uchun uskuna) R65, 1/11-sinf, loyiha 2561.00.000",
+        "nameRU": "Стрелочный перевод (оборудование для железнодорожных путей) Р65, марка 1/11, проект 2561.00.000",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001006000056",
+        "nameUZ": "Стрелка ўтказиш (темир йўл учун ускуна) Коммутатор, релс тури П65 тоифаси 1/18, ёғоч панжараларда",
+        "nameLAT": "Strelka o’tkazish (temir yo’l uchun uskuna) Kommutator, rels turi P65 toifasi 1/18, yog'och panjaralarda",
+        "nameRU": "Стрелочный перевод (оборудование для железнодорожных путей) Перевод стрелочный, тип рельсов Р65 марка 1/18, на деревянных брусьях",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08607001018000001",
+        "nameUZ": "Осма қисқич Трамвай ва троллейбус алоқа тармоғининг ФТЗ симини маҳкамлаш",
+        "nameLAT": "Osma qisqich Tramvay va trolleybus aloqa tarmog'ining FTZ simini mahkamlash",
+        "nameRU": "Подвесной зажим Зажим струновой ЗСТ контактной сети трамвая и троллейбуса",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001002000007",
+        "nameUZ": "Шлагбаум Қўлда қўзғалувчан ва вертикал тўсинли кўтарувчи, тўқнашувга қарши тўсиқли пўлат тўсиқ, йўл юзасидан нур баландлиги 900 мм гача, кенглиги 4000 мм",
+        "nameLAT": "Shlagbaum Qo'lda qo'zg'aluvchan va vertikal to'sinli ko'taruvchi, to'qnashuvga qarshi to'siqli po'lat to'siq, yo'l yuzasidan nur balandligi 900 mm gacha, kengligi 4000 mm",
+        "nameRU": "Шлагбаум Барьер противотаранный стальной шлагбаумного типа с ручным приводом и вертикальным подъемом балки, высота балки от дорожного полотна до 900 мм, ширина 4000 мм",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001002000023",
+        "nameUZ": "Шлагбаум Электромеханик қўзғалувчан ва тортиб олинадиган тўсинли анти-рам тўсиқли пўлат тўсиқ, йўл юзасидан 900 мм гача, кенглиги 7000 мм гача",
+        "nameLAT": "Shlagbaum Elektromexanik qo'zg'aluvchan va tortib olinadigan to'sinli anti-ram to'siqli po'lat to'siq, yo'l yuzasidan 900 mm gacha, kengligi 7000 mm gacha",
+        "nameRU": "Шлагбаум Барьер противотаранный стальной шлагбаумного типа с электромеханическим приводом и выдвижной балкой, высота балки от дорожного полотна до 900 мм, ширина 7000 мм",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001004000005",
+        "nameUZ": "Автоматик йўл блокиратори Электромеханик қўзғалувчан пўлатдан ясалган пўлатдан ясалган кўтарилган тўсиқ, олдинги четининг кўтарилиш баландлиги 700 мм гача, кенглиги 4000 мм",
+        "nameLAT": "Avtomatik yo’l blokiratori Elektromexanik qo'zg'aluvchan po'latdan yasalgan po'latdan yasalgan ko'tarilgan to'siq, oldingi chetining ko'tarilish balandligi 700 mm gacha, kengligi 4000 mm",
+        "nameRU": "Автоматический дорожный  блокиратор Барьер поднимающийся противотаранный стальной врезного типа с электромеханическим приводом, высота подъема передней кромки до 700 мм, ширина 4000 мм",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001004000021",
+        "nameUZ": "Автоматик йўл блокиратори Қўлда қўзғалувчан пўлатдан ясалган пўлатдан ясалган кўтарилган тўсиқ, олдинги четининг кўтарилиш баландлиги 700 мм гача, кенглиги 4000 мм",
+        "nameLAT": "Avtomatik yo’l blokiratori Qo'lda qo'zg'aluvchan po'latdan yasalgan po'latdan yasalgan ko'tarilgan to'siq, oldingi chetining ko'tarilish balandligi 700 mm gacha, kengligi 4000 mm",
+        "nameRU": "Автоматический дорожный  блокиратор Барьер поднимающийся противотаранный стальной врезного типа с ручным приводом, высота подъема передней кромки до 700 мм, ширина 4000 мм",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001006000011",
+        "nameUZ": "Стрелка ўтказиш (темир йўл учун ускуна) битта, йўл кенглиги 1520 мм, релс тури П65, тоифа 1/11, лойиҳа 2726.00.000",
+        "nameLAT": "Strelka o’tkazish (temir yo’l uchun uskuna) bitta, yo'l kengligi 1520 mm, rels turi P65, toifa 1/11, loyiha 2726.00.000",
+        "nameRU": "Стрелочный перевод (оборудование для железнодорожных путей) одиночный, ширина колеи 1520 мм, тип рельса Р65, марка 1/11, проект 2726.00.000",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001006000036",
+        "nameUZ": "Стрелка ўтказиш (темир йўл учун ускуна) Р65, 1/11-синф, лойиҳа 2713.00.000",
+        "nameLAT": "Strelka o’tkazish (temir yo’l uchun uskuna) R65, 1/11-sinf, loyiha 2713.00.000",
+        "nameRU": "Стрелочный перевод (оборудование для железнодорожных путей) Р65, марка 1/11, проект 2713.00.000",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001006000037",
+        "nameUZ": "Стрелка ўтказиш (темир йўл учун ускуна) Р65, 1/11-синф, лойиҳа 2718.00.000",
+        "nameLAT": "Strelka o’tkazish (temir yo’l uchun uskuna) R65, 1/11-sinf, loyiha 2718.00.000",
+        "nameRU": "Стрелочный перевод (оборудование для железнодорожных путей) Р65, марка 1/11, проект 2718.00.000",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001006000057",
+        "nameUZ": "Стрелка ўтказиш (темир йўл учун ускуна) Коммутатор, темир йўл тури П65, юқори тезликда ҳаракатланиш учун темир-бетон барларда, 1/11 даража",
+        "nameLAT": "Strelka o’tkazish (temir yo’l uchun uskuna) Kommutator, temir yo'l turi P65, yuqori tezlikda harakatlanish uchun temir-beton barlarda, 1/11 daraja",
+        "nameRU": "Стрелочный перевод (оборудование для железнодорожных путей) Перевод стрелочный, тип рельсов Р65, на железобетонных брусьях для высокоскоростного движения марка 1/11",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08607001024000001",
+        "nameUZ": "Темир йўл локомотивлари, трамвайлар ёки ҳаракатланувчи таркибнинг бошқа қисмлари (бошқа сарлавҳаларда кўрсатилмаган) Бир троллейбус учун думалоқ троллейли дамперлар",
+        "nameLAT": "Temir yo’l lokomotivlari, tramvaylar yoki harakatlanuvchi tarkibning boshqa qismlari (boshqa sarlavhalarda ko’rsatilmagan) Bir trolleybus uchun dumaloq trolleyli damperlar",
+        "nameRU": "Другие части железнодорожных локомотивов, трамвая или подвижного состава (не перечисленные в других субпозициях) Опрокидыватели вагонеток круговые на одну вагонетку",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001002000008",
+        "nameUZ": "Шлагбаум Қўлда бошқариладиган ва вертикал тўсинли кўтарувчи, тўсиқларга қарши тўсиқли пўлат тўсиқ, йўл юзасидан нур баландлиги 900 мм гача, кенглиги 5000 мм",
+        "nameLAT": "Shlagbaum Qo'lda boshqariladigan va vertikal to'sinli ko'taruvchi, to'siqlarga qarshi to'siqli po'lat to'siq, yo'l yuzasidan nur balandligi 900 mm gacha, kengligi 5000 mm",
+        "nameRU": "Шлагбаум Барьер противотаранный стальной шлагбаумного типа с ручным приводом и вертикальным подъемом балки, высота балки от дорожного полотна до 900 мм, ширина 5000 мм",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001002000024",
+        "nameUZ": "Шлагбаум Электромеханик қўзғалувчан ва тортиб олинадиган тўсинли анти-рам тўсиқли пўлат тўсиқ, йўл юзасидан нур баландлиги 900 мм гача, кенглиги 8000 мм",
+        "nameLAT": "Shlagbaum Elektromexanik qo'zg'aluvchan va tortib olinadigan to'sinli anti-ram to'siqli po'lat to'siq, yo'l yuzasidan nur balandligi 900 mm gacha, kengligi 8000 mm",
+        "nameRU": "Шлагбаум Барьер противотаранный стальной шлагбаумного типа с электромеханическим приводом и выдвижной балкой, высота балки от дорожного полотна до 900 мм, ширина 8000 мм",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001004000006",
+        "nameUZ": "Автоматик йўл блокиратори Электромеханик қўзғайсанли тепа туридаги тўқнашувга қарши пўлат тўсиқ, олдинги четининг кўтарилиш баландлиги 700 мм гача, кенглиги 4000 мм",
+        "nameLAT": "Avtomatik yo’l blokiratori Elektromexanik qo'zg'aysanli tepa turidagi to'qnashuvga qarshi po'lat to'siq, oldingi chetining ko'tarilish balandligi 700 mm gacha, kengligi 4000 mm",
+        "nameRU": "Автоматический дорожный  блокиратор Барьер поднимающийся противотаранный стальной накладного типа с электромеханическим приводом, высота подъема передней кромки до 700 мм, ширина 4000 мм",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001004000022",
+        "nameUZ": "Автоматик йўл блокиратори Қўлда қўзғалувчан юқори турдаги пўлатдан ясалган тўсиқни кўтарувчи, олдинги четининг кўтарилиш баландлиги 700 мм гача, кенглиги 4000 мм",
+        "nameLAT": "Avtomatik yo’l blokiratori Qo'lda qo'zg'aluvchan yuqori turdagi po'latdan yasalgan to'siqni ko'taruvchi, oldingi chetining ko'tarilish balandligi 700 mm gacha, kengligi 4000 mm",
+        "nameRU": "Автоматический дорожный  блокиратор Барьер поднимающийся противотаранный стальной накладного типа с ручным приводом, высота подъема передней кромки до 700 мм, ширина 4000 мм",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001006000012",
+        "nameUZ": "Стрелка ўтказиш (темир йўл учун ускуна) битта, йўл кенглиги 1520 мм, релс тури П65, тоифа 1/11, лойиҳа 2750.00.000",
+        "nameLAT": "Strelka o’tkazish (temir yo’l uchun uskuna) bitta, yo'l kengligi 1520 mm, rels turi P65, toifa 1/11, loyiha 2750.00.000",
+        "nameRU": "Стрелочный перевод (оборудование для железнодорожных путей) одиночный, ширина колеи 1520 мм, тип рельса Р65, марка 1/11, проект 2750.00.000",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001006000038",
+        "nameUZ": "Стрелка ўтказиш (темир йўл учун ускуна) Р65, 1/11-синф, лойиҳа 2751.00.000",
+        "nameLAT": "Strelka o’tkazish (temir yo’l uchun uskuna) R65, 1/11-sinf, loyiha 2751.00.000",
+        "nameRU": "Стрелочный перевод (оборудование для железнодорожных путей) Р65, марка 1/11, проект 2751.00.000",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001006000039",
+        "nameUZ": "Стрелка ўтказиш (темир йўл учун ускуна) Р65, 1/11-синф, лойиҳа 2759.00.000",
+        "nameLAT": "Strelka o’tkazish (temir yo’l uchun uskuna) R65, 1/11-sinf, loyiha 2759.00.000",
+        "nameRU": "Стрелочный перевод (оборудование для железнодорожных путей) Р65, марка 1/11, проект 2759.00.000",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001006000058",
+        "nameUZ": "Стрелка ўтказиш (темир йўл учун ускуна) Коммутатор, релс тури П65 градус 1/9, темир-бетон барларда",
+        "nameLAT": "Strelka o’tkazish (temir yo’l uchun uskuna) Kommutator, rels turi P65 gradus 1/9, temir-beton barlarda",
+        "nameRU": "Стрелочный перевод (оборудование для железнодорожных путей) Перевод стрелочный, тип рельсов Р65 марка 1/9, на железобетонных брусьях",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08607001024000002",
+        "nameUZ": "Темир йўл локомотивлари, трамвайлар ёки ҳаракатланувчи таркибнинг бошқа қисмлари (бошқа сарлавҳаларда кўрсатилмаган) Темирламайдиган аравачалар, ҳажми 1,4 м3",
+        "nameLAT": "Temir yo’l lokomotivlari, tramvaylar yoki harakatlanuvchi tarkibning boshqa qismlari (boshqa sarlavhalarda ko’rsatilmagan) Temirlamaydigan aravachalar, hajmi 1,4 m3",
+        "nameRU": "Другие части железнодорожных локомотивов, трамвая или подвижного состава (не перечисленные в других субпозициях) Вагонетки неопрокидные, вместимость 1,4 м3",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001002000009",
+        "nameUZ": "Шлагбаум Қўлда қўзғалувчан ва вертикал тўсинли кўтарувчи қўчқорга қарши тўсиқли пўлат тўсиқ, йўл юзасидан нур баландлиги 900 мм гача, кенглиги 6000 мм",
+        "nameLAT": "Shlagbaum Qo'lda qo'zg'aluvchan va vertikal to'sinli ko'taruvchi qo'chqorga qarshi to'siqli po'lat to'siq, yo'l yuzasidan nur balandligi 900 mm gacha, kengligi 6000 mm",
+        "nameRU": "Шлагбаум Барьер противотаранный стальной шлагбаумного типа с ручным приводом и вертикальным подъемом балки, высота балки от дорожного полотна до 900 мм, ширина 6000 мм",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001002000025",
+        "nameUZ": "Шлагбаум Қўлда қўзғалувчан ва тортиб олинадиган тўсинли анти-рам тўсиқли пўлат тўсиқ, йўл юзасидан 900 мм гача, кенглиги 4000 мм гача.",
+        "nameLAT": "Shlagbaum Qo'lda qo'zg'aluvchan va tortib olinadigan to'sinli anti-ram to'siqli po'lat to'siq, yo'l yuzasidan 900 mm gacha, kengligi 4000 mm gacha.",
+        "nameRU": "Шлагбаум Барьер противотаранный стальной шлагбаумного типа с ручным приводом и выдвижной балкой, высота балки от дорожного полотна до 900 мм, ширина 4000 мм",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001004000007",
+        "nameUZ": "Автоматик йўл блокиратори Электромеханик қўзғалувчан пўлатдан ясалган пўлатдан ясалган кўтарилган тўсиқ, олдинги четининг кўтарилиш баландлиги 700 мм гача, кенглиги 5000 мм",
+        "nameLAT": "Avtomatik yo’l blokiratori Elektromexanik qo'zg'aluvchan po'latdan yasalgan po'latdan yasalgan ko'tarilgan to'siq, oldingi chetining ko'tarilish balandligi 700 mm gacha, kengligi 5000 mm",
+        "nameRU": "Автоматический дорожный  блокиратор Барьер поднимающийся противотаранный стальной врезного типа с электромеханическим приводом, высота подъема передней кромки до 700 мм, ширина 5000 мм",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001004000023",
+        "nameUZ": "Автоматик йўл блокиратори Қўлда қўзғалувчан пўлатдан ясалган пўлатдан ясалган кўтарилган тўсиқ, олдинги четининг кўтарилиш баландлиги 700 мм гача, кенглиги 5000 мм",
+        "nameLAT": "Avtomatik yo’l blokiratori Qo'lda qo'zg'aluvchan po'latdan yasalgan po'latdan yasalgan ko'tarilgan to'siq, oldingi chetining ko'tarilish balandligi 700 mm gacha, kengligi 5000 mm",
+        "nameRU": "Автоматический дорожный  блокиратор Барьер поднимающийся противотаранный стальной врезного типа с ручным приводом, высота подъема передней кромки до 700 мм, ширина 5000 мм",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001006000013",
+        "nameUZ": "Стрелка ўтказиш (темир йўл учун ускуна) ёғоч нурларда носимметрик, темир йўл тури П65, 1/6 даража",
+        "nameLAT": "Strelka o’tkazish (temir yo’l uchun uskuna) yog'och nurlarda nosimmetrik, temir yo'l turi P65, 1/6 daraja",
+        "nameRU": "Стрелочный перевод (оборудование для железнодорожных путей) симметричный на деревянных брусьях, тип рельса Р65, марка 1/6",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001006000040",
+        "nameUZ": "Стрелка ўтказиш (темир йўл учун ускуна) Р65, 1/11-синф, лойиҳа 2764.00.000",
+        "nameLAT": "Strelka o’tkazish (temir yo’l uchun uskuna) R65, 1/11-sinf, loyiha 2764.00.000",
+        "nameRU": "Стрелочный перевод (оборудование для железнодорожных путей) Р65, марка 1/11, проект 2764.00.000",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001006000041",
+        "nameUZ": "Стрелка ўтказиш (темир йўл учун ускуна) Р65, 1/11-синф, лойиҳа 2768.00.000",
+        "nameLAT": "Strelka o’tkazish (temir yo’l uchun uskuna) R65, 1/11-sinf, loyiha 2768.00.000",
+        "nameRU": "Стрелочный перевод (оборудование для железнодорожных путей) Р65, марка 1/11, проект 2768.00.000",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08607001024000003",
+        "nameUZ": "Темир йўл локомотивлари, трамвайлар ёки ҳаракатланувчи таркибнинг бошқа қисмлари (бошқа сарлавҳаларда кўрсатилмаган) Егимли аравачалар, ҳажми 0,8 м3",
+        "nameLAT": "Temir yo’l lokomotivlari, tramvaylar yoki harakatlanuvchi tarkibning boshqa qismlari (boshqa sarlavhalarda ko’rsatilmagan) Egimli aravachalar, hajmi 0,8 m3",
+        "nameRU": "Другие части железнодорожных локомотивов, трамвая или подвижного состава (не перечисленные в других субпозициях) Вагонетки опрокидные, вместимость 0,8 м3",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001002000010",
+        "nameUZ": "Шлагбаум Электромеханик қўзғалувчан ва горизонтал тўсинли кўтарувчи, тўқнашувга қарши тўсиқли пўлат тўсиқ, йўл юзасидан нур баландлиги 900 мм гача, кенглиги 4000 мм",
+        "nameLAT": "Shlagbaum Elektromexanik qo'zg'aluvchan va gorizontal to'sinli ko'taruvchi, to'qnashuvga qarshi to'siqli po'lat to'siq, yo'l yuzasidan nur balandligi 900 mm gacha, kengligi 4000 mm",
+        "nameRU": "Шлагбаум Барьер противотаранный стальной шлагбаумного типа с электромеханическим приводом и горизонтальным подъемом балки, высота балки от дорожного полотна до 900 мм, ширина 4000 мм",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001002000026",
+        "nameUZ": "Шлагбаум Қўлда қўзғалувчан ва тортиб олинадиган тўсинли қўчқорга қарши тўсиқли пўлат тўсиқ тури, нур баландлиги йўл юзасидан 900 мм гача, кенглиги 5000 мм",
+        "nameLAT": "Shlagbaum Qo'lda qo'zg'aluvchan va tortib olinadigan to'sinli qo'chqorga qarshi to'siqli po'lat to'siq turi, nur balandligi yo'l yuzasidan 900 mm gacha, kengligi 5000 mm",
+        "nameRU": "Шлагбаум Барьер противотаранный стальной шлагбаумного типа с ручным приводом и выдвижной балкой, высота балки от дорожного полотна до 900 мм, ширина 5000 мм",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001004000008",
+        "nameUZ": "Автоматик йўл блокиратори Электромеханик қўзғайсанли юқори турдаги пўлатдан ясалган тўсиқни кўтарувчи, олдинги четининг кўтарилиш баландлиги 700 мм гача, кенглиги 5000 мм",
+        "nameLAT": "Avtomatik yo’l blokiratori Elektromexanik qo'zg'aysanli yuqori turdagi po'latdan yasalgan to'siqni ko'taruvchi, oldingi chetining ko'tarilish balandligi 700 mm gacha, kengligi 5000 mm",
+        "nameRU": "Автоматический дорожный  блокиратор Барьер поднимающийся противотаранный стальной накладного типа с электромеханическим приводом, высота подъема передней кромки до 700 мм, ширина 5000 мм",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001004000024",
+        "nameUZ": "Автоматик йўл блокиратори Қўлда қўзғалувчан юқори турдаги пўлатдан ясалган тўсиқни кўтарувчи, олдинги четини кўтариш баландлиги 700 мм гача, кенглиги 5000 мм",
+        "nameLAT": "Avtomatik yo’l blokiratori Qo'lda qo'zg'aluvchan yuqori turdagi po'latdan yasalgan to'siqni ko'taruvchi, oldingi chetini ko'tarish balandligi 700 mm gacha, kengligi 5000 mm",
+        "nameRU": "Автоматический дорожный  блокиратор Барьер поднимающийся противотаранный стальной накладного типа с ручным приводом, высота подъема передней кромки до 700 мм, ширина 5000 мм",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001006000014",
+        "nameUZ": "Стрелка ўтказиш (темир йўл учун ускуна) ёғоч нурларда, темир йўл тури П65, 1/9 даража",
+        "nameLAT": "Strelka o’tkazish (temir yo’l uchun uskuna) yog'och nurlarda, temir yo'l turi P65, 1/9 daraja",
+        "nameRU": "Стрелочный перевод (оборудование для железнодорожных путей) на деревянных брусьях, тип рельса Р65, марка 1/9",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001006000042",
+        "nameUZ": "Стрелка ўтказиш (темир йўл учун ускуна) Р65, 1/11-синф, лойиҳа 2771.00.000",
+        "nameLAT": "Strelka o’tkazish (temir yo’l uchun uskuna) R65, 1/11-sinf, loyiha 2771.00.000",
+        "nameRU": "Стрелочный перевод (оборудование для железнодорожных путей) Р65, марка 1/11, проект 2771.00.000",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001006000043",
+        "nameUZ": "Стрелка ўтказиш (темир йўл учун ускуна) Р65, 1/11-синф, лойиҳа 2773.00.000",
+        "nameLAT": "Strelka o’tkazish (temir yo’l uchun uskuna) R65, 1/11-sinf, loyiha 2773.00.000",
+        "nameRU": "Стрелочный перевод (оборудование для железнодорожных путей) Р65, марка 1/11, проект 2773.00.000",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08607001024000004",
+        "nameUZ": "Темир йўл локомотивлари, трамвайлар ёки ҳаракатланувчи таркибнинг бошқа қисмлари (бошқа сарлавҳаларда кўрсатилмаган) Кенг ўлчовли троллейбуслар",
+        "nameLAT": "Temir yo’l lokomotivlari, tramvaylar yoki harakatlanuvchi tarkibning boshqa qismlari (boshqa sarlavhalarda ko’rsatilmagan) Keng o'lchovli trolleybuslar",
+        "nameRU": "Другие части железнодорожных локомотивов, трамвая или подвижного состава (не перечисленные в других субпозициях) Вагонетки путевые широкой колеи",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001002000011",
+        "nameUZ": "Шлагбаум Электромеханик қўзғайсанли ва горизонтал тўсинли кўтарувчи пўлатдан ясалган тўсиқларга қарши тўсиқли тўсиқ, йўл юзасидан нур баландлиги 900 мм гача, кенглиги 5000 мм",
+        "nameLAT": "Shlagbaum Elektromexanik qo'zg'aysanli va gorizontal to'sinli ko'taruvchi po'latdan yasalgan to'siqlarga qarshi to'siqli to'siq, yo'l yuzasidan nur balandligi 900 mm gacha, kengligi 5000 mm",
+        "nameRU": "Шлагбаум Барьер противотаранный стальной шлагбаумного типа с электромеханическим приводом и горизонтальным подъемом балки, высота балки от дорожного полотна до 900 мм, ширина 5000 мм",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001002000027",
+        "nameUZ": "Шлагбаум Қўлда қўзғалувчан ва тортиб олинадиган тўсинли анти-рам тўсиқли пўлат тўсиқ, йўл юзасидан 900 мм гача, кенглиги 6000 мм гача.",
+        "nameLAT": "Shlagbaum Qo'lda qo'zg'aluvchan va tortib olinadigan to'sinli anti-ram to'siqli po'lat to'siq, yo'l yuzasidan 900 mm gacha, kengligi 6000 mm gacha.",
+        "nameRU": "Шлагбаум Барьер противотаранный стальной шлагбаумного типа с ручным приводом и выдвижной балкой, высота балки от дорожного полотна до 900 мм, ширина 6000 мм",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001004000009",
+        "nameUZ": "Автоматик йўл блокиратори Электромеханик қўзғалувчан пўлатдан ясалган пўлатдан ясалган кўтарилган тўсиқ, олдинги четининг кўтарилиш баландлиги 700 мм гача, кенглиги 6000 мм",
+        "nameLAT": "Avtomatik yo’l blokiratori Elektromexanik qo'zg'aluvchan po'latdan yasalgan po'latdan yasalgan ko'tarilgan to'siq, oldingi chetining ko'tarilish balandligi 700 mm gacha, kengligi 6000 mm",
+        "nameRU": "Автоматический дорожный  блокиратор Барьер поднимающийся противотаранный стальной врезного типа с электромеханическим приводом, высота подъема передней кромки до 700 мм, ширина 6000 мм",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001004000025",
+        "nameUZ": "Автоматик йўл блокиратори Қўлда қўзғалувчан пўлатдан ясалган пўлатдан ясалган кўтарилган тўсиқ, олдинги четининг кўтарилиш баландлиги 700 мм гача, кенглиги 6000 мм",
+        "nameLAT": "Avtomatik yo’l blokiratori Qo'lda qo'zg'aluvchan po'latdan yasalgan po'latdan yasalgan ko'tarilgan to'siq, oldingi chetining ko'tarilish balandligi 700 mm gacha, kengligi 6000 mm",
+        "nameRU": "Автоматический дорожный  блокиратор Барьер поднимающийся противотаранный стальной врезного типа с ручным приводом, высота подъема передней кромки до 700 мм, ширина 6000 мм",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001006000015",
+        "nameUZ": "Стрелка ўтказиш (темир йўл учун ускуна) темир-бетон нурларда, релс тури П65, 1/11 синф",
+        "nameLAT": "Strelka o’tkazish (temir yo’l uchun uskuna) temir-beton nurlarda, rels turi P65, 1/11 sinf",
+        "nameRU": "Стрелочный перевод (оборудование для железнодорожных путей) на железобетонных брусьях, тип рельса Р65, марка 1/11",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001006000044",
+        "nameUZ": "Стрелка ўтказиш (темир йўл учун ускуна) Р65, 1/11-синф, лойиҳа 2802.00.000",
+        "nameLAT": "Strelka o’tkazish (temir yo’l uchun uskuna) R65, 1/11-sinf, loyiha 2802.00.000",
+        "nameRU": "Стрелочный перевод (оборудование для железнодорожных путей) Р65, марка 1/11, проект 2802.00.000",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001006000045",
+        "nameUZ": "Стрелка ўтказиш (темир йўл учун ускуна) Р65, 1/11-синф, лойиҳа 2830.00.000",
+        "nameLAT": "Strelka o’tkazish (temir yo’l uchun uskuna) R65, 1/11-sinf, loyiha 2830.00.000",
+        "nameRU": "Стрелочный перевод (оборудование для железнодорожных путей) Р65, марка 1/11, проект 2830.00.000",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08607001024000005",
+        "nameUZ": "Темир йўл локомотивлари, трамвайлар ёки ҳаракатланувчи таркибнинг бошқа қисмлари (бошқа сарлавҳаларда кўрсатилмаган) Темирламайдиган аравачалар, сиғими 1 м3",
+        "nameLAT": "Temir yo’l lokomotivlari, tramvaylar yoki harakatlanuvchi tarkibning boshqa qismlari (boshqa sarlavhalarda ko’rsatilmagan) Temirlamaydigan aravachalar, sig‘imi 1 m3",
+        "nameRU": "Другие части железнодорожных локомотивов, трамвая или подвижного состава (не перечисленные в других субпозициях) Вагонетки неопрокидные, вместимость 1 м3",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001002000012",
+        "nameUZ": "Шлагбаум Электромеханик қўзғайсанли ва горизонтал тўсинли кўтарувчи анти-рам тўсиқли пўлат тўсиқ тури, нур баландлиги йўл юзасидан 900 мм гача, кенглиги 6000 мм",
+        "nameLAT": "Shlagbaum Elektromexanik qo'zg'aysanli va gorizontal to'sinli ko'taruvchi anti-ram to'siqli po'lat to'siq turi, nur balandligi yo'l yuzasidan 900 mm gacha, kengligi 6000 mm",
+        "nameRU": "Шлагбаум Барьер противотаранный стальной шлагбаумного типа с электромеханическим приводом и горизонтальным подъемом балки, высота балки от дорожного полотна до 900 мм, ширина 6000 мм",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001002000028",
+        "nameUZ": "Шлагбаум Қўлда қўзғалувчан ва тортиб олинадиган тўсинли қўчқорга қарши тўсиқли пўлат тўсиқ тури, нур баландлиги йўл юзасидан 900 мм гача, кенглиги 7000 мм",
+        "nameLAT": "Shlagbaum Qo'lda qo'zg'aluvchan va tortib olinadigan to'sinli qo'chqorga qarshi to'siqli po'lat to'siq turi, nur balandligi yo'l yuzasidan 900 mm gacha, kengligi 7000 mm",
+        "nameRU": "Шлагбаум Барьер противотаранный стальной шлагбаумного типа с ручным приводом и выдвижной балкой, высота балки от дорожного полотна до 900 мм, ширина 7000 мм",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001004000010",
+        "nameUZ": "Автоматик йўл блокиратори Электромеханик қўзғайсанли тепа туридаги тўқнашувга қарши пўлат тўсиқ, олдинги четининг кўтарилиш баландлиги 700 мм гача, кенглиги 6000 мм",
+        "nameLAT": "Avtomatik yo’l blokiratori Elektromexanik qo'zg'aysanli tepa turidagi to'qnashuvga qarshi po'lat to'siq, oldingi chetining ko'tarilish balandligi 700 mm gacha, kengligi 6000 mm",
+        "nameRU": "Автоматический дорожный  блокиратор Барьер поднимающийся противотаранный стальной накладного типа с электромеханическим приводом, высота подъема передней кромки до 700 мм, ширина 6000 мм",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001004000026",
+        "nameUZ": "Автоматик йўл блокиратори Қўлда қўзғалувчан юқори турдаги пўлатдан ясалган тўсиқни кўтарувчи, олдинги четининг кўтарилиш баландлиги 700 мм гача, кенглиги 6000 мм",
+        "nameLAT": "Avtomatik yo’l blokiratori Qo'lda qo'zg'aluvchan yuqori turdagi po'latdan yasalgan to'siqni ko'taruvchi, oldingi chetining ko'tarilish balandligi 700 mm gacha, kengligi 6000 mm",
+        "nameRU": "Автоматический дорожный  блокиратор Барьер поднимающийся противотаранный стальной накладного типа с ручным приводом, высота подъема передней кромки до 700 мм, ширина 6000 мм",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001006000016",
+        "nameUZ": "Стрелка ўтказиш (темир йўл учун ускуна) темир-бетон нурларда, темир йўл тури П65, 1/18 синф",
+        "nameLAT": "Strelka o’tkazish (temir yo’l uchun uskuna) temir-beton nurlarda, temir yo'l turi P65, 1/18 sinf",
+        "nameRU": "Стрелочный перевод (оборудование для железнодорожных путей) на железобетонных брусьях, тип рельса Р65, марка 1/18",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001006000046",
+        "nameUZ": "Стрелка ўтказиш (темир йўл учун ускуна) ер-хотин хоч, релслар тури П65 1/9 ёғоч панжараларда, 1580.00.000-01",
+        "nameLAT": "Strelka o’tkazish (temir yo’l uchun uskuna) er-xotin xoch, relslar turi P65 1/9 yog'och panjaralarda, 1580.00.000-01",
+        "nameRU": "Стрелочный перевод (оборудование для железнодорожных путей) двойной перекрестный, тип рельсов Р65 1/9 на деревянных брусьях, 1580.00.000-01",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08607001024000006",
+        "nameUZ": "Темир йўл локомотивлари, трамвайлар ёки ҳаракатланувчи таркибнинг бошқа қисмлари (бошқа сарлавҳаларда кўрсатилмаган) Темирламайдиган аравачалар, ҳажми 2,5 м3",
+        "nameLAT": "Temir yo’l lokomotivlari, tramvaylar yoki harakatlanuvchi tarkibning boshqa qismlari (boshqa sarlavhalarda ko’rsatilmagan) Temirlamaydigan aravachalar, hajmi 2,5 m3",
+        "nameRU": "Другие части железнодорожных локомотивов, трамвая или подвижного состава (не перечисленные в других субпозициях) Вагонетки неопрокидные, вместимость 2,5 м3",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001002000013",
+        "nameUZ": "Шлагбаум Электромеханик қўзғайсанли ва горизонтал тўсинли кўтарувчи пўлатдан ясалган тўсиқларга қарши тўсиқли тўсиқ, йўл юзасидан нур баландлиги 900 мм гача, кенглиги 7000 мм",
+        "nameLAT": "Shlagbaum Elektromexanik qo'zg'aysanli va gorizontal to'sinli ko'taruvchi po'latdan yasalgan to'siqlarga qarshi to'siqli to'siq, yo'l yuzasidan nur balandligi 900 mm gacha, kengligi 7000 mm",
+        "nameRU": "Шлагбаум Барьер противотаранный стальной шлагбаумного типа с электромеханическим приводом и горизонтальным подъемом балки, высота балки от дорожного полотна до 900 мм, ширина 7000 мм",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001002000029",
+        "nameUZ": "Шлагбаум Қўлда қўзғалувчан ва тортиб олинадиган тўсинли анти-рам тўсиқли пўлат тўсиқ, йўл юзасидан 900 мм гача, кенглиги 8000 мм гача.",
+        "nameLAT": "Shlagbaum Qo'lda qo'zg'aluvchan va tortib olinadigan to'sinli anti-ram to'siqli po'lat to'siq, yo'l yuzasidan 900 mm gacha, kengligi 8000 mm gacha.",
+        "nameRU": "Шлагбаум Барьер противотаранный стальной шлагбаумного типа с ручным приводом и выдвижной балкой, высота балки от дорожного полотна до 900 мм, ширина 8000 мм",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001004000011",
+        "nameUZ": "Автоматик йўл блокиратори Шланги қўзғалувчан пўлатдан ясалган пўлатдан ясалган кўтарилган тўсиқ, олдинги четининг кўтарилиш баландлиги 700 мм гача, кенглиги 3000 мм",
+        "nameLAT": "Avtomatik yo’l blokiratori Shlangi qo'zg'aluvchan po'latdan yasalgan po'latdan yasalgan ko'tarilgan to'siq, oldingi chetining ko'tarilish balandligi 700 mm gacha, kengligi 3000 mm",
+        "nameRU": "Автоматический дорожный  блокиратор Барьер поднимающийся противотаранный стальной врезного типа с гидравлическим приводом, высота подъема передней кромки до 700 мм, ширина 3000 мм",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001006000001",
+        "nameUZ": "Стрелка ўтказиш (темир йўл учун ускуна) Саёҳат филтри, ўлчами 267х201х131 мм",
+        "nameLAT": "Strelka o’tkazish (temir yo’l uchun uskuna) Sayohat filtri, o'lchami 267x201x131 mm",
+        "nameRU": "Стрелочный перевод (оборудование для железнодорожных путей) Фильтр путевой, размер 267x201x131 мм",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001006000017",
+        "nameUZ": "Стрелка ўтказиш (темир йўл учун ускуна) битта, йўл кенглиги 1520 мм, релс тури П50, тоифа 1/11, лойиҳа 2642.000.00",
+        "nameLAT": "Strelka o’tkazish (temir yo’l uchun uskuna) bitta, yo'l kengligi 1520 mm, rels turi P50, toifa 1/11, loyiha 2642.000.00",
+        "nameRU": "Стрелочный перевод (оборудование для железнодорожных путей) одиночный, ширина колеи 1520 мм, тип рельса Р50, марка 1/11, проект 2642.000.00",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001006000047",
+        "nameUZ": "Стрелка ўтказиш (темир йўл учун ускуна) ер-хотин хоч, релс тури П65 1/9 ёғоч нурларда, 2869.00.000",
+        "nameLAT": "Strelka o’tkazish (temir yo’l uchun uskuna) er-xotin xoch, rels turi P65 1/9 yog'och nurlarda, 2869.00.000",
+        "nameRU": "Стрелочный перевод (оборудование для железнодорожных путей) двойной перекрестный, тип рельсов Р65 1/9 на деревянных брусьях, 2869.00.000",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08607001024000007",
+        "nameUZ": "Темир йўл локомотивлари, трамвайлар ёки ҳаракатланувчи таркибнинг бошқа қисмлари (бошқа сарлавҳаларда кўрсатилмаган) Темирламайдиган аравачалар, сиғими 3,3 м3",
+        "nameLAT": "Temir yo’l lokomotivlari, tramvaylar yoki harakatlanuvchi tarkibning boshqa qismlari (boshqa sarlavhalarda ko’rsatilmagan) Temirlamaydigan aravachalar, sig‘imi 3,3 m3",
+        "nameRU": "Другие части железнодорожных локомотивов, трамвая или подвижного состава (не перечисленные в других субпозициях) Вагонетки неопрокидные, вместимость 3,3 м3",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001002000014",
+        "nameUZ": "Шлагбаум Электромеханик қўзғайсанли ва горизонтал тўсинли кўтарувчи пўлатдан ясалган тўсиқларга қарши тўсиқли тўсиқ, йўл юзасидан нур баландлиги 900 мм гача, кенглиги 8000 мм",
+        "nameLAT": "Shlagbaum Elektromexanik qo'zg'aysanli va gorizontal to'sinli ko'taruvchi po'latdan yasalgan to'siqlarga qarshi to'siqli to'siq, yo'l yuzasidan nur balandligi 900 mm gacha, kengligi 8000 mm",
+        "nameRU": "Шлагбаум Барьер противотаранный стальной шлагбаумного типа с электромеханическим приводом и горизонтальным подъемом балки, высота балки от дорожного полотна до 900 мм, ширина 8000 мм",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001002000030",
+        "nameUZ": "Шлагбаум Шланги қўзғалувчан ва горизонтал тўсинли кўтарувчи, тўсиқларга қарши тўсиқли пўлат тўсиқ тури, йўл юзасидан нур баландлиги 900 мм гача, кенглиги 4000 мм",
+        "nameLAT": "Shlagbaum Shlangi qo'zg'aluvchan va gorizontal to'sinli ko'taruvchi, to'siqlarga qarshi to'siqli po'lat to'siq turi, yo'l yuzasidan nur balandligi 900 mm gacha, kengligi 4000 mm",
+        "nameRU": "Шлагбаум Барьер противотаранный стальной шлагбаумного типа с гидравлическим приводом и горизонтальным подъемом балки, высота балки от дорожного полотна до 900 мм, ширина 4000 мм",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001004000012",
+        "nameUZ": "Автоматик йўл блокиратори Гидравлик қўзғалувчан, юқори қиррали пўлатдан ясалган тўсиқнинг кўтарилиш баландлиги 700 мм гача, кенглиги 3000 мм.",
+        "nameLAT": "Avtomatik yo’l blokiratori Gidravlik qo'zg'aluvchan, yuqori qirrali po'latdan yasalgan to'siqning ko'tarilish balandligi 700 mm gacha, kengligi 3000 mm.",
+        "nameRU": "Автоматический дорожный  блокиратор Барьер поднимающийся противотаранный стальной накладного типа с гидравлическим приводом, высота подъема передней кромки до 700 мм, ширина 3000 мм",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001006000002",
+        "nameUZ": "Стрелка ўтказиш (темир йўл учун ускуна) ер-хотин хоч, йўл кенглиги 1520 мм, релс тури П65, 1/9 даража",
+        "nameLAT": "Strelka o’tkazish (temir yo’l uchun uskuna) er-xotin xoch, yo'l kengligi 1520 mm, rels turi P65, 1/9 daraja",
+        "nameRU": "Стрелочный перевод (оборудование для железнодорожных путей) двойной перекрестный, ширина колеи 1520 мм, тип рельса Р65, марка 1/9",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001006000018",
+        "nameUZ": "Стрелка ўтказиш (темир йўл учун ускуна) П50, 1/11-синф, лойиҳа 2642.00.000",
+        "nameLAT": "Strelka o’tkazish (temir yo’l uchun uskuna) P50, 1/11-sinf, loyiha 2642.00.000",
+        "nameRU": "Стрелочный перевод (оборудование для железнодорожных путей) Р50, марка 1/11, проект 2642.00.000",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001006000019",
+        "nameUZ": "Стрелка ўтказиш (темир йўл учун ускуна) П50, 1/5 даража, лойиҳа 1909.00.000",
+        "nameLAT": "Strelka o’tkazish (temir yo’l uchun uskuna) P50, 1/5 daraja, loyiha 1909.00.000",
+        "nameRU": "Стрелочный перевод (оборудование для железнодорожных путей) Р50, марка 1/5, проект 1909.00.000",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001006000048",
+        "nameUZ": "Стрелка ўтказиш (темир йўл учун ускуна) ер-хотин хоч, темир-бетон барларда П65 1/9 релслар тури, 2843.00.000",
+        "nameLAT": "Strelka o’tkazish (temir yo’l uchun uskuna) er-xotin xoch, temir-beton barlarda P65 1/9 relslar turi, 2843.00.000",
+        "nameRU": "Стрелочный перевод (оборудование для железнодорожных путей) двойной перекрестный, тип рельсов Р65 1/9 на железобетонных брусьях, 2843.00.000",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08607001024000008",
+        "nameUZ": "Темир йўл локомотивлари, трамвайлар ёки ҳаракатланувчи таркибнинг бошқа қисмлари (бошқа сарлавҳаларда кўрсатилмаган) Кенг калибрли кранли юк машиналари, универсал, кран сиғими 1 т",
+        "nameLAT": "Temir yo’l lokomotivlari, tramvaylar yoki harakatlanuvchi tarkibning boshqa qismlari (boshqa sarlavhalarda ko’rsatilmagan) Keng kalibrli kranli yuk mashinalari, universal, kran sig'imi 1 t",
+        "nameRU": "Другие части железнодорожных локомотивов, трамвая или подвижного состава (не перечисленные в других субпозициях) Дрезины широкой колеи грузовые крановые универсальные, грузоподъемность крановой установки 1 т",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001002000015",
+        "nameUZ": "Шлагбаум Қўлда қўзғалувчан ва горизонтал тўсинли кўтарувчи қўчқорга қарши тўсиқли пўлат тўсиқ тури, нур баландлиги йўл юзасидан 900 мм гача, кенглиги 4000 мм",
+        "nameLAT": "Shlagbaum Qo'lda qo'zg'aluvchan va gorizontal to'sinli ko'taruvchi qo'chqorga qarshi to'siqli po'lat to'siq turi, nur balandligi yo'l yuzasidan 900 mm gacha, kengligi 4000 mm",
+        "nameRU": "Шлагбаум Барьер противотаранный стальной шлагбаумного типа с ручным приводом и горизонтальным подъемом балки, высота балки от дорожного полотна до 900 мм, ширина 4000 мм",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001002000031",
+        "nameUZ": "Шлагбаум Шланги қўзғалувчан ва горизонтал тўсинли кўтарувчи анти-рам тўсиқли пўлат тўсиқ, йўл юзасидан нур баландлиги 900 мм гача, кенглиги 5000 мм",
+        "nameLAT": "Shlagbaum Shlangi qo'zg'aluvchan va gorizontal to'sinli ko'taruvchi anti-ram to'siqli po'lat to'siq, yo'l yuzasidan nur balandligi 900 mm gacha, kengligi 5000 mm",
+        "nameRU": "Шлагбаум Барьер противотаранный стальной шлагбаумного типа с гидравлическим приводом и горизонтальным подъемом балки, высота балки от дорожного полотна до 900 мм, ширина 5000 мм",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001004000013",
+        "nameUZ": "Автоматик йўл блокиратори Шланги қўзғалувчан пўлатдан ясалган пўлатдан ясалган кўтарилган тўсиқ, олдинги четининг кўтарилиш баландлиги 700 мм гача, кенглиги 4000 мм",
+        "nameLAT": "Avtomatik yo’l blokiratori Shlangi qo'zg'aluvchan po'latdan yasalgan po'latdan yasalgan ko'tarilgan to'siq, oldingi chetining ko'tarilish balandligi 700 mm gacha, kengligi 4000 mm",
+        "nameRU": "Автоматический дорожный  блокиратор Барьер поднимающийся противотаранный стальной врезного типа с гидравлическим приводом, высота подъема передней кромки до 700 мм, ширина 4000 мм",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001006000003",
+        "nameUZ": "Стрелка ўтказиш (темир йўл учун ускуна) битта, йўл кенглиги 1520 мм, релс тури П50, тоифа 1/5, лойиҳа ВСП 05.00.000-00/01",
+        "nameLAT": "Strelka o’tkazish (temir yo’l uchun uskuna) bitta, yo'l kengligi 1520 mm, rels turi P50, toifa 1/5, loyiha VSP 05.00.000-00/01",
+        "nameRU": "Стрелочный перевод (оборудование для железнодорожных путей) одиночный, ширина колеи 1520 мм, тип рельса Р50, марка 1/5, проект ВСП 05.00.000-00/01",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001006000020",
+        "nameUZ": "Стрелка ўтказиш (темир йўл учун ускуна) П50, 1/5 даража, лойиҳа 2673.00.000",
+        "nameLAT": "Strelka o’tkazish (temir yo’l uchun uskuna) P50, 1/5 daraja, loyiha 2673.00.000",
+        "nameRU": "Стрелочный перевод (оборудование для железнодорожных путей) Р50, марка 1/5, проект 2673.00.000",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001006000021",
+        "nameUZ": "Стрелка ўтказиш (темир йўл учун ускуна) П50, 1/5 даража, лойиҳа 2675.00.000",
+        "nameLAT": "Strelka o’tkazish (temir yo’l uchun uskuna) P50, 1/5 daraja, loyiha 2675.00.000",
+        "nameRU": "Стрелочный перевод (оборудование для железнодорожных путей) Р50, марка 1/5, проект 2675.00.000",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001006000049",
+        "nameUZ": "Стрелка ўтказиш (темир йўл учун ускуна) Р-900 радиусли Эгри чизиққа ётқизиш учун ёғоч нурларда эгилувчан нуқталари билан, Эгри, Р-65 тури, 1/11, лойиҳа 2851.00.000",
+        "nameLAT": "Strelka o’tkazish (temir yo’l uchun uskuna) R-900 radiusli egri chiziqqa yotqizish uchun yog'och nurlarda egiluvchan nuqtalari bilan, egri, R-65 turi, 1/11, loyiha 2851.00.000",
+        "nameRU": "Стрелочный перевод (оборудование для железнодорожных путей) для укладки в кривой радиуса Р-900 с гибкими остряками на деревянных брусьях, криволинейный, тип Р-65, 1/11, проект 2851.00.000",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08607001024000009",
+        "nameUZ": "Темир йўл локомотивлари, трамвайлар ёки ҳаракатланувчи таркибнинг бошқа қисмлари (бошқа сарлавҳаларда кўрсатилмаган) Кенг калибрли кранли юк машиналари, универсал, кран юки 3,5 т",
+        "nameLAT": "Temir yo’l lokomotivlari, tramvaylar yoki harakatlanuvchi tarkibning boshqa qismlari (boshqa sarlavhalarda ko’rsatilmagan) Keng kalibrli kranli yuk mashinalari, universal, kran yuki 3,5 t",
+        "nameRU": "Другие части железнодорожных локомотивов, трамвая или подвижного состава (не перечисленные в других субпозициях) Дрезины широкой колеи грузовые крановые универсальные, грузоподъемность крановой установки 3,5 т",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001002000016",
+        "nameUZ": "Шлагбаум Қўлда қўзғалувчан ва горизонтал тўсинли кўтарувчи пўлатдан ясалган тўсиқларга қарши тўсиқли тўсиқ, йўл юзасидан нур баландлиги 900 мм гача, кенглиги 5000 мм",
+        "nameLAT": "Shlagbaum Qo'lda qo'zg'aluvchan va gorizontal to'sinli ko'taruvchi po'latdan yasalgan to'siqlarga qarshi to'siqli to'siq, yo'l yuzasidan nur balandligi 900 mm gacha, kengligi 5000 mm",
+        "nameRU": "Шлагбаум Барьер противотаранный стальной шлагбаумного типа с ручным приводом и горизонтальным подъемом балки, высота балки от дорожного полотна до 900 мм, ширина 5000 мм",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001002000032",
+        "nameUZ": "Шлагбаум Шланги қўзғалувчан ва горизонтал тўсинли кўтарувчи, тўсиқларга қарши пўлатдан ясалган тўсиқ тури, йўл юзасидан 900 мм гача, кенглиги 6000 мм гача.",
+        "nameLAT": "Shlagbaum Shlangi qo'zg'aluvchan va gorizontal to'sinli ko'taruvchi, to'siqlarga qarshi po'latdan yasalgan to'siq turi, yo'l yuzasidan 900 mm gacha, kengligi 6000 mm gacha.",
+        "nameRU": "Шлагбаум Барьер противотаранный стальной шлагбаумного типа с гидравлическим приводом и горизонтальным подъемом балки, высота балки от дорожного полотна до 900 мм, ширина 6000 мм",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001004000014",
+        "nameUZ": "Автоматик йўл блокиратори Гидравлик қўзғалувчан, тепанинг кўтарилишига қарши пўлатдан ясалган тўсиқ, кўтарилиш баландлиги 700 мм гача, кенглиги 4000 мм",
+        "nameLAT": "Avtomatik yo’l blokiratori Gidravlik qo'zg'aluvchan, tepaning ko'tarilishiga qarshi po'latdan yasalgan to'siq, ko'tarilish balandligi 700 mm gacha, kengligi 4000 mm",
+        "nameRU": "Автоматический дорожный  блокиратор Барьер поднимающийся противотаранный стальной накладного типа с гидравлическим приводом, высота подъема передней кромки до 700 мм, ширина 4000 мм",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001006000004",
+        "nameUZ": "Стрелка ўтказиш (темир йўл учун ускуна) носимметрик, йўл кенглиги 1520 мм, релс тури П50, тоифа 1/6, лойиҳа 2212.00.000",
+        "nameLAT": "Strelka o’tkazish (temir yo’l uchun uskuna) nosimmetrik, yo'l kengligi 1520 mm, rels turi P50, toifa 1/6, loyiha 2212.00.000",
+        "nameRU": "Стрелочный перевод (оборудование для железнодорожных путей) симметричный, ширина колеи 1520 мм, тип рельса Р50, марка 1/6, проект 2212.00.000",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001006000022",
+        "nameUZ": "Стрелка ўтказиш (темир йўл учун ускуна) П50, 1/6 даража, лойиҳа 1581.00.000",
+        "nameLAT": "Strelka o’tkazish (temir yo’l uchun uskuna) P50, 1/6 daraja, loyiha 1581.00.000",
+        "nameRU": "Стрелочный перевод (оборудование для железнодорожных путей) Р50, марка 1/6, проект 1581.00.000",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001006000023",
+        "nameUZ": "Стрелка ўтказиш (темир йўл учун ускуна) П50, 1/6-синф, лойиҳа 2212.00.000",
+        "nameLAT": "Strelka o’tkazish (temir yo’l uchun uskuna) P50, 1/6-sinf, loyiha 2212.00.000",
+        "nameRU": "Стрелочный перевод (оборудование для железнодорожных путей) Р50, марка 1/6, проект 2212.00.000",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001006000050",
+        "nameUZ": "Стрелка ўтказиш (темир йўл учун ускуна) йўлнинг эгилган қисмларида ёғоч нурларга ётқизиш учун, Эгри, Р-65 тури, 1/11, лойиҳа 2759.00.000",
+        "nameLAT": "Strelka o’tkazish (temir yo’l uchun uskuna) yo'lning egilgan qismlarida yog'och nurlarga yotqizish uchun, egri, R-65 turi, 1/11, loyiha 2759.00.000",
+        "nameRU": "Стрелочный перевод (оборудование для железнодорожных путей) для укладки в кривых участках пути на деревянных брусьях, криволинейный, тип Р-65, 1/11, проект 2759.00.000",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08607001018000000",
+        "nameUZ": "Осма қисқич",
+        "nameLAT": "Osma qisqich",
+        "nameRU": "Подвесной зажим",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      },
+      {
+        "mxikCode": "08608001002000000",
+        "nameUZ": "Шлагбаум",
+        "nameLAT": "Shlagbaum",
+        "nameRU": "Шлагбаум",
+        "groupCODE": "086",
+        "groupNameUZ": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+        "groupNameRU": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ ",
+        "groupNameLAT": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UChUN JIHOZ YoKI TRAMVAY YO’LLARI VA ULARNING QISMLARI"
+      }
+    ],
+    "recordTotal": 165,
+    "errors": null,
+    "permitted": false
+  }
+}

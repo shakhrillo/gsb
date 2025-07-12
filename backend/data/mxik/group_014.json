@@ -1,0 +1,197 @@
+{
+  "metadata": {
+    "groupId": 14,
+    "fetchedAt": "2025-07-12T16:30:43.331Z",
+    "source": "https://tasnif.soliq.uz/api/cl-api/integration-mxik/references/group/code?group=14"
+  },
+  "data": {
+    "success": true,
+    "code": 200,
+    "reason": null,
+    "data": [
+      {
+        "mxikCode": "01401004001000000",
+        "nameUZ": "Тўқиш учун бошқа ўсимлик материаллари",
+        "nameLAT": "To’qish uchun boshqa o’simlik materiallari",
+        "nameRU": "Прочие материалы растительного происхождения для плетения",
+        "groupCODE": "014",
+        "groupNameUZ": "ТЎҚИЛАДИГАН МАҲСУЛОТЛАРДА ҚЎЛЛАНАДИГАН ЎСИМЛИК МАТЕРИАЛЛАРИ",
+        "groupNameRU": "РАСТИТЕЛЬНЫЕ МАТЕРИАЛЫ ДЛЯ ИЗГОТОВЛЕНИЯ ПЛЕТЕНЫХ ИЗДЕЛИЙ",
+        "groupNameLAT": "TO’QILADIGAN MAHSULOTLARDA QO’LLANADIGAN O’SIMLIK MATERIALLARI"
+      },
+      {
+        "mxikCode": "01404001004000000",
+        "nameUZ": "Асосан тўлдириш ёки юмшоқ прокладка учун ишлатиладиган, жумладан қават шаклидаги ўсимлик материаллари",
+        "nameLAT": "Asosan to’ldirish yoki yumshoq prokladka uchun ishlatiladigan, jumladan qavat shaklidagi o’simlik materiallari",
+        "nameRU": "Материалы растительного происхождения, используемые главным образом для набивки или мягкой прокладки , в том числе в виде пластов",
+        "groupCODE": "014",
+        "groupNameUZ": "ТЎҚИЛАДИГАН МАҲСУЛОТЛАРДА ҚЎЛЛАНАДИГАН ЎСИМЛИК МАТЕРИАЛЛАРИ",
+        "groupNameRU": "РАСТИТЕЛЬНЫЕ МАТЕРИАЛЫ ДЛЯ ИЗГОТОВЛЕНИЯ ПЛЕТЕНЫХ ИЗДЕЛИЙ",
+        "groupNameLAT": "TO’QILADIGAN MAHSULOTLARDA QO’LLANADIGAN O’SIMLIK MATERIALLARI"
+      },
+      {
+        "mxikCode": "01404001003000000",
+        "nameUZ": "Асосан бўяш ёки ошлаш учун ишлатилаган ўсимлик материаллари",
+        "nameLAT": "Asosan bo’yash yoki oshlash uchun ishlatilagan o’simlik materiallari",
+        "nameRU": "Растительное сырье, используемое главным образом для крашения или дубления",
+        "groupCODE": "014",
+        "groupNameUZ": "ТЎҚИЛАДИГАН МАҲСУЛОТЛАРДА ҚЎЛЛАНАДИГАН ЎСИМЛИК МАТЕРИАЛЛАРИ",
+        "groupNameRU": "РАСТИТЕЛЬНЫЕ МАТЕРИАЛЫ ДЛЯ ИЗГОТОВЛЕНИЯ ПЛЕТЕНЫХ ИЗДЕЛИЙ",
+        "groupNameLAT": "TO’QILADIGAN MAHSULOTLARDA QO’LLANADIGAN O’SIMLIK MATERIALLARI"
+      },
+      {
+        "mxikCode": "01401002001000000",
+        "nameUZ": "Ротанг тўқиш учун",
+        "nameLAT": "Rotang to’qish uchun",
+        "nameRU": "Ротанг для плетения",
+        "groupCODE": "014",
+        "groupNameUZ": "ТЎҚИЛАДИГАН МАҲСУЛОТЛАРДА ҚЎЛЛАНАДИГАН ЎСИМЛИК МАТЕРИАЛЛАРИ",
+        "groupNameRU": "РАСТИТЕЛЬНЫЕ МАТЕРИАЛЫ ДЛЯ ИЗГОТОВЛЕНИЯ ПЛЕТЕНЫХ ИЗДЕЛИЙ",
+        "groupNameLAT": "TO’QILADIGAN MAHSULOTLARDA QO’LLANADIGAN O’SIMLIK MATERIALLARI"
+      },
+      {
+        "mxikCode": "01404001001001001",
+        "nameUZ": "Ҳайвонлар хожат ўрни учун тўлдирувчи махсулот Bi1 ёғочдан туалет тўлдирувчиси флоу-пак пакет 2 кг.",
+        "nameLAT": "Hayvonlar xojat o’rni uchun to’ldiruvchi maxsulot Bi1 yog’ochdan tualet to’ldiruvchisi flou-pak paket 2 kg.",
+        "nameRU": "Наполнитель для туалетов домашних животных Bi1 древесный туалетный наполнитель флоу-пак пакет 2 кг.",
+        "groupCODE": "014",
+        "groupNameUZ": "ТЎҚИЛАДИГАН МАҲСУЛОТЛАРДА ҚЎЛЛАНАДИГАН ЎСИМЛИК МАТЕРИАЛЛАРИ",
+        "groupNameRU": "РАСТИТЕЛЬНЫЕ МАТЕРИАЛЫ ДЛЯ ИЗГОТОВЛЕНИЯ ПЛЕТЕНЫХ ИЗДЕЛИЙ",
+        "groupNameLAT": "TO’QILADIGAN MAHSULOTLARDA QO’LLANADIGAN O’SIMLIK MATERIALLARI"
+      },
+      {
+        "mxikCode": "01404001001001002",
+        "nameUZ": "Ҳайвонлар хожат ўрни учун тўлдирувчи махсулот Bi1 сингдирувчи туалет тўлдирувчиси флоу-пак пакет 2 кг.",
+        "nameLAT": "Hayvonlar xojat o’rni uchun to’ldiruvchi maxsulot Bi1 singdiruvchi tualet to’ldiruvchisi flou-pak paket 2 kg.",
+        "nameRU": "Наполнитель для туалетов домашних животных Bi1 впитывающий туалетный наполнитель флоу-пак пакет 2 кг.",
+        "groupCODE": "014",
+        "groupNameUZ": "ТЎҚИЛАДИГАН МАҲСУЛОТЛАРДА ҚЎЛЛАНАДИГАН ЎСИМЛИК МАТЕРИАЛЛАРИ",
+        "groupNameRU": "РАСТИТЕЛЬНЫЕ МАТЕРИАЛЫ ДЛЯ ИЗГОТОВЛЕНИЯ ПЛЕТЕНЫХ ИЗДЕЛИЙ",
+        "groupNameLAT": "TO’QILADIGAN MAHSULOTLARDA QO’LLANADIGAN O’SIMLIK MATERIALLARI"
+      },
+      {
+        "mxikCode": "01404001002000002",
+        "nameUZ": "Пахта момиғи 2-сорт",
+        "nameLAT": "Paxta momig’i 2-sort",
+        "nameRU": "Хлопковый линт 2-сорт",
+        "groupCODE": "014",
+        "groupNameUZ": "ТЎҚИЛАДИГАН МАҲСУЛОТЛАРДА ҚЎЛЛАНАДИГАН ЎСИМЛИК МАТЕРИАЛЛАРИ",
+        "groupNameRU": "РАСТИТЕЛЬНЫЕ МАТЕРИАЛЫ ДЛЯ ИЗГОТОВЛЕНИЯ ПЛЕТЕНЫХ ИЗДЕЛИЙ",
+        "groupNameLAT": "TO’QILADIGAN MAHSULOTLARDA QO’LLANADIGAN O’SIMLIK MATERIALLARI"
+      },
+      {
+        "mxikCode": "01404001002000003",
+        "nameUZ": "Пахта момиғи 3-сорт",
+        "nameLAT": "Paxta momig’i 3-sort",
+        "nameRU": "Хлопковый линт 3-сорт",
+        "groupCODE": "014",
+        "groupNameUZ": "ТЎҚИЛАДИГАН МАҲСУЛОТЛАРДА ҚЎЛЛАНАДИГАН ЎСИМЛИК МАТЕРИАЛЛАРИ",
+        "groupNameRU": "РАСТИТЕЛЬНЫЕ МАТЕРИАЛЫ ДЛЯ ИЗГОТОВЛЕНИЯ ПЛЕТЕНЫХ ИЗДЕЛИЙ",
+        "groupNameLAT": "TO’QILADIGAN MAHSULOTLARDA QO’LLANADIGAN O’SIMLIK MATERIALLARI"
+      },
+      {
+        "mxikCode": "01404001002000001",
+        "nameUZ": "Пахта момиғи 1-сорт",
+        "nameLAT": "Paxta momig’i 1-sort",
+        "nameRU": "Хлопковый линт 1-сорт",
+        "groupCODE": "014",
+        "groupNameUZ": "ТЎҚИЛАДИГАН МАҲСУЛОТЛАРДА ҚЎЛЛАНАДИГАН ЎСИМЛИК МАТЕРИАЛЛАРИ",
+        "groupNameRU": "РАСТИТЕЛЬНЫЕ МАТЕРИАЛЫ ДЛЯ ИЗГОТОВЛЕНИЯ ПЛЕТЕНЫХ ИЗДЕЛИЙ",
+        "groupNameLAT": "TO’QILADIGAN MAHSULOTLARDA QO’LLANADIGAN O’SIMLIK MATERIALLARI"
+      },
+      {
+        "mxikCode": "01404001002000004",
+        "nameUZ": "Пахта момиғи 4-сорт",
+        "nameLAT": "Paxta momig’i 4-sort",
+        "nameRU": "Хлопковый линт 4-сорт",
+        "groupCODE": "014",
+        "groupNameUZ": "ТЎҚИЛАДИГАН МАҲСУЛОТЛАРДА ҚЎЛЛАНАДИГАН ЎСИМЛИК МАТЕРИАЛЛАРИ",
+        "groupNameRU": "РАСТИТЕЛЬНЫЕ МАТЕРИАЛЫ ДЛЯ ИЗГОТОВЛЕНИЯ ПЛЕТЕНЫХ ИЗДЕЛИЙ",
+        "groupNameLAT": "TO’QILADIGAN MAHSULOTLARDA QO’LLANADIGAN O’SIMLIK MATERIALLARI"
+      },
+      {
+        "mxikCode": "01404001002000005",
+        "nameUZ": "Пахта момиғи 5-сорт",
+        "nameLAT": "Paxta momig’i 5-sort",
+        "nameRU": "Хлопковый линт 5-сорт",
+        "groupCODE": "014",
+        "groupNameUZ": "ТЎҚИЛАДИГАН МАҲСУЛОТЛАРДА ҚЎЛЛАНАДИГАН ЎСИМЛИК МАТЕРИАЛЛАРИ",
+        "groupNameRU": "РАСТИТЕЛЬНЫЕ МАТЕРИАЛЫ ДЛЯ ИЗГОТОВЛЕНИЯ ПЛЕТЕНЫХ ИЗДЕЛИЙ",
+        "groupNameLAT": "TO’QILADIGAN MAHSULOTLARDA QO’LLANADIGAN O’SIMLIK MATERIALLARI"
+      },
+      {
+        "mxikCode": "01401003001000000",
+        "nameUZ": "Тўқимачилик учун қамишлар ва ситниклар",
+        "nameLAT": "To’qimachilik uchun qamishlar va sitniklar",
+        "nameRU": "Тростники и ситники для плетения",
+        "groupCODE": "014",
+        "groupNameUZ": "ТЎҚИЛАДИГАН МАҲСУЛОТЛАРДА ҚЎЛЛАНАДИГАН ЎСИМЛИК МАТЕРИАЛЛАРИ",
+        "groupNameRU": "РАСТИТЕЛЬНЫЕ МАТЕРИАЛЫ ДЛЯ ИЗГОТОВЛЕНИЯ ПЛЕТЕНЫХ ИЗДЕЛИЙ",
+        "groupNameLAT": "TO’QILADIGAN MAHSULOTLARDA QO’LLANADIGAN O’SIMLIK MATERIALLARI"
+      },
+      {
+        "mxikCode": "01404001001000000",
+        "nameUZ": "Ҳайвонлар хожат ўрни учун тўлдирувчи махсулот",
+        "nameLAT": "Hayvonlar xojat o’rni uchun to’ldiruvchi maxsulot",
+        "nameRU": "Наполнитель для туалетов домашних животных",
+        "groupCODE": "014",
+        "groupNameUZ": "ТЎҚИЛАДИГАН МАҲСУЛОТЛАРДА ҚЎЛЛАНАДИГАН ЎСИМЛИК МАТЕРИАЛЛАРИ",
+        "groupNameRU": "РАСТИТЕЛЬНЫЕ МАТЕРИАЛЫ ДЛЯ ИЗГОТОВЛЕНИЯ ПЛЕТЕНЫХ ИЗДЕЛИЙ",
+        "groupNameLAT": "TO’QILADIGAN MAHSULOTLARDA QO’LLANADIGAN O’SIMLIK MATERIALLARI"
+      },
+      {
+        "mxikCode": "01401001001000000",
+        "nameUZ": "Бамбук тўқиш учун",
+        "nameLAT": "Bambuk to’qish uchun",
+        "nameRU": "Бамбук для плетения",
+        "groupCODE": "014",
+        "groupNameUZ": "ТЎҚИЛАДИГАН МАҲСУЛОТЛАРДА ҚЎЛЛАНАДИГАН ЎСИМЛИК МАТЕРИАЛЛАРИ",
+        "groupNameRU": "РАСТИТЕЛЬНЫЕ МАТЕРИАЛЫ ДЛЯ ИЗГОТОВЛЕНИЯ ПЛЕТЕНЫХ ИЗДЕЛИЙ",
+        "groupNameLAT": "TO’QILADIGAN MAHSULOTLARDA QO’LLANADIGAN O’SIMLIK MATERIALLARI"
+      },
+      {
+        "mxikCode": "01404001001001003",
+        "nameUZ": "Ҳайвонлар хожат ўрни учун тўлдирувчи махсулот Bi1 флоу-пак пакет 3 кг.",
+        "nameLAT": "Hayvonlar xojat o’rni uchun to’ldiruvchi maxsulot Bi1 flou-pak paket 3 kg.",
+        "nameRU": "Наполнитель для туалетов домашних животных Bi1 флоу-пак пакет 3 кг.",
+        "groupCODE": "014",
+        "groupNameUZ": "ТЎҚИЛАДИГАН МАҲСУЛОТЛАРДА ҚЎЛЛАНАДИГАН ЎСИМЛИК МАТЕРИАЛЛАРИ",
+        "groupNameRU": "РАСТИТЕЛЬНЫЕ МАТЕРИАЛЫ ДЛЯ ИЗГОТОВЛЕНИЯ ПЛЕТЕНЫХ ИЗДЕЛИЙ",
+        "groupNameLAT": "TO’QILADIGAN MAHSULOTLARDA QO’LLANADIGAN O’SIMLIK MATERIALLARI"
+      },
+      {
+        "mxikCode": "01404001001002001",
+        "nameUZ": "Ҳайвонлар хожат ўрни учун тўлдирувчи махсулот Том мушуклар туалети учун сингдирадиган ёғоч тўлдирувчи opp пакет 6 кг.",
+        "nameLAT": "Hayvonlar xojat o’rni uchun to’ldiruvchi maxsulot Том mushuklar tualeti uchun singdiradigan yog’och to’ldiruvchi opp paket 6 kg.",
+        "nameRU": "Наполнитель для туалетов домашних животных Том наполнитель для кошачьего туалета древесный впитывающий opp пакет 6 кг.",
+        "groupCODE": "014",
+        "groupNameUZ": "ТЎҚИЛАДИГАН МАҲСУЛОТЛАРДА ҚЎЛЛАНАДИГАН ЎСИМЛИК МАТЕРИАЛЛАРИ",
+        "groupNameRU": "РАСТИТЕЛЬНЫЕ МАТЕРИАЛЫ ДЛЯ ИЗГОТОВЛЕНИЯ ПЛЕТЕНЫХ ИЗДЕЛИЙ",
+        "groupNameLAT": "TO’QILADIGAN MAHSULOTLARDA QO’LLANADIGAN O’SIMLIK MATERIALLARI"
+      },
+      {
+        "mxikCode": "01404001005000000",
+        "nameUZ": "Асосан супурги ёки чўтка тайёрлашда ишлатиладиган ўсимлик материаллари",
+        "nameLAT": "Asosan supurgi yoki cho’tka tayyorlashda ishlatiladigan o’simlik materiallari",
+        "nameRU": "Материалы растительного происхождения, используемые главным образом в метлах или щетках",
+        "groupCODE": "014",
+        "groupNameUZ": "ТЎҚИЛАДИГАН МАҲСУЛОТЛАРДА ҚЎЛЛАНАДИГАН ЎСИМЛИК МАТЕРИАЛЛАРИ",
+        "groupNameRU": "РАСТИТЕЛЬНЫЕ МАТЕРИАЛЫ ДЛЯ ИЗГОТОВЛЕНИЯ ПЛЕТЕНЫХ ИЗДЕЛИЙ",
+        "groupNameLAT": "TO’QILADIGAN MAHSULOTLARDA QO’LLANADIGAN O’SIMLIK MATERIALLARI"
+      },
+      {
+        "mxikCode": "01404001006000000",
+        "nameUZ": "Бошқа ўсимлик материаллари (бошқа субпозицияларда кўрсатилмаган)",
+        "nameLAT": "Boshqa o’simlik materiallari (boshqa subpozitsiyalarda ko’rsatilmagan)",
+        "nameRU": "Прочие материалы растительного происхождения (не перечисленные в других субпозициях)",
+        "groupCODE": "014",
+        "groupNameUZ": "ТЎҚИЛАДИГАН МАҲСУЛОТЛАРДА ҚЎЛЛАНАДИГАН ЎСИМЛИК МАТЕРИАЛЛАРИ",
+        "groupNameRU": "РАСТИТЕЛЬНЫЕ МАТЕРИАЛЫ ДЛЯ ИЗГОТОВЛЕНИЯ ПЛЕТЕНЫХ ИЗДЕЛИЙ",
+        "groupNameLAT": "TO’QILADIGAN MAHSULOTLARDA QO’LLANADIGAN O’SIMLIK MATERIALLARI"
+      }
+    ],
+    "recordTotal": 18,
+    "errors": null,
+    "permitted": false
+  }
+}

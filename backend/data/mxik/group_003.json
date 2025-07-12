@@ -1,0 +1,2447 @@
+{
+  "metadata": {
+    "groupId": 3,
+    "fetchedAt": "2025-07-12T16:29:01.893Z",
+    "source": "https://tasnif.soliq.uz/api/cl-api/integration-mxik/references/group/code?group=3"
+  },
+  "data": {
+    "success": true,
+    "code": 200,
+    "reason": null,
+    "data": [
+      {
+        "mxikCode": "00306002002001013",
+        "nameUZ": "Музлатилган креветка Vici приорити, қобиқли, флоу пакет 1 кг",
+        "nameLAT": "Muzlatilgan krevetka Vici prioriti, qobiqli, flou paket 1 kg",
+        "nameRU": "Замороженная креветка Vici приорити тигровые в панцире 1 кг",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00306002001004002",
+        "nameUZ": "Музлатилган краб Эконом қисқичбақа таёқчалари, вакуум қадоқ 200 гр",
+        "nameLAT": "Muzlatilgan krab Эконом qisqichbaqa tayoqchalari, vakuum qadoq 200 gr",
+        "nameRU": "Замороженный краб Эконом крабовые палочки 200 грамм",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00302001007000000",
+        "nameUZ": "Янги ёки совутилган бошқа балиқлар",
+        "nameLAT": "Yangi yoki sovutilgan boshqa baliqlar",
+        "nameRU": "Прочие рыбы свежие или охлажденные",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00303001999011001",
+        "nameUZ": "Бошқа музлатилган балиқлар VICI Luxury филе бўлаклари 400 г",
+        "nameLAT": "Boshqa muzlatilgan baliqlar VICI Luxury file bo’laklari 400 g",
+        "nameRU": "Прочие замороженные рыбы VICI Luxury филе-кусочки 400 г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00303001999008003",
+        "nameUZ": "Бошқа музлатилган балиқлар Agama филе 400 гр.",
+        "nameLAT": "Boshqa muzlatilgan baliqlar Agama file 400 gr.",
+        "nameRU": "Прочие замороженные рыбы Agama филе 400 гр.",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00303001999012001",
+        "nameUZ": "Бошқа музлатилган балиқлар Анчоус тузланган ва қуритилган тушка 18 гр.",
+        "nameLAT": "Boshqa muzlatilgan baliqlar Анчоус tuzlangan va quritilgan tushka 18 gr.",
+        "nameRU": "Прочие замороженные рыбы Анчоус солено-сушеный сухогруз тушка, 18 гр.",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00307002004000000",
+        "nameUZ": "Денгиз маҳсулотларидан ассорти, хом-музлатилган",
+        "nameLAT": "Dengiz mahsulotlaridan assorti, xom-muzlatilgan",
+        "nameRU": "Ассорти из морепродуктов, сыро-мороженных",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00309001001000000",
+        "nameUZ": "Юпқа ва қўпол ун гранулалари балиқдан",
+        "nameLAT": "Yupqa va qo’pol un granulalari baliqdan",
+        "nameRU": "Мука тонкого и грубого помола и гранулы из рыбы",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00303002001000000",
+        "nameUZ": "Жигар, икра ва бошқа музлатилган истеъмол қилинадиган балиқ субмаҳсулотлари",
+        "nameLAT": "Jigar, ikra va boshqa muzlatilgan istemol qilinadigan baliq submahsulotlari",
+        "nameRU": "Печень, икра и прочие замороженные пищевые рыбные субпродукты",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00302001002000000",
+        "nameUZ": "Янги сўйилган сом",
+        "nameLAT": "Yangi so’yilgan som",
+        "nameRU": "Свежий сом",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00306002001004005",
+        "nameUZ": "Музлатилган краб Эконом қисқичбақа таёқчалари, вакуум қадоқ 1000 гр",
+        "nameLAT": "Muzlatilgan krab Эконом",
+        "nameRU": "Замороженный краб Эконом крабовые палочки 1000 грамм",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00307002004002002",
+        "nameUZ": "Денгиз маҳсулотларидан ассорти, хом-музлатилган Бухта музлатилган қисқичбақа тайоқчалари 200 гр.",
+        "nameLAT": "Dengiz mahsulotlaridan assorti, xom-muzlatilgan Бухта",
+        "nameRU": "Ассорти из морепродуктов, сыро-мороженных Бухта крабовые палочки замороженные 200 гр.",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00307002004002001",
+        "nameUZ": "Денгиз маҳсулотларидан ассорти, хом-музлатилган Бухта музлатилган қисқичбақа тайоқчалари 100 гр.",
+        "nameLAT": "Dengiz mahsulotlaridan assorti, xom-muzlatilgan Бухта",
+        "nameRU": "Ассорти из морепродуктов, сыро-мороженных Бухта крабовые палочки замороженные 100 гр.",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00307002004003002",
+        "nameUZ": "Денгиз маҳсулотларидан ассорти, хом-музлатилган Сухогруз путассу 36 г",
+        "nameLAT": "Dengiz mahsulotlaridan assorti, xom-muzlatilgan Сухогруз",
+        "nameRU": "Ассорти из морепродуктов, сыро-мороженных Сухогруз путассу 36 г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00307002004003003",
+        "nameUZ": "Денгиз маҳсулотларидан ассорти, хом-музлатилган Сухогруз қуритилган сариқ полоскалар 18 гр",
+        "nameLAT": "Dengiz mahsulotlaridan assorti, xom-muzlatilgan Сухогруз",
+        "nameRU": "Ассорти из морепродуктов, сыро-мороженных Сухогруз желтый полосатик сушено-вяленый 18гр.",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00302001006000000",
+        "nameUZ": "Совутилган лосось",
+        "nameLAT": "Sovutilgan losos",
+        "nameRU": "Лосось охлажденный",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00304001001002003",
+        "nameUZ": "Балиқ филеси ва бошқа балиқ гўшти (шу жумладан қийма гўшт) янги сўйилган, совутилган Vici минтай балиқ таёқчалари, филе унга буланган, 250 гр",
+        "nameLAT": "Baliq filesi va boshqa baliq go’shti (shu jumladan qiyma go’sht) yangi so’yilgan, sovutilgan Vici mintay baliq tayoqchalari, file unga bulangan, 250 gr",
+        "nameRU": "Рыбное филе и другое рыбное мясо (в том числе фарш) свежее, охлажденное Vici палочки минтай замороженные филе в панировке 250 гр",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00304001001002001",
+        "nameUZ": "Балиқ филеси ва бошқа балиқ гўшти (шу жумладан қийма гўшт) янги сўйилган, совутилган Vici филе унга буланган, музлатилган бургерлар 240 гр",
+        "nameLAT": "Baliq filesi va boshqa baliq go’shti (shu jumladan qiyma go’sht) yangi so’yilgan, sovutilgan Vici file unga bulangan, muzlatilgan burgerlar 240 gr",
+        "nameRU": "Рыбное филе и другое рыбное мясо (в том числе фарш) свежее, охлажденное Vici бургеры в панировке замороженные из филе 240 гр",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00306002001001002",
+        "nameUZ": "Музлатилган краб Vici қисқичбақа таёқчалари, вакуум қадоқ 240 гр",
+        "nameLAT": "Muzlatilgan krab Vici qisqichbaqa tayoqchalari, vakuum qadoq 240 gr",
+        "nameRU": "Замороженный краб Vici крабовые палочки душа океана 240 грамм",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00302003008000000",
+        "nameUZ": "Янги ёки совутилган бошқа озуқабоп балиқ маҳсулотлари",
+        "nameLAT": "Yangi yoki sovutilgan boshqa ozuqabop baliq mahsulotlari",
+        "nameRU": "Прочие субпродукты рыбы свежие или охлажденные",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00305002001001005",
+        "nameUZ": "Балиқ филеси қуритилган, тузланган, дудланган ёки шўр сувда Leor ёғли, 300 г",
+        "nameLAT": "Baliq filesi quritilgan, tuzlangan, dudlangan yoki sho’r suvda Leor yog’li, 300 g",
+        "nameRU": "Рыбное филе сушеное, соленое, копченое или в рассоле Leor в масле 300 г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00305002001001004",
+        "nameUZ": "Балиқ филеси қуритилган, тузланган, дудланган ёки шўр сувда Leor ёғли, 150 г",
+        "nameLAT": "Baliq filesi quritilgan, tuzlangan, dudlangan yoki sho’r suvda Leor yog’li, 150 g",
+        "nameRU": "Рыбное филе сушеное, соленое, копченое или в рассоле Leor в масле 150 г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00305002001001002",
+        "nameUZ": "Балиқ филеси қуритилган, тузланган, дудланган ёки шўр сувда Leor клюквали ёғли, 300 г",
+        "nameLAT": "Baliq filesi quritilgan, tuzlangan, dudlangan yoki sho’r suvda Leor klyukvali yog’li, 300 g",
+        "nameRU": "Рыбное филе сушеное, соленое, копченое или в рассоле Leor с клюквой в масле 300 г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00308001003000000",
+        "nameUZ": "Қуритилган, тузланган, дудланган ёки шўр сувдаги қисқичбақасимонлар ва моллюскалардан ташқари бошқа умуртқасиз сув ҳайвонлар",
+        "nameLAT": "Quritilgan, tuzlangan, dudlangan yoki sho’r suvdagi qisqichbaqasimonlar va mollyuskalardan tashqari boshqa umurtqasiz suv hayvonlar",
+        "nameRU": "Прочие водные беспозвоночные, кроме ракообразных и моллюсков, сушеные, соленые, копченые или в рассоле",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00307003002000000",
+        "nameUZ": "Қуритилган, тузланган, дудланган ёки шўр сувдаги бошқа моллюскалар",
+        "nameLAT": "Quritilgan, tuzlangan, dudlangan yoki sho’r suvdagi boshqa mollyuskalar",
+        "nameRU": "Прочие молюски сушеные, соленые, копченые или в рассоле",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00309001002000000",
+        "nameUZ": "Балиқ, қисқичбақасимонлар, моллюскалар ва бошқа сувда яшовчи умуртқасиз ҳайвонларнинг майда ва қўпол унлари ва гранулалари истеъмол қилиш учун яроқли",
+        "nameLAT": "Baliq, qisqichbaqasimonlar, mollyuskalar va boshqa suvda yashovchi umurtqasiz hayvonlarning mayda va qo’pol unlari va granulalari istemol qilish uchun yaroqli",
+        "nameRU": "Мука тонкого и грубого помола и гранулы из ракообразных, моллюсков и прочих водных беспозвоночных, пригодные для употребления в пищу",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00307001999001001",
+        "nameUZ": "Янги, совутилган бошқа молюскалар VICI ҳом музлатилган саккизоёқ 450 гр.",
+        "nameLAT": "Yangi, sovutilgan boshqa molyuskalar VICI hom muzlatilgan sakkizoyoq 450 gr.",
+        "nameRU": "Прочие молюски, свежие, охлажденные VICI осьминоги сыро-мороженные 450 гр.",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00305002001001006",
+        "nameUZ": "Балиқ филеси қуритилган, тузланган, дудланган ёки шўр сувда Leor аччиқ тузланган 500 г",
+        "nameLAT": "Baliq filesi quritilgan, tuzlangan, dudlangan yoki sho’r suvda Leor achchiq tuzlangan 500 g",
+        "nameRU": "Рыбное филе сушеное, соленое, копченое или в рассоле Leor пряного посола 500 г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00305002001001003",
+        "nameUZ": "Балиқ филеси қуритилган, тузланган, дудланган ёки шўр сувда Leor зайтун ёғли, 300 г",
+        "nameLAT": "Baliq filesi quritilgan, tuzlangan, dudlangan yoki sho’r suvda Leor zaytun yog’li, 300 g",
+        "nameRU": "Рыбное филе сушеное, соленое, копченое или в рассоле Leor с оливками в масле 300 г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00307001999002001",
+        "nameUZ": "Янги, совутилган бошқа молюскалар Анчоус filet d anchois marine al huile bq origine turquie 1 кг.",
+        "nameLAT": "Yangi, sovutilgan boshqa molyuskalar Анчоус filet d anchois marine al huile bq origine turquie 1 kg.",
+        "nameRU": "Прочие молюски, свежие, охлажденные Анчоус filet d anchois marine al huile bq origine turquie 1 кг.",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00307002999001001",
+        "nameUZ": "Бошқа музлатилган моллюскалар Vici мидия приорити, саримсоқ шарбатида қайнатиб-музлатилган, қобиқли, қути 500 гр",
+        "nameLAT": "Boshqa muzlatilgan mollyuskalar Vici midiya prioriti, sarimsoq sharbatida qaynatib-muzlatilgan, qobiqli, quti 500 gr",
+        "nameRU": "Прочие замороженные молюски Vici мидии приорити в чесночном соусе варено-мороженные в ракушках 500 грамм",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00307002004001002",
+        "nameUZ": "Денгиз маҳсулотларидан ассорти, хом-музлатилган Agama денгиз чиғаноғи янги музлатилган филе 250 гр.",
+        "nameLAT": "Dengiz mahsulotlaridan assorti, xom-muzlatilgan Agama dengiz chig’anog’i yangi muzlatilgan file 250 gr.",
+        "nameRU": "Ассорти из морепродуктов, сыро-мороженных Agama морской гребешок свежемороженый филе 250 гр.",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00305002001001007",
+        "nameUZ": "Балиқ филеси қуритилган, тузланган, дудланган ёки шўр сувда Leor совуқ дудланган 200 г",
+        "nameLAT": "Baliq filesi quritilgan, tuzlangan, dudlangan yoki sho’r suvda Leor sovuq dudlangan 200 g",
+        "nameRU": "Рыбное филе сушеное, соленое, копченое или в рассоле Leor холодного копчения 200 г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00305002001001001",
+        "nameUZ": "Балиқ филеси қуритилган, тузланган, дудланган ёки шўр сувда Leor ёғли, 400 г",
+        "nameLAT": "Baliq filesi quritilgan, tuzlangan, dudlangan yoki sho’r suvda Leor yog’li, 400 g",
+        "nameRU": "Рыбное филе сушеное, соленое, копченое или в рассоле Leor в масле, 400 г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00304001001003004",
+        "nameUZ": "Балиқ филеси ва бошқа балиқ гўшти (шу жумладан қийма гўшт) янги сўйилган, совутилган Fly Fish янги лосось балиғи филеси, вакуум қадоқ 400 гр",
+        "nameLAT": "Baliq filesi va boshqa baliq go’shti (shu jumladan qiyma go’sht) yangi so’yilgan, sovutilgan Fly Fish yangi losos balig’i filesi, vakuum qadoq 400 gr",
+        "nameRU": "Рыбное филе и другое рыбное мясо (в том числе фарш) свежее, охлажденное Fly Fish лосось филе свежая, вакуумная упаковка 400 г.",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00305003001001003",
+        "nameUZ": "Бошқа озуқабоп балиқ маҳсулотлари, қуритилган, тузланган, дудланган ёки шўр сувда Сухогруз ставридка 36г",
+        "nameLAT": "Boshqa ozuqabop baliq mahsulotlari, quritilgan, tuzlangan, dudlangan yoki sho’r suvda Сухогруз stavridka 36g",
+        "nameRU": "Прочие пищевые субпродукты рыбы, сушеные, соленые, копченые или в рассоле Сухогруз ставридка 36г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00305001004002007",
+        "nameUZ": "Қуритилган балиқ Fish Jerky дўнгпешана балиғи қуритилган, вакуум қадоқ 700 гр",
+        "nameLAT": "Quritilgan baliq Fish Jerky do’ngpeshana balig’i quritilgan, vakuum qadoq 700 gr",
+        "nameRU": "Рыба сушеная Fish Jerky толстолобик вяленный, вакуумная упаковка 700г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00305003001001002",
+        "nameUZ": "Бошқа озуқабоп балиқ маҳсулотлари, қуритилган, тузланган, дудланган ёки шўр сувда Сухогруз анчоус 36г",
+        "nameLAT": "Boshqa ozuqabop baliq mahsulotlari, quritilgan, tuzlangan, dudlangan yoki sho’r suvda Сухогруз anchous 36g",
+        "nameRU": "Прочие пищевые субпродукты рыбы, сушеные, соленые, копченые или в рассоле Сухогруз анчоус 36г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00305003001001001",
+        "nameUZ": "Бошқа озуқабоп балиқ маҳсулотлари, қуритилган, тузланган, дудланган ёки шўр сувда Сухогруз филе янтар балиғи 36г",
+        "nameLAT": "Boshqa ozuqabop baliq mahsulotlari, quritilgan, tuzlangan, dudlangan yoki sho’r suvda Сухогруз file yantar balig’i 36g",
+        "nameRU": "Прочие пищевые субпродукты рыбы, сушеные, соленые, копченые или в рассоле Сухогруз филе янтарной рыбки 36г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00305003001002002",
+        "nameUZ": "Бошқа озуқабоп балиқ маҳсулотлари, қуритилган, тузланган, дудланган ёки шўр сувда Vici Суримидан турли хил денгиз маҳсулотлари 4кг кор",
+        "nameLAT": "Boshqa ozuqabop baliq mahsulotlari, quritilgan, tuzlangan, dudlangan yoki sho’r suvda Vici Surimidan turli xil dengiz mahsulotlari 4kg kor",
+        "nameRU": "Прочие пищевые субпродукты рыбы, сушеные, соленые, копченые или в рассоле Vici Морепродукты ассорти из сурими 4кг кор",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00307002999001002",
+        "nameUZ": "Бошқа музлатилган моллюскалар Vici мидия приорити, ўз шарбатида қайнатиб-музлатилган, қобиқли, қути 500 гр",
+        "nameLAT": "Boshqa muzlatilgan mollyuskalar Vici midiya prioriti, o’z sharbatida qaynatib-muzlatilgan, qobiqli, quti 500 gr",
+        "nameRU": "Прочие замороженные молюски Vici мидии приорити в собств соку варено-мороженные в ракушках 500 грамм",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00307002999001003",
+        "nameUZ": "Бошқа музлатилган моллюскалар Vici мидия, қайнатиб-музлатилган, 400 гр",
+        "nameLAT": "Boshqa muzlatilgan mollyuskalar Vici midiya, qaynatib-muzlatilgan, 400 gr",
+        "nameRU": "Прочие замороженные молюски Vici мидии варено-мороженные 400 грамм",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00307002999001004",
+        "nameUZ": "Бошқа музлатилган моллюскалар Vici мидия 5кг",
+        "nameLAT": "Boshqa muzlatilgan mollyuskalar Vici midiya 5kg",
+        "nameRU": "Прочие замороженные молюски Vici мидии 5кг",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00307002004003001",
+        "nameUZ": "Денгиз маҳсулотларидан ассорти, хом-музлатилган Сухогруз қуритилган, 18 г",
+        "nameLAT": "Dengiz mahsulotlaridan assorti, xom-muzlatilgan Сухогруз quritilgan, 18 g",
+        "nameRU": "Ассорти из морепродуктов, сыро-мороженных Сухогруз сушеная, 18 г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00301002050000000",
+        "nameUZ": "Жонли декоратив балиқлар",
+        "nameLAT": "Jonli dekorativ baliqlar",
+        "nameRU": "Рыбы живые декоративные",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00305003001002001",
+        "nameUZ": "Бошқа озуқабоп балиқ маҳсулотлари, қуритилган, тузланган, дудланган ёки шўр сувда Vici турли хил денгиз маҳсулотлари хом-музлатилган, флоу пакет 400 гр",
+        "nameLAT": "Boshqa ozuqabop baliq mahsulotlari, quritilgan, tuzlangan, dudlangan yoki sho’r suvda Vici turli xil dengiz mahsulotlari xom-muzlatilgan, flou paket 400 gr",
+        "nameRU": "Прочие пищевые субпродукты рыбы, сушеные, соленые, копченые или в рассоле Vici морепродукты ассорти сыро-мороженое 400 гр",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00305003001002003",
+        "nameUZ": "Бошқа озуқабоп балиқ маҳсулотлари, қуритилган, тузланган, дудланган ёки шўр сувда Vici суримидан турли хил денгиз маҳсулотлари, флоу пакет 450 гр",
+        "nameLAT": "Boshqa ozuqabop baliq mahsulotlari, quritilgan, tuzlangan, dudlangan yoki sho’r suvda Vici surimidan turli xil dengiz mahsulotlari, flou paket 450 gr",
+        "nameRU": "Прочие пищевые субпродукты рыбы, сушеные, соленые, копченые или в рассоле Vici морепродукты ассорти из сурими 450 грамм",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00303001999006001",
+        "nameUZ": "Бошқа музлатилган балиқлар Норвегия янги музлатилган сельдь балиғи, картон қути 1 дона",
+        "nameLAT": "Boshqa muzlatilgan baliqlar Норвегия yangi muzlatilgan seld balig’i, karton quti 1 dona",
+        "nameRU": "Прочие замороженные рыбы Норвегия свежемороженная сельдь, картонная коробка 1 шт.",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00306001004000000",
+        "nameUZ": "Бошқа қисқичбақасимонлар, янги, совутилган",
+        "nameLAT": "Boshqa qisqichbaqasimonlar, yangi, sovutilgan",
+        "nameRU": "Прочие ракообразные свежие, охлажденные",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00305003001001004",
+        "nameUZ": "Бошқа озуқабоп балиқ маҳсулотлари, қуритилган, тузланган, дудланган ёки шўр сувда Сухогруз филе янтар балиғи 18г",
+        "nameLAT": "Boshqa ozuqabop baliq mahsulotlari, quritilgan, tuzlangan, dudlangan yoki sho’r suvda Сухогруз file yantar balig’i 18g",
+        "nameRU": "Прочие пищевые субпродукты рыбы, сушеные, соленые, копченые или в рассоле Сухогруз филе янтарной рыбки 18г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00303001999006002",
+        "nameUZ": "Бошқа музлатилган балиқлар Норвегия янги музлатилган сельдь балиғи, картон қути 1 дона",
+        "nameLAT": "Boshqa muzlatilgan baliqlar Норвегия yangi muzlatilgan seld balig’i, karton quti 1 dona",
+        "nameRU": "Прочие замороженные рыбы Норвегия свежемороженная сельдь, картонная коробка 1 шт.",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00305003001000000",
+        "nameUZ": "Бошқа озуқабоп балиқ маҳсулотлари, қуритилган, тузланган, дудланган ёки шўр сувда",
+        "nameLAT": "Boshqa ozuqabop baliq mahsulotlari, quritilgan, tuzlangan, dudlangan yoki sho’r suvda",
+        "nameRU": "Прочие пищевые субпродукты рыбы, сушеные, соленые, копченые или в рассоле",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00306002001003001",
+        "nameUZ": "Музлатилган краб Санта Бремор қисқичбақа таёқчалари, классик, вакуум қадоқ 100 гр",
+        "nameLAT": "Muzlatilgan krab Санта Бремор qisqichbaqa tayoqchalari, klassik, vakuum qadoq 100 gr",
+        "nameRU": "Замороженный краб Санта Бремор крабовые палочки классические 100 грамм",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00304001002000000",
+        "nameUZ": "Балиқ филеси ва бошқа балиқ гўшти (шу жумладан қийма гўшт) музлатилган",
+        "nameLAT": "Baliq filesi va boshqa baliq go’shti (shu jumladan qiyma go’sht) muzlatilgan",
+        "nameRU": "Рыбное филе и другое рыбное мясо (в том числе фарш) замороженное",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00303001999005006",
+        "nameUZ": "Бошқа музлатилган балиқлар Хумсон лешч балиғи тозаланган, вакуум қадоқ 350 гр",
+        "nameLAT": "Boshqa muzlatilgan baliqlar Хумсон leshch balig’i tozalangan, vakuum qadoq 350 gr",
+        "nameRU": "Прочие замороженные рыбы Хумсон лещ очищенный, вакуумная упаковка 350г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00302003002008006",
+        "nameUZ": "Балиқ икраси Santa Bremor донадор осётр балиғи 50 г",
+        "nameLAT": "Baliq ikrasi Santa Bremor donador osyotr balig’i 50 g",
+        "nameRU": "Икра рыбы Santa Bremor зернистая осетровая 50 г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00302003002015002",
+        "nameUZ": "Балиқ икраси Osetr осётр балиғи 50 г",
+        "nameLAT": "Baliq ikrasi Osetr osyotr balig’i 50 g",
+        "nameRU": "Икра рыбы Osetr осетровая 50 г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00302003002013002",
+        "nameUZ": "Балиқ икраси Русская қора денгиз ўтларидан 200 г",
+        "nameLAT": "Baliq ikrasi Русская qora dengiz o’tlaridan 200 g",
+        "nameRU": "Икра рыбы Русская черная из морских водорослей 200 г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00302003002008008",
+        "nameUZ": "Балиқ икраси Santa Bremor қаймоқли крем-соус билан 150 г",
+        "nameLAT": "Baliq ikrasi Santa Bremor qaymoqli krem-sous bilan 150 g",
+        "nameRU": "Икра рыбы Santa Bremor с крем-соусом сливочным 150 г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00306002001002001",
+        "nameUZ": "Музлатилган краб Крабия қисқичбақа таёқчалари, вакуум қадоқ 100 гр",
+        "nameLAT": "Muzlatilgan krab Крабия qisqichbaqa tayoqchalari, vakuum qadoq 100 gr",
+        "nameRU": "Замороженный краб Крабия крабовые палочки 100 грамм",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00306002001001011",
+        "nameUZ": "Музлатилган краб Vici қисқичбақа таёқчалари, вакуум қадоқ 500 гр",
+        "nameLAT": "Muzlatilgan krab Vici qisqichbaqa tayoqchalari, vakuum qadoq 500 gr",
+        "nameRU": "Замороженный краб Vici крабовые палочки 500 грамм",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00305001004001001",
+        "nameUZ": "Қуритилган балиқ Nord fish сариқ йўл-йўл балиқ сур-қуритилган, флоу пакет 20 гр",
+        "nameLAT": "Quritilgan baliq Nord fish sariq yo’l-yo’l baliq sur-quritilgan, flou paket 20 gr",
+        "nameRU": "Рыба сушеная Nord fish полосатик жёлтый сушено-вяленный, флоу пакет 20г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00306002002003002",
+        "nameUZ": "Музлатилган креветка Бухта изобилия, шоҳона, 400 гр",
+        "nameLAT": "Muzlatilgan krevetka Бухта izobiliya, shohona, 400 gr",
+        "nameRU": "Замороженная креветка Бухта изобилия, королевские, 400 гр.",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00305001002003001",
+        "nameUZ": "Дудланган балиқ Efes Вобла 90 гр",
+        "nameLAT": "Dudlangan baliq Efes Vobla 90 gr",
+        "nameRU": "Рыба копченая Efes Вобла 90 гр",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00305001002002002",
+        "nameUZ": "Дудланган балиқ Русское Море филе форели/кусок подкопченое 300 гр.",
+        "nameLAT": "Dudlangan baliq Русское Море file foreli/kusok podkopchenoye 300 gr.",
+        "nameRU": "Рыба копченая Русское Море филе форели/кусок подкопченое 300 гр.",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00303001999008002",
+        "nameUZ": "Бошқа музлатилган балиқлар Agama минтай филеси порцияланган 400 гр.",
+        "nameLAT": "Boshqa muzlatilgan baliqlar Agama mintay filesi porsiyalangan 400 gr.",
+        "nameRU": "Прочие замороженные рыбы Agama филе минтая порционное 400 гр.",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00307002004001001",
+        "nameUZ": "Денгиз маҳсулотларидан ассорти, хом-музлатилган Agama ўз шарбатида қобиқдаги мидия 450 гр.",
+        "nameLAT": "Dengiz mahsulotlaridan assorti, xom-muzlatilgan Agama o’z sharbatida qobiqdagi midiya 450 gr.",
+        "nameRU": "Ассорти из морепродуктов, сыро-мороженных Agama мидии в створках в собственном соку 450 гр.",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00306003001000000",
+        "nameUZ": "Қисқичбақасимонлар қуритилган, тузланган, дудланган ёки шўр сувда",
+        "nameLAT": "Qisqichbaqasimonlar quritilgan, tuzlangan, dudlangan yoki sho’r suvda",
+        "nameRU": "Ракообразные сушеные, соленые, копченые или в рассоле",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00306002002001017",
+        "nameUZ": "Музлатилган креветка Vici майда пастеризацияланган 5кг",
+        "nameLAT": "Muzlatilgan krevetka Vici mayda pasterizatsiyalangan 5kg",
+        "nameRU": "Замороженная креветка Vici пастеризованные маленкие 5кг",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00306002001001003",
+        "nameUZ": "Музлатилган краб Vici қисқичбақа таёқчалари, вакуум қадоқ 200 гр",
+        "nameLAT": "Muzlatilgan krab Vici qisqichbaqa tayoqchalari, vakuum qadoq 200 gr",
+        "nameRU": "Замороженный краб Vici крабовые палочки душа океана 200 грамм",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00306002001001005",
+        "nameUZ": "Музлатилган краб Vici қисқичбақа таёқчалари, вакуум қадоқ 100 гр",
+        "nameLAT": "Muzlatilgan krab Vici qisqichbaqa tayoqchalari, vakuum qadoq 100 gr",
+        "nameRU": "Замороженный краб Vici крабовые палочки 100 грамм",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00305001001008002",
+        "nameUZ": "Тузланган ёки шўр сувдаги балиқ Nord fish таранка балиғи қуритилган қалампирли, флоу пакет 20 гр",
+        "nameLAT": "Tuzlangan yoki sho’r suvdagi baliq Nord fish taranka balig’i quritilgan qalampirli, flou paket 20 gr",
+        "nameRU": "Рыба соленая или в рассоле Nord fish таранка сушеная с перцем, флоу пакет 20 г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00303001999005005",
+        "nameUZ": "Бошқа музлатилган балиқлар Хумсон судак балиғи тозаланган, вакуум қадоқ 300 гр",
+        "nameLAT": "Boshqa muzlatilgan baliqlar Хумсон sudak balig’i tozalangan, vakuum qadoq 300 gr",
+        "nameRU": "Прочие замороженные рыбы Хумсон судак очищенный, вакуумная упаковка 300г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00305001001005001",
+        "nameUZ": "Тузланган ёки шўр сувдаги балиқ Barkas пива учун лосось балиқ турларидан тўплам, вакуум қадоқ 200 гр",
+        "nameLAT": "Tuzlangan yoki sho’r suvdagi baliq Barkas piva uchun losos baliq turlaridan to’plam, vakuum qadoq 200 gr",
+        "nameRU": "Рыба соленая или в рассоле Barkas набор к пиву из лососёвых пород, вакуумная упаковка 200 г.",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00305001001008001",
+        "nameUZ": "Тузланган ёки шўр сувдаги балиқ Nord fish анчоус балиғи қуритилган, флоу пакет 20 гр",
+        "nameLAT": "Tuzlangan yoki sho’r suvdagi baliq Nord fish anchous balig’i quritilgan, flou paket 20 gr",
+        "nameRU": "Рыба соленая или в рассоле Nord fish анчоус сушеный, флоу пакет 20 г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00306001002001002",
+        "nameUZ": "Краб Путина камчатлка фенсиси табиий, ўз шўрвасида 410 гр",
+        "nameLAT": "Krab Путина kamchatlka fensisi tabiiy, o’z sho’rvasida 410 gr",
+        "nameRU": "Краб Путина камчатский фенси натуральный в собственном соку 410 гр.",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00306002002002004",
+        "nameUZ": "Музлатилган креветка Agama шоҳона гриль учун 850 гр",
+        "nameLAT": "Muzlatilgan krevetka Agama shohona gril uchun 850 gr",
+        "nameRU": "Замороженная креветка Agama королевские для грилья 850 гр.",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00306002002001020",
+        "nameUZ": "Музлатилган креветка Vici аргентинча лангостино 750 гр",
+        "nameLAT": "Muzlatilgan krevetka Vici argentincha langostino 750 gr",
+        "nameRU": "Замороженная креветка Vici аргентинская лангостино 750 гр.",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00306002002002001",
+        "nameUZ": "Музлатилган креветка Agama тозаланган думи билан 850 гр",
+        "nameLAT": "Muzlatilgan krevetka Agama tozalangan dumi bilan 850 gr",
+        "nameRU": "Замороженная креветка Agama очищенная с хвостом 850 гр.",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00306002002002003",
+        "nameUZ": "Музлатилган креветка Agama ҳом музлатилган 85 гр",
+        "nameLAT": "Muzlatilgan krevetka Agama hom muzlatilgan 85 gr",
+        "nameRU": "Замороженная креветка Agama сыромороженные 85 гр.",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00306001002001001",
+        "nameUZ": "Краб Путина фэнси ўз шўрвасида 210 гр",
+        "nameLAT": "Krab Путина fensi o’z sho’rvasida 210 gr",
+        "nameRU": "Краб Путина в собственном соку фэнси 210 гр.",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00307002002001002",
+        "nameUZ": "Музлатилган кальмар VICI тушка хом-музлатилган шарқона 500 гр.",
+        "nameLAT": "Muzlatilgan kalmar VICI tushka xom-muzlatilgan sharqona 500 gr.",
+        "nameRU": "Замороженный кальмар VICI тушка сыро-мороженый дальневосточный 500 гр.",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00303001999010001",
+        "nameUZ": "Бошқа музлатилган балиқлар Бухта палтус изобилия 400 гр.",
+        "nameLAT": "Boshqa muzlatilgan baliqlar Бухта paltus izobiliya 400 gr.",
+        "nameRU": "Прочие замороженные рыбы Бухта палтус изобилия 400 гр.",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00303001999010002",
+        "nameUZ": "Бошқа музлатилган балиқлар Бухта окунь изобилия қизил 400 гр",
+        "nameLAT": "Boshqa muzlatilgan baliqlar Бухта okun izobiliya qizil 400 gr",
+        "nameRU": "Прочие замороженные рыбы Бухта окунь изобилия красный 400 гр.",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00306002002003001",
+        "nameUZ": "Музлатилган креветка Бухта тозаланган шоҳона изобилия 300 гр",
+        "nameLAT": "Muzlatilgan krevetka Бухта tozalangan shohona izobiliya 300 gr",
+        "nameRU": "Замороженная креветка Бухта очищенная королевская изобилия 300 гр.",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00305001001007001",
+        "nameUZ": "Тузланган ёки шўр сувдаги балиқ Хумсон анчоус балиғи қуритилган тузланган, вакуум қадоқ 25 гр",
+        "nameLAT": "Tuzlangan yoki sho’r suvdagi baliq Хумсон anchous balig’i quritilgan tuzlangan, vakuum qadoq 25 gr",
+        "nameRU": "Рыба соленая или в рассоле Хумсон анчоус сушёный солёный, вакуумная упаковка 25 г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00305001001009002",
+        "nameUZ": "Тузланган ёки шўр сувдаги балиқ GOLDEN FISH GROUP совуқ дудланган лосось таёқчалари, вакуум қадоқ 100 гр",
+        "nameLAT": "Tuzlangan yoki sho’r suvdagi baliq GOLDEN FISH GROUP sovuq dudlangan losos tayoqchalari, vakuum qadoq 100 gr",
+        "nameRU": "Рыба соленая или в рассоле GOLDEN FISH GROUP лосось стальноголовый, холодного копчения палочки, вакуумная упаковка 100 гр.",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00305001001006002",
+        "nameUZ": "Тузланган ёки шўр сувдаги балиқ Remax таран қалампир билан, флакс пакет 18 гр",
+        "nameLAT": "Tuzlangan yoki sho’r suvdagi baliq Remax taran qalampir bilan, flaks paket 18 gr",
+        "nameRU": "Рыба соленая или в рассоле Remax таранка с перцем, флакс пакет 18 г.",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00305001001009003",
+        "nameUZ": "Тузланган ёки шўр сувдаги балиқ GOLDEN FISH GROUP янги форель балиғи филеси бўлаклари, вакуум қадоқ 500 гр",
+        "nameLAT": "Tuzlangan yoki sho’r suvdagi baliq GOLDEN FISH GROUP yangi forel balig’i filesi bo’laklari, vakuum qadoq 500 gr",
+        "nameRU": "Рыба соленая или в рассоле GOLDEN FISH GROUP филе рыбы форель свежая кусочками, вакуумная упаковка 500 гр.",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00305001001006001",
+        "nameUZ": "Тузланган ёки шўр сувдаги балиқ Remax таран қалампир билан, флакс пакет 32 гр",
+        "nameLAT": "Tuzlangan yoki sho’r suvdagi baliq Remax taran qalampir bilan, flaks paket 32 gr",
+        "nameRU": "Рыба соленая или в рассоле Remax таранка с перцем, флакс пакет 32 г.",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00306002002002002",
+        "nameUZ": "Музлатилган креветка Agama шохона тозаланмаган, 700 гр",
+        "nameLAT": "Muzlatilgan krevetka Agama shoxona tozalanmagan, 700 gr",
+        "nameRU": "Замороженная креветка Agama королевские xxl неочищенные 700 гр.",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00306002002001015",
+        "nameUZ": "Музлатилган креветка Vici йўлбарс креветкалари 4 кг",
+        "nameLAT": "Muzlatilgan krevetka Vici yo’lbars krevetkalari 4 kg",
+        "nameRU": "Замороженная креветка Vici тигровые в панцире 4 кг",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00307003001000000",
+        "nameUZ": "Қуритилган кальмар",
+        "nameLAT": "Quritilgan kalmar",
+        "nameRU": "Сушеный кальмар",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00306002001001007",
+        "nameUZ": "Музлатилган краб Vici қисқичбақа таёқчалари, вакуум қадоқ 500 гр",
+        "nameLAT": "Muzlatilgan krab Vici qisqichbaqa tayoqchalari, vakuum qadoq 500 gr",
+        "nameRU": "Замороженный краб Vici крабовые палочки 500 грамм",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00306002002001011",
+        "nameUZ": "Музлатилган креветка Vici шоҳона қобиқли 4 кг",
+        "nameLAT": "Muzlatilgan krevetka Vici shohona qobiqli 4 kg",
+        "nameRU": "Замороженная креветка Vici королевские в панцире 4 кг",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00305001001009001",
+        "nameUZ": "Тузланган ёки шўр сувдаги балиқ GOLDEN FISH GROUP совуқ дудланган лосось (лосось балиқлари тўплами), вакуум қадоқ 150 гр",
+        "nameLAT": "Tuzlangan yoki sho’r suvdagi baliq GOLDEN FISH GROUP sovuq dudlangan losos (losos baliqlari to’plami), vakuum qadoq 150 gr",
+        "nameRU": "Рыба соленая или в рассоле GOLDEN FISH GROUP лосось стальноголовый, холодного копчения (набор из лососёвых), вакуумная упаковка 150 гр.",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00303001999004002",
+        "nameUZ": "Бошқа музлатилган балиқлар Remax сариқ йўл-йўл балиқ, флакс пакет 32 гр",
+        "nameLAT": "Boshqa muzlatilgan baliqlar Remax sariq yo’l-yo’l baliq, flaks paket 32 gr",
+        "nameRU": "Прочие замороженные рыбы Remax жёлтый полосатик флакс пакет 32 г.",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00306002001001004",
+        "nameUZ": "Музлатилган краб Vici қисқичбақа таёқчалари, вакуум қадоқ 5 кг",
+        "nameLAT": "Muzlatilgan krab Vici qisqichbaqa tayoqchalari, vakuum qadoq 5 kg",
+        "nameRU": "Замороженный краб Vici крабовые палочки 5 кг",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00301001005000000",
+        "nameUZ": "Тирик толстолобик",
+        "nameLAT": "Tirik tolstolobik",
+        "nameRU": "Живой толстолобик",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00305001004002003",
+        "nameUZ": "Қуритилган балиқ Fish Jerky дўнгпешана балиғи кесилган қуритилган, вакуум қадоқ 60 гр",
+        "nameLAT": "Quritilgan baliq Fish Jerky do’ngpeshana balig’i kesilgan quritilgan, vakuum qadoq 60 gr",
+        "nameRU": "Рыба сушеная Fish Jerky толстолобик нарезанный вяленный, вакуумная упаковка 60г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00304001001003001",
+        "nameUZ": "Балиқ филеси ва бошқа балиқ гўшти (шу жумладан қийма гўшт) янги сўйилган, совутилган Fly Fish янги лосось балиғи филеси, вакуум қадоқ 100 гр",
+        "nameLAT": "Baliq filesi va boshqa baliq go’shti (shu jumladan qiyma go’sht) yangi so’yilgan, sovutilgan Fly Fish yangi losos balig’i filesi, vakuum qadoq 100 gr",
+        "nameRU": "Рыбное филе и другое рыбное мясо (в том числе фарш) свежее, охлажденное Fly Fish лосось филе свежая, вакуумная упаковка 100 г.",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00301001006000000",
+        "nameUZ": "Тирик осётр",
+        "nameLAT": "Tirik osyotr",
+        "nameRU": "Живой осётр",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00307002004002003",
+        "nameUZ": "Денгиз маҳсулотларидан ассорти, хом-музлатилган Бухта денгиз коктейли 430 гр.",
+        "nameLAT": "Dengiz mahsulotlaridan assorti, xom-muzlatilgan Бухта dengiz kokteyli 430 gr.",
+        "nameRU": "Ассорти из морепродуктов, сыро-мороженных Бухта морской коктейль 430 гр.",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00306002001004004",
+        "nameUZ": "Музлатилган краб Эконом қисқичбақа таёқчалари, вакуум қадоқ 500 гр",
+        "nameLAT": "Muzlatilgan krab Эконом qisqichbaqa tayoqchalari, vakuum qadoq 500 gr",
+        "nameRU": "Замороженный краб Эконом крабовые палочки 500 грамм",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00306002002001018",
+        "nameUZ": "Музлатилган креветка Vici қобиқли 5кг",
+        "nameLAT": "Muzlatilgan krevetka Vici qobiqli 5kg",
+        "nameRU": "Замороженная креветка Vici в панцире 5кг",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00306002002001002",
+        "nameUZ": "Музлатилган креветка Vici шимолий, қайнатиб-музлатилган, қобиқли 750 гр",
+        "nameLAT": "Muzlatilgan krevetka Vici shimoliy, qaynatib-muzlatilgan, qobiqli 750 gr",
+        "nameRU": "Замороженная креветка Vici северные варено-мороженные в панцире 750 грамм",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00306002002001009",
+        "nameUZ": "Музлатилган креветка Vici приорити 40/60 хушбўйликлар билан қайнатиб-музлатилган, флакон 500 гр",
+        "nameLAT": "Muzlatilgan krevetka Vici prioriti 40/60 xushbo’yliklar bilan qaynatib-muzlatilgan, flakon 500 gr",
+        "nameRU": "Замороженная креветка Vici приорити 40/60 с пряностями королевские варено-мороженные 500 грамм",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00306002004000000",
+        "nameUZ": "Бошқа музлатилган қисқичбақасимонлар",
+        "nameLAT": "Boshqa muzlatilgan qisqichbaqasimonlar",
+        "nameRU": "Прочие ракообразные замороженные",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00306002001004003",
+        "nameUZ": "Музлатилган краб Эконом қисқичбақа таёқчалари, вакуум қадоқ 240 гр",
+        "nameLAT": "Muzlatilgan krab Эконом qisqichbaqa tayoqchalari, vakuum qadoq 240 gr",
+        "nameRU": "Замороженный краб Эконом крабовые палочки 240 грамм",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00306002001001010",
+        "nameUZ": "Музлатилган краб Vici қисқичбақа таёқчалари, вакуум қадоқ 1,0 кг",
+        "nameLAT": "Muzlatilgan krab Vici qisqichbaqa tayoqchalari, vakuum qadoq 1,0 kg",
+        "nameRU": "Замороженный краб Vici крабовые палочки 1кг",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00304001001005001",
+        "nameUZ": "Балиқ филеси ва бошқа балиқ гўшти (шу жумладан қийма гўшт) янги сўйилган, совутилган Marinad House сом балиғи бўлаклари, пластик контейнер 1,0 кг",
+        "nameLAT": "Baliq filesi va boshqa baliq go’shti (shu jumladan qiyma go’sht) yangi so’yilgan, sovutilgan Marinad House som balig’i bo’laklari, plastik konteyner 1,0 kg",
+        "nameRU": "Рыбное филе и другое рыбное мясо (в том числе фарш) свежее, охлажденное Marinad House сом кусками, пластиковый контейнер 1,0",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00303001999005004",
+        "nameUZ": "Бошқа музлатилган балиқлар Хумсон вобла балиғи тозаланган, вакуум қадоқ 190 гр",
+        "nameLAT": "Boshqa muzlatilgan baliqlar Хумсон vobla balig’i tozalangan, vakuum qadoq 190 gr",
+        "nameRU": "Прочие замороженные рыбы Хумсон вобла очищенная, вакуумная упаковка 190г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00306002002001012",
+        "nameUZ": "Музлатилган креветка Vici қайнатиб-музлатилган, қобиқли, қути 5 кг",
+        "nameLAT": "Muzlatilgan krevetka Vici qaynatib-muzlatilgan, qobiqli, quti 5 kg",
+        "nameRU": "Замороженная креветка Vici варено-мороженные в панцире 5 кг",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00305001004002004",
+        "nameUZ": "Қуритилган балиқ Fish Jerky вобла балиғи қуритилган, вакуум қадоқ 200 гр",
+        "nameLAT": "Quritilgan baliq Fish Jerky vobla balig’i quritilgan, vakuum qadoq 200 gr",
+        "nameRU": "Рыба сушеная Fish Jerky вобла вяленная, вакуумная упаковка 200г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00301001007000000",
+        "nameUZ": "Тирик оқ амур",
+        "nameLAT": "Tirik oq amur",
+        "nameRU": "Живой белый амур",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00306002001003002",
+        "nameUZ": "Музлатилган краб Санта Бремор қисқичбақа таёқчалари, классик, вакуум қадоқ 200 гр",
+        "nameLAT": "Muzlatilgan krab Санта Бремор qisqichbaqa tayoqchalari, klassik, vakuum qadoq 200 gr",
+        "nameRU": "Замороженный краб Санта Бремор крабовые палочки классические 200 грамм",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00303001999007001",
+        "nameUZ": "Бошқа музлатилган балиқлар Air Uzbegim қуритилган судак балиғи, полиэтилен пакет 140 гр",
+        "nameLAT": "Boshqa muzlatilgan baliqlar Air Uzbegim quritilgan sudak balig’i, polietilen paket 140 gr",
+        "nameRU": "Прочие замороженные рыбы Air Uzbegim судак сушёный, полиэтиленовый пакет 140 г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00303001999000000",
+        "nameUZ": "Бошқа музлатилган балиқлар",
+        "nameLAT": "Boshqa muzlatilgan baliqlar",
+        "nameRU": "Прочие замороженные рыбы",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00302003002000000",
+        "nameUZ": "Балиқ икраси",
+        "nameLAT": "Baliq ikrasi",
+        "nameRU": "Икра рыбы",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00302003001000000",
+        "nameUZ": "Балиқ жигари",
+        "nameLAT": "Baliq jigari",
+        "nameRU": "Печень рыбы",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00305002001000000",
+        "nameUZ": "Балиқ филеси қуритилган, тузланган, дудланган ёки шўр сувда",
+        "nameLAT": "Baliq filesi quritilgan, tuzlangan, dudlangan yoki sho’r suvda",
+        "nameRU": "Рыбное филе сушеное, соленое, копченое или в рассоле",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00304001001004001",
+        "nameUZ": "Балиқ филеси ва бошқа балиқ гўшти (шу жумладан қийма гўшт) янги сўйилган, совутилган Class Marinad сом балиғи бўлаклари, пластик контейнер 1,0 кг",
+        "nameLAT": "Baliq filesi va boshqa baliq go’shti (shu jumladan qiyma go’sht) yangi so’yilgan, sovutilgan Class Marinad som balig’i bo’laklari, plastik konteyner 1,0 kg",
+        "nameRU": "Рыбное филе и другое рыбное мясо (в том числе фарш) свежее, охлажденное Class Marinad сом кусками, пластиковый контейнер 1,0 кг.",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00306002002001004",
+        "nameUZ": "Музлатилган креветка Vici приорити 50/70 хушбўйликлар билан қайнатиб-музлатилган, флакон 500 гр",
+        "nameLAT": "Muzlatilgan krevetka Vici prioriti 50/70 xushbo’yliklar bilan qaynatib-muzlatilgan, flakon 500 gr",
+        "nameRU": "Замороженная креветка Vici приорити 50/70 с пряностями королевские варено-мороженные 500 грамм",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00306002001001009",
+        "nameUZ": "Музлатилган краб Vici қор қисқичбақаси 500 гр",
+        "nameLAT": "Muzlatilgan krab Vici qor qisqichbaqasi 500 gr",
+        "nameRU": "Замороженный краб Vici снежный краб 500 грамм",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00305001004002001",
+        "nameUZ": "Қуритилган балиқ Fish Jerky анчоус балиғи қуритилган, вакуум қадоқ 15 гр",
+        "nameLAT": "Quritilgan baliq Fish Jerky anchous balig’i quritilgan, vakuum qadoq 15 gr",
+        "nameRU": "Рыба сушеная Fish Jerky анчоус вяленый, вакуумная упаковка 15 г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00305001004002006",
+        "nameUZ": "Қуритилган балиқ Fish Jerky дўнгпешана балиғи яримта қуритилган, вакуум қадоқ 450 гр",
+        "nameLAT": "Quritilgan baliq Fish Jerky do’ngpeshana balig’i yarimta quritilgan, vakuum qadoq 450 gr",
+        "nameRU": "Рыба сушеная Fish Jerky толстолобик половинка вяленный, вакуумная упаковка 450г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00304001001005002",
+        "nameUZ": "Балиқ филеси ва бошқа балиқ гўшти (шу жумладан қийма гўшт) янги сўйилган, совутилган Marinad House сом балиғи бўлаклари, пластик контейнер 500 гр",
+        "nameLAT": "Baliq filesi va boshqa baliq go’shti (shu jumladan qiyma go’sht) yangi so’yilgan, sovutilgan Marinad House som balig’i bo’laklari, plastik konteyner 500 gr",
+        "nameRU": "Рыбное филе и другое рыбное мясо (в том числе фарш) свежее, охлажденное Marinad House сом кусками, пластиковый контейнер 500",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00304001001004002",
+        "nameUZ": "Балиқ филеси ва бошқа балиқ гўшти (шу жумладан қийма гўшт) янги сўйилган, совутилган Class Marinad сом балиғи бўлаклари, пластик контейнер 500 гр",
+        "nameLAT": "Baliq filesi va boshqa baliq go’shti (shu jumladan qiyma go’sht) yangi so’yilgan, sovutilgan Class Marinad som balig’i bo’laklari, plastik konteyner 500 gr",
+        "nameRU": "Рыбное филе и другое рыбное мясо (в том числе фарш) свежее, охлажденное Class Marinad сом кусками, пластиковый контейнер 500 г.",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00303001999005002",
+        "nameUZ": "Бошқа музлатилган балиқлар Хумсон тозаланган сазан балиғи, вакуум қадоқ 130 гр",
+        "nameLAT": "Boshqa muzlatilgan baliqlar Хумсон tozalangan sazan balig’i, vakuum qadoq 130 gr",
+        "nameRU": "Прочие замороженные рыбы Хумсон сазан очищенный, вакуумная упаковка 130г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00303001001001001",
+        "nameUZ": "Музлатилган толстолоб Хумсон кесилган, вакуум қадоқ 130 гр",
+        "nameLAT": "Muzlatilgan tolstolob Хумсон kesilgan, vakuum qadoq 130 gr",
+        "nameRU": "Замороженный толстолоб Хумсон нарезной, вакуумная упаковка 130 г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00304001001003003",
+        "nameUZ": "Балиқ филеси ва бошқа балиқ гўшти (шу жумладан қийма гўшт) янги сўйилган, совутилган Fly Fish янги лосось балиғи филеси, вакуум қадоқ 300 гр",
+        "nameLAT": "Baliq filesi va boshqa baliq go’shti (shu jumladan qiyma go’sht) yangi so’yilgan, sovutilgan Fly Fish yangi losos balig’i filesi, vakuum qadoq 300 gr",
+        "nameRU": "Рыбное филе и другое рыбное мясо (в том числе фарш) свежее, охлажденное Fly Fish лосось филе свежая, вакуумная упаковка 300 г.",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00306002002000000",
+        "nameUZ": "Музлатилган креветка",
+        "nameLAT": "Muzlatilgan krevetka",
+        "nameRU": "Замороженная креветка",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00303001999005001",
+        "nameUZ": "Бошқа музлатилган балиқлар Хумсон килька балиғи кесилган, вакуум қадоқ 45 гр",
+        "nameLAT": "Boshqa muzlatilgan baliqlar Хумсон kilka balig’i kesilgan, vakuum qadoq 45 gr",
+        "nameRU": "Прочие замороженные рыбы Хумсон килька нарезная , вакуумная упаковка 45 г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00302003002008007",
+        "nameUZ": "Балиқ икраси Santa Bremor осётр балиғи 230 г",
+        "nameLAT": "Baliq ikrasi Santa Bremor osyotr balig’i 230 g",
+        "nameRU": "Икра рыбы Santa Bremor осетровая 230 г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00302003002015001",
+        "nameUZ": "Балиқ икраси Osetr осётр балиғи 100 г",
+        "nameLAT": "Baliq ikrasi Osetr osyotr balig’i 100 g",
+        "nameRU": "Икра рыбы Osetr осетровая 100 г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00306002002001016",
+        "nameUZ": "Музлатилган креветка Vici майда пастеризацияланган 300 гр",
+        "nameLAT": "Muzlatilgan krevetka Vici mayda pasterizatsiyalangan 300 gr",
+        "nameRU": "Замороженная креветка Vici пастеризованные маленкие 300гр",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00306001002000000",
+        "nameUZ": "Краб",
+        "nameLAT": "Krab",
+        "nameRU": "Краб",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00307003001002003",
+        "nameUZ": "Қуритилган кальмар Nord fish қуритилган стружки, флоу пакет 20 гр",
+        "nameLAT": "Quritilgan kalmar Nord fish quritilgan strujki, flou paket 20 gr",
+        "nameRU": "Сушеный кальмар Nord fish сушено-вяленный стружки, флоу пакет 20 г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00307001999000000",
+        "nameUZ": "Янги, совутилган бошқа молюскалар",
+        "nameLAT": "Yangi, sovutilgan boshqa molyuskalar",
+        "nameRU": "Прочие молюски, свежие, охлажденные",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00307002999000000",
+        "nameUZ": "Бошқа музлатилган моллюскалар",
+        "nameLAT": "Boshqa muzlatilgan mollyuskalar",
+        "nameRU": "Прочие замороженные молюски",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00301001003000000",
+        "nameUZ": "Тирик судак",
+        "nameLAT": "Tirik sudak",
+        "nameRU": "Живой судак",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00304001001003005",
+        "nameUZ": "Балиқ филеси ва бошқа балиқ гўшти (шу жумладан қийма гўшт) янги сўйилган, совутилган Fly Fish янги лосось балиғи филеси, вакуум қадоқ 500 гр",
+        "nameLAT": "Baliq filesi va boshqa baliq go’shti (shu jumladan qiyma go’sht) yangi so’yilgan, sovutilgan Fly Fish yangi losos balig’i filesi, vakuum qadoq 500 gr",
+        "nameRU": "Рыбное филе и другое рыбное мясо (в том числе фарш) свежее, охлажденное Fly Fish лосось филе свежая, вакуумная упаковка 500 г.",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00307003001002001",
+        "nameUZ": "Қуритилган кальмар Nord fish думалоқ шаклда қуритилган, флоу пакет 20 гр",
+        "nameLAT": "Quritilgan kalmar Nord fish dumaloq shaklda quritilgan, flou paket 20 gr",
+        "nameRU": "Сушеный кальмар Nord fish сушено-вяленный кольца, флоу пакет 20 г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00306002001004001",
+        "nameUZ": "Музлатилган краб Эконом қисқичбақа таёқчалари, вакуум қадоқ 100 гр",
+        "nameLAT": "Muzlatilgan krab Эконом qisqichbaqa tayoqchalari, vakuum qadoq 100 gr",
+        "nameRU": "Замороженный краб Эконом крабовые палочки 100 грамм",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00307003001001002",
+        "nameUZ": "Қуритилган кальмар Remax кальмар стружкалари, флакс пакет 32 гр",
+        "nameLAT": "Quritilgan kalmar Remax kalmar strujkalari, flaks paket 32 gr",
+        "nameRU": "Сушеный кальмар Remax стружка кальмара ,флакс пакет 32 г.",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00303001999005003",
+        "nameUZ": "Бошқа музлатилган балиқлар Хумсон илонбош балиғи кесилган, вакуум қадоқ 130 гр",
+        "nameLAT": "Boshqa muzlatilgan baliqlar Хумсон ilonbosh balig’i kesilgan, vakuum qadoq 130 gr",
+        "nameRU": "Прочие замороженные рыбы Хумсон змееголова нарезная , вакуумная упаковка 130г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00305001004002005",
+        "nameUZ": "Қуритилган балиқ Fish Jerky вобла балиғи қуритилган тазаланган, вакуум қадоқда 200 гр",
+        "nameLAT": "Quritilgan baliq Fish Jerky vobla balig’i quritilgan tazalangan, vakuum qadoqda 200 gr",
+        "nameRU": "Рыба сушеная Fish Jerky вобла вяленная очищенная, вакуумная упаковка 200г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00308001002000000",
+        "nameUZ": "Қисқичбақасимонлар ва моллюскалардан ташқари бошқа умуртқасиз сув ҳайвонлар, музлатилган",
+        "nameLAT": "Qisqichbaqasimonlar va mollyuskalardan tashqari boshqa umurtqasiz suv hayvonlar, muzlatilgan",
+        "nameRU": "Прочие водные беспозвоночные, кроме ракообразных и моллюсков, замороженные",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00306002001001006",
+        "nameUZ": "Музлатилган краб Vici қисқичбақа таёқчалари, вакуум қадоқ 200 гр",
+        "nameLAT": "Muzlatilgan krab Vici qisqichbaqa tayoqchalari, vakuum qadoq 200 gr",
+        "nameRU": "Замороженный краб Vici крабовые палочки 200гр",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00307002002000000",
+        "nameUZ": "Музлатилган кальмар",
+        "nameLAT": "Muzlatilgan kalmar",
+        "nameRU": "Замороженный кальмар",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00306002002001014",
+        "nameUZ": "Музлатилган креветка Vici аргентина қизил креветкалари, қобиқли, қути 4 кг",
+        "nameLAT": "Muzlatilgan krevetka Vici argentina qizil krevetkalari, qobiqli, quti 4 kg",
+        "nameRU": "Замороженная креветка Vici аргентинские красные в панцире 4 кг",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00302001005000000",
+        "nameUZ": "Янги сўйилган форель",
+        "nameLAT": "Yangi so’yilgan forel",
+        "nameRU": "Свежая форель",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00307003001001001",
+        "nameUZ": "Қуритилган кальмар Remax кальмар стружкалари, флакс пакет 18 гр",
+        "nameLAT": "Quritilgan kalmar Remax kalmar strujkalari, flaks paket 18 gr",
+        "nameRU": "Сушеный кальмар Remax стружка кальмара, флакс пакет 18 г.",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00306002002001010",
+        "nameUZ": "Музлатилган креветка Vici шоҳона қобиқли 1 кг",
+        "nameLAT": "Muzlatilgan krevetka Vici shohona qobiqli 1 kg",
+        "nameRU": "Замороженная креветка Vici королевские в панцире 1 кг",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00306002001002002",
+        "nameUZ": "Музлатилган краб Крабия қисқичбақа таёқчалари, вакуум қадоқ 200 гр",
+        "nameLAT": "Muzlatilgan krab Крабия qisqichbaqa tayoqchalari, vakuum qadoq 200 gr",
+        "nameRU": "Замороженный краб Крабия крабовые палочки 200 грамм",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00305001004000000",
+        "nameUZ": "Қуритилган балиқ",
+        "nameLAT": "Quritilgan baliq",
+        "nameRU": "Рыба сушеная",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00306002002001019",
+        "nameUZ": "Музлатилган креветка Vici тозаланган 5 кг",
+        "nameLAT": "Muzlatilgan krevetka Vici tozalangan 5 kg",
+        "nameRU": "Замороженная креветка Vici очищенные 5кг",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00302001001000000",
+        "nameUZ": "Янги сўйилган сазан",
+        "nameLAT": "Yangi so’yilgan sazan",
+        "nameRU": "Свежий сазан",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00306002001000000",
+        "nameUZ": "Музлатилган краб",
+        "nameLAT": "Muzlatilgan krab",
+        "nameRU": "Замороженный краб",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00303001005001001",
+        "nameUZ": "Музлатилган лосось Fishville форель тозаланган боши билан, картон қутида вакуум пакет 400 гр",
+        "nameLAT": "Muzlatilgan losos Fishville forel tozalangan boshi bilan, karton qutida vakuum paket 400 gr",
+        "nameRU": "Замороженный лосось Fishville форель радужная потрошенная с головой, в картонной коробке вакуумный пакет 400 г.",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00301001001000000",
+        "nameUZ": "Тирик сазан",
+        "nameLAT": "Tirik sazan",
+        "nameRU": "Живой сазан",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00305001001000000",
+        "nameUZ": "Тузланган ёки шўр сувдаги балиқ",
+        "nameLAT": "Tuzlangan yoki sho’r suvdagi baliq",
+        "nameRU": "Рыба соленая или в рассоле",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00306001003000000",
+        "nameUZ": "Креветка",
+        "nameLAT": "Krevetka",
+        "nameRU": "Креветка",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00306002002001008",
+        "nameUZ": "Музлатилган креветка Vici қайнатиб-музлатилган, тозаланган, вакуум қадоқ 500 гр",
+        "nameLAT": "Muzlatilgan krevetka Vici qaynatib-muzlatilgan, tozalangan, vakuum qadoq 500 gr",
+        "nameRU": "Замороженная креветка Vici варено-мороженные очищен 500 грамм",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00307003001002002",
+        "nameUZ": "Қуритилган кальмар Nord fish краб таъми билан қуритилган, флоу пакет 20 гр",
+        "nameLAT": "Quritilgan kalmar Nord fish krab tami bilan quritilgan, flou paket 20 gr",
+        "nameRU": "Сушеный кальмар Nord fish сушено-вяленный со вкусом краба, флоу пакет 20 г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00306002001001001",
+        "nameUZ": "Музлатилган краб Vici қисқичбақа таёқчалари, вакуум қадоқ 100 гр",
+        "nameLAT": "Muzlatilgan krab Vici qisqichbaqa tayoqchalari, vakuum qadoq 100 gr",
+        "nameRU": "Замороженный краб Vici крабовые палочки 100 грамм",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00304001001002002",
+        "nameUZ": "Балиқ филеси ва бошқа балиқ гўшти (шу жумладан қийма гўшт) янги сўйилган, совутилган Vici минтай балиқ таёқчалари, филе-бўлаклари унга буланган, музлатилган 250 гр",
+        "nameLAT": "Baliq filesi va boshqa baliq go’shti (shu jumladan qiyma go’sht) yangi so’yilgan, sovutilgan Vici mintay baliq tayoqchalari, file-bo’laklari unga bulangan, muzlatilgan 250 gr",
+        "nameRU": "Рыбное филе и другое рыбное мясо (в том числе фарш) свежее, охлажденное Vici палочки минтай замороженные филе-кусочки в панировке 250 гр",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00307001002000000",
+        "nameUZ": "Мидия, янги, совутилган",
+        "nameLAT": "Midiya, yangi, sovutilgan",
+        "nameRU": "Мидия, свежая, охлажденная",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00303001999008001",
+        "nameUZ": "Бошқа музлатилган балиқлар Agama янги музлатилган 400 г",
+        "nameLAT": "Boshqa muzlatilgan baliqlar Agama yangi muzlatilgan 400 g",
+        "nameRU": "Прочие замороженные рыбы Agama свежемороженое 400 г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00302003002002001",
+        "nameUZ": "Балиқ икраси Putina ёғли, 120 г",
+        "nameLAT": "Baliq ikrasi Putina yog’li, 120 g",
+        "nameRU": "Икра рыбы Putina в масле 120 г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00305001002002001",
+        "nameUZ": "Дудланган балиқ Русское Море озроқ дудланган 300 г",
+        "nameLAT": "Dudlangan baliq Русское Море ozroq dudlangan 300 g",
+        "nameRU": "Рыба копченая Русское Море подкопченная 300 г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00302003002002002",
+        "nameUZ": "Балиқ икраси Putina пастеризацияланган 125 г",
+        "nameLAT": "Baliq ikrasi Putina pasterizatsiyalangan 125 g",
+        "nameRU": "Икра рыбы Putina пастеризованная 125 г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00308001001000000",
+        "nameUZ": "Қисқичбақасимонлар ва моллюскалардан ташқари бошқа умуртқасиз сув ҳайвонлари, янги, совутилган",
+        "nameLAT": "Qisqichbaqasimonlar va mollyuskalardan tashqari boshqa umurtqasiz suv hayvonlari, yangi, sovutilgan",
+        "nameRU": "Прочие водные беспозвоночные, кроме ракообразных и моллюсков, свежие, охлажденные",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00304001001003002",
+        "nameUZ": "Балиқ филеси ва бошқа балиқ гўшти (шу жумладан қийма гўшт) янги сўйилган, совутилган Fly Fish янги лосось балиғи филеси, вакуум қадоқ 200 гр",
+        "nameLAT": "Baliq filesi va boshqa baliq go’shti (shu jumladan qiyma go’sht) yangi so’yilgan, sovutilgan Fly Fish yangi losos balig’i filesi, vakuum qadoq 200 gr",
+        "nameRU": "Рыбное филе и другое рыбное мясо (в том числе фарш) свежее, охлажденное Fly Fish лосось филе свежая, вакуумная упаковка 200 г.",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00305001002000000",
+        "nameUZ": "Дудланган балиқ",
+        "nameLAT": "Dudlangan baliq",
+        "nameRU": "Рыба копченая",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00306002002001001",
+        "nameUZ": "Музлатилган креветка Vici қайнатиб-музлатилган, қобиқли, флоу пакет 750 гр",
+        "nameLAT": "Muzlatilgan krevetka Vici qaynatib-muzlatilgan, qobiqli, flou paket 750 gr",
+        "nameRU": "Замороженная креветка Vici варено-мороженные в панцире 750 грамм",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00301001009000000",
+        "nameUZ": "Тирик форель",
+        "nameLAT": "Tirik forel",
+        "nameRU": "Живая форель",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00302003002003002",
+        "nameUZ": "Балиқ икраси Дары Моря имитацияланган 120 г",
+        "nameLAT": "Baliq ikrasi Дары Моря imitatsiyalangan 120 g",
+        "nameRU": "Икра рыбы Дары Моря имитированная 120 г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00302003002007001",
+        "nameUZ": "Балиқ икраси Русское Морес донадор 160 г",
+        "nameLAT": "Baliq ikrasi Русское Морес donador 160 g",
+        "nameRU": "Икра рыбы Русское Морес зернистая 160 г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00302003002002004",
+        "nameUZ": "Балиқ икраси Putina лососьли кета 240 г",
+        "nameLAT": "Baliq ikrasi Putina lososli keta 240 g",
+        "nameRU": "Икра рыбы Putina лососевая кета 120 г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00302003002009001",
+        "nameUZ": "Балиқ икраси Стольная лосось имитация 230 г",
+        "nameLAT": "Baliq ikrasi Стольная losos imitatsiya 230 g",
+        "nameRU": "Икра рыбы Стольная лососевая имитация 230 г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00302003002003001",
+        "nameUZ": "Балиқ икраси Дары Моря қизил ва қора 200 г",
+        "nameLAT": "Baliq ikrasi Дары Моря qizil va qora 200 g",
+        "nameRU": "Икра рыбы Дары Моря красная и черная 200 г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00302003002010001",
+        "nameUZ": "Балиқ икраси Хавиар сабзаботли соусда 210 г",
+        "nameLAT": "Baliq ikrasi Хавиар sabzabotli sousda 210 g",
+        "nameRU": "Икра рыбы Хавиар в овощном соусе 210 г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00302003002007002",
+        "nameUZ": "Балиқ икраси Русское Морес донадор, лосось 1 нав 95 гр",
+        "nameLAT": "Baliq ikrasi Русское Морес donador, losos 1 nav 95 gr",
+        "nameRU": "Икра рыбы Русское Морес зернистая, лососевая 1 сорт 95 г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00302003002010002",
+        "nameUZ": "Балиқ икраси Хавиар табиий қизил 200 г",
+        "nameLAT": "Baliq ikrasi Хавиар tabiiy qizil 200 g",
+        "nameRU": "Икра рыбы Хавиар натуральная красная 200 г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00302003002004001",
+        "nameUZ": "Балиқ икраси Сила Моря дудланган лосось таъми билан 180 г",
+        "nameLAT": "Baliq ikrasi Сила Моря dudlangan losos tami bilan 180 g",
+        "nameRU": "Икра рыбы Сила Моря со вкусом копченого лосося 180 г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00302003002002003",
+        "nameUZ": "Балиқ икраси Putina лосось донадор 440 г",
+        "nameLAT": "Baliq ikrasi Putina losos donador 440 g",
+        "nameRU": "Икра рыбы Putina лососевая зернистая 440 г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00302003002005001",
+        "nameUZ": "Балиқ икраси Парсах лосось донадор 140 г",
+        "nameLAT": "Baliq ikrasi Парсах losos donador 140 g",
+        "nameRU": "Икра рыбы Парсах лососевая зернистая 140 г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00302003002002005",
+        "nameUZ": "Балиқ икраси Putina қизил донадор 240 г",
+        "nameLAT": "Baliq ikrasi Putina qizil donador 240 g",
+        "nameRU": "Икра рыбы Putina зернистая красная 240 г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00302003002008001",
+        "nameUZ": "Балиқ икраси Santa Bremor пастеризацияланган 90 г",
+        "nameLAT": "Baliq ikrasi Santa Bremor pasterizatsiyalangan 90 g",
+        "nameRU": "Икра рыбы Santa Bremor пастеризованная 90 г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00303001003000000",
+        "nameUZ": "Музлатилган сельдь",
+        "nameLAT": "Muzlatilgan seld",
+        "nameRU": "Замороженная сельдь",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00301001017000000",
+        "nameUZ": "Бошқа тирик балиқлар",
+        "nameLAT": "Boshqa tirik baliqlar",
+        "nameRU": "Прочие живые рыбы",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00302003002007006",
+        "nameUZ": "Балиқ икраси Русское Морес деликатес классик 165 г",
+        "nameLAT": "Baliq ikrasi Русское Морес delikates klassik 165 g",
+        "nameRU": "Икра рыбы Русское Морес деликатесная классическая 165 г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00302003002014001",
+        "nameUZ": "Балиқ икраси СБ сметана крем 150 гр",
+        "nameLAT": "Baliq ikrasi СБ smetana krem 150 gr",
+        "nameRU": "Икра рыбы СБ крем сметана 150 г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00302003002008005",
+        "nameUZ": "Балиқ икраси Santa Bremor деликатес люкс треска 130 г",
+        "nameLAT": "Baliq ikrasi Santa Bremor delikates lyuks treska 130 g",
+        "nameRU": "Икра рыбы Santa Bremor деликатесная люкс трески 130 г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00302003002007005",
+        "nameUZ": "Балиқ икраси Русское Морес горбуша ва лосось 210 г",
+        "nameLAT": "Baliq ikrasi Русское Морес gorbusha va losos 210 g",
+        "nameRU": "Икра рыбы Русское Морес горбуши лосося 210 г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00302003002008004",
+        "nameUZ": "Балиқ икраси Santa Bremor дудланган лосось билан 180 г",
+        "nameLAT": "Baliq ikrasi Santa Bremor dudlangan losos bilan 180 g",
+        "nameRU": "Икра рыбы Santa Bremor с копченым лососем 180 г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00302003002012001",
+        "nameUZ": "Балиқ икраси Soviet донадор 95 г",
+        "nameLAT": "Baliq ikrasi Soviet donador 95 g",
+        "nameRU": "Икра рыбы Soviet зернистая 95 г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00302003002003003",
+        "nameUZ": "Балиқ икраси Дары Моря қизил 450 г",
+        "nameLAT": "Baliq ikrasi Дары Моря qizil 450 g",
+        "nameRU": "Икра рыбы Дары Моря красная 450 г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00302003002007003",
+        "nameUZ": "Балиқ икраси Русское Морес донадор, лосось 310 гр",
+        "nameLAT": "Baliq ikrasi Русское Морес donador, losos 310 gr",
+        "nameRU": "Икра рыбы Русское Морес зернистая, лососевая 310 г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00302003002006002",
+        "nameUZ": "Балиқ икраси Путина лосось 120 г дан 3 дона",
+        "nameLAT": "Baliq ikrasi Путина losos 120 g dan 3 dona",
+        "nameRU": "Икра рыбы Путина лососевая 3 шт * 120 г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00302003002007007",
+        "nameUZ": "Балиқ икраси Русское Морес классик 160 г",
+        "nameLAT": "Baliq ikrasi Русское Морес klassik 160 g",
+        "nameRU": "Икра рыбы Русское Морес классическая 160 г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00302003002007012",
+        "nameUZ": "Балиқ икраси Русское Морес лосось билан 165 г",
+        "nameLAT": "Baliq ikrasi Русское Морес losos bilan 165 g",
+        "nameRU": "Икра рыбы Русское Морес с лососем 165 г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00303001002000000",
+        "nameUZ": "Музлатилган скумбрия",
+        "nameLAT": "Muzlatilgan skumbriya",
+        "nameRU": "Замороженная скумбрия",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00302003002010003",
+        "nameUZ": "Балиқ икраси Хавиар донадор лосось 200 г",
+        "nameLAT": "Baliq ikrasi Хавиар donador losos 200 g",
+        "nameRU": "Икра рыбы Хавиар зернистая лососевая 200 г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00302003002002006",
+        "nameUZ": "Балиқ икраси Putina лосось жуда-фойдали 430 г",
+        "nameLAT": "Baliq ikrasi Putina losos juda-foydali 430 g",
+        "nameRU": "Икра рыбы Putina лососевая очень-полезная 430 г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00302003002013001",
+        "nameUZ": "Балиқ икраси Русская қизил 200 г",
+        "nameLAT": "Baliq ikrasi Русская qizil 200 g",
+        "nameRU": "Икра рыбы Русская красная 200 г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00302003002008002",
+        "nameUZ": "Балиқ икраси Santa Bremor озроқ дудланган 180 г",
+        "nameLAT": "Baliq ikrasi Santa Bremor ozroq dudlangan 180 g",
+        "nameRU": "Икра рыбы Santa Bremor подкопченная 180 г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00302003002006001",
+        "nameUZ": "Балиқ икраси Путина лосось 120 г",
+        "nameLAT": "Baliq ikrasi Путина losos 120 g",
+        "nameRU": "Икра рыбы Путина лососевая 120 г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00302003002002008",
+        "nameUZ": "Балиқ икраси Putina донадор лосось 90 г",
+        "nameLAT": "Baliq ikrasi Putina donador losos 90 g",
+        "nameRU": "Икра рыбы Putina зернистая лососевая 90 г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00302003002009002",
+        "nameUZ": "Балиқ икраси Стольная дудланган қизил крем соуси билан 150 г",
+        "nameLAT": "Baliq ikrasi Стольная dudlangan qizil krem sousi bilan 150 g",
+        "nameRU": "Икра рыбы Стольная с крем-соусом с копченым лососем 150 г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00302003002006003",
+        "nameUZ": "Балиқ икраси Путина донадор лосось 240 г",
+        "nameLAT": "Baliq ikrasi Путина donador losos 240 g",
+        "nameRU": "Икра рыбы Путина лососевая зернистая 240 г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00302003002001001",
+        "nameUZ": "Балиқ икраси Сделано в море лососли 140 г",
+        "nameLAT": "Baliq ikrasi Сделано в море lososli 140 g",
+        "nameRU": "Икра рыбы Сделано в море лососевая 140 г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00302003002002007",
+        "nameUZ": "Балиқ икраси Putina лосось горбуша жуда фойдали 260 г",
+        "nameLAT": "Baliq ikrasi Putina losos gorbusha juda foydali 260 g",
+        "nameRU": "Икра рыбы Putina лососевая горбуша очень полезная 260 г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00302003002007009",
+        "nameUZ": "Балиқ икраси Русское Морес деликатес, ярим дудланган 165 гр",
+        "nameLAT": "Baliq ikrasi Русское Морес delikates, yarim dudlangan 165 gr",
+        "nameRU": "Икра рыбы Русское Морес деликатесная, подкопченная 165 г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00302003002011001",
+        "nameUZ": "Балиқ икраси Pate пастеризацияланган атлантика трескаси 90 г",
+        "nameLAT": "Baliq ikrasi Pate pasterizatsiyalangan atlantika treskasi 90 g",
+        "nameRU": "Икра рыбы Pate трески атлантической пастеризованная 90 г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00302003002008003",
+        "nameUZ": "Балиқ икраси Santa Bremor озроқ дудланган лосось бўлаклари билан 180 г",
+        "nameLAT": "Baliq ikrasi Santa Bremor ozroq dudlangan losos bo’laklari bilan 180 g",
+        "nameRU": "Икра рыбы Santa Bremor подкопченая с кусочками лосося 180 г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00303001005000000",
+        "nameUZ": "Музлатилган лосось",
+        "nameLAT": "Muzlatilgan losos",
+        "nameRU": "Замороженный лосось",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00303001004000000",
+        "nameUZ": "Музлатилган форель",
+        "nameLAT": "Muzlatilgan forel",
+        "nameRU": "Замороженная форель",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00302003002007008",
+        "nameUZ": "Балиқ икраси Русское Морес майонез соусида лосось 165 г",
+        "nameLAT": "Baliq ikrasi Русское Морес mayonez sousida losos 165 g",
+        "nameRU": "Икра рыбы Русское Морес в майонезном соусе с лососем 165 г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00302003002007010",
+        "nameUZ": "Балиқ икраси Русское Морес креветка билан 165 г",
+        "nameLAT": "Baliq ikrasi Русское Морес krevetka bilan 165 g",
+        "nameRU": "Икра рыбы Русское Морес с креветками 165 г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00302003002007011",
+        "nameUZ": "Балиқ икраси Русское Морес деликатес лосось 165 г",
+        "nameLAT": "Baliq ikrasi Русское Морес delikates losos 165 g",
+        "nameRU": "Икра рыбы Русское Морес деликатесная с лососем 165 г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00302003002007004",
+        "nameUZ": "Балиқ икраси Русское Морес донадор 500 г",
+        "nameLAT": "Baliq ikrasi Русское Морес donador 500 g",
+        "nameRU": "Икра рыбы Русское Морес зернистая 500 г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00305001001003002",
+        "nameUZ": "Тузланган ёки шўр сувдаги балиқ Путина увилдириқ икра тузланган 160г",
+        "nameLAT": "Tuzlangan yoki sho’r suvdagi baliq Путина uvildiriq ikra tuzlangan 160g",
+        "nameRU": "Рыба соленая или в рассоле Путина ястычная икра в маринаде 160г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00305001001003001",
+        "nameUZ": "Тузланган ёки шўр сувдаги балиқ Путина ёғли 160г",
+        "nameLAT": "Tuzlangan yoki sho’r suvdagi baliq Путина yog’li 160g",
+        "nameRU": "Рыба соленая или в рассоле Путина в масле 160г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00305001001003003",
+        "nameUZ": "Тузланган ёки шўр сувдаги балиқ Путина ёғли пиёз ва укроп билан 160г",
+        "nameLAT": "Tuzlangan yoki sho’r suvdagi baliq Путина yog’li piyoz va ukrop bilan 160g",
+        "nameRU": "Рыба соленая или в рассоле Путина в масле с луком и укропом 160г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00307003001003004",
+        "nameUZ": "Қуритилган кальмар Сухогруз ҳалқалар 36г",
+        "nameLAT": "Quritilgan kalmar Сухогруз halqalar 36g",
+        "nameRU": "Сушеный кальмар Сухогруз кольца 36г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00305001001003006",
+        "nameUZ": "Тузланган ёки шўр сувдаги балиқ Путина аччиқ тўлдирилган икра ва сут 160г",
+        "nameLAT": "Tuzlangan yoki sho’r suvdagi baliq Путина achchiq to’ldirilgan ikra va sut 160g",
+        "nameRU": "Рыба соленая или в рассоле Путина икра и молоко в пряной заливке 160г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00307003001003003",
+        "nameUZ": "Қуритилган кальмар Сухогруз ҳалқалар 18г",
+        "nameLAT": "Quritilgan kalmar Сухогруз halqalar 18g",
+        "nameRU": "Сушеный кальмар Сухогруз кольца 18г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00305001001004001",
+        "nameUZ": "Тузланган ёки шўр сувдаги балиқ Русское Море ёғли 230г",
+        "nameLAT": "Tuzlangan yoki sho’r suvdagi baliq Русское Море yog’li 230g",
+        "nameRU": "Рыба соленая или в рассоле Русское Море в масле 230г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00307003001003001",
+        "nameUZ": "Қуритилган кальмар Сухогруз қуритилган 36г",
+        "nameLAT": "Quritilgan kalmar Сухогруз quritilgan 36g",
+        "nameRU": "Сушеный кальмар Сухогруз сушёный 36г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00307003001003002",
+        "nameUZ": "Қуритилган кальмар Сухогруз қуритилган 18г",
+        "nameLAT": "Quritilgan kalmar Сухогруз quritilgan 18g",
+        "nameRU": "Сушеный кальмар Сухогруз сушёный 18г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00307002002001001",
+        "nameUZ": "Музлатилган кальмар VICI халқалар 450 гр.",
+        "nameLAT": "Muzlatilgan kalmar VICI xalqalar 450 gr.",
+        "nameRU": "Замороженный кальмар VICI кольца 450 гр.",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00306002001001008",
+        "nameUZ": "Музлатилган краб Vici табиий қисқичбақа гўштидан қисқичбақа таёқчалари 200 гр",
+        "nameLAT": "Muzlatilgan krab Vici tabiiy qisqichbaqa go’shtidan qisqichbaqa tayoqchalari 200 gr",
+        "nameRU": "Замороженный краб Vici крабовые палочки с мясом натурального краба 200 грамм",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00305001001003004",
+        "nameUZ": "Тузланган ёки шўр сувдаги балиқ Путина ёғли зайтун билан 160г",
+        "nameLAT": "Tuzlangan yoki sho’r suvdagi baliq Путина yog’li zaytun bilan 160g",
+        "nameRU": "Рыба соленая или в рассоле Путина в масле с оливком 160г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00303001001000000",
+        "nameUZ": "Музлатилган толстолоб",
+        "nameLAT": "Muzlatilgan tolstolob",
+        "nameRU": "Замороженный толстолоб",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00306001001000000",
+        "nameUZ": "Қисқичбақа",
+        "nameLAT": "Qisqichbaqa",
+        "nameRU": "Рак",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00303001999004001",
+        "nameUZ": "Бошқа музлатилган балиқлар Remax сариқ йўл-йўл балиқ, флакс пакет 18 гр",
+        "nameLAT": "Boshqa muzlatilgan baliqlar Remax sariq yo’l-yo’l baliq, flaks paket 18 gr",
+        "nameRU": "Прочие замороженные рыбы Remax жёлтый полосатик флакс пакет 18 г.",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00304001001000000",
+        "nameUZ": "Балиқ филеси ва бошқа балиқ гўшти (шу жумладан қийма гўшт) янги сўйилган, совутилган",
+        "nameLAT": "Baliq filesi va boshqa baliq go’shti (shu jumladan qiyma go’sht) yangi so’yilgan, sovutilgan",
+        "nameRU": "Рыбное филе и другое рыбное мясо (в том числе фарш) свежее, охлажденное",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00305003001001005",
+        "nameUZ": "Бошқа озуқабоп балиқ маҳсулотлари, қуритилган, тузланган, дудланган ёки шўр сувда Сухогруз сариқ чизиқчали 36г",
+        "nameLAT": "Boshqa ozuqabop baliq mahsulotlari, quritilgan, tuzlangan, dudlangan yoki sho’r suvda Сухогруз sariq chiziqchali 36g",
+        "nameRU": "Прочие пищевые субпродукты рыбы, сушеные, соленые, копченые или в рассоле Сухогруз желтый полосатик 36г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00303001999009001",
+        "nameUZ": "Бошқа музлатилган балиқлар Leor совуқ дудланган, 200 гр",
+        "nameLAT": "Boshqa muzlatilgan baliqlar Leor sovuq dudlangan, 200 gr",
+        "nameRU": "Прочие замороженные рыбы Leor холодного копчения, 200 г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00302003002003004",
+        "nameUZ": "Балиқ икраси Дары Моря қора 450 г",
+        "nameLAT": "Baliq ikrasi Дары Моря qora 450 g",
+        "nameRU": "Икра рыбы Дары Моря черная 450 г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      },
+      {
+        "mxikCode": "00305001004002002",
+        "nameUZ": "Қуритилган балиқ Fish Jerky дўнгпешана балиғи кесилган қуритилган, вакуум қадоқ 47 гр",
+        "nameLAT": "Quritilgan baliq Fish Jerky do’ngpeshana balig’i kesilgan quritilgan, vakuum qadoq 47 gr",
+        "nameRU": "Рыба сушеная Fish Jerky толстолобик нарезанный вяленный, вакуумная упаковка 47г",
+        "groupCODE": "003",
+        "groupNameUZ": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+        "groupNameRU": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ",
+        "groupNameLAT": "BALIQ VA SUVDA YaShOVChI UMURTQASIZ BOShQA HAYVONLAR"
+      }
+    ],
+    "recordTotal": 243,
+    "errors": null,
+    "permitted": false
+  }
+}

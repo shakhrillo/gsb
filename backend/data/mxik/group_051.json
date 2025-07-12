@@ -1,0 +1,67 @@
+{
+  "metadata": {
+    "groupId": 51,
+    "fetchedAt": "2025-07-12T16:33:27.481Z",
+    "source": "https://tasnif.soliq.uz/api/cl-api/integration-mxik/references/group/code?group=51"
+  },
+  "data": {
+    "success": true,
+    "code": 200,
+    "reason": null,
+    "data": [
+      {
+        "mxikCode": "05111001001000000",
+        "nameUZ": "Жун матолар",
+        "nameLAT": "Jun matolar",
+        "nameRU": "Шерстяные ткани",
+        "groupCODE": "051",
+        "groupNameUZ": "ЖУН",
+        "groupNameRU": "ШЕРСТЬ",
+        "groupNameLAT": "JUN"
+      },
+      {
+        "mxikCode": "05106001001000000",
+        "nameUZ": "Жун ип",
+        "nameLAT": "Jun ip",
+        "nameRU": "Шерстяная пряжа (нити)",
+        "groupCODE": "051",
+        "groupNameUZ": "ЖУН",
+        "groupNameRU": "ШЕРСТЬ",
+        "groupNameLAT": "JUN"
+      },
+      {
+        "mxikCode": "05102001001000000",
+        "nameUZ": "Ҳайвон жуни",
+        "nameLAT": "Hayvon juni",
+        "nameRU": "Волос животных",
+        "groupCODE": "051",
+        "groupNameUZ": "ЖУН",
+        "groupNameRU": "ШЕРСТЬ",
+        "groupNameLAT": "JUN"
+      },
+      {
+        "mxikCode": "05103001001000000",
+        "nameUZ": "Жун чиқинди",
+        "nameLAT": "Jun chiqindi",
+        "nameRU": "Отходы шерсти",
+        "groupCODE": "051",
+        "groupNameUZ": "ЖУН",
+        "groupNameRU": "ШЕРСТЬ",
+        "groupNameLAT": "JUN"
+      },
+      {
+        "mxikCode": "05101001001000000",
+        "nameUZ": "Жун",
+        "nameLAT": "Jun",
+        "nameRU": "Шерсть",
+        "groupCODE": "051",
+        "groupNameUZ": "ЖУН",
+        "groupNameRU": "ШЕРСТЬ",
+        "groupNameLAT": "JUN"
+      }
+    ],
+    "recordTotal": 5,
+    "errors": null,
+    "permitted": false
+  }
+}

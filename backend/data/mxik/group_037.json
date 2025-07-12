@@ -1,0 +1,2177 @@
+{
+  "metadata": {
+    "groupId": 37,
+    "fetchedAt": "2025-07-12T16:32:28.241Z",
+    "source": "https://tasnif.soliq.uz/api/cl-api/integration-mxik/references/group/code?group=37"
+  },
+  "data": {
+    "success": true,
+    "code": 200,
+    "reason": null,
+    "data": [
+      {
+        "mxikCode": "03707001002003025",
+        "nameUZ": "Принтер учун кукун i-Toner hp laser jet 1010 i-toner, пластик бланка 100 гр.",
+        "nameLAT": "Printer uchun kukun i-Toner hp laser jet 1010 i-toner, plastik blanka 100 gr.",
+        "nameRU": "Тонер для принтера i-Toner hp laser jet 1010 i-toner, пластиковая бланка 100 гр.",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002005023",
+        "nameUZ": "Принтер учун кукун T2 hp laser jet 1100 t2 , пластик банка130 гр.",
+        "nameLAT": "Printer uchun kukun T2 hp laser jet 1100 t2 , plastik banka130 gr.",
+        "nameRU": "Тонер для принтера T2 hp laser jet 1100 t2 , пластиковая банка130 гр.",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002004017",
+        "nameUZ": "Принтер учун кукун T1 hp laser jet 1200 t1 150 гр., пластик банка 1 дона",
+        "nameLAT": "Printer uchun kukun T1 hp laser jet 1200 t1 150 gr., plastik banka 1 dona",
+        "nameRU": "Тонер для принтера T1 hp laser jet 1200 t1 150 гр., пластиковая банка 1 шт",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002004022",
+        "nameUZ": "Принтер учун кукун T1 hp laser jet p1005 t1 80 гр., пластик банка 1 дона",
+        "nameLAT": "Printer uchun kukun T1 hp laser jet p1005 t1 80 gr., plastik banka 1 dona",
+        "nameRU": "Тонер для принтера T1 hp laser jet p1005 t1 80 гр., пластиковая банка 1 шт",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03703001001000000",
+        "nameUZ": "Фотография қоғози, картон ва тўқимачилик материаллари (сенсибилизацияланган, экспозициясиз)",
+        "nameLAT": "Fotografiya qog’ozi, karton va to’qimachilik materiallari (sensibilizatsiyalangan, ekspozitsiyasiz)",
+        "nameRU": "Фотографическая бумага, картон и текстильные материалы, сенсибилизированные, неэкспонированные",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03701001006000000",
+        "nameUZ": "Фотополимер клише",
+        "nameLAT": "Fotopolimer klishe",
+        "nameRU": "Клише фотополимерное",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03701001007000000",
+        "nameUZ": "Офсет пластина",
+        "nameLAT": "Ofset plastina",
+        "nameRU": "Офсетная пластина",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002006001",
+        "nameUZ": "Принтер учун кукун Бабочка samsung ml 1660 бабочка, пластик банка 65 гр.",
+        "nameLAT": "Printer uchun kukun Бабочка samsung ml 1660 babochka, plastik banka 65 gr.",
+        "nameRU": "Тонер для принтера Бабочка samsung ml 1660 бабочка, пластиковая банка 65 гр.",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002003027",
+        "nameUZ": "Принтер учун кукун i-Toner hp laser jet 1010 i-toner, пластик бланка 90 гр.",
+        "nameLAT": "Printer uchun kukun i-Toner hp laser jet 1010 i-toner, plastik blanka 90 gr.",
+        "nameRU": "Тонер для принтера i-Toner hp laser jet 1010 i-toner, пластиковая бланка 90 гр.",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002006019",
+        "nameUZ": "Принтер учун кукун Бабочка hp laser jet 1200 бабочка, пластик банка 130 гр.",
+        "nameLAT": "Printer uchun kukun Бабочка hp laser jet 1200 babochka, plastik banka 130 gr.",
+        "nameRU": "Тонер для принтера Бабочка hp laser jet 1200 бабочка, пластиковая банка 130 гр.",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002005001",
+        "nameUZ": "Принтер учун кукун T2 samsung ml 1660 t2, пластик банка 100 гр.",
+        "nameLAT": "Printer uchun kukun T2 samsung ml 1660 t2, plastik banka 100 gr.",
+        "nameRU": "Тонер для принтера T2 samsung ml 1660 t2, пластиковая банка 100 гр.",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002001004",
+        "nameUZ": "Принтер учун кукун Black kyocera km-04 black, пластик банка 75 гр.",
+        "nameLAT": "Printer uchun kukun Black kyocera km-04 black, plastik banka 75 gr.",
+        "nameRU": "Тонер для принтера Black kyocera km-04 black, пластиковая банка 75 гр.",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002001031",
+        "nameUZ": "Принтер учун кукун Black hp laser jet р1005 black 80 гр., пластик банка 1 дона",
+        "nameLAT": "Printer uchun kukun Black",
+        "nameRU": "Тонер для принтера Black hp laser jet р1005 black 80 гр., пластиковая банка 1 шт",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03704001002000000",
+        "nameUZ": "Фотографик қоғоз, картон ва тўқимачилик материаллари (очиқ, ишлаб чиқилган ва ишлаб чиқилмаган) - плёнкадан ташқари",
+        "nameLAT": "Fotografik qog’oz, karton va to’qimachilik materiallari (ochiq, ishlab chiqilgan va ishlab chiqilmagan) - plyonkadan tashqari",
+        "nameRU": "Фотогрфичекая бумага, картон и текстильные материалы (экспонированные, проявленные и не проявленные) - кроме кинопленки",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002006021",
+        "nameUZ": "Принтер учун кукун Бабочка hp laser jet 1010 бабочка, пластик банка 120 гр.",
+        "nameLAT": "Printer uchun kukun Бабочка hp laser jet 1010 babochka, plastik banka 120 gr.",
+        "nameRU": "Тонер для принтера Бабочка hp laser jet 1010 бабочка, пластиковая банка 120 гр.",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002002001",
+        "nameUZ": "Принтер учун кукун Gamma canon ir 2016 gamma, пластик банка 380 гр.",
+        "nameLAT": "Printer uchun kukun Gamma canon ir 2016 gamma, plastik banka 380 gr.",
+        "nameRU": "Тонер для принтера Gamma canon ir 2016 gamma, пластиковая банка 380 гр.",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002001003",
+        "nameUZ": "Принтер учун кукун Black hp lj prom102 black premium, пластик банка 60 гр.",
+        "nameLAT": "Printer uchun kukun Black hp lj prom102 black premium, plastik banka 60 gr.",
+        "nameRU": "Тонер для принтера Black hp lj prom102 black premium, пластиковая банка 60 гр.",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002003036",
+        "nameUZ": "Принтер учун кукун i-Toner hp laser jet 1010 i-toner ultra, пластик банка 100 гр.",
+        "nameLAT": "Printer uchun kukun i-Toner hp laser jet 1010 i-toner ultra, plastik banka 100 gr.",
+        "nameRU": "Тонер для принтера i-Toner hp laser jet 1010 i-toner ultra, пластиковая банка 100 гр.",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002002007",
+        "nameUZ": "Принтер учун кукун Gamma canon ir 2520 gamma, пластик банка 700 гр",
+        "nameLAT": "Printer uchun kukun Gamma canon ir 2520 gamma, plastik banka 700 gr",
+        "nameRU": "Тонер для принтера Gamma canon ir 2520 gamma, пластиковая банка 700 гр",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002002008",
+        "nameUZ": "Принтер учун кукун Gamma hp laser jet p1005 gamma, пластик банка 60 гр.",
+        "nameLAT": "Printer uchun kukun Gamma hp laser jet p1005 gamma, plastik banka 60 gr.",
+        "nameRU": "Тонер для принтера Gamma hp laser jet p1005 gamma, пластиковая банка 60 гр.",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002001016",
+        "nameUZ": "Принтер учун кукун Black hp laser jet 1010 black 110 гр., пластик банка 1 дона",
+        "nameLAT": "Printer uchun kukun Black hp laser jet 1010 black 110 gr., plastik banka 1 dona",
+        "nameRU": "Тонер для принтера Black hp laser jet 1010 black 110 гр., пластиковая банка 1 шт",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002006027",
+        "nameUZ": "Принтер учун кукун Бабочка hp laser jet p1005 бабочка, пластик банка 100 гр.",
+        "nameLAT": "Printer uchun kukun Бабочка hp laser jet p1005 babochka, plastik banka 100 gr.",
+        "nameRU": "Тонер для принтера Бабочка hp laser jet p1005 бабочка, пластиковая банка 100 гр.",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002005003",
+        "nameUZ": "Принтер учун кукун T2 hp laser jet 1200 t2, пластик банка 130 гр.",
+        "nameLAT": "Printer uchun kukun T2 hp laser jet 1200 t2, plastik banka 130 gr.",
+        "nameRU": "Тонер для принтера T2 hp laser jet 1200 t2, пластиковая банка 130 гр.",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002006015",
+        "nameUZ": "Принтер учун кукун Бабочка kyocera km-04 бабочка, пластик банка 250 гр.",
+        "nameLAT": "Printer uchun kukun Бабочка kyocera km-04 babochka, plastik banka 250 gr.",
+        "nameRU": "Тонер для принтера Бабочка kyocera km-04 бабочка, пластиковая банка 250 гр.",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002002004",
+        "nameUZ": "Принтер учун кукун Gamma hp laser jet 1010 gamma, пластик банка 90 гр.",
+        "nameLAT": "Printer uchun kukun Gamma hp laser jet 1010 gamma, plastik banka 90 gr.",
+        "nameRU": "Тонер для принтера Gamma hp laser jet 1010 gamma, пластиковая банка 90 гр.",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002003030",
+        "nameUZ": "Принтер учун кукун i-Toner hp laser jet p1005 i-toner, пластик банка 80 г",
+        "nameLAT": "Printer uchun kukun i-Toner hp laser jet p1005 i-toner, plastik banka 80 g",
+        "nameRU": "Тонер для принтера i-Toner hp laser jet p1005 i-toner, пластиковая банка 80 г",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002007005",
+        "nameUZ": "Принтер учун кукун Black Premium hp laser jet cf226a black premium 65 гр., пластик банка 1 дона",
+        "nameLAT": "Printer uchun kukun Black Premium hp laser jet cf226a black premium 65 gr., plastik banka 1 dona",
+        "nameRU": "Тонер для принтера Black Premium hp laser jet cf226a black premium 65 гр., пластиковая банка 1 шт",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002007008",
+        "nameUZ": "Принтер учун кукун Black Premium kyocera km-04 black premium 500 гр., пластик банка 1 дона",
+        "nameLAT": "Printer uchun kukun Black Premium kyocera km-04 black premium 500 gr., plastik banka 1 dona",
+        "nameRU": "Тонер для принтера Black Premium kyocera km-04 black premium 500 гр., пластиковая банка 1 шт",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002006036",
+        "nameUZ": "Принтер учун кукун Бабочка hp laser jet universal бабочка ultra, пластик банка 100 гр.",
+        "nameLAT": "Printer uchun kukun Бабочка hp laser jet universal babochka ultra, plastik banka 100 gr.",
+        "nameRU": "Тонер для принтера Бабочка hp laser jet universal бабочка ultra, пластиковая банка 100 гр.",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002004009",
+        "nameUZ": "Принтер учун кукун T1 hp laser jet 1010 t1 110 гр., пластик банка 1 дона",
+        "nameLAT": "Printer uchun kukun T1 hp laser jet 1010 t1 110 gr., plastik banka 1 dona",
+        "nameRU": "Тонер для принтера T1 hp laser jet 1010 t1 110 гр., пластиковая банка 1 шт",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002001021",
+        "nameUZ": "Принтер учун кукун Black hp laser jet 1200 black 140 гр., пластик банка 1 дона",
+        "nameLAT": "Printer uchun kukun Black hp laser jet 1200 black 140 gr., plastik banka 1 dona",
+        "nameRU": "Тонер для принтера Black hp laser jet 1200 black 140 гр., пластиковая банка 1 шт",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03701001004000000",
+        "nameUZ": "Рентген",
+        "nameLAT": "Rentgen",
+        "nameRU": "Рентгеновские",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03701001999000000",
+        "nameUZ": "Бошқа фотопластинкалар ва плёнкалар",
+        "nameLAT": "Boshqa fotoplastinkalar va plyonkalar",
+        "nameRU": "Прочие фотопластинки и фотопленки",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03701001008000000",
+        "nameUZ": "Тез суратга олиш учун",
+        "nameLAT": "Tez suratga olish uchun",
+        "nameRU": "Для моментальной фотографии",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002003014",
+        "nameUZ": "Принтер учун кукун i-Toner samsung ml 1710 i-toner, пластик бланка 75 гр.",
+        "nameLAT": "Printer uchun kukun i-Toner samsung ml 1710 i-toner, plastik blanka 75 gr.",
+        "nameRU": "Тонер для принтера i-Toner samsung ml 1710 i-toner, пластиковая бланка 75 гр.",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002001011",
+        "nameUZ": "Принтер учун кукун Black canon fc/pc black 120 гр., пластик банка 1 дона",
+        "nameLAT": "Printer uchun kukun Black canon fc/pc black 120 gr., plastik banka 1 dona",
+        "nameRU": "Тонер для принтера Black canon fc/pc black 120 гр., пластиковая банка 1 шт",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002004020",
+        "nameUZ": "Принтер учун кукун T1 hp laser jet p1005 t1 120 гр., пластик банка 1 дона",
+        "nameLAT": "Printer uchun kukun T1 hp laser jet p1005 t1 120 gr., plastik banka 1 dona",
+        "nameRU": "Тонер для принтера T1 hp laser jet p1005 t1 120 гр., пластиковая банка 1 шт",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002004003",
+        "nameUZ": "Принтер учун кукун T1 kyosera km-1620 t1, пластик бланка 250 гр.",
+        "nameLAT": "Printer uchun kukun T1 kyosera km-1620 t1, plastik blanka 250 gr.",
+        "nameRU": "Тонер для принтера T1 kyosera km-1620 t1, пластиковая бланка 250 гр.",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002006020",
+        "nameUZ": "Принтер учун кукун Бабочка hp laser jet 1100 бабочка, пластик банка 130 гр.",
+        "nameLAT": "Printer uchun kukun Бабочка hp laser jet 1100 babochka, plastik banka 130 gr.",
+        "nameRU": "Тонер для принтера Бабочка hp laser jet 1100 бабочка, пластиковая банка 130 гр.",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002006023",
+        "nameUZ": "Принтер учун кукун Бабочка hp laser jet 1010 бабочка, пластик банка 100 гр.",
+        "nameLAT": "Printer uchun kukun Бабочка hp laser jet 1010 babochka, plastik banka 100 gr.",
+        "nameRU": "Тонер для принтера Бабочка hp laser jet 1010 бабочка, пластиковая банка 100 гр.",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002001025",
+        "nameUZ": "Принтер учун кукун Black hp laser jet universal black 120 гр., пластик банка 1 дона",
+        "nameLAT": "Printer uchun kukun Black hp laser jet universal black 120 gr., plastik banka 1 dona",
+        "nameRU": "Тонер для принтера Black hp laser jet universal black 120 гр., пластиковая банка 1 шт",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002004030",
+        "nameUZ": "Принтер учун кукун T1 samsung ml 1660 t1 80 гр., пластик банка 1 дона",
+        "nameLAT": "Printer uchun kukun T1 samsung ml 1660 t1 80 gr., plastik banka 1 dona",
+        "nameRU": "Тонер для принтера T1 samsung ml 1660 t1 80 гр., пластиковая банка 1 шт",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002006022",
+        "nameUZ": "Принтер учун кукун Бабочка hp laser jet 1010 бабочка, пластик банка 110 гр.",
+        "nameLAT": "Printer uchun kukun Бабочка hp laser jet 1010 babochka, plastik banka 110 gr.",
+        "nameRU": "Тонер для принтера Бабочка hp laser jet 1010 бабочка, пластиковая банка 110 гр.",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002003005",
+        "nameUZ": "Принтер учун кукун i-Toner kyosera km-1620 i-toner, пластик бланка 500 гр.",
+        "nameLAT": "Printer uchun kukun i-Toner kyosera km-1620 i-toner, plastik blanka 500 gr.",
+        "nameRU": "Тонер для принтера i-Toner kyosera km-1620 i-toner, пластиковая бланка 500 гр.",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002003018",
+        "nameUZ": "Принтер учун кукун i-Toner hp laser jet 1200 i-toner, пластик бланка 150 гр.",
+        "nameLAT": "Printer uchun kukun i-Toner hp laser jet 1200 i-toner, plastik blanka 150 gr.",
+        "nameRU": "Тонер для принтера i-Toner hp laser jet 1200 i-toner, пластиковая бланка 150 гр.",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002003011",
+        "nameUZ": "Принтер учун кукун i-Toner samsung ml 2160 i-toner, пластик бланка 65 гр.",
+        "nameLAT": "Printer uchun kukun i-Toner samsung ml 2160 i-toner, plastik blanka 65 gr.",
+        "nameRU": "Тонер для принтера i-Toner samsung ml 2160 i-toner, пластиковая бланка 65 гр.",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002003015",
+        "nameUZ": "Принтер учун кукун i-Toner samsung ml 1210 i-toner, пластик бланка 100 гр.",
+        "nameLAT": "Printer uchun kukun i-Toner samsung ml 1210 i-toner, plastik blanka 100 gr.",
+        "nameRU": "Тонер для принтера i-Toner samsung ml 1210 i-toner, пластиковая бланка 100 гр.",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002005009",
+        "nameUZ": "Принтер учун кукун T2 canon i-sensys mf4410 t2, пластик банка 60 гр.",
+        "nameLAT": "Printer uchun kukun T2 canon i-sensys mf4410 t2, plastik banka 60 gr.",
+        "nameRU": "Тонер для принтера T2 canon i-sensys mf4410 t2, пластиковая банка 60 гр.",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002001013",
+        "nameUZ": "Принтер учун кукун Black canon ir 2016 black 400 гр., пластик банка 1 дона",
+        "nameLAT": "Printer uchun kukun Black canon ir 2016 black 400 gr., plastik banka 1 dona",
+        "nameRU": "Тонер для принтера Black canon ir 2016 black 400 гр., пластиковая банка 1 шт",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002004033",
+        "nameUZ": "Принтер учун кукун T1 samsung ml 2160 t1 100 гр., пластик банка 1 дона",
+        "nameLAT": "Printer uchun kukun T1 samsung ml 2160 t1 100 gr., plastik banka 1 dona",
+        "nameRU": "Тонер для принтера T1 samsung ml 2160 t1 100 гр., пластиковая банка 1 шт",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002004002",
+        "nameUZ": "Принтер учун кукун T1 kyosera km-1620 t1, пластик бланка 75 гр.",
+        "nameLAT": "Printer uchun kukun T1 kyosera km-1620 t1, plastik blanka 75 gr.",
+        "nameRU": "Тонер для принтера T1 kyosera km-1620 t1, пластиковая бланка 75 гр.",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002006003",
+        "nameUZ": "Принтер учун кукун Бабочка kyosera km-1620 бабочка, пластик банка 500 гр.",
+        "nameLAT": "Printer uchun kukun Бабочка kyosera km-1620 babochka, plastik banka 500 gr.",
+        "nameRU": "Тонер для принтера Бабочка kyosera km-1620 бабочка, пластиковая банка 500 гр.",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002001018",
+        "nameUZ": "Принтер учун кукун Black hp laser jet 1010 black 85 гр., пластик банка 1 дона",
+        "nameLAT": "Printer uchun kukun Black hp laser jet 1010 black 85 gr., plastik banka 1 dona",
+        "nameRU": "Тонер для принтера Black hp laser jet 1010 black 85 гр., пластиковая банка 1 шт",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002001024",
+        "nameUZ": "Принтер учун кукун Black hp laser jet type-2 black 500 гр., пластик банка 1 дона",
+        "nameLAT": "Printer uchun kukun Black hp laser jet type-2 black 500 gr., plastik banka 1 dona",
+        "nameRU": "Тонер для принтера Black hp laser jet type-2 black 500 гр., пластиковая банка 1 шт",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002003008",
+        "nameUZ": "Принтер учун кукун i-Toner canon i-sensys mf4410 i-toner, пластик банка 60 гр.",
+        "nameLAT": "Printer uchun kukun i-Toner canon i-sensys mf4410 i-toner, plastik banka 60 gr.",
+        "nameRU": "Тонер для принтера i-Toner canon i-sensys mf4410 i-toner, пластиковая банка 60 гр.",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002005007",
+        "nameUZ": "Принтер учун кукун T2 kyosera km-1620 t2, пластик банка 250 гр.",
+        "nameLAT": "Printer uchun kukun T2 kyosera km-1620 t2, plastik banka 250 gr.",
+        "nameRU": "Тонер для принтера T2 kyosera km-1620 t2, пластиковая банка 250 гр.",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002003037",
+        "nameUZ": "Принтер учун кукун i-Toner hp laser jet 1010 i-toner ultra, пластик банка 90 гр.",
+        "nameLAT": "Printer uchun kukun i-Toner hp laser jet 1010 i-toner ultra, plastik banka 90 gr.",
+        "nameRU": "Тонер для принтера i-Toner hp laser jet 1010 i-toner ultra, пластиковая банка 90 гр.",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002005002",
+        "nameUZ": "Принтер учун кукун T2 kyocera km-04 t2, пластик банка 500 гр.",
+        "nameLAT": "Printer uchun kukun T2 kyocera km-04 t2, plastik banka 500 gr.",
+        "nameRU": "Тонер для принтера T2 kyocera km-04 t2, пластиковая банка 500 гр.",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002004005",
+        "nameUZ": "Принтер учун кукун T1 мос блок canon 047 t1, гофроқути 1 дона",
+        "nameLAT": "Printer uchun kukun T1 mos blok canon 047 t1, gofroquti 1 dona",
+        "nameRU": "Тонер для принтера T1 блок совместимый с canon 047 t1, гофрокоробка 1 шт",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002005030",
+        "nameUZ": "Принтер учун кукун T2 hp laser jet p1005 t2, пластик банка 100 гр.",
+        "nameLAT": "Printer uchun kukun T2 hp laser jet p1005 t2, plastik banka 100 gr.",
+        "nameRU": "Тонер для принтера T2 hp laser jet p1005 t2, пластиковая банка 100 гр.",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001999000000",
+        "nameUZ": "Бошқа фотохимикатлар",
+        "nameLAT": "Boshqa fotoximikatlar",
+        "nameRU": "Прочие фотохимикаты",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03704001001000000",
+        "nameUZ": "Фотографик пластинкалар ва плёнкалар (очилган, ишлаб чиқилган ва ишлаб чиқилмаган) - киноплёнка бундан мустасно",
+        "nameLAT": "Fotografik plastinkalar va plyonkalar (ochilgan, ishlab chiqilgan va ishlab chiqilmagan) - kinoplyonka bundan mustasno",
+        "nameRU": "Фотографические пластинки и пленка (экспонированные, проявленные и не проявленные)-кроме кинопленки",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002005031",
+        "nameUZ": "Принтер учун кукун T2 hp laser jet p1005 t2, пластик банка 65 гр.",
+        "nameLAT": "Printer uchun kukun T2 hp laser jet p1005 t2, plastik banka 65 gr.",
+        "nameRU": "Тонер для принтера T2 hp laser jet p1005 t2, пластиковая банка 65 гр.",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002006018",
+        "nameUZ": "Принтер учун кукун Бабочка hp laser jet 1200 бабочка, пластик банка 140 гр",
+        "nameLAT": "Printer uchun kukun Бабочка hp laser jet 1200 babochka, plastik banka 140 gr",
+        "nameRU": "Тонер для принтера Бабочка hp laser jet 1200 бабочка, пластиковая банка 140 гр",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002003039",
+        "nameUZ": "Принтер учун кукун i-Toner hp laser jet p1005 i-toner ultra, пластик банка 60 гр.",
+        "nameLAT": "Printer uchun kukun i-Toner hp laser jet p1005 i-toner ultra, plastik banka 60 gr.",
+        "nameRU": "Тонер для принтера i-Toner hp laser jet p1005 i-toner ultra, пластиковая банка 60 гр.",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002006004",
+        "nameUZ": "Принтер учун кукун Бабочка kyosera km-1620 бабочка, пластик банка 250 гр.",
+        "nameLAT": "Printer uchun kukun Бабочка kyosera km-1620 babochka, plastik banka 250 gr.",
+        "nameRU": "Тонер для принтера Бабочка kyosera km-1620 бабочка, пластиковая банка 250 гр.",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002004032",
+        "nameUZ": "Принтер учун кукун T1 samsung ml 1710 t1 75 гр., пластик банка 1 дона",
+        "nameLAT": "Printer uchun kukun T1 samsung ml 1710 t1 75 gr., plastik banka 1 dona",
+        "nameRU": "Тонер для принтера T1 samsung ml 1710 t1 75 гр., пластиковая банка 1 шт",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002004023",
+        "nameUZ": "Принтер учун кукун T1 hp laser jet universal t1 120 гр., пластик банка 1 дона",
+        "nameLAT": "Printer uchun kukun T1 hp laser jet universal t1 120 gr., plastik banka 1 dona",
+        "nameRU": "Тонер для принтера T1 hp laser jet universal t1 120 гр., пластиковая банка 1 шт",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002000000",
+        "nameUZ": "Принтер учун кукун",
+        "nameLAT": "Printer uchun kukun",
+        "nameRU": "Тонер для принтера",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002003028",
+        "nameUZ": "Принтер учун кукун i-Toner hp laser jet 1010 i-toner, пластик бланка 85 гр.",
+        "nameLAT": "Printer uchun kukun i-Toner hp laser jet 1010 i-toner, plastik blanka 85 gr.",
+        "nameRU": "Тонер для принтера i-Toner hp laser jet 1010 i-toner, пластиковая бланка 85 гр.",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002001029",
+        "nameUZ": "Принтер учун кукун Black hp laser jet р1005 black 60 гр., пластик банка 1 дона",
+        "nameLAT": "Printer uchun kukun Black hp laser jet r1005 black 60 gr., plastik banka 1 dona",
+        "nameRU": "Тонер для принтера Black hp laser jet р1005 black 60 гр., пластиковая банка 1 шт",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002003009",
+        "nameUZ": "Принтер учун кукун i-Toner samsung ml 2160 i-toner, пластик бланка 100 гр.",
+        "nameLAT": "Printer uchun kukun i-Toner samsung ml 2160 i-toner, plastik blanka 100 gr.",
+        "nameRU": "Тонер для принтера i-Toner samsung ml 2160 i-toner, пластиковая бланка 100 гр.",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002001002",
+        "nameUZ": "Принтер учун кукун Black canon i-sensys mf4410 black, пластик банка 60 гр.",
+        "nameLAT": "Printer uchun kukun Black canon i-sensys mf4410 black, plastik banka 60 gr.",
+        "nameRU": "Тонер для принтера Black canon i-sensys mf4410 black, пластиковая банка 60 гр.",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002003001",
+        "nameUZ": "Принтер учун кукун i-Toner hp laser jet 1100 i-toner ultra, пластик банка 130 гр.",
+        "nameLAT": "Printer uchun kukun i-Toner hp laser jet 1100 i-toner ultra, plastik banka 130 gr.",
+        "nameRU": "Тонер для принтера i-Toner hp laser jet 1100 i-toner ultra, пластиковая банка 130 гр.",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002004004",
+        "nameUZ": "Принтер учун кукун T1 kyosera km-1620 t1, пластик бланка 500 гр.",
+        "nameLAT": "Printer uchun kukun T1 kyosera km-1620 t1, plastik blanka 500 gr.",
+        "nameRU": "Тонер для принтера T1 kyosera km-1620 t1, пластиковая бланка 500 гр.",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002003034",
+        "nameUZ": "Принтер учун кукун i-Toner hp laser jet 1200 i-toner ultra, пластик банка 140 гр.",
+        "nameLAT": "Printer uchun kukun i-Toner hp laser jet 1200 i-toner ultra, plastik banka 140 gr.",
+        "nameRU": "Тонер для принтера i-Toner hp laser jet 1200 i-toner ultra, пластиковая банка 140 гр.",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002006006",
+        "nameUZ": "Принтер учун кукун Бабочка canon i-sensys mf4410, пластик банка 60 гр.",
+        "nameLAT": "Printer uchun kukun Бабочка canon i-sensys mf4410, plastik banka 60 gr.",
+        "nameRU": "Тонер для принтера Бабочка canon i-sensys mf4410, пластиковая банка 60 гр.",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002001006",
+        "nameUZ": "Принтер учун кукун Black samsung ml 1710 black, пластик банка 75 гр.",
+        "nameLAT": "Printer uchun kukun Black samsung ml 1710 black, plastik banka 75 gr.",
+        "nameRU": "Тонер для принтера Black samsung ml 1710 black, пластиковая банка 75 гр.",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002001027",
+        "nameUZ": "Принтер учун кукун Black hp laser jet р1005 black 110 гр., пластик банка 1 дона",
+        "nameLAT": "Printer uchun kukun Black hp laser jet r1005 black 110 gr., plastik banka 1 dona",
+        "nameRU": "Тонер для принтера Black hp laser jet р1005 black 110 гр., пластиковая банка 1 шт",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002003023",
+        "nameUZ": "Принтер учун кукун i-Toner hp laser jet 1010 i-toner, пластик бланка 120 гр.",
+        "nameLAT": "Printer uchun kukun i-Toner hp laser jet 1010 i-toner, plastik blanka 120 gr.",
+        "nameRU": "Тонер для принтера i-Toner hp laser jet 1010 i-toner, пластиковая бланка 120 гр.",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002001007",
+        "nameUZ": "Принтер учун кукун Black kyocera km-04 black premium, пластик банка 75 гр.",
+        "nameLAT": "Printer uchun kukun Black kyocera km-04 black premium, plastik banka 75 gr.",
+        "nameRU": "Тонер для принтера Black kyocera km-04 black premium, пластиковая банка 75 гр.",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002001014",
+        "nameUZ": "Принтер учун кукун Black canon ir 2520 black 700 гр., пластик банка 1 дона",
+        "nameLAT": "Printer uchun kukun Black canon ir 2520 black 700 gr., plastik banka 1 dona",
+        "nameRU": "Тонер для принтера Black canon ir 2520 black 700 гр., пластиковая банка 1 шт",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002001028",
+        "nameUZ": "Принтер учун кукун Black hp laser jet р1005 black 120 гр., пластик банка 1 дона",
+        "nameLAT": "Printer uchun kukun Black hp laser jet r1005 black 120 gr., plastik banka 1 dona",
+        "nameRU": "Тонер для принтера Black hp laser jet р1005 black 120 гр., пластиковая банка 1 шт",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002004027",
+        "nameUZ": "Принтер учун кукун T1 samsung ml 1210 t1 100 гр., пластик банка 1 дона",
+        "nameLAT": "Printer uchun kukun T1 samsung ml 1210 t1 100 gr., plastik banka 1 dona",
+        "nameRU": "Тонер для принтера T1 samsung ml 1210 t1 100 гр., пластиковая банка 1 шт",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002006013",
+        "nameUZ": "Принтер учун кукун Бабочка samsung ml 1210 бабочка, пластик банка 100 гр.",
+        "nameLAT": "Printer uchun kukun Бабочка samsung ml 1210 babochka, plastik banka 100 gr.",
+        "nameRU": "Тонер для принтера Бабочка samsung ml 1210 бабочка, пластиковая банка 100 гр.",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002002009",
+        "nameUZ": "Принтер учун кукун Gamma hp lj prom102 gamma, пластик банка 60 гр.",
+        "nameLAT": "Printer uchun kukun Gamma hp lj prom102 gamma, plastik banka 60 gr.",
+        "nameRU": "Тонер для принтера Gamma hp lj prom102 gamma, пластиковая банка 60 гр.",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002007006",
+        "nameUZ": "Принтер учун кукун Black Premium hp laser jet q2612a black premium 100 гр., пластик банка 1 дона",
+        "nameLAT": "Printer uchun kukun Black Premium hp laser jet q2612a black premium 100 gr., plastik banka 1 dona",
+        "nameRU": "Тонер для принтера Black Premium hp laser jet q2612a black premium 100 гр., пластиковая банка 1 шт",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002001020",
+        "nameUZ": "Принтер учун кукун Black hp laser jet 1100 black 130 гр., пластик банка 1 дона",
+        "nameLAT": "Printer uchun kukun Black hp laser jet 1100 black 130 gr., plastik banka 1 dona",
+        "nameRU": "Тонер для принтера Black hp laser jet 1100 black 130 гр., пластиковая банка 1 шт",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002003026",
+        "nameUZ": "Принтер учун кукун i-Toner hp laser jet p1005 i-toner, пластик банка 60 гр.",
+        "nameLAT": "Printer uchun kukun i-Toner hp laser jet p1005 i-toner, plastik banka 60 gr.",
+        "nameRU": "Тонер для принтера i-Toner hp laser jet p1005 i-toner, пластиковая банка 60 гр.",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002004021",
+        "nameUZ": "Принтер учун кукун T1 hp laser jet p1005 t1 65 гр., пластик банка 1 дона",
+        "nameLAT": "Printer uchun kukun T1 hp laser jet p1005 t1 65 gr., plastik banka 1 dona",
+        "nameRU": "Тонер для принтера T1 hp laser jet p1005 t1 65 гр., пластиковая банка 1 шт",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002003012",
+        "nameUZ": "Принтер учун кукун i-Toner samsung ml 1660 i-toner, пластик бланка 80 гр.",
+        "nameLAT": "Printer uchun kukun i-Toner samsung ml 1660 i-toner, plastik blanka 80 gr.",
+        "nameRU": "Тонер для принтера i-Toner samsung ml 1660 i-toner, пластиковая бланка 80 гр.",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002003024",
+        "nameUZ": "Принтер учун кукун i-Toner hp laser jet 1010 i-toner, пластик бланка 110 гр.",
+        "nameLAT": "Printer uchun kukun i-Toner hp laser jet 1010 i-toner, plastik blanka 110 gr.",
+        "nameRU": "Тонер для принтера i-Toner hp laser jet 1010 i-toner, пластиковая бланка 110 гр.",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002006025",
+        "nameUZ": "Принтер учун кукун Бабочка hp laser jet 1010 бабочка, пластик банка 85 гр.",
+        "nameLAT": "Printer uchun kukun Бабочка hp laser jet 1010 babochka, plastik banka 85 gr.",
+        "nameRU": "Тонер для принтера Бабочка hp laser jet 1010 бабочка, пластиковая банка 85 гр.",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002002005",
+        "nameUZ": "Принтер учун кукун Gamma hp laser jet p1005 gamma, пластик банка 65 гр.",
+        "nameLAT": "Printer uchun kukun Gamma hp laser jet p1005 gamma, plastik banka 65 gr.",
+        "nameRU": "Тонер для принтера Gamma hp laser jet p1005 gamma, пластиковая банка 65 гр.",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002006031",
+        "nameUZ": "Принтер учун кукун Бабочка hp laser jet 1010 бабочка ultra, пластик банка 100 гр.",
+        "nameLAT": "Printer uchun kukun Бабочка hp laser jet 1010 babochka ultra, plastik banka 100 gr.",
+        "nameRU": "Тонер для принтера Бабочка hp laser jet 1010 бабочка ultra, пластиковая банка 100 гр.",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002004008",
+        "nameUZ": "Принтер учун кукун T1 hp laser jet 1010 t1 100 гр., пластик банка 1 дона",
+        "nameLAT": "Printer uchun kukun T1 hp laser jet 1010 t1 100 gr., plastik banka 1 dona",
+        "nameRU": "Тонер для принтера T1 hp laser jet 1010 t1 100 гр., пластиковая банка 1 шт",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002002002",
+        "nameUZ": "Принтер учун кукун Gamma hp laser jet 1100 gamma, пластик банка 130 гр.",
+        "nameLAT": "Printer uchun kukun Gamma hp laser jet 1100 gamma, plastik banka 130 gr.",
+        "nameRU": "Тонер для принтера Gamma hp laser jet 1100 gamma, пластиковая банка 130 гр.",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002002006",
+        "nameUZ": "Принтер учун кукун Gamma hp lj prom102 gamma, пластик банка  100 гр.",
+        "nameLAT": "Printer uchun kukun Gamma hp lj prom102 gamma, plastik banka  100 gr.",
+        "nameRU": "Тонер для принтера Gamma hp lj prom102 gamma, пластиковая банка  100 гр.",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002003016",
+        "nameUZ": "Принтер учун кукун i-Toner kyocera km-04 i-toner, пластик бланка 500 гр.",
+        "nameLAT": "Printer uchun kukun i-Toner kyocera km-04 i-toner, plastik blanka 500 gr.",
+        "nameRU": "Тонер для принтера i-Toner kyocera km-04 i-toner, пластиковая бланка 500 гр.",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002003029",
+        "nameUZ": "Принтер учун кукун i-Toner hp laser jet p1005 i-toner, пластик банка 65 гр.",
+        "nameLAT": "Printer uchun kukun i-Toner hp laser jet p1005 i-toner, plastik banka 65 gr.",
+        "nameRU": "Тонер для принтера i-Toner hp laser jet p1005 i-toner, пластиковая банка 65 гр.",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002004016",
+        "nameUZ": "Принтер учун кукун T1 hp laser jet 1200 t1 140 гр., пластик банка 1 дона",
+        "nameLAT": "Printer uchun kukun T1 hp laser jet 1200 t1 140 gr., plastik banka 1 dona",
+        "nameRU": "Тонер для принтера T1 hp laser jet 1200 t1 140 гр., пластиковая банка 1 шт",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03706001001000000",
+        "nameUZ": "Кинопленка, кўрсатилган ва ишлаб чиқилган (соундтрак билан ёки соундтраcксиз)",
+        "nameLAT": "Kinoplenka, ko’rsatilgan va ishlab chiqilgan (soundtrak bilan yoki soundtracksiz)",
+        "nameRU": "Кинопленка, экспонированная и проявленная (со звуковой дорожкой или без звуковой дорожки)",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002003013",
+        "nameUZ": "Принтер учун кукун i-Toner samsung ml 1660 i-toner, пластик бланка 65 гр.",
+        "nameLAT": "Printer uchun kukun i-Toner samsung ml 1660 i-toner, plastik blanka 65 gr.",
+        "nameRU": "Тонер для принтера i-Toner samsung ml 1660 i-toner, пластиковая бланка 65 гр.",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002001008",
+        "nameUZ": "Принтер учун кукун Black hp clj 1215 black, пластик банка 120 г",
+        "nameLAT": "Printer uchun kukun Black hp clj 1215 black, plastik banka 120 g",
+        "nameRU": "Тонер для принтера Black hp clj 1215 black, пластиковая банка 120 г",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002006029",
+        "nameUZ": "Принтер учун кукун Бабочка hp laser jet p1005 бабочка, пластик банка 65 гр.",
+        "nameLAT": "Printer uchun kukun Бабочка hp laser jet p1005 babochka, plastik banka 65 gr.",
+        "nameRU": "Тонер для принтера Бабочка hp laser jet p1005 бабочка, пластиковая банка 65 гр.",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002003004",
+        "nameUZ": "Принтер учун кукун i-Toner samsung ml-1210 i-toner, пластик банка 80 гр.",
+        "nameLAT": "Printer uchun kukun i-Toner samsung ml-1210 i-toner, plastik banka 80 gr.",
+        "nameRU": "Тонер для принтера i-Toner samsung ml-1210 i-toner, пластиковая банка 80 гр.",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03701001003000000",
+        "nameUZ": "Термографик плёнка",
+        "nameLAT": "Termografik plyonka",
+        "nameRU": "Термографическая пленка",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002005028",
+        "nameUZ": "Принтер учун кукун T2 hp laser jet p1005 t2, пластик банка 120 гр.",
+        "nameLAT": "Printer uchun kukun T2 hp laser jet p1005 t2, plastik banka 120 gr.",
+        "nameRU": "Тонер для принтера T2 hp laser jet p1005 t2, пластиковая банка 120 гр.",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002003038",
+        "nameUZ": "Принтер учун кукун i-Toner hp laser jet p1005 i-toner ultra, пластик банка 65 гр.",
+        "nameLAT": "Printer uchun kukun i-Toner hp laser jet p1005 i-toner ultra, plastik banka 65 gr.",
+        "nameRU": "Тонер для принтера i-Toner hp laser jet p1005 i-toner ultra, пластиковая банка 65 гр.",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002006002",
+        "nameUZ": "Принтер учун кукун Бабочка hp laser jet 1100 бабочка, пластик банка 140 гр.",
+        "nameLAT": "Printer uchun kukun Бабочка hp laser jet 1100 babochka, plastik banka 140 gr.",
+        "nameRU": "Тонер для принтера Бабочка hp laser jet 1100 бабочка, пластиковая банка 140 гр.",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002001019",
+        "nameUZ": "Принтер учун кукун Black hp laser jet 1010 black 90 гр., пластик банка 1 дона",
+        "nameLAT": "Printer uchun kukun Black hp laser jet 1010 black 90 gr., plastik banka 1 dona",
+        "nameRU": "Тонер для принтера Black hp laser jet 1010 black 90 гр., пластиковая банка 1 шт",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002001022",
+        "nameUZ": "Принтер учун кукун Black hp laser jet 4000/5000 black 400 гр., пластик банка 1 дона",
+        "nameLAT": "Printer uchun kukun Black hp laser jet 4000/5000 black 400 gr., plastik banka 1 dona",
+        "nameRU": "Тонер для принтера Black hp laser jet 4000/5000 black 400 гр., пластиковая банка 1 шт",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002004018",
+        "nameUZ": "Принтер учун кукун T1 hp laser jet p1005 t1 100 гр., пластик банка 1 дона",
+        "nameLAT": "Printer uchun kukun T1 hp laser jet p1005 t1 100 gr., plastik banka 1 dona",
+        "nameRU": "Тонер для принтера T1 hp laser jet p1005 t1 100 гр., пластиковая банка 1 шт",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002001030",
+        "nameUZ": "Принтер учун кукун Black hp laser jet р1005 black 65 гр., пластик банка 1 дона",
+        "nameLAT": "Printer uchun kukun Black hp laser jet r1005 black 65 gr., plastik banka 1 dona",
+        "nameRU": "Тонер для принтера Black hp laser jet р1005 black 65 гр., пластиковая банка 1 шт",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002003022",
+        "nameUZ": "Принтер учун кукун i-Toner hp laser jet 1100 i-toner, пластик бланка 130 гр.",
+        "nameLAT": "Printer uchun kukun i-Toner hp laser jet 1100 i-toner, plastik blanka 130 gr.",
+        "nameRU": "Тонер для принтера i-Toner hp laser jet 1100 i-toner, пластиковая бланка 130 гр.",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002006010",
+        "nameUZ": "Принтер учун кукун Бабочка samsung ml 1660 бабочка, пластик банка 100 гр.",
+        "nameLAT": "Printer uchun kukun Бабочка samsung ml 1660 babochka, plastik banka 100 gr.",
+        "nameRU": "Тонер для принтера Бабочка samsung ml 1660 бабочка, пластиковая банка 100 гр.",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002003002",
+        "nameUZ": "Принтер учун кукун i-Toner canon ir 2520 i-toner, пластик банка 700 гр",
+        "nameLAT": "Printer uchun kukun i-Toner canon ir 2520 i-toner, plastik banka 700 gr",
+        "nameRU": "Тонер для принтера i-Toner canon ir 2520 i-toner, пластиковая банка 700 гр",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002006024",
+        "nameUZ": "Принтер учун кукун Бабочка hp laser jet 1010 бабочка, пластик банка 90 гр.",
+        "nameLAT": "Printer uchun kukun Бабочка hp laser jet 1010 babochka, plastik banka 90 gr.",
+        "nameRU": "Тонер для принтера Бабочка hp laser jet 1010 бабочка, пластиковая банка 90 гр.",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002004031",
+        "nameUZ": "Принтер учун кукун T1 samsung ml 1710 t1 100 гр., пластик банка 1 дона",
+        "nameLAT": "Printer uchun kukun T1 samsung ml 1710 t1 100 gr., plastik banka 1 dona",
+        "nameRU": "Тонер для принтера T1 samsung ml 1710 t1 100 гр., пластиковая банка 1 шт",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002005024",
+        "nameUZ": "Принтер учун кукун T2 hp laser jet 1010 t2, пластик банка 120 гр.",
+        "nameLAT": "Printer uchun kukun T2 hp laser jet 1010 t2, plastik banka 120 gr.",
+        "nameRU": "Тонер для принтера T2 hp laser jet 1010 t2, пластиковая банка 120 гр.",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002001010",
+        "nameUZ": "Принтер учун кукун Black hp clj 1215 cyan, пластик банка 45 г",
+        "nameLAT": "Printer uchun kukun Black hp clj 1215 cyan, plastik banka 45 g",
+        "nameRU": "Тонер для принтера Black hp clj 1215 cyan, пластиковая банка 45 г",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002001026",
+        "nameUZ": "Принтер учун кукун Black hp laser jet р1005 black 100 гр., пластик банка 1 дона",
+        "nameLAT": "Printer uchun kukun Black hp laser jet r1005 black 100 gr., plastik banka 1 dona",
+        "nameRU": "Тонер для принтера Black hp laser jet р1005 black 100 гр., пластиковая банка 1 шт",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002003031",
+        "nameUZ": "Принтер учун кукун i-Toner hp laser jet p1005 i-toner, пластик банка 100 г",
+        "nameLAT": "Printer uchun kukun i-Toner hp laser jet p1005 i-toner, plastik banka 100 g",
+        "nameRU": "Тонер для принтера i-Toner hp laser jet p1005 i-toner, пластиковая банка 100 г",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002004011",
+        "nameUZ": "Принтер учун кукун T1 hp laser jet 1010 t1 85 гр., пластик банка 1 дона",
+        "nameLAT": "Printer uchun kukun T1 hp laser jet 1010 t1 85 gr., plastik banka 1 dona",
+        "nameRU": "Тонер для принтера T1 hp laser jet 1010 t1 85 гр., пластиковая банка 1 шт",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002004019",
+        "nameUZ": "Принтер учун кукун T1 hp laser jet p1005 t1 110 гр., пластик банка 1 дона",
+        "nameLAT": "Printer uchun kukun T1 hp laser jet p1005 t1 110 gr., plastik banka 1 dona",
+        "nameRU": "Тонер для принтера T1 hp laser jet p1005 t1 110 гр., пластиковая банка 1 шт",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002001009",
+        "nameUZ": "Принтер учун кукун Black hp clj 1215 black, пластик банка 45 г",
+        "nameLAT": "Printer uchun kukun Black hp clj 1215 black, plastik banka 45 g",
+        "nameRU": "Тонер для принтера Black hp clj 1215 black, пластиковая банка 45 г",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002006038",
+        "nameUZ": "Принтер учун кукун Бабочка hp laser jet p1010 бабочка text, пластик банка 90 гр.",
+        "nameLAT": "Printer uchun kukun Бабочка hp laser jet p1010 babochka text, plastik banka 90 gr.",
+        "nameRU": "Тонер для принтера Бабочка hp laser jet p1010 бабочка text, пластиковая банка 90 гр.",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002003020",
+        "nameUZ": "Принтер учун кукун i-Toner hp laser jet 1200 i-toner, пластик бланка 130 гр.",
+        "nameLAT": "Printer uchun kukun i-Toner hp laser jet 1200 i-toner, plastik blanka 130 gr.",
+        "nameRU": "Тонер для принтера i-Toner hp laser jet 1200 i-toner, пластиковая бланка 130 гр.",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002003040",
+        "nameUZ": "Принтер учун кукун i-Toner hp laser jet p1005 i-toner ultra, пластик бланка 100 гр.",
+        "nameLAT": "Printer uchun kukun i-Toner hp laser jet p1005 i-toner ultra, plastik blanka 100 gr.",
+        "nameRU": "Тонер для принтера i-Toner hp laser jet p1005 i-toner ultra, пластиковая бланка 100 гр.",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002006008",
+        "nameUZ": "Принтер учун кукун Бабочка samsung ml 2160 бабочка, пластик банка 80 гр.",
+        "nameLAT": "Printer uchun kukun Бабочка samsung ml 2160 babochka, plastik banka 80 gr.",
+        "nameRU": "Тонер для принтера Бабочка samsung ml 2160 бабочка, пластиковая банка 80 гр.",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002003007",
+        "nameUZ": "Принтер учун кукун i-Toner kyosera km-1620 i-toner, пластик бланка 75 гр.",
+        "nameLAT": "Printer uchun kukun i-Toner kyosera km-1620 i-toner, plastik blanka 75 gr.",
+        "nameRU": "Тонер для принтера i-Toner kyosera km-1620 i-toner, пластиковая бланка 75 гр.",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002001015",
+        "nameUZ": "Принтер учун кукун Black hp laser jet 1010 black 100 гр., пластик банка 1 дона",
+        "nameLAT": "Printer uchun kukun Black hp laser jet 1010 black 100 gr., plastik banka 1 dona",
+        "nameRU": "Тонер для принтера Black hp laser jet 1010 black 100 гр., пластиковая банка 1 шт",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002004012",
+        "nameUZ": "Принтер учун кукун T1 hp laser jet 1010 t1 90 гр., пластик банка 1 дона",
+        "nameLAT": "Printer uchun kukun T1 hp laser jet 1010 t1 90 gr., plastik banka 1 dona",
+        "nameRU": "Тонер для принтера T1 hp laser jet 1010 t1 90 гр., пластиковая банка 1 шт",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002004013",
+        "nameUZ": "Принтер учун кукун T1 hp laser jet 1100 t1 130 гр., пластик банка 1 дона",
+        "nameLAT": "Printer uchun kukun T1 hp laser jet 1100 t1 130 gr., plastik banka 1 dona",
+        "nameRU": "Тонер для принтера T1 hp laser jet 1100 t1 130 гр., пластиковая банка 1 шт",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002003019",
+        "nameUZ": "Принтер учун кукун i-Toner hp laser jet 1200 i-toner, пластик бланка 140 гр.",
+        "nameLAT": "Printer uchun kukun i-Toner hp laser jet 1200 i-toner, plastik blanka 140 gr.",
+        "nameRU": "Тонер для принтера i-Toner hp laser jet 1200 i-toner, пластиковая бланка 140 гр.",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002004036",
+        "nameUZ": "Принтер учун кукун T1 принтер учун модель hp laser jet p1005 t1 60 гр., пластик банка 1 дона",
+        "nameLAT": "Printer uchun kukun T1 printer uchun model hp laser jet p1005 t1 60 gr., plastik banka 1 dona",
+        "nameRU": "Тонер для принтера T1 для принтера модель hp laser jet p1005 t1 60 гр., пластиковая банка 1 шт",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002003035",
+        "nameUZ": "Принтер учун кукун i-Toner hp laser jet 1010 i-toner ultra, пластик банка 110 гр.",
+        "nameLAT": "Printer uchun kukun i-Toner hp laser jet 1010 i-toner ultra, plastik banka 110 gr.",
+        "nameRU": "Тонер для принтера i-Toner hp laser jet 1010 i-toner ultra, пластиковая банка 110 гр.",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002002003",
+        "nameUZ": "Принтер учун кукун Gamma hp laser jet 1010 gamma, пластик банка 100 гр.",
+        "nameLAT": "Printer uchun kukun Gamma hp laser jet 1010 gamma, plastik banka 100 gr.",
+        "nameRU": "Тонер для принтера Gamma hp laser jet 1010 gamma, пластиковая банка 100 гр.",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002003003",
+        "nameUZ": "Принтер учун кукун i-Toner canon ir 2016 i-toner, пластик банка 360 гр.",
+        "nameLAT": "Printer uchun kukun i-Toner canon ir 2016 i-toner, plastik banka 360 gr.",
+        "nameRU": "Тонер для принтера i-Toner canon ir 2016 i-toner, пластиковая банка 360 гр.",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002001005",
+        "nameUZ": "Принтер учун кукун Black samsung ml 1710 black, пластик банка 100 гр.",
+        "nameLAT": "Printer uchun kukun Black samsung ml 1710 black, plastik banka 100 gr.",
+        "nameRU": "Тонер для принтера Black samsung ml 1710 black, пластиковая банка 100 гр.",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002001012",
+        "nameUZ": "Принтер учун кукун Black canon ir 2016 black 380 гр., пластик банка 1 дона",
+        "nameLAT": "Printer uchun kukun Black canon ir 2016 black 380 gr., plastik banka 1 dona",
+        "nameRU": "Тонер для принтера Black canon ir 2016 black 380 гр., пластиковая банка 1 шт",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002007003",
+        "nameUZ": "Принтер учун кукун Black Premium hp laser jet cf226a black premium 100 гр., пластик банка 1 дона",
+        "nameLAT": "Printer uchun kukun Black Premium hp laser jet cf226a black premium 100 gr., plastik banka 1 dona",
+        "nameRU": "Тонер для принтера Black Premium hp laser jet cf226a black premium 100 гр., пластиковая банка 1 шт",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002004029",
+        "nameUZ": "Принтер учун кукун T1 samsung ml 1660 t1 65 гр., пластик банка 1 дона",
+        "nameLAT": "Printer uchun kukun T1 samsung ml 1660 t1 65 gr., plastik banka 1 dona",
+        "nameRU": "Тонер для принтера T1 samsung ml 1660 t1 65 гр., пластиковая банка 1 шт",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002005029",
+        "nameUZ": "Принтер учун кукун T2 hp laser jet p1005 t2, пластик банка 110 гр.",
+        "nameLAT": "Printer uchun kukun T2 hp laser jet p1005 t2, plastik banka 110 gr.",
+        "nameRU": "Тонер для принтера T2 hp laser jet p1005 t2, пластиковая банка 110 гр.",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002006033",
+        "nameUZ": "Принтер учун кукун Бабочка hp laser jet p1005 бабочка ultra, пластик банка 70 гр.",
+        "nameLAT": "Printer uchun kukun Бабочка hp laser jet p1005 babochka ultra, plastik banka 70 gr.",
+        "nameRU": "Тонер для принтера Бабочка hp laser jet p1005 бабочка ultra, пластиковая банка 70 гр.",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002003021",
+        "nameUZ": "Принтер учун кукун i-Toner hp laser jet 1100 i-toner, пластик бланка 140 гр.",
+        "nameLAT": "Printer uchun kukun i-Toner hp laser jet 1100 i-toner, plastik blanka 140 gr.",
+        "nameRU": "Тонер для принтера i-Toner hp laser jet 1100 i-toner, пластиковая бланка 140 гр.",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002001001",
+        "nameUZ": "Принтер учун кукун Black hp clj 1215 magenta, пластик банка 45 г",
+        "nameLAT": "Printer uchun kukun Black hp clj 1215 magenta, plastik banka 45 g",
+        "nameRU": "Тонер для принтера Black hp clj 1215 magenta, пластиковая банка 45 г",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001002001017",
+        "nameUZ": "Принтер учун кукун Black hp laser jet 1010 black 120 гр., пластик банка 1 дона",
+        "nameLAT": "Printer uchun kukun Black hp laser jet 1010 black 120 gr., plastik banka 1 dona",
+        "nameRU": "Тонер для принтера Black hp laser jet 1010 black 120 гр., пластиковая банка 1 шт",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03707001010000000",
+        "nameUZ": "Сенсибилизацияланган эмулсиялар",
+        "nameLAT": "Sensibilizatsiyalangan emulsiyalar",
+        "nameRU": "Эмульсии сенсибилизированные",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03701001999000011",
+        "nameUZ": "Бошқа фотопластинкалар ва плёнкалар Радиографик плёнкали варақ, қоғоз варақлари билан ажратилган 100 варақдан иборат пакет, сезгирлик класси C3, ўлчамлари 100х240 мм",
+        "nameLAT": "Boshqa fotoplastinkalar va plyonkalar Radiografik plyonkali varaq, qog'oz varaqlari bilan ajratilgan 100 varaqdan iborat paket, sezgirlik klassi C3, o'lchamlari 100x240 mm",
+        "nameRU": "Прочие фотопластинки и фотопленки Пленка радиографическая листовая, упаковка 100 листов, разделенных листами бумаги, класс чувствительности С3, размеры 100х240 мм",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03701001999000012",
+        "nameUZ": "Бошқа фотопластинкалар ва плёнкалар Радиографик плёнкали варақ, қоғоз варақлари билан ажратилган 100 варақдан иборат пакет, сезгирлик класси C4, ўлчамлари 100х240 мм",
+        "nameLAT": "Boshqa fotoplastinkalar va plyonkalar Radiografik plyonkali varaq, qog'oz varaqlari bilan ajratilgan 100 varaqdan iborat paket, sezgirlik klassi C4, o'lchamlari 100x240 mm",
+        "nameRU": "Прочие фотопластинки и фотопленки Пленка радиографическая листовая, упаковка 100 листов, разделенных листами бумаги, класс чувствительности С4, размеры 100х240 мм",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03701001999000022",
+        "nameUZ": "Бошқа фотопластинкалар ва плёнкалар Радиографик плёнкали варақ, қоғоз варақлари билан ажратилган 100 варақдан иборат пакет, сезгирлик класси C5, ўлчамлари 150х400 мм",
+        "nameLAT": "Boshqa fotoplastinkalar va plyonkalar Radiografik plyonkali varaq, qog'oz varaqlari bilan ajratilgan 100 varaqdan iborat paket, sezgirlik klassi C5, o'lchamlari 150x400 mm",
+        "nameRU": "Прочие фотопластинки и фотопленки Пленка радиографическая листовая, упаковка 100 листов, разделенных листами бумаги, класс чувствительности С5, размеры 150х400 мм",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03701001999000033",
+        "nameUZ": "Бошқа фотопластинкалар ва плёнкалар Радиографик плёнка плёнкаси, 100 варақдан иборат, қўрғошин екранлари билан ажратилган ва ёруғликка чидамли пластик конвертларда вакуум билан муҳрланган, сезгирлик класси C3, ўлчамлари 60х240 мм",
+        "nameLAT": "Boshqa fotoplastinkalar va plyonkalar Radiografik plyonka plyonkasi, 100 varaqdan iborat, qo'rg'oshin ekranlari bilan ajratilgan va yorug'likka chidamli plastik konvertlarda vakuum bilan muhrlangan, sezgirlik klassi C3, o'lchamlari 60x240 mm",
+        "nameRU": "Прочие фотопластинки и фотопленки Пленка радиографическая листовая, упаковка 100 листов, разделенных свинцовыми экранами и запаянных вакуумным способом в светонепроницаемые пластиковые конверты, класс чувствительности С3, размеры 60х240 мм",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03701001999000045",
+        "nameUZ": "Бошқа фотопластинкалар ва плёнкалар Радиографик плёнка плёнкаси, 100 варақдан иборат, қўрғошин екранлари билан ажратилган ва ёруғликка чидамли пластик конвертларда вакуум билан муҳрланган, сезгирлик класси C5, ўлчамлари 100х400 мм",
+        "nameLAT": "Boshqa fotoplastinkalar va plyonkalar Radiografik plyonka plyonkasi, 100 varaqdan iborat, qo'rg'oshin ekranlari bilan ajratilgan va yorug'likka chidamli plastik konvertlarda vakuum bilan muhrlangan, sezgirlik klassi C5, o'lchamlari 100x400 mm",
+        "nameRU": "Прочие фотопластинки и фотопленки Пленка радиографическая листовая, упаковка 100 листов, разделенных свинцовыми экранами и запаянных вакуумным способом в светонепроницаемые пластиковые конверты, класс чувствительности С5, размеры 100х400 мм",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03701001999000013",
+        "nameUZ": "Бошқа фотопластинкалар ва плёнкалар Радиографик плёнкали варақ, қоғоз варақлари билан ажратилган 100 варақдан иборат пакет, сезгирлик класси C5, ўлчамлари 100х240 мм",
+        "nameLAT": "Boshqa fotoplastinkalar va plyonkalar Radiografik plyonkali varaq, qog'oz varaqlari bilan ajratilgan 100 varaqdan iborat paket, sezgirlik klassi C5, o'lchamlari 100x240 mm",
+        "nameRU": "Прочие фотопластинки и фотопленки Пленка радиографическая листовая, упаковка 100 листов, разделенных листами бумаги, класс чувствительности С5, размеры 100х240 мм",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03701001999000023",
+        "nameUZ": "Бошқа фотопластинкалар ва плёнкалар Радиографик плёнкали варақ, қоғоз варақлари билан ажратилган 100 варақдан иборат пакет, сезгирлик класси C3, ўлчамлари 180х240 мм",
+        "nameLAT": "Boshqa fotoplastinkalar va plyonkalar Radiografik plyonkali varaq, qog'oz varaqlari bilan ajratilgan 100 varaqdan iborat paket, sezgirlik klassi C3, o'lchamlari 180x240 mm",
+        "nameRU": "Прочие фотопластинки и фотопленки Пленка радиографическая листовая, упаковка 100 листов, разделенных листами бумаги, класс чувствительности С3, размеры 180х240 мм",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03701001999000034",
+        "nameUZ": "Бошқа фотопластинкалар ва плёнкалар Радиографик плёнка плёнкаси, қўрғошин екранлари билан ажратилган ва ёруғликка чидамли пластик конвертларда вакуум билан ёпилган 100 варақдан иборат, сезгирлик класси C4, ўлчамлари 60х240 мм",
+        "nameLAT": "Boshqa fotoplastinkalar va plyonkalar Radiografik plyonka plyonkasi, qo'rg'oshin ekranlari bilan ajratilgan va yorug'likka chidamli plastik konvertlarda vakuum bilan yopilgan 100 varaqdan iborat, sezgirlik klassi C4, o'lchamlari 60x240 mm",
+        "nameRU": "Прочие фотопластинки и фотопленки Пленка радиографическая листовая, упаковка 100 листов, разделенных свинцовыми экранами и запаянных вакуумным способом в светонепроницаемые пластиковые конверты, класс чувствительности С4, размеры 60х240 мм",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03701001999000046",
+        "nameUZ": "Бошқа фотопластинкалар ва плёнкалар Радиографик плёнка плёнкаси, 100 варақдан иборат, қўрғошин екранлари билан ажратилган ва ёруғликка чидамли пластик конвертларда вакуум билан муҳрланган, сезгирлик класси C3, ўлчамлари 100х480 мм",
+        "nameLAT": "Boshqa fotoplastinkalar va plyonkalar Radiografik plyonka plyonkasi, 100 varaqdan iborat, qo'rg'oshin ekranlari bilan ajratilgan va yorug'likka chidamli plastik konvertlarda vakuum bilan muhrlangan, sezgirlik klassi C3, o'lchamlari 100x480 mm",
+        "nameRU": "Прочие фотопластинки и фотопленки Пленка радиографическая листовая, упаковка 100 листов, разделенных свинцовыми экранами и запаянных вакуумным способом в светонепроницаемые пластиковые конверты, класс чувствительности С3, размеры 100х480 мм",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03701001999000014",
+        "nameUZ": "Бошқа фотопластинкалар ва плёнкалар Радиографик плёнкали варақ, қоғоз варақлари билан ажратилган 100 варақдан иборат пакет, сезгирлик класси C3, ўлчамлари 100х400 мм",
+        "nameLAT": "Boshqa fotoplastinkalar va plyonkalar Radiografik plyonkali varaq, qog'oz varaqlari bilan ajratilgan 100 varaqdan iborat paket, sezgirlik klassi C3, o'lchamlari 100x400 mm",
+        "nameRU": "Прочие фотопластинки и фотопленки Пленка радиографическая листовая, упаковка 100 листов, разделенных листами бумаги, класс чувствительности С3, размеры 100х400 мм",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03701001999000024",
+        "nameUZ": "Бошқа фотопластинкалар ва плёнкалар Радиографик плёнкали варақ, қоғоз варақлари билан ажратилган 100 варақдан иборат пакет, сезгирлик класси C5, ўлчамлари 180х240 мм",
+        "nameLAT": "Boshqa fotoplastinkalar va plyonkalar Radiografik plyonkali varaq, qog'oz varaqlari bilan ajratilgan 100 varaqdan iborat paket, sezgirlik klassi C5, o'lchamlari 180x240 mm",
+        "nameRU": "Прочие фотопластинки и фотопленки Пленка радиографическая листовая, упаковка 100 листов, разделенных листами бумаги, класс чувствительности С5, размеры 180х240 мм",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03701001999000035",
+        "nameUZ": "Бошқа фотопластинкалар ва плёнкалар Радиографик плёнка плёнкаси, 100 варақдан иборат, қўрғошин екранлари билан ажратилган ва ёруғликка чидамли пластик конвертларда вакуум билан муҳрланган, сезгирлик класси C5, ўлчамлари 60х240 мм",
+        "nameLAT": "Boshqa fotoplastinkalar va plyonkalar Radiografik plyonka plyonkasi, 100 varaqdan iborat, qo'rg'oshin ekranlari bilan ajratilgan va yorug'likka chidamli plastik konvertlarda vakuum bilan muhrlangan, sezgirlik klassi C5, o'lchamlari 60x240 mm",
+        "nameRU": "Прочие фотопластинки и фотопленки Пленка радиографическая листовая, упаковка 100 листов, разделенных свинцовыми экранами и запаянных вакуумным способом в светонепроницаемые пластиковые конверты, класс чувствительности С5, размеры 60х240 мм",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03701001999000047",
+        "nameUZ": "Бошқа фотопластинкалар ва плёнкалар Радиографик плёнка плёнкаси, 100 варақдан иборат, қўрғошин екранлари билан ажратилган ва ёруғликка чидамли пластик конвертларда вакуум билан муҳрланган, сезгирлик класси C4, ўлчамлари 100х480 мм",
+        "nameLAT": "Boshqa fotoplastinkalar va plyonkalar Radiografik plyonka plyonkasi, 100 varaqdan iborat, qo'rg'oshin ekranlari bilan ajratilgan va yorug'likka chidamli plastik konvertlarda vakuum bilan muhrlangan, sezgirlik klassi C4, o'lchamlari 100x480 mm",
+        "nameRU": "Прочие фотопластинки и фотопленки Пленка радиографическая листовая, упаковка 100 листов, разделенных свинцовыми экранами и запаянных вакуумным способом в светонепроницаемые пластиковые конверты, класс чувствительности С4, размеры 100х480 мм",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03701001999000015",
+        "nameUZ": "Бошқа фотопластинкалар ва плёнкалар Радиографик плёнкали варақ, қоғоз варақлари билан ажратилган 100 варақдан иборат пакет, сезгирлик класси C4, ўлчамлари 100х400 мм",
+        "nameLAT": "Boshqa fotoplastinkalar va plyonkalar Radiografik plyonkali varaq, qog'oz varaqlari bilan ajratilgan 100 varaqdan iborat paket, sezgirlik klassi C4, o'lchamlari 100x400 mm",
+        "nameRU": "Прочие фотопластинки и фотопленки Пленка радиографическая листовая, упаковка 100 листов, разделенных листами бумаги, класс чувствительности С4, размеры 100х400 мм",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03701001999000025",
+        "nameUZ": "Бошқа фотопластинкалар ва плёнкалар Радиографик плёнкали варақ, қоғоз варақлари билан ажратилган 100 варақдан иборат пакет, сезгирлик класси C3, ўлчамлари 240х300 мм",
+        "nameLAT": "Boshqa fotoplastinkalar va plyonkalar Radiografik plyonkali varaq, qog'oz varaqlari bilan ajratilgan 100 varaqdan iborat paket, sezgirlik klassi C3, o'lchamlari 240x300 mm",
+        "nameRU": "Прочие фотопластинки и фотопленки Пленка радиографическая листовая, упаковка 100 листов, разделенных листами бумаги, класс чувствительности С3, размеры 240х300 мм",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03701001999000036",
+        "nameUZ": "Бошқа фотопластинкалар ва плёнкалар Радиографик плёнка плёнкаси, 100 варақдан иборат, қўрғошин екранлари билан ажратилган ва ёруғликка чидамли пластик конвертларда вакуум билан муҳрланган, сезгирлик класси C5, ўлчамлари 60х400 мм",
+        "nameLAT": "Boshqa fotoplastinkalar va plyonkalar Radiografik plyonka plyonkasi, 100 varaqdan iborat, qo'rg'oshin ekranlari bilan ajratilgan va yorug'likka chidamli plastik konvertlarda vakuum bilan muhrlangan, sezgirlik klassi C5, o'lchamlari 60x400 mm",
+        "nameRU": "Прочие фотопластинки и фотопленки Пленка радиографическая листовая, упаковка 100 листов, разделенных свинцовыми экранами и запаянных вакуумным способом в светонепроницаемые пластиковые конверты, класс чувствительности С5, размеры 60х400 мм",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03701001999000048",
+        "nameUZ": "Бошқа фотопластинкалар ва плёнкалар Радиографик плёнка плёнкаси, қўрғошин екранлари билан ажратилган ва ёруғликка чидамли пластик конвертларда вакуум билан ёпилган 100 варақдан иборат плёнка, сезгирлик класси C5, ўлчамлари 100х480 мм",
+        "nameLAT": "Boshqa fotoplastinkalar va plyonkalar Radiografik plyonka plyonkasi, qo'rg'oshin ekranlari bilan ajratilgan va yorug'likka chidamli plastik konvertlarda vakuum bilan yopilgan 100 varaqdan iborat plyonka, sezgirlik klassi C5, o'lchamlari 100x480 mm",
+        "nameRU": "Прочие фотопластинки и фотопленки Пленка радиографическая листовая, упаковка 100 листов, разделенных свинцовыми экранами и запаянных вакуумным способом в светонепроницаемые пластиковые конверты, класс чувствительности С5, размеры 100х480 мм",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03701001999000016",
+        "nameUZ": "Бошқа фотопластинкалар ва плёнкалар Радиографик плёнкали варақ, қоғоз варақлари билан ажратилган 100 варақдан иборат пакет, сезгирлик класси C5, ўлчамлари 100х400 мм",
+        "nameLAT": "Boshqa fotoplastinkalar va plyonkalar Radiografik plyonkali varaq, qog'oz varaqlari bilan ajratilgan 100 varaqdan iborat paket, sezgirlik klassi C5, o'lchamlari 100x400 mm",
+        "nameRU": "Прочие фотопластинки и фотопленки Пленка радиографическая листовая, упаковка 100 листов, разделенных листами бумаги, класс чувствительности С5, размеры 100х400 мм",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03701001999000026",
+        "nameUZ": "Бошқа фотопластинкалар ва плёнкалар Радиографик плёнкали варақ, қоғоз варақлари билан ажратилган 100 варақдан иборат пакет, сезгирлик класси C5, ўлчамлари 240х300 мм",
+        "nameLAT": "Boshqa fotoplastinkalar va plyonkalar Radiografik plyonkali varaq, qog'oz varaqlari bilan ajratilgan 100 varaqdan iborat paket, sezgirlik klassi C5, o'lchamlari 240x300 mm",
+        "nameRU": "Прочие фотопластинки и фотопленки Пленка радиографическая листовая, упаковка 100 листов, разделенных листами бумаги, класс чувствительности С5, размеры 240х300 мм",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03701001999000037",
+        "nameUZ": "Бошқа фотопластинкалар ва плёнкалар Радиографик плёнка плёнкаси, 100 варақдан иборат, қўрғошин екранлари билан ажратилган ва ёруғликка чидамли пластик конвертларда вакуум билан муҳрланган, сезгирлик класси C3, ўлчамлари 60х480 мм",
+        "nameLAT": "Boshqa fotoplastinkalar va plyonkalar Radiografik plyonka plyonkasi, 100 varaqdan iborat, qo'rg'oshin ekranlari bilan ajratilgan va yorug'likka chidamli plastik konvertlarda vakuum bilan muhrlangan, sezgirlik klassi C3, o'lchamlari 60x480 mm",
+        "nameRU": "Прочие фотопластинки и фотопленки Пленка радиографическая листовая, упаковка 100 листов, разделенных свинцовыми экранами и запаянных вакуумным способом в светонепроницаемые пластиковые конверты, класс чувствительности С3, размеры 60х480 мм",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03701001999000049",
+        "nameUZ": "Бошқа фотопластинкалар ва плёнкалар Радиографик плёнка плёнкаси, қўрғошин екранлари билан ажратилган ва ёруғликка чидамли пластик конвертларда вакуум билан ёпилган, 100 варақдан иборат тўплам, сезгирлик класси C3, ўлчамлари 300х400 мм",
+        "nameLAT": "Boshqa fotoplastinkalar va plyonkalar Radiografik plyonka plyonkasi, qo'rg'oshin ekranlari bilan ajratilgan va yorug'likka chidamli plastik konvertlarda vakuum bilan yopilgan, 100 varaqdan iborat to'plam, sezgirlik klassi C3, o'lchamlari 300x400 mm",
+        "nameRU": "Прочие фотопластинки и фотопленки Пленка радиографическая листовая, упаковка 100 листов, разделенных свинцовыми экранами и запаянных вакуумным способом в светонепроницаемые пластиковые конверты, класс чувствительности С3, размеры 300х400 мм",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03701001999000017",
+        "nameUZ": "Бошқа фотопластинкалар ва плёнкалар Радиографик плёнкали варақ, қоғоз варақлари билан ажратилган 100 варақдан иборат пакет, сезгирлик класси C1, ўлчамлари 100х480 мм",
+        "nameLAT": "Boshqa fotoplastinkalar va plyonkalar Radiografik plyonkali varaq, qog'oz varaqlari bilan ajratilgan 100 varaqdan iborat paket, sezgirlik klassi C1, o'lchamlari 100x480 mm",
+        "nameRU": "Прочие фотопластинки и фотопленки Пленка радиографическая листовая, упаковка 100 листов, разделенных листами бумаги, класс чувствительности С1, размеры 100х480 мм",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03701001999000027",
+        "nameUZ": "Бошқа фотопластинкалар ва плёнкалар Радиографик плёнкали варақ, қоғоз варақлари билан ажратилган 100 та варақдан иборат, сезгирлик класси C1, ўлчамлари 300х400 мм",
+        "nameLAT": "Boshqa fotoplastinkalar va plyonkalar Radiografik plyonkali varaq, qog'oz varaqlari bilan ajratilgan 100 ta varaqdan iborat, sezgirlik klassi C1, o'lchamlari 300x400 mm",
+        "nameRU": "Прочие фотопластинки и фотопленки Пленка радиографическая листовая, упаковка 100 листов, разделенных листами бумаги, класс чувствительности С1, размеры 300х400 мм",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03701001999000038",
+        "nameUZ": "Бошқа фотопластинкалар ва плёнкалар Радиографик плёнка плёнкаси, 100 варақдан иборат, қўрғошин екранлари билан ажратилган ва ёруғликка чидамли пластик конвертларда вакуум билан муҳрланган, сезгирлик класси C5, ўлчамлари 60х480 мм",
+        "nameLAT": "Boshqa fotoplastinkalar va plyonkalar Radiografik plyonka plyonkasi, 100 varaqdan iborat, qo'rg'oshin ekranlari bilan ajratilgan va yorug'likka chidamli plastik konvertlarda vakuum bilan muhrlangan, sezgirlik klassi C5, o'lchamlari 60x480 mm",
+        "nameRU": "Прочие фотопластинки и фотопленки Пленка радиографическая листовая, упаковка 100 листов, разделенных свинцовыми экранами и запаянных вакуумным способом в светонепроницаемые пластиковые конверты, класс чувствительности С5, размеры 60х480 мм",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03701001999000050",
+        "nameUZ": "Бошқа фотопластинкалар ва плёнкалар Радиографик плёнка плёнкаси, 100 варақдан иборат, қўрғошин екранлари билан ажратилган ва ёруғликка чидамли пластик конвертларда вакуум билан муҳрланган, сезгирлик синфи C4, ўлчамлари 300х400 мм",
+        "nameLAT": "Boshqa fotoplastinkalar va plyonkalar Radiografik plyonka plyonkasi, 100 varaqdan iborat, qo'rg'oshin ekranlari bilan ajratilgan va yorug'likka chidamli plastik konvertlarda vakuum bilan muhrlangan, sezgirlik sinfi C4, o'lchamlari 300x400 mm",
+        "nameRU": "Прочие фотопластинки и фотопленки Пленка радиографическая листовая, упаковка 100 листов, разделенных свинцовыми экранами и запаянных вакуумным способом в светонепроницаемые пластиковые конверты, класс чувствительности С4, размеры 300х400 мм",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03701001999000001",
+        "nameUZ": "Бошқа фотопластинкалар ва плёнкалар Радиографик плёнкали варақ, ажратилмаган 100 варақдан иборат пакет, сезгирлик класси C3, ўлчамлари 240х300 мм",
+        "nameLAT": "Boshqa fotoplastinkalar va plyonkalar Radiografik plyonkali varaq, ajratilmagan 100 varaqdan iborat paket, sezgirlik klassi C3, o'lchamlari 240x300 mm",
+        "nameRU": "Прочие фотопластинки и фотопленки Пленка радиографическая листовая, упаковка 100 листов без разделения, класс чувствительности С3, размеры 240х300 мм",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03701001999000018",
+        "nameUZ": "Бошқа фотопластинкалар ва плёнкалар Радиографик плёнкали варақ, қоғоз варақлари билан ажратилган 100 варақдан иборат пакет, сезгирлик класси C3, ўлчамлари 100х480 мм",
+        "nameLAT": "Boshqa fotoplastinkalar va plyonkalar Radiografik plyonkali varaq, qog'oz varaqlari bilan ajratilgan 100 varaqdan iborat paket, sezgirlik klassi C3, o'lchamlari 100x480 mm",
+        "nameRU": "Прочие фотопластинки и фотопленки Пленка радиографическая листовая, упаковка 100 листов, разделенных листами бумаги, класс чувствительности С3, размеры 100х480 мм",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03701001999000028",
+        "nameUZ": "Бошқа фотопластинкалар ва плёнкалар Радиографик плёнкали варақ, қоғоз варақлари билан ажратилган 100 варақдан иборат пакет, сезгирлик класси C2, ўлчамлари 300х400 мм",
+        "nameLAT": "Boshqa fotoplastinkalar va plyonkalar Radiografik plyonkali varaq, qog'oz varaqlari bilan ajratilgan 100 varaqdan iborat paket, sezgirlik klassi C2, o'lchamlari 300x400 mm",
+        "nameRU": "Прочие фотопластинки и фотопленки Пленка радиографическая листовая, упаковка 100 листов, разделенных листами бумаги, класс чувствительности С2, размеры 300х400 мм",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03701001999000039",
+        "nameUZ": "Бошқа фотопластинкалар ва плёнкалар Радиографик плёнка плёнкаси, қўрғошин екранлар билан ажратилган ва ёруғликка чидамли пластик конвертларда вакуум билан ёпилган, 100 варақдан иборат тўплам, сезгирлик класси C3, ўлчамлари 90х120 мм",
+        "nameLAT": "Boshqa fotoplastinkalar va plyonkalar Radiografik plyonka plyonkasi, qo'rg'oshin ekranlar bilan ajratilgan va yorug'likka chidamli plastik konvertlarda vakuum bilan yopilgan, 100 varaqdan iborat to'plam, sezgirlik klassi C3, o'lchamlari 90x120 mm",
+        "nameRU": "Прочие фотопластинки и фотопленки Пленка радиографическая листовая, упаковка 100 листов, разделенных свинцовыми экранами и запаянных вакуумным способом в светонепроницаемые пластиковые конверты, класс чувствительности С3, размеры 90х120 мм",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03701001999000051",
+        "nameUZ": "Бошқа фотопластинкалар ва плёнкалар Радиографик плёнка плёнкаси, 100 варақдан иборат, қўрғошин екранлари билан ажратилган ва ёруғликка чидамли пластик конвертларда вакуум билан муҳрланган, сезгирлик класси C5, ўлчамлари 300х400 мм",
+        "nameLAT": "Boshqa fotoplastinkalar va plyonkalar Radiografik plyonka plyonkasi, 100 varaqdan iborat, qo'rg'oshin ekranlari bilan ajratilgan va yorug'likka chidamli plastik konvertlarda vakuum bilan muhrlangan, sezgirlik klassi C5, o'lchamlari 300x400 mm",
+        "nameRU": "Прочие фотопластинки и фотопленки Пленка радиографическая листовая, упаковка 100 листов, разделенных свинцовыми экранами и запаянных вакуумным способом в светонепроницаемые пластиковые конверты, класс чувствительности С5, размеры 300х400 мм",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03701001999000002",
+        "nameUZ": "Бошқа фотопластинкалар ва плёнкалар Радиографик плёнкали варақ, ажратилмаган 100 варақдан иборат пакет, сезгирлик класси C4, ўлчамлари 240х300 мм",
+        "nameLAT": "Boshqa fotoplastinkalar va plyonkalar Radiografik plyonkali varaq, ajratilmagan 100 varaqdan iborat paket, sezgirlik klassi C4, o'lchamlari 240x300 mm",
+        "nameRU": "Прочие фотопластинки и фотопленки Пленка радиографическая листовая, упаковка 100 листов без разделения, класс чувствительности С4, размеры 240х300 мм",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03701001999000019",
+        "nameUZ": "Бошқа фотопластинкалар ва плёнкалар Радиографик плёнкали варақ, қоғоз варақлари билан ажратилган 100 варақдан иборат пакет, сезгирлик класси C4, ўлчамлари 100х480 мм",
+        "nameLAT": "Boshqa fotoplastinkalar va plyonkalar Radiografik plyonkali varaq, qog'oz varaqlari bilan ajratilgan 100 varaqdan iborat paket, sezgirlik klassi C4, o'lchamlari 100x480 mm",
+        "nameRU": "Прочие фотопластинки и фотопленки Пленка радиографическая листовая, упаковка 100 листов, разделенных листами бумаги, класс чувствительности С4, размеры 100х480 мм",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03701001999000029",
+        "nameUZ": "Бошқа фотопластинкалар ва плёнкалар Радиографик плёнкали варақ, қоғоз варақлари билан ажратилган 100 варақдан иборат пакет, сезгирлик класси C3, ўлчамлари 300х400 мм",
+        "nameLAT": "Boshqa fotoplastinkalar va plyonkalar Radiografik plyonkali varaq, qog'oz varaqlari bilan ajratilgan 100 varaqdan iborat paket, sezgirlik klassi C3, o'lchamlari 300x400 mm",
+        "nameRU": "Прочие фотопластинки и фотопленки Пленка радиографическая листовая, упаковка 100 листов, разделенных листами бумаги, класс чувствительности С3, размеры 300х400 мм",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03701001999000040",
+        "nameUZ": "Бошқа фотопластинкалар ва плёнкалар Радиографик плёнка плёнкаси, 100 варақдан иборат, қўрғошин екранлари билан ажратилган ва ёруғликка чидамли пластик конвертларда вакуум билан муҳрланган, сезгирлик класси C5, ўлчамлари 90х120 мм",
+        "nameLAT": "Boshqa fotoplastinkalar va plyonkalar Radiografik plyonka plyonkasi, 100 varaqdan iborat, qo'rg'oshin ekranlari bilan ajratilgan va yorug'likka chidamli plastik konvertlarda vakuum bilan muhrlangan, sezgirlik klassi C5, o'lchamlari 90x120 mm",
+        "nameRU": "Прочие фотопластинки и фотопленки Пленка радиографическая листовая, упаковка 100 листов, разделенных свинцовыми экранами и запаянных вакуумным способом в светонепроницаемые пластиковые конверты, класс чувствительности С5, размеры 90х120 мм",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03701001999000052",
+        "nameUZ": "Бошқа фотопластинкалар ва плёнкалар Радиографик плёнкали варақ, ёруғлик ўтказмайдиган конвертларда қўрғошин екранлари билан ажратилган 100 варақдан иборат, иплар билан очилган, сезгирлик класси C5, ўлчамлари 100х720 мм",
+        "nameLAT": "Boshqa fotoplastinkalar va plyonkalar Radiografik plyonkali varaq, yorug'lik o'tkazmaydigan konvertlarda qo'rg'oshin ekranlari bilan ajratilgan 100 varaqdan iborat, iplar bilan ochilgan, sezgirlik klassi C5, o'lchamlari 100x720 mm",
+        "nameRU": "Прочие фотопластинки и фотопленки Пленка радиографическая листовая, упаковка 100 листов, разделенных свинцовыми экранами в светонепроницаемых конвертах, вскрываемых с помощью ниток, класс чувствительности С5, размеры 100х720 мм",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03701001999000003",
+        "nameUZ": "Бошқа фотопластинкалар ва плёнкалар Радиографик плёнкали варақ, ажратилмаган 100 варақдан иборат пакет, сезгирлик класси C5, ўлчамлари 240х300 мм",
+        "nameLAT": "Boshqa fotoplastinkalar va plyonkalar Radiografik plyonkali varaq, ajratilmagan 100 varaqdan iborat paket, sezgirlik klassi C5, o'lchamlari 240x300 mm",
+        "nameRU": "Прочие фотопластинки и фотопленки Пленка радиографическая листовая, упаковка 100 листов без разделения, класс чувствительности С5, размеры 240х300 мм",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03701001999000020",
+        "nameUZ": "Бошқа фотопластинкалар ва плёнкалар Радиографик плёнкали варақ, қоғоз варақлари билан ажратилган 100 варақдан иборат пакет, сезгирлик класси C5, ўлчамлари 100х480 мм",
+        "nameLAT": "Boshqa fotoplastinkalar va plyonkalar Radiografik plyonkali varaq, qog'oz varaqlari bilan ajratilgan 100 varaqdan iborat paket, sezgirlik klassi C5, o'lchamlari 100x480 mm",
+        "nameRU": "Прочие фотопластинки и фотопленки Пленка радиографическая листовая, упаковка 100 листов, разделенных листами бумаги, класс чувствительности С5, размеры 100х480 мм",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03701001999000030",
+        "nameUZ": "Бошқа фотопластинкалар ва плёнкалар Радиографик плёнкали варақ, қоғоз варақлари билан ажратилган 100 варақдан иборат пакет, сезгирлик класси C4, ўлчамлари 300х400 мм",
+        "nameLAT": "Boshqa fotoplastinkalar va plyonkalar Radiografik plyonkali varaq, qog'oz varaqlari bilan ajratilgan 100 varaqdan iborat paket, sezgirlik klassi C4, o'lchamlari 300x400 mm",
+        "nameRU": "Прочие фотопластинки и фотопленки Пленка радиографическая листовая, упаковка 100 листов, разделенных листами бумаги, класс чувствительности С4, размеры 300х400 мм",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03701001999000041",
+        "nameUZ": "Бошқа фотопластинкалар ва плёнкалар Радиографик плёнка плёнкаси, 100 варақдан иборат, қўрғошин екранлари билан ажратилган ва ёруғликка чидамли пластик конвертларда вакуум билан муҳрланган, сезгирлик класси C3, ўлчамлари 100х240 мм",
+        "nameLAT": "Boshqa fotoplastinkalar va plyonkalar Radiografik plyonka plyonkasi, 100 varaqdan iborat, qo'rg'oshin ekranlari bilan ajratilgan va yorug'likka chidamli plastik konvertlarda vakuum bilan muhrlangan, sezgirlik klassi C3, o'lchamlari 100x240 mm",
+        "nameRU": "Прочие фотопластинки и фотопленки Пленка радиографическая листовая, упаковка 100 листов, разделенных свинцовыми экранами и запаянных вакуумным способом в светонепроницаемые пластиковые конверты, класс чувствительности С3, размеры 100х240 мм",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03701001999000053",
+        "nameUZ": "Бошқа фотопластинкалар ва плёнкалар Иплар билан очилган ёруғлик ўтказмайдиган конвертларда қўрғошин екранлари билан ажратилган 100 варақдан иборат рентгенографик плёнка варақлари, сезгирлик синфи C5, ўлчамлари 150х400 мм",
+        "nameLAT": "Boshqa fotoplastinkalar va plyonkalar Iplar bilan ochilgan yorug'lik o'tkazmaydigan konvertlarda qo'rg'oshin ekranlari bilan ajratilgan 100 varaqdan iborat rentgenografik plyonka varaqlari, sezgirlik sinfi C5, o'lchamlari 150x400 mm",
+        "nameRU": "Прочие фотопластинки и фотопленки Пленка радиографическая листовая, упаковка 100 листов, разделенных свинцовыми экранами в светонепроницаемых конвертах, вскрываемых с помощью ниток, класс чувствительности С5, размеры 150х400 мм",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03701001999000004",
+        "nameUZ": "Бошқа фотопластинкалар ва плёнкалар Радиографик плёнкали варақ, ажратилмаган 100 варақдан иборат пакет, сезгирлик класси C3, ўлчамлари 300х400 мм",
+        "nameLAT": "Boshqa fotoplastinkalar va plyonkalar Radiografik plyonkali varaq, ajratilmagan 100 varaqdan iborat paket, sezgirlik klassi C3, o'lchamlari 300x400 mm",
+        "nameRU": "Прочие фотопластинки и фотопленки Пленка радиографическая листовая, упаковка 100 листов без разделения, класс чувствительности С3, размеры 300х400 мм",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03701001999000021",
+        "nameUZ": "Бошқа фотопластинкалар ва плёнкалар Радиографик плёнкали варақ, қоғоз варақлари билан ажратилган 100 варақдан иборат пакет, сезгирлик класси C3, ўлчамлари 150х400 мм",
+        "nameLAT": "Boshqa fotoplastinkalar va plyonkalar Radiografik plyonkali varaq, qog'oz varaqlari bilan ajratilgan 100 varaqdan iborat paket, sezgirlik klassi C3, o'lchamlari 150x400 mm",
+        "nameRU": "Прочие фотопластинки и фотопленки Пленка радиографическая листовая, упаковка 100 листов, разделенных листами бумаги, класс чувствительности С3, размеры 150х400 мм",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03701001999000031",
+        "nameUZ": "Бошқа фотопластинкалар ва плёнкалар Радиографик плёнкали варақ, қоғоз варақлари билан ажратилган 100 варақдан иборат пакет, сезгирлик класси C5, ўлчамлари 300х400 мм",
+        "nameLAT": "Boshqa fotoplastinkalar va plyonkalar Radiografik plyonkali varaq, qog'oz varaqlari bilan ajratilgan 100 varaqdan iborat paket, sezgirlik klassi C5, o'lchamlari 300x400 mm",
+        "nameRU": "Прочие фотопластинки и фотопленки Пленка радиографическая листовая, упаковка 100 листов, разделенных листами бумаги, класс чувствительности С5, размеры 300х400 мм",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03701001999000042",
+        "nameUZ": "Бошқа фотопластинкалар ва плёнкалар Радиографик плёнка плёнкаси, қўрғошин екранлари билан ажратилган ва ёруғликка чидамли пластик конвертларда вакуум билан ёпилган 100 варақдан иборат, сезгирлик класси C4, ўлчамлари 100х240 мм",
+        "nameLAT": "Boshqa fotoplastinkalar va plyonkalar Radiografik plyonka plyonkasi, qo'rg'oshin ekranlari bilan ajratilgan va yorug'likka chidamli plastik konvertlarda vakuum bilan yopilgan 100 varaqdan iborat, sezgirlik klassi C4, o'lchamlari 100x240 mm",
+        "nameRU": "Прочие фотопластинки и фотопленки Пленка радиографическая листовая, упаковка 100 листов, разделенных свинцовыми экранами и запаянных вакуумным способом в светонепроницаемые пластиковые конверты, класс чувствительности С4, размеры 100х240 мм",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03701001999000054",
+        "nameUZ": "Бошқа фотопластинкалар ва плёнкалар Иплар билан очилган ёруғлик ўтказмайдиган конвертларда қўрғошин екранлари билан ажратилган 100 варақдан иборат рентгенографик плёнка варақлари, сезгирлик класси C5, ўлчамлари 180х240 мм",
+        "nameLAT": "Boshqa fotoplastinkalar va plyonkalar Iplar bilan ochilgan yorug'lik o'tkazmaydigan konvertlarda qo'rg'oshin ekranlari bilan ajratilgan 100 varaqdan iborat rentgenografik plyonka varaqlari, sezgirlik klassi C5, o'lchamlari 180x240 mm",
+        "nameRU": "Прочие фотопластинки и фотопленки Пленка радиографическая листовая, упаковка 100 листов, разделенных свинцовыми экранами в светонепроницаемых конвертах, вскрываемых с помощью ниток, класс чувствительности С5, размеры 180х240 мм",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03701001999000005",
+        "nameUZ": "Бошқа фотопластинкалар ва плёнкалар Радиографик плёнкали варақ, ажратилмаган 100 варақдан иборат пакет, сезгирлик класси C4, ўлчамлари 300х400 мм",
+        "nameLAT": "Boshqa fotoplastinkalar va plyonkalar Radiografik plyonkali varaq, ajratilmagan 100 varaqdan iborat paket, sezgirlik klassi C4, o'lchamlari 300x400 mm",
+        "nameRU": "Прочие фотопластинки и фотопленки Пленка радиографическая листовая, упаковка 100 листов без разделения, класс чувствительности С4, размеры 300х400 мм",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03701001999000032",
+        "nameUZ": "Бошқа фотопластинкалар ва плёнкалар Радиографик плёнкали варақ, қоғоз варақлари билан ажратилган 100 варақдан иборат пакет, сезгирлик класси C6, ўлчамлари 300х400 мм",
+        "nameLAT": "Boshqa fotoplastinkalar va plyonkalar Radiografik plyonkali varaq, qog'oz varaqlari bilan ajratilgan 100 varaqdan iborat paket, sezgirlik klassi C6, o'lchamlari 300x400 mm",
+        "nameRU": "Прочие фотопластинки и фотопленки Пленка радиографическая листовая, упаковка 100 листов, разделенных листами бумаги, класс чувствительности С6, размеры 300х400 мм",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03701001999000043",
+        "nameUZ": "Бошқа фотопластинкалар ва плёнкалар Радиографик плёнка плёнкаси, 100 варақдан иборат, қўрғошин екранлари билан ажратилган ва ёруғликка чидамли пластик конвертларда вакуум билан муҳрланган, сезгирлик класси C5, ўлчамлари 100х240 мм",
+        "nameLAT": "Boshqa fotoplastinkalar va plyonkalar Radiografik plyonka plyonkasi, 100 varaqdan iborat, qo'rg'oshin ekranlari bilan ajratilgan va yorug'likka chidamli plastik konvertlarda vakuum bilan muhrlangan, sezgirlik klassi C5, o'lchamlari 100x240 mm",
+        "nameRU": "Прочие фотопластинки и фотопленки Пленка радиографическая листовая, упаковка 100 листов, разделенных свинцовыми экранами и запаянных вакуумным способом в светонепроницаемые пластиковые конверты, класс чувствительности С5, размеры 100х240 мм",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03701001999000055",
+        "nameUZ": "Бошқа фотопластинкалар ва плёнкалар Радиографик плёнкали варақ, ёруғлик ўтказмайдиган конвертларда қўрғошин екранлари билан ажратилган 100 варақдан иборат, иплар билан очилган, сезгирлик синфи C5, ўлчамлари 240х300 мм",
+        "nameLAT": "Boshqa fotoplastinkalar va plyonkalar Radiografik plyonkali varaq, yorug'lik o'tkazmaydigan konvertlarda qo'rg'oshin ekranlari bilan ajratilgan 100 varaqdan iborat, iplar bilan ochilgan, sezgirlik sinfi C5, o'lchamlari 240x300 mm",
+        "nameRU": "Прочие фотопластинки и фотопленки Пленка радиографическая листовая, упаковка 100 листов, разделенных свинцовыми экранами в светонепроницаемых конвертах, вскрываемых с помощью ниток, класс чувствительности С5, размеры 240х300 мм",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03701001999000006",
+        "nameUZ": "Бошқа фотопластинкалар ва плёнкалар Радиографик плёнкали варақ, ажратилмаган 100 варақдан иборат пакет, сезгирлик класси C5, ўлчамлари 300х400 мм",
+        "nameLAT": "Boshqa fotoplastinkalar va plyonkalar Radiografik plyonkali varaq, ajratilmagan 100 varaqdan iborat paket, sezgirlik klassi C5, o'lchamlari 300x400 mm",
+        "nameRU": "Прочие фотопластинки и фотопленки Пленка радиографическая листовая, упаковка 100 листов без разделения, класс чувствительности С5, размеры 300х400 мм",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03701001999000044",
+        "nameUZ": "Бошқа фотопластинкалар ва плёнкалар Радиографик плёнка плёнкаси, 100 варақдан иборат, қўрғошин екранлари билан ажратилган ва ёруғликка чидамли пластик конвертларда вакуумли муҳрланган, сезгирлик класси C3, ўлчамлари 100х400 мм",
+        "nameLAT": "Boshqa fotoplastinkalar va plyonkalar Radiografik plyonka plyonkasi, 100 varaqdan iborat, qo'rg'oshin ekranlari bilan ajratilgan va yorug'likka chidamli plastik konvertlarda vakuumli muhrlangan, sezgirlik klassi C3, o'lchamlari 100x400 mm",
+        "nameRU": "Прочие фотопластинки и фотопленки Пленка радиографическая листовая, упаковка 100 листов, разделенных свинцовыми экранами и запаянных вакуумным способом в светонепроницаемые пластиковые конверты, класс чувствительности С3, размеры 100х400 мм",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03701001999000007",
+        "nameUZ": "Бошқа фотопластинкалар ва плёнкалар Радиографик плёнкали варақ, ажратилмаган 100 варақдан иборат пакет, сезгирлик класси C6, ўлчамлари 300х400 мм",
+        "nameLAT": "Boshqa fotoplastinkalar va plyonkalar Radiografik plyonkali varaq, ajratilmagan 100 varaqdan iborat paket, sezgirlik klassi C6, o'lchamlari 300x400 mm",
+        "nameRU": "Прочие фотопластинки и фотопленки Пленка радиографическая листовая, упаковка 100 листов без разделения, класс чувствительности С6, размеры 300х400 мм",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03701001999000008",
+        "nameUZ": "Бошқа фотопластинкалар ва плёнкалар Радиографик плёнкали варақ, ажратилмаган 100 варақдан иборат, флоресан кучайтирувчи екран билан ишлатиш учун, ўлчамлари 300х400 мм",
+        "nameLAT": "Boshqa fotoplastinkalar va plyonkalar Radiografik plyonkali varaq, ajratilmagan 100 varaqdan iborat, floresan kuchaytiruvchi ekran bilan ishlatish uchun, o'lchamlari 300x400 mm",
+        "nameRU": "Прочие фотопластинки и фотопленки Пленка радиографическая листовая, упаковка 100 листов без разделения, для применения с флуоресцентным усиливающим экраном, размеры 300х400 мм",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03701001999000009",
+        "nameUZ": "Бошқа фотопластинкалар ва плёнкалар Радиографик плёнкали варақ, қоғоз варақлари билан ажратилган 100 варақдан иборат пакет, сезгирлик класси C5, ўлчамлари 60х240 мм",
+        "nameLAT": "Boshqa fotoplastinkalar va plyonkalar Radiografik plyonkali varaq, qog'oz varaqlari bilan ajratilgan 100 varaqdan iborat paket, sezgirlik klassi C5, o'lchamlari 60x240 mm",
+        "nameRU": "Прочие фотопластинки и фотопленки Пленка радиографическая листовая, упаковка 100 листов, разделенных листами бумаги, класс чувствительности С5, размеры 60х240 мм",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03701001999000010",
+        "nameUZ": "Бошқа фотопластинкалар ва плёнкалар Радиографик плёнкали варақ, қоғоз варақлари билан ажратилган 100 варақдан иборат пакет, сезгирлик класси C5, ўлчамлари 60х480 мм",
+        "nameLAT": "Boshqa fotoplastinkalar va plyonkalar Radiografik plyonkali varaq, qog'oz varaqlari bilan ajratilgan 100 varaqdan iborat paket, sezgirlik klassi C5, o'lchamlari 60x480 mm",
+        "nameRU": "Прочие фотопластинки и фотопленки Пленка радиографическая листовая, упаковка 100 листов, разделенных листами бумаги, класс чувствительности С5, размеры 60х480 мм",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03701001999000060",
+        "nameUZ": "Бошқа фотопластинкалар ва плёнкалар Радиографик плёнка рулоси, 1 та ўрам қўрғошин екрансиз, сезгирлик класси C5, кенглиги 100 мм",
+        "nameLAT": "Boshqa fotoplastinkalar va plyonkalar Radiografik plyonka rulosi, 1 ta o'ram qo'rg'oshin ekransiz, sezgirlik klassi C5, kengligi 100 mm",
+        "nameRU": "Прочие фотопластинки и фотопленки Пленка радиографическая рулонная, упаковка 1 рулон без свинцового экрана, класс чувствительности С5, ширина 100 мм",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03701001999000061",
+        "nameUZ": "Бошқа фотопластинкалар ва плёнкалар Радиографик плёнка рулоси, қўрғошин екранли 1 рулон, сезгирлик класси C3, кенглиги 35 мм",
+        "nameLAT": "Boshqa fotoplastinkalar va plyonkalar Radiografik plyonka rulosi, qo'rg'oshin ekranli 1 rulon, sezgirlik klassi C3, kengligi 35 mm",
+        "nameRU": "Прочие фотопластинки и фотопленки Пленка радиографическая рулонная, упаковка 1 рулон со свинцовыми экранами, класс чувствительности С3, ширина 35 мм",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03701001999000062",
+        "nameUZ": "Бошқа фотопластинкалар ва плёнкалар Радиографик плёнка рулоси, қўрғошин екранли 1 рулон, сезгирлик класси C3, кенглиги 60 мм",
+        "nameLAT": "Boshqa fotoplastinkalar va plyonkalar Radiografik plyonka rulosi, qo'rg'oshin ekranli 1 rulon, sezgirlik klassi C3, kengligi 60 mm",
+        "nameRU": "Прочие фотопластинки и фотопленки Пленка радиографическая рулонная, упаковка 1 рулон со свинцовыми экранами, класс чувствительности С3, ширина 60 мм",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03701001999000063",
+        "nameUZ": "Бошқа фотопластинкалар ва плёнкалар Радиографик плёнка рулоси, қўрғошин екранли 1 рулон, сезгирлик класси C5, кенглиги 60 мм",
+        "nameLAT": "Boshqa fotoplastinkalar va plyonkalar Radiografik plyonka rulosi, qo'rg'oshin ekranli 1 rulon, sezgirlik klassi C5, kengligi 60 mm",
+        "nameRU": "Прочие фотопластинки и фотопленки Пленка радиографическая рулонная, упаковка 1 рулон со свинцовыми экранами, класс чувствительности С5, ширина 60 мм",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03701001999000064",
+        "nameUZ": "Бошқа фотопластинкалар ва плёнкалар Радиографик плёнка рулоси, қўрғошин екранли 1 рулон, сезгирлик класси C3, кенглиги 70 мм",
+        "nameLAT": "Boshqa fotoplastinkalar va plyonkalar Radiografik plyonka rulosi, qo'rg'oshin ekranli 1 rulon, sezgirlik klassi C3, kengligi 70 mm",
+        "nameRU": "Прочие фотопластинки и фотопленки Пленка радиографическая рулонная, упаковка 1 рулон со свинцовыми экранами, класс чувствительности С3, ширина 70 мм",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03701001999000065",
+        "nameUZ": "Бошқа фотопластинкалар ва плёнкалар Радиографик плёнка рулоси, қўрғошин екранли 1 рулон, сезгирлик класси C5, кенглиги 70 мм",
+        "nameLAT": "Boshqa fotoplastinkalar va plyonkalar Radiografik plyonka rulosi, qo'rg'oshin ekranli 1 rulon, sezgirlik klassi C5, kengligi 70 mm",
+        "nameRU": "Прочие фотопластинки и фотопленки Пленка радиографическая рулонная, упаковка 1 рулон со свинцовыми экранами, класс чувствительности С5, ширина 70 мм",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03701001999000066",
+        "nameUZ": "Бошқа фотопластинкалар ва плёнкалар Радиографик плёнка рулоси, қўрғошин екранли 1 рулон, сезгирлик класси C3, кенглиги 100 мм",
+        "nameLAT": "Boshqa fotoplastinkalar va plyonkalar Radiografik plyonka rulosi, qo'rg'oshin ekranli 1 rulon, sezgirlik klassi C3, kengligi 100 mm",
+        "nameRU": "Прочие фотопластинки и фотопленки Пленка радиографическая рулонная, упаковка 1 рулон со свинцовыми экранами, класс чувствительности С3, ширина 100 мм",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03701001999000067",
+        "nameUZ": "Бошқа фотопластинкалар ва плёнкалар Радиографик плёнка рулоси, қўрғошин екранли 1 рулон, сезгирлик класси C5, кенглиги 100 мм",
+        "nameLAT": "Boshqa fotoplastinkalar va plyonkalar Radiografik plyonka rulosi, qo'rg'oshin ekranli 1 rulon, sezgirlik klassi C5, kengligi 100 mm",
+        "nameRU": "Прочие фотопластинки и фотопленки Пленка радиографическая рулонная, упаковка 1 рулон со свинцовыми экранами, класс чувствительности С5, ширина 100 мм",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03701001999000056",
+        "nameUZ": "Бошқа фотопластинкалар ва плёнкалар Радиографик плёнка рулоси, ўрами 1 дона қўрғошин екрансиз, сезгирлик класси C5, кенглиги 35 мм",
+        "nameLAT": "Boshqa fotoplastinkalar va plyonkalar Radiografik plyonka rulosi, o'rami 1 dona qo'rg'oshin ekransiz, sezgirlik klassi C5, kengligi 35 mm",
+        "nameRU": "Прочие фотопластинки и фотопленки Пленка радиографическая рулонная, упаковка 1 рулон без свинцового экрана, класс чувствительности С5, ширина 35 мм",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03701001999000057",
+        "nameUZ": "Бошқа фотопластинкалар ва плёнкалар Радиографик плёнка рулоси, ўрами 1 дона қўрғошин екрансиз, сезгирлик класси C3, кенглиги 70 мм",
+        "nameLAT": "Boshqa fotoplastinkalar va plyonkalar Radiografik plyonka rulosi, o'rami 1 dona qo'rg'oshin ekransiz, sezgirlik klassi C3, kengligi 70 mm",
+        "nameRU": "Прочие фотопластинки и фотопленки Пленка радиографическая рулонная, упаковка 1 рулон без свинцового экрана, класс чувствительности С3, ширина 70 мм",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03701001999000058",
+        "nameUZ": "Бошқа фотопластинкалар ва плёнкалар Радиографик плёнка рулоси, 1 та ўрам қўрғошин екрансиз, сезгирлик класси C5, кенглиги 70 мм",
+        "nameLAT": "Boshqa fotoplastinkalar va plyonkalar Radiografik plyonka rulosi, 1 ta o'ram qo'rg'oshin ekransiz, sezgirlik klassi C5, kengligi 70 mm",
+        "nameRU": "Прочие фотопластинки и фотопленки Пленка радиографическая рулонная, упаковка 1 рулон без свинцового экрана, класс чувствительности С5, ширина 70 мм",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "03701001999000059",
+        "nameUZ": "Бошқа фотопластинкалар ва плёнкалар Радиографик плёнка рулоси, ўрами 1 дона қўрғошин екрансиз, сезгирлик класси C3, кенглиги 100 мм",
+        "nameLAT": "Boshqa fotoplastinkalar va plyonkalar Radiografik plyonka rulosi, o'rami 1 dona qo'rg'oshin ekransiz, sezgirlik klassi C3, kengligi 100 mm",
+        "nameRU": "Прочие фотопластинки и фотопленки Пленка радиографическая рулонная, упаковка 1 рулон без свинцового экрана, класс чувствительности С3, ширина 100 мм",
+        "groupCODE": "037",
+        "groupNameUZ": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+        "groupNameRU": "ФОТО И КИНОТОВАРЫ",
+        "groupNameLAT": "FOTO VA KINO MAHSULOTLARI"
+      }
+    ],
+    "recordTotal": 216,
+    "errors": null,
+    "permitted": false
+  }
+}

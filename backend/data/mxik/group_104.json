@@ -1,0 +1,987 @@
+{
+  "metadata": {
+    "groupId": 104,
+    "fetchedAt": "2025-07-12T16:38:20.552Z",
+    "source": "https://tasnif.soliq.uz/api/cl-api/integration-mxik/references/group/code?group=104"
+  },
+  "data": {
+    "success": true,
+    "code": 200,
+    "reason": null,
+    "data": [
+      {
+        "mxikCode": "10408001001000000",
+        "nameUZ": "Товар хом ашё биржа бўйича хизматлар",
+        "nameLAT": "Tovar xom ashyo birja bo’yicha xizmatlar",
+        "nameRU": "Услуги товарно-сырьевой биржи",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10403003005000001",
+        "nameUZ": "Сотиб олинган векселлар бўйича фоизли даромадлар (Ҳисобварақ-40800) Сотиб олинган векселлар бўйича фоизли даромадлар (имтиёзли даромадлардан ташқари)",
+        "nameLAT": "Sotib olingan veksellar bo’yicha foizli daromadlar (Hisobvaraq-40800) Sotib olingan veksellar bo’yicha foizli daromadlar (imtiyozli daromadlardan tashqari)",
+        "nameRU": "Процентные доходы по купленным векселям (Счет-40800) Процентные доходы по купленным векселям (кроме льготных доходов)",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10499001022000000",
+        "nameUZ": "Маркетмейкер хизматлари",
+        "nameLAT": "Marketmeyker xizmatlari",
+        "nameRU": "Услуги маркетмейкера",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10403003014000001",
+        "nameUZ": "Фоизсиз даромадлар (Банк хизмати)(Ҳисобварақ-45200) имтиёзли даромадлардан ташқари",
+        "nameLAT": "Foizsiz daromadlar (Bank xizmati)(Hisobvaraq-45200)",
+        "nameRU": "Беспроцентные доходы (Банковская услуга)(Счет-45200) кроме льготных доходов",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10403003016000002",
+        "nameUZ": "Тижорат операцияларидан олинган фойда (Ҳисобварақ-45600) Қимматбаҳо металлар, тошлар ва тангалар билан тижорат операцияларидан шунингдек қимматли қоғозлар фойдаси (имтиёзли даромадлар)",
+        "nameLAT": "Tijorat operatsiyalaridan olingan foyda (Hisobvaraq-45600)",
+        "nameRU": "Прибыль от коммерческих операций (Счет-45600) Прибыль от торговых операций с драгоценными металлами, камнями и монетами а также по ценным бумагам (льготные доходы)",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10403003014000002",
+        "nameUZ": "Фоизсиз даромадлар (Банк хизмати)(Ҳисобварақ-45200) Кредит бериш бўйича воситачилик хизматлар",
+        "nameLAT": "Foizsiz daromadlar (Bank xizmati)(Hisobvaraq-45200)",
+        "nameRU": "Беспроцентные доходы (Банковская услуга)(Счет-45200) Посреднические услуги по предоставление кредита",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10403003018000001",
+        "nameUZ": "Инвестициялардан олинган фойда ва дивидендлар \n(Ҳисобварақ-45800) Инвестициялардан олинган фойда ва дивидендлар (имтиёзли даромадлардан ташқари)",
+        "nameLAT": "Investitsiyalardan olingan foyda va dividendlar \n(Hisobvaraq-45800)",
+        "nameRU": "Прибыль и дивиденды от инвестиций\n (Счет-45800) Прибыль и дивиденды от инвестиций \n(кроме льготных доходов)",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10403003016000001",
+        "nameUZ": "Тижорат операцияларидан олинган фойда (Ҳисобварақ-45600) Тижорат операцияларидан олинган фойда (имтиёзли даромадлардан ташқари)",
+        "nameLAT": "Tijorat operatsiyalaridan olingan foyda (Hisobvaraq-45600)",
+        "nameRU": "Прибыль от коммерческих операций (Счет-45600) Прибыль от коммерческих операций \n(кроме льготных доходов)",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10403003014000003",
+        "nameUZ": "Фоизсиз даромадлар (Банк хизмати)(Ҳисобварақ-45200) Форфейтинг операциялари (имтиёзли даромадлар)",
+        "nameLAT": "Foizsiz daromadlar (Bank xizmati)(Hisobvaraq-45200)",
+        "nameRU": "Беспроцентные доходы (Банковская услуга)(Счет-45200) Форфейтинговые операции (льготные доходы)",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10403003019000002",
+        "nameUZ": "Бошқа фоизсиз даромадлар (Ҳисобварақ-45900) Моддий бойликларни сақлаш бўйича хизматлар",
+        "nameLAT": "Boshqa foizsiz daromadlar (Hisobvaraq-45900)",
+        "nameRU": "Другие беспроцентные доходы (Счет-45900) Доходы от оказания услуг по хранению материальных ценностей",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10403003014000012",
+        "nameUZ": "Фоизсиз даромадлар (Банк хизмати)(Ҳисобварақ-45200) Нақд пулда мажбуриятларнинг бажарилишини таъминловчи учинчи шахсларга кафолат бериш хизмати (имтиёзли даромадлар)",
+        "nameLAT": "Foizsiz daromadlar (Bank xizmati)(Hisobvaraq-45200) Naqd pulda majburiyatlarning bajarilishini taminlovchi uchinchi shaxslarga kafolat berish xizmati (imtiyozli daromadlar)",
+        "nameRU": "Беспроцентные доходы (Банковская услуга)(Счет-45200) Услуга по выдачи поручительств за третьих лиц, предусматривающих исполнение обязательств в денежной форме (льготные доходы)",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10402001010000000",
+        "nameUZ": "Актуар хизматлари",
+        "nameLAT": "Aktuar xizmatlari",
+        "nameRU": "Актуарные услуги",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10402001011000000",
+        "nameUZ": "Ёрдам хизматлари (суғурта компаниялари ҳамкорларининг хизматлари)",
+        "nameLAT": "Yordam xizmatlari (sug’urta kompaniyalari hamkorlarining xizmatlari)",
+        "nameRU": "Ассистанс-услуги (услуги партнеров страховых компаний)",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10408005001000000",
+        "nameUZ": "Электрон онлайн аукционларни ташкил этиш ва ўтказиш бўйича хизматлар",
+        "nameLAT": "Elektron onlayn auksionlarni tashkil etish va o’tkazish bo’yicha xizmatlar",
+        "nameRU": "Услуги по организации и проведению электронных онлайн-аукционов",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10408005002000000",
+        "nameUZ": "Аукционларни ташкил этиш ва ўтказиш бўйича хизмат (электрондан ташқари)",
+        "nameLAT": "Auksionlarni tashkil etish va o’tkazish bo’yicha xizmat (elektrondan tashqari)",
+        "nameRU": "Услуги по организации и проведению аукционов (кроме электронных)",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10403003009000002",
+        "nameUZ": "Суд ёки ижро иши юритиш жараёнидаги кредитлар бўйича фоизли даромадлар (Ҳисобварақ-44700) Суд жараёнидаги кредитлар бўйича фоизли даромадлар (имтиёзли даромадлар)",
+        "nameLAT": "Sud yoki ijro ishi yuritish jarayonidagi kreditlar bo’yicha foizli daromadlar (Hisobvaraq-44700) Sud jarayonidagi kreditlar bo’yicha foizli daromadlar (imtiyozli daromadlar)",
+        "nameRU": "Процентные доходы по кредитам, находящимся в процессе судебного разбирательства (Счет-44700) Процентные доходы по кредитам, находящиеся в процессе судебного разбирательства (льготные доходы)",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10403003010000001",
+        "nameUZ": "Муддати тугагунга қадар ушлаб туриладиган қарз қимматли қоғозларига қўйилган инвестициялар бўйича фоизли даромадлар (Ҳисобварақ-44800) Муддати тугагунга қадар ушлаб туриладиган қарз қимматли қоғозларига қўйилган инвестициялар бўйича фоизли даромадлар (имтиёзли даромадлардан ташқари)",
+        "nameLAT": "Muddati tugagunga qadar ushlab turiladigan qarz qimmatli qog’ozlariga qo’yilgan investitsiyalar bo’yicha foizli daromadlar (Hisobvaraq-44800) Muddati tugagunga qadar ushlab turiladigan qarz qimmatli qog’ozlariga qo’yilgan investitsiyalar bo’yicha foizli daromadlar (imtiyozli daromadlardan tashqari)",
+        "nameRU": "Процентные доходы по инвестициям в долговые ценные бумаги, удерживаемые до погашения (Счет-44800) Процентные доходы по инвестициям в долговые ценные бумаги, удерживаемые до погашения (кроме льготных доходов)",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10401999020000000",
+        "nameUZ": "Товарларни сотиб олиш, хизматлардан фойдалангаклик учун ҳақ, шу жумладан Кэшбек (комиссия ва дилерлик ҳафидан ташқари)",
+        "nameLAT": "Tovarlarni sotib olish, xizmatlardan foydalangaklik uchun haq, shu jumladan Keshbek (komissiya va dilerlik hafidan tashqari)",
+        "nameRU": "Вознаграждение за приобретение товаров, пользование услугами (кроме комиссионного и дилерского вознаграждения) в т.ч. Кешбек",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10403003002000003",
+        "nameUZ": "Бошқа банклардаги ҳисобварақлар бўйича фоизли даромадлар (Ҳисобварақ-40400) Бошқа банклардаги депозитлар бўйича фоизли даромадлар (имтиёзли даромадлар)",
+        "nameLAT": "Boshqa banklardagi hisobvaraqlar bo’yicha foizli daromadlar (Hisobvaraq-40400) Boshqa banklardagi depozitlar bo’yicha foizli daromadlar (imtiyozli daromadlar)",
+        "nameRU": "Процентные доходы по счетам в других банках (Счет-40400) Процентные доходы по депозитам в других банках (льготные доходы)",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10403003010000002",
+        "nameUZ": "Муддати тугагунга қадар ушлаб туриладиган қарз қимматли қоғозларига қўйилган инвестициялар бўйича фоизли даромадлар (Ҳисобварақ-44800) Муддати тугагунга қадар ушлаб туриладиган қарз қимматли қоғозларига инвестициялар бўйича фоизли даромадлар (имтиёзли даромадлар)",
+        "nameLAT": "Muddati tugagunga qadar ushlab turiladigan qarz qimmatli qog’ozlariga qo’yilgan investitsiyalar bo’yicha foizli daromadlar (Hisobvaraq-44800) Muddati tugagunga qadar ushlab turiladigan qarz qimmatli qog’ozlariga investitsiyalar bo’yicha foizli daromadlar (imtiyozli daromadlar)",
+        "nameRU": "Процентные доходы по инвестициям в долговые ценные бумаги, удерживаемые до погашения (Счет-44800) Процентные доходы по инвестициям в долговые ценные бумаги, удерживаемые до погашения (льготные доходы)",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10403003012000001",
+        "nameUZ": "Қимматли қоғозлар билан амалга оширилган репо битимлари бўйича фоизли даромадлар (Ҳисобварақ-45000) Қимматли қоғозлар билан амалга оширилган репо битимлари бўйича фоизли даромадлар (имтиёзли даромадлардан ташқари)",
+        "nameLAT": "Qimmatli qog’ozlar bilan amalga oshirilgan repo bitimlari bo’yicha foizli daromadlar (Hisobvaraq-45000) Qimmatli qog’ozlar bilan amalga oshirilgan repo bitimlari bo’yicha foizli daromadlar (imtiyozli daromadlardan tashqari)",
+        "nameRU": "Процентный доход по сделкам РЕПО с ценными бумагами (Счет-45000) Процентные доходы по сделкам РЕПО с ценными бумагами (кроме льготных доходов)",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10403003002000002",
+        "nameUZ": "Бошқа банклардаги ҳисобварақлар бўйича фоизли даромадлар (Ҳисобварақ-40400) Бошқа банклардаги вакиллик ҳисобварақлар бўйича фоизли даромадлар — Ностро, Востро, овердрафт (имтиёзли даромадлар)",
+        "nameLAT": "Boshqa banklardagi hisobvaraqlar bo’yicha foizli daromadlar (Hisobvaraq-40400) Boshqa banklardagi vakillik hisobvaraqlar bo’yicha foizli daromadlar — Nostro, Vostro, overdraft (imtiyozli daromadlar)",
+        "nameRU": "Процентные доходы по счетам в других банках (Счет-40400) Процентные доходы по представительским счетам в других банках — Ностро, Востро, овердрафт (льготные доходы)",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10407001001000000",
+        "nameUZ": "Товар хом ашё биржасида брокерлик хизмати",
+        "nameLAT": "Tovar xom ashyo birjasida brokerlik xizmati",
+        "nameRU": "Брокерские услуги на товарно-сырьевой бирже",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10402001007000000",
+        "nameUZ": "Суғурта тўлови (суғурта товони)",
+        "nameLAT": "Sug’urta to’lovi (sug’urta tovoni)",
+        "nameRU": "Страховая выплата (страховое возмещение)",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10406003004000000",
+        "nameUZ": "Комиссион фаолиятдан, шу жумладан мол-мулкни молиявий жарима (лизинг)га беришдан олинадиган фоизли даромадлар",
+        "nameLAT": "Komission faoliyatdan, shu jumladan mol-mulkni moliyaviy jarima (lizing)ga berishdan olinadigan foizli daromadlar",
+        "nameRU": "Процентные доходы за комисионную деятельность, в т.ч. по предоставлению имущества в финансовую аренду (лизинг)",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10499001002000000",
+        "nameUZ": "Ломбард хизматлари",
+        "nameLAT": "Lombard xizmatlari",
+        "nameRU": "Услуги ломбардов",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10401999021000000",
+        "nameUZ": "Барча турдаги ҳуқуқларни реализация қилиш (суғурта қилдирувчининг ҳуқуқини ва интеллектуал ҳуқуқдан ташқари)",
+        "nameLAT": "Barcha turdagi huquqlarni realizatsiya qilish (sug’urta qildiruvchining huquqini va intellektual huquqdan tashqari)",
+        "nameRU": "Реализация всех видов прав (кроме интеллектуальных прав и прав страховщиков)",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10406001002000000",
+        "nameUZ": "\"P2P\"-операциялар бўйича комиссия хизматлари",
+        "nameLAT": "\"P2P\"-operatsiyalar bo’yicha komissiya xizmatlari",
+        "nameRU": "Комисионные услуги по \"P2P\"-операциям",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10407002001000000",
+        "nameUZ": "Божхона брокерлик хизматлари",
+        "nameLAT": "Bojxona brokerlik xizmatlari",
+        "nameRU": "Услуги таможенного брокера",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10403003006000002",
+        "nameUZ": "Мижозларнинг мажбуриятлари бўйича фоизли даромадлар (Ҳисобварақ-41000) Мижозларнинг мажбуриятлари бўйича фоизли даромадлари - Аккредитивлар (имтиёзли даромадлар)",
+        "nameLAT": "Mijozlarning majburiyatlari bo’yicha foizli daromadlar (Hisobvaraq-41000) Mijozlarning majburiyatlari bo’yicha foizli daromadlari - Akkreditivlar (imtiyozli daromadlar)",
+        "nameRU": "Процентные доходы по обязательствам клиентов (Счет-41000) Процентные доходы по обязательствам клиентов — Аккредитивы (льготные доходы)",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10403003001000002",
+        "nameUZ": "Марказий банкдаги ҳисобварақлар бўйича фоизли даромадлар (Ҳисобварақ-40200) МБанкдаги ҳисобварақлар бўйича фоизли даромадлар (имтиёзли даромадлар)",
+        "nameLAT": "Markaziy bankdagi hisobvaraqlar bo’yicha foizli daromadlar (Hisobvaraq-40200) MBankdagi hisobvaraqlar bo’yicha foizli daromadlar (imtiyozli daromadlar)",
+        "nameRU": "Процентные доходы по счетам в Центральный Банк (Счет-40200) Процентные доходы по счетам в ЦБ (льготные доходы)",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10403003001000001",
+        "nameUZ": "Марказий банкдаги ҳисобварақлар бўйича фоизли даромадлар (Ҳисобварақ-40200) Марказий банкдаги ҳисобварақлар шунингдек бошқа банклардаги вакиллик ҳисобварақлари бўйича фоизли даромадлар (имтиёзли даромадлардан ташқари)",
+        "nameLAT": "Markaziy bankdagi hisobvaraqlar bo’yicha foizli daromadlar (Hisobvaraq-40200) Markaziy bankdagi hisobvaraqlar shuningdek boshqa banklardagi vakillik hisobvaraqlari bo’yicha foizli daromadlar (imtiyozli daromadlardan tashqari)",
+        "nameRU": "Процентные доходы по счетам в Центральный Банк (Счет-40200) Процентные доходы по счетам в Центральный Банк а также по корсчетам в других банках (кроме льготных доходов)",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10403003011000000",
+        "nameUZ": "Бошқа фоизли даромадлар (Ҳисобварақ-44900)",
+        "nameLAT": "Boshqa foizli daromadlar (Hisobvaraq-44900)",
+        "nameRU": "Другие процентные доходы (Счет-44900)",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10403003012000002",
+        "nameUZ": "Қимматли қоғозлар билан амалга оширилган репо битимлари бўйича фоизли даромадлар (Ҳисобварақ-45000) РЕПО операциялари, шу жумладан РЕПО операциялари бўйича қимматли қоғозлар берилганлиги учун тўланиши лозим бўлган пул суммалари (имтиёзли даромадлар)",
+        "nameLAT": "Qimmatli qog’ozlar bilan amalga oshirilgan repo bitimlari bo’yicha foizli daromadlar (Hisobvaraq-45000) REPO operatsiyalari, shu jumladan REPO operatsiyalari bo’yicha qimmatli qog’ozlar berilganligi uchun to’lanishi lozim bo’lgan pul summalari (imtiyozli daromadlar)",
+        "nameRU": "Процентный доход по сделкам РЕПО с ценными бумагами (Счет-45000) Операции РЕПО, включая денежные суммы, подлежащие уплате за предоставление ценных бумаг по операциям РЕПО (льготные доходы)",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10403003002000001",
+        "nameUZ": "Бошқа банклардаги ҳисобварақлар бўйича фоизли даромадлар (Ҳисобварақ-40400) Бошқа банклардаги ҳисобварақлар бўйича фоизли даромадлар (имтиёзли даромадлардан ташқари)",
+        "nameLAT": "Boshqa banklardagi hisobvaraqlar bo’yicha foizli daromadlar (Hisobvaraq-40400) Boshqa banklardagi hisobvaraqlar bo’yicha foizli daromadlar (imtiyozli daromadlardan tashqari)",
+        "nameRU": "Процентные доходы по счетам в других банках (Счет-40400) Процентные доходы по счетам в других банках (кроме льготных доходов)",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10403003006000001",
+        "nameUZ": "Мижозларнинг мажбуриятлари бўйича фоизли даромадлар (Ҳисобварақ-41000) Мижозларнинг мажбуриятлари бўйича фоизли даромадлар (имтиёзли даромадлардан ташқари)",
+        "nameLAT": "Mijozlarning majburiyatlari bo’yicha foizli daromadlar (Hisobvaraq-41000) Mijozlarning majburiyatlari bo’yicha foizli daromadlar (imtiyozli daromadlardan tashqari)",
+        "nameRU": "Процентные доходы по обязательствам клиентов (Счет-41000) Процентные доходы по обязательствам клиентов (кроме льготных доходов)",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10403003004000002",
+        "nameUZ": "Сотиш учун мавжуд қимматли қоғозларга инвестициялар бўйича фоизли даромадлар (Ҳисобварақ-40700) Қимматли қоғозларга инвестициялар бўйича фоизли даромадлар (имтиёзли даромадлар)",
+        "nameLAT": "Sotish uchun mavjud qimmatli qog’ozlarga investitsiyalar bo’yicha foizli daromadlar (Hisobvaraq-40700) Qimmatli qog’ozlarga investitsiyalar bo’yicha foizli daromadlar (imtiyozli daromadlar)",
+        "nameRU": "Процентные доходы по инвестициям в ценные бумаги, имеющиеся в наличии для продажи (Счет-40700) Процентные доходы по инвестициям в ценные бумаги, имеющиеся в наличии для продажи бумаги (льготные доходы)",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10403003009000001",
+        "nameUZ": "Суд ёки ижро иши юритиш жараёнидаги кредитлар бўйича фоизли даромадлар (Ҳисобварақ-44700) Суд ёки ижро иши юритиш жараёнидаги кредитлар бўйича фоизли даромадлар (имтиёзли даромадлардан ташқари)",
+        "nameLAT": "Sud yoki ijro ishi yuritish jarayonidagi kreditlar bo’yicha foizli daromadlar (Hisobvaraq-44700) Sud yoki ijro ishi yuritish jarayonidagi kreditlar bo’yicha foizli daromadlar (imtiyozli daromadlardan tashqari)",
+        "nameRU": "Процентные доходы по кредитам, находящимся в процессе судебного разбирательства (Счет-44700) Процентные доходы по кредитам, находящимся в процессе судебного разбирательства (кроме льготных доходов)",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10403003013000000",
+        "nameUZ": "Фоизли даромадлар — лизинг (молиявий ижара)(Ҳисобварақ-45100)",
+        "nameLAT": "Foizli daromadlar — lizing (moliyaviy ijara)(Hisobvaraq-45100)",
+        "nameRU": "Процентный доход - лизинг (финансовая аренда) (Счет-45100)",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10403003007000000",
+        "nameUZ": "Банкнинг тўланмаган акцептлари юзасидан мижозлар мажбуриятлари бўйича фоизли даромадлар (Ҳисобварақ-41200)",
+        "nameLAT": "Bankning to’lanmagan akseptlari yuzasidan mijozlar majburiyatlari bo’yicha foizli daromadlar (Hisobvaraq-41200)",
+        "nameRU": "Процентные доходы по обязательствам клиентов по непогашенным акцептам банка (Счет-41200)",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10403003003000001",
+        "nameUZ": "Сотиб олиш ва сотиш учун қимматли қоғозлар бўйича фоиз даромадлари (Ҳисобварақ-40600) Сотиб олиш ва сотиш учун қимматли қоғозлар бўйича фоиз даромадлари (имтиёзли даромадлардан ташқари)",
+        "nameLAT": "Sotib olish va sotish uchun qimmatli qog’ozlar bo’yicha foiz daromadlari (Hisobvaraq-40600) Sotib olish va sotish uchun qimmatli qog’ozlar bo’yicha foiz daromadlari (imtiyozli daromadlardan tashqari)",
+        "nameRU": "Процентные доходы по ценным бумагам для купли и продажи (Счет-40600) Процентные доходы по ценным бумагам для купли и продажи (кроме льготных доходов)",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10403003004000001",
+        "nameUZ": "Сотиш учун мавжуд қимматли қоғозларга инвестициялар бўйича фоизли даромадлар (Ҳисобварақ-40700) Сотиш учун мавжуд қимматли қоғозларга инвестициялар бўйича фоизли даромадлар (имтиёзли даромадлардан ташқари)",
+        "nameLAT": "Sotish uchun mavjud qimmatli qog’ozlarga investitsiyalar bo’yicha foizli daromadlar (Hisobvaraq-40700) Sotish uchun mavjud qimmatli qog’ozlarga investitsiyalar bo’yicha foizli daromadlar (imtiyozli daromadlardan tashqari)",
+        "nameRU": "Процентные доходы по инвестициям в ценные бумаги, имеющиеся в наличии для продажи (Счет-40700) Процентные доходы по инвестициям в ценные бумаги, имеющиеся в наличии для продажи (кроме льготных доходов)",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10403003008000001",
+        "nameUZ": "Кредитлар бўйича фоизли даромадлар (Ҳисобварақ-41400,44600) Кредитлар бўйича фоизли даромадлар (имтиёзли даромадлардан ташқари)",
+        "nameLAT": "Kreditlar bo’yicha foizli daromadlar (Hisobvaraq-41400,44600) Kreditlar bo’yicha foizli daromadlar (imtiyozli daromadlardan tashqari)",
+        "nameRU": "Процентые доходы по кредитам (Счет-41400,44600) Процентные доходы по кредитам (кроме льготных доходов)",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10406003001000000",
+        "nameUZ": "Комиссия хизматлари ва комиссия агентлари хизматлари (шу жумладан комиссия тўловлари ва роялти), фоиз даромадларидан ташқари",
+        "nameLAT": "Komissiya xizmatlari va komissiya agentlari xizmatlari (shu jumladan komissiya to’lovlari va royalti), foiz daromadlaridan tashqari",
+        "nameRU": "Комисионные услуги и услуги комиссионеров, роялти (в т.ч. комисионное вознаграждение и роялти), кроме процентных доходов",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10402001003000000",
+        "nameUZ": "Суғурта брокерлик хизматлари (суғурта брокерларининг хизматлари ва комиссияси)",
+        "nameLAT": "Sug’urta brokerlik xizmatlari (sug’urta brokerlarining xizmatlari va komissiyasi)",
+        "nameRU": "Страховые брокерские услуги (услуги и комиссия страховых брокеров)",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10406001001000000",
+        "nameUZ": "Тўлов агенти сифатида тўлов тизимларининг комиссия хизматлари (\"P2P\"-операциялар бўйича комиссия тўловларидан ташқари)",
+        "nameLAT": "To’lov agenti sifatida to’lov tizimlarining komissiya xizmatlari (\"P2P\"-operatsiyalar bo’yicha komissiya to’lovlaridan tashqari)",
+        "nameRU": "Комисионные услуги платежных систем в качестве платежного агента (кроме комисии по \"P2P\"-операциям)",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10499001015000000",
+        "nameUZ": "Тиббий буюмларни етказиб бериш учун молиявий чегирма",
+        "nameLAT": "Tibbiy buyumlarni yetkazib berish uchun moliyaviy chegirma",
+        "nameRU": "Финансовая скидка по поставке медицинских товаров",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10403003014000006",
+        "nameUZ": "Фоизсиз даромадлар (Банк хизмати)(Ҳисобварақ-45200) Юридик ва жисмоний шахсларнинг, шу жумладан вакил банкларнинг топшириғига кўра уларнинг банк ҳисобварақлари бўйича ҳисоб-китобларни амалга ошириш хизмати (имтиёзли даромадлар)",
+        "nameLAT": "Foizsiz daromadlar (Bank xizmati)(Hisobvaraq-45200) Yuridik va jismoniy shaxslarning, shu jumladan vakil banklarning topshirig’iga ko’ra ularning bank hisobvaraqlari bo’yicha hisob-kitoblarni amalga oshirish xizmati (imtiyozli daromadlar)",
+        "nameRU": "Беспроцентные доходы (Банковская услуга)(Счет-45200) Услуга по обслуживание расчетов по поручению юридических и физических лиц, в том числе банков-корреспондентов, по их банковским счетам (льготные доходы)",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10403003014000007",
+        "nameUZ": "Фоизсиз даромадлар (Банк хизмати)(Ҳисобварақ-45200) Юридик ва жисмоний шахсларнинг пул маблағларини омонатларга жалб этиш хизмати (имтиёзли даромадлар)",
+        "nameLAT": "Foizsiz daromadlar (Bank xizmati)(Hisobvaraq-45200) Yuridik va jismoniy shaxslarning pul mablag’larini omonatlarga jalb etish xizmati (imtiyozli daromadlar)",
+        "nameRU": "Беспроцентные доходы (Банковская услуга)(Счет-45200) Услуга по привлечению денежных средств юридических и физических лиц во вклады (льготные доходы)",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10403003014000014",
+        "nameUZ": "Фоизсиз даромадлар (Банк хизмати)(Ҳисобварақ-45200) Банк хизматлари, хусусан, тўлов тизимлари, дастурлари ва ускуналари ёрдамида ҳисоб-китоблар (тўловлар) (имтиёзли даромадлар)",
+        "nameLAT": "Foizsiz daromadlar (Bank xizmati)(Hisobvaraq-45200) Bank xizmatlari, xususan, to’lov tizimlari, dasturlari va uskunalari yordamida hisob-kitoblar (to’lovlar) (imtiyozli daromadlar)",
+        "nameRU": "Беспроцентные доходы (Банковская услуга)(Счет-45200) Банковские услуги, в частности, осуществление расчетов (платежей) с использованием платежных систем, программ и оборудания (льготные доходы)",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10403003015000001",
+        "nameUZ": "Хорижий валюталардаги фойда (Ҳисобварақ-45400) Хорижий валюталардаги фойда \n(имтиёзли даромадлардан ташқари)",
+        "nameLAT": "Xorijiy valyutalardagi foyda (Hisobvaraq-45400) Xorijiy valyutalardagi foyda \n(imtiyozli daromadlardan tashqari)",
+        "nameRU": "Прибыль в иностранной валюте (Счет-45400) Прибыль в иностранной валюте (кроме льготных доходов)",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10403003014000011",
+        "nameUZ": "Фоизсиз даромадлар (Банк хизмати)(Ҳисобварақ-45200) Банк кафолатларини бажариш бўйича хизмат (имтиёзли даромадлар)",
+        "nameLAT": "Foizsiz daromadlar (Bank xizmati)(Hisobvaraq-45200) Bank kafolatlarini bajarish bo’yicha xizmat (imtiyozli daromadlar)",
+        "nameRU": "Беспроцентные доходы (Банковская услуга)(Счет-45200) Услуга по исполнению банковских гарантий (льготные доходы)",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10403003018000002",
+        "nameUZ": "Инвестициялардан олинган фойда ва дивидендлар \n(Ҳисобварақ-45800) Қимматли қоғозларни сотиш ёки тасарруф этишдан олинган даромад, шунингдек, акциядорлик капиталига инвестициялар бўйича дивидендлар кўринишидаги даромадлар (имтиёзли даромадлар)",
+        "nameLAT": "Investitsiyalardan olingan foyda va dividendlar \n(Hisobvaraq-45800) Qimmatli qog’ozlarni sotish yoki tasarruf etishdan olingan daromad, shuningdek, aksiyadorlik kapitaliga investitsiyalar bo’yicha dividendlar ko’rinishidagi daromadlar (imtiyozli daromadlar)",
+        "nameRU": "Прибыль и дивиденды от инвестиций\n (Счет-45800) Доходы от продажи или диспозиции ценных бумаг а так же доход в виде дивидендов по инвестициям собственного капитала\n(льготные доходы)",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10403003017000001",
+        "nameUZ": "Қарам хўжалик жамиятларига, биргаликдаги корхоналарга ва шўъба хўжалик жамиятларига қилинган инвестициядан олинган фойда ва дивидендлар \n(Ҳисобварақ-45700) Қарам хўжалик жамиятларига, биргаликдаги корхоналарга ва шўъба хўжалик жамиятларига қилинган инвестициядан олинган фойда ва дивидендлар (имтиёзли даромадлардан ташқари)",
+        "nameLAT": "Qaram xo’jalik jamiyatlariga, birgalikdagi korxonalarga va sho’ba xo’jalik jamiyatlariga qilingan investitsiyadan olingan foyda va dividendlar \n(Hisobvaraq-45700) Qaram xo’jalik jamiyatlariga, birgalikdagi korxonalarga va sho’ba xo’jalik jamiyatlariga qilingan investitsiyadan olingan foyda va dividendlar (imtiyozli daromadlardan tashqari)",
+        "nameRU": "Прибыль и дивиденды от инвестиций в зависимые хозяйственные общества, совместные предприятия и дочерние хозяйственные общества\n (Счет-45700) Прибыль и дивиденды от инвестиций в зависимые хозяйственные общества, совместные предприятия и дочерние хозяйственные общества (кроме льготных доходов)",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10403003013000001",
+        "nameUZ": "Фоизли даромадлар — лизинг (молиявий ижара)(Ҳисобварақ-45100) Мол-мулкни молиявий ижарага (лизингга) беришга доир хизматлар бўйича фоизли даромадлар (имтиёзли даромадлар)",
+        "nameLAT": "Foizli daromadlar — lizing (moliyaviy ijara)(Hisobvaraq-45100) Mol-mulkni moliyaviy ijaraga (lizingga) berishga doir xizmatlar bo’yicha foizli daromadlar (imtiyozli daromadlar)",
+        "nameRU": "Процентный доход - лизинг (финансовая аренда) (Счет-45100) Процентные доходы по услугам предоставления имущества в финансовую аренду (лизинг) (льготные доходы)",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10403003019000003",
+        "nameUZ": "Бошқа фоизсиз даромадлар (Ҳисобварақ-45900) Тўлов терминалларини ижарага беришдан олинган даромадлар",
+        "nameLAT": "Boshqa foizsiz daromadlar (Hisobvaraq-45900) To’lov terminallarini ijaraga berishdan olingan daromadlar",
+        "nameRU": "Другие беспроцентные доходы (Счет-45900) Доходы от аренды платежных терминалов",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10403003014000005",
+        "nameUZ": "Фоизсиз даромадлар (Банк хизмати)(Ҳисобварақ-45200) Юридик ва жисмоний шахсларнинг банк ҳисобварақларини, шу жумладан банк карталари бўйича ҳисоб-китобларни амалга ошириш учун фойдаланиладиган банк ҳисобварақларини, шунингдек, банк карталарига хизмат кўрсатиш билан боғлиқ операцияларни очиш ва юритиш хизмати (имтиёзли даромадлар)",
+        "nameLAT": "Foizsiz daromadlar (Bank xizmati)(Hisobvaraq-45200) Yuridik va jismoniy shaxslarning bank hisobvaraqlarini, shu jumladan bank kartalari bo’yicha hisob-kitoblarni amalga oshirish uchun foydalaniladigan bank hisobvaraqlarini, shuningdek, bank kartalariga xizmat ko’rsatish bilan bog’liq operatsiyalarni ochish va yuritish xizmati (imtiyozli daromadlar)",
+        "nameRU": "Беспроцентные доходы (Банковская услуга)(Счет-45200) Услуга открытия и ведения банковских счетов юридических и физических лиц, в том числе банковских счетов, служащих для расчетов по банковским картам, а также операции, связанные с обслуживанием банковских карт (льготные доходы)",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10403003017000002",
+        "nameUZ": "Қарам хўжалик жамиятларига, биргаликдаги корхоналарга ва шўъба хўжалик жамиятларига қилинган инвестициядан олинган фойда ва дивидендлар \n(Ҳисобварақ-45700) Юридик шахсларнинг устав фондидаги (устав капиталидаги) улушларини, кооперативларнинг пай фондларидаги ва инвестиция пай жамғармаларидаги пайларни, қимматли қоғозларни ҳамда ҳосила молиявий воситаларни реализация қилиш, бундан солиқ солиниши лозим бўлган ҳосила молиявий воситаларнинг асос активини реализация қилиш мустасно (имтиёзли даромадлар)",
+        "nameLAT": "Qaram xo’jalik jamiyatlariga, birgalikdagi korxonalarga va sho’ba xo’jalik jamiyatlariga qilingan investitsiyadan olingan foyda va dividendlar \n(Hisobvaraq-45700) Yuridik shaxslarning ustav fondidagi (ustav kapitalidagi) ulushlarini, kooperativlarning pay fondlaridagi va investitsiya pay jamg’armalaridagi paylarni, qimmatli qog’ozlarni hamda hosila moliyaviy vositalarni realizatsiya qilish, bundan soliq solinishi lozim bo’lgan hosila moliyaviy vositalarning asos aktivini realizatsiya qilish mustasno (imtiyozli daromadlar)",
+        "nameRU": "Прибыль и дивиденды от инвестиций в зависимые хозяйственные общества, совместные предприятия и дочерние хозяйственные общества\n (Счет-45700) Продажа долей юридических лиц в уставном фонде (уставном капитале), паев паевых инвестиционных фондов и паевых инвестиционных фондов кооперативов, ценных бумаг и производных финансовых инструментов, за исключением продажи основных средств производных финансовых инструментов, подлежащих налогообложению\n(льготные доходы)",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10403003019000001",
+        "nameUZ": "Бошқа фоизсиз даромадлар (Ҳисобварақ-45900) Бошқа фоизсиз даромадлар",
+        "nameLAT": "Boshqa foizsiz daromadlar (Hisobvaraq-45900) Boshqa foizsiz daromadlar",
+        "nameRU": "Другие беспроцентные доходы (Счет-45900) Другие беспроцентные доходы",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10403003014000004",
+        "nameUZ": "Фоизсиз даромадлар (Банк хизмати)(Ҳисобварақ-45200) Факторинг операциялари (имтиёзли даромадлар)",
+        "nameLAT": "Foizsiz daromadlar (Bank xizmati)(Hisobvaraq-45200) Faktoring operatsiyalari (imtiyozli daromadlar)",
+        "nameRU": "Беспроцентные доходы (Банковская услуга)(Счет-45200) Факторинговые операции (льготные доходы)",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10408003001000000",
+        "nameUZ": "Валюта айирбошлаш хизматлари (қимматли қоғозлар хизматларидан ташқари)",
+        "nameLAT": "Valyuta ayirboshlash xizmatlari (qimmatli qog’ozlar xizmatlaridan tashqari)",
+        "nameRU": "Услуги валютной биржи  (кроме услуг с ценными бумагами)",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10406003005000000",
+        "nameUZ": "Молиявий ижара (лизинг) лойиҳаларига хизмат кўрсатиш бўйича хизматлар учун тўлов",
+        "nameLAT": "Moliyaviy ijara (lizing) loyihalariga xizmat ko’rsatish bo’yicha xizmatlar uchun to’lov",
+        "nameRU": "Плата за услуги по обслуживанию проектов финансовой аренды (лизинга)",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10407002002000000",
+        "nameUZ": "Божхона декларант хизматлари (божхона декларацияси)",
+        "nameLAT": "Bojxona deklarant xizmatlari (bojxona deklaratsiyasi)",
+        "nameRU": "Услуги таможенного декларанта (таможенное декларирование)",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10401999004000000",
+        "nameUZ": "Коммунал хизматлар, телефон ва интернет харажатларидан ташқари харажатларни (харажатлар, таннарх, зарарлар) қоплаш билан боғлиқ молиявий тўловлар ва операциялар",
+        "nameLAT": "Kommunal xizmatlar, telefon va internet xarajatlaridan tashqari xarajatlarni (xarajatlar, tannarx, zararlar) qoplash bilan bog’liq moliyaviy to’lovlar va operatsiyalar",
+        "nameRU": "Финансовые платежи и операции, связанные с возмещением затрат (расходов, стоимости, ущерба), кроме затрат на коммунальные услуги, телефонную связи и интернет",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10499001018000000",
+        "nameUZ": "Молиявий чегирма (тиббий товарларни етказиб беришдан ташқари)",
+        "nameLAT": "Moliyaviy chegirma (tibbiy tovarlarni yetkazib berishdan tashqari)",
+        "nameRU": "Финансовая скидка (кроме поставки медицинских товаров)",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10499001006000000",
+        "nameUZ": "Рейтинг агентликлари хизмати",
+        "nameLAT": "Reyting agentliklari xizmati",
+        "nameRU": "Услуги рейтинговых агентств",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10406005001000000",
+        "nameUZ": "Инкассация хизмати",
+        "nameLAT": "Inkassatsiya xizmati",
+        "nameRU": "Услуги по инкассации",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10408004001000000",
+        "nameUZ": "Меҳнат биржаси хизматлари",
+        "nameLAT": "Mehnat birjasi xizmatlari",
+        "nameRU": "Услуги биржи труда",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10406002001000000",
+        "nameUZ": "Дилерлик хизматлари (дилерлик мукофот пуллари)",
+        "nameLAT": "Dilerlik xizmatlari (dilerlik mukofot pullari)",
+        "nameRU": "Дилерские услуги (дилерское вознаграждение)",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10402001005000000",
+        "nameUZ": "Суғурта объектлари бўйича сюрвейер хизматлари (кўрикдан ўтказиш, баҳолаш хизматлари)",
+        "nameLAT": "Sug’urta obyektlari bo’yicha syurveyer xizmatlari (ko’rikdan o’tkazish, baholash xizmatlari)",
+        "nameRU": "Сюрвейерские услуги (услуги осмотра, оценки) по объекту страхования",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10401999002000000",
+        "nameUZ": "Депозитарий ташкилотларнинг хизматлари (шу жумладан қимматли қоғозларни сақлаш, уларга бўлган эгалик ҳуқуқини ҳисобга олиш ва назорат қилиш)",
+        "nameLAT": "Depozitariy tashkilotlarning xizmatlari (shu jumladan qimmatli qog’ozlarni saqlash, ularga bo’lgan egalik huquqini hisobga olish va nazorat qilish)",
+        "nameRU": "Услуги депозитарных организаций (в т.ч. по хранению ценных бумаг,  учету и контролю перехода права собственности на них)",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10407003002000000",
+        "nameUZ": "Қимматли қоғозлар бозорида брокерлик хизмати",
+        "nameLAT": "Qimmatli qog’ozlar bozorida brokerlik xizmati",
+        "nameRU": "Брокерские услуги на рынке ценных бумаг",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10402001009000000",
+        "nameUZ": "Аджастер ташкилотлари ва аджастерлар хизматлари",
+        "nameLAT": "Adjaster tashkilotlari va adjasterlar xizmatlari",
+        "nameRU": "Услуги аджастерских организаций и аджастеров",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10402001002000000",
+        "nameUZ": "Суғурта агенти хизматлари (суғурта мукофотлари бўйича коммиссиялар)",
+        "nameLAT": "Sug’urta agenti xizmatlari (sug’urta mukofotlari bo’yicha kommissiyalar)",
+        "nameRU": "Услуги страховых агентов (коммисионные вознаграждения со страховых премий)",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10402001001000000",
+        "nameUZ": "Суғурта ва қайта суғурталаш хизматлари (суғурта мукофотлари, суғурта бадаллари), бундан биргаликда суғурта мустасно",
+        "nameLAT": "Sug’urta va qayta sug’urtalash xizmatlari (sug’urta mukofotlari, sug’urta badallari), bundan birgalikda sug’urta mustasno",
+        "nameRU": "Услуги страхования и перестрахования (страховые премии, страховые взносы), кроме сострахования",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10402001004000000",
+        "nameUZ": "Суғурта қилдирувчининг (наф олувчининг) ҳуқуқини реализация қилиш",
+        "nameLAT": "Sug’urta qildiruvchining (naf oluvchining) huquqini realizatsiya qilish",
+        "nameRU": "Реализация права страховщика (выгодоприобретателя)",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10402001006000000",
+        "nameUZ": "Биргаликда суғурта қилиш хизматлари (ҳамкорликда суғурта қилиш)",
+        "nameLAT": "Birgalikda sug’urta qilish xizmatlari (hamkorlikda sug’urta qilish)",
+        "nameRU": "Услуги сострахования (совместного страхования)",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10408003002000000",
+        "nameUZ": "Қимматли қоғозлар билан операциялар бўйича валюта биржаси хизматлари",
+        "nameLAT": "Qimmatli qog’ozlar bilan operatsiyalar bo’yicha valyuta birjasi xizmatlari",
+        "nameRU": "Услуги валютной биржи по операциям с ценными бумагами",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10403003014000013",
+        "nameUZ": "Фоизсиз даромадлар (Банк хизмати)(Ҳисобварақ-45200) Тўлов тизимларининг тўлов иштирокчилари ўртасида брокерлик тўловларини тақсимлаш билан бир вақтда операцияларни амалга ошириш билан боғлиқ молиявий хизматлари (имтиёзли даромадлар)",
+        "nameLAT": "Foizsiz daromadlar (Bank xizmati)(Hisobvaraq-45200) To’lov tizimlarining to’lov ishtirokchilari o’rtasida brokerlik to’lovlarini taqsimlash bilan bir vaqtda operatsiyalarni amalga oshirish bilan bog’liq moliyaviy xizmatlari (imtiyozli daromadlar)",
+        "nameRU": "Беспроцентные доходы (Банковская услуга)(Счет-45200) Финансовые услуги платежных систем, связанные с одновременным проведением транзакций с распределением брокерского вознаграждения между участниками платежа (льготные доходы)",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10403003014000010",
+        "nameUZ": "Фоизсиз даромадлар (Банк хизмати)(Ҳисобварақ-45200) Юридик ва жисмоний шахсларга банк кассалари ёки махсус жиҳозлар орқали касса хизматларини кўрсатиш (имтиёзли даромадлар)",
+        "nameLAT": "Foizsiz daromadlar (Bank xizmati)(Hisobvaraq-45200) Yuridik va jismoniy shaxslarga bank kassalari yoki maxsus jihozlar orqali kassa xizmatlarini ko’rsatish (imtiyozli daromadlar)",
+        "nameRU": "Беспроцентные доходы (Банковская услуга)(Счет-45200) Услуга по оказанию кассового обслуживания юридическим и физическим лиц через кассы банка или посредством специального оборудования (льготные доходы)",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10403003014000009",
+        "nameUZ": "Фоизсиз даромадлар (Банк хизмати)(Ҳисобварақ-45200) Ҳисоб-китоблар иштирокчилари ўртасида ахборот ва технологик ҳамкорлик операциялари бўйича хизматлар (имтиёзли даромадлар)",
+        "nameLAT": "Foizsiz daromadlar (Bank xizmati)(Hisobvaraq-45200) Hisob-kitoblar ishtirokchilari o’rtasida axborot va texnologik hamkorlik operatsiyalari bo’yicha xizmatlar (imtiyozli daromadlar)",
+        "nameRU": "Беспроцентные доходы (Банковская услуга)(Счет-45200) Услуга по операциям информационного и технологического сотрудничества между участниками расчетов (льготные доходы)",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10403003014000008",
+        "nameUZ": "Фоизсиз даромадлар (Банк хизмати)(Ҳисобварақ-45200) Юридик ва жисмоний шахсларнинг жалб этилган пул маблағларини банклар номидан ҳамда уларнинг ҳисобидан жойлаштириш хизмати (имтиёзли даромадлар)",
+        "nameLAT": "Foizsiz daromadlar (Bank xizmati)(Hisobvaraq-45200) Yuridik va jismoniy shaxslarning jalb etilgan pul mablag’larini banklar nomidan hamda ularning hisobidan joylashtirish xizmati (imtiyozli daromadlar)",
+        "nameRU": "Беспроцентные доходы (Банковская услуга)(Счет-45200) Услуга по размещению привлеченных денежных средств юридических и физических лиц от имени банков и за их счет (льготные доходы)",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10403003015000002",
+        "nameUZ": "Хорижий валюталардаги фойда (Ҳисобварақ-45400) Чет эл валютасининг нақд пулдаги ва нақд пулсиз олди-сотдиси (шу жумладан чет эл валютасининг олди-сотди операцияларига доир воситачилик хизматлари кўрсатиш) хизмати (имтиёзли даромадлар)",
+        "nameLAT": "Xorijiy valyutalardagi foyda (Hisobvaraq-45400) Chet el valyutasining naqd puldagi va naqd pulsiz oldi-sotdisi (shu jumladan chet el valyutasining oldi-sotdi operatsiyalariga doir vositachilik xizmatlari ko’rsatish) xizmati (imtiyozli daromadlar)",
+        "nameRU": "Прибыль в иностранной валюте (Счет-45400) Услуга по купли-продажи иностранной валюты в наличной и безналичной форме (в том числе оказание посреднических услуг по операциям купли-продажи иностранной валюты)\n(льготные доходы)",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10403003006000003",
+        "nameUZ": "Мижозларнинг мажбуриятлари бўйича фоизли даромадлар (Ҳисобварақ-41000) Импорт билан боғлиқ бўлган векселлар бўйича фоизли даромадлари ҳамда бошқалар даромадлар (имтиёзли даромадлар)",
+        "nameLAT": "Mijozlarning majburiyatlari bo’yicha foizli daromadlar (Hisobvaraq-41000) Import bilan bog’liq bo’lgan veksellar bo’yicha foizli daromadlari hamda boshqalar daromadlar (imtiyozli daromadlar)",
+        "nameRU": "Процентные доходы по обязательствам клиентов (Счет-41000) Процентные доходы по векселям связанные с импортом а также другие доходы (льготные доходы)",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10403003005000002",
+        "nameUZ": "Сотиб олинган векселлар бўйича фоизли даромадлар (Ҳисобварақ-40800) Сотиб олинган векселлар бўйича фоизли даромадлар (имтиёзли даромадлар)",
+        "nameLAT": "Sotib olingan veksellar bo’yicha foizli daromadlar (Hisobvaraq-40800) Sotib olingan veksellar bo’yicha foizli daromadlar (imtiyozli daromadlar)",
+        "nameRU": "Процентные доходы по купленным векселям (Счет-40800) Процентные доходы по купленным векселям (льготные доходы)",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10403003003000002",
+        "nameUZ": "Сотиб олиш ва сотиш учун қимматли қоғозлар бўйича фоиз даромадлари (Ҳисобварақ-40600) Қимматли қоғозлар бўйича фоизли даромадлар (имтиёзли даромадлар)",
+        "nameLAT": "Sotib olish va sotish uchun qimmatli qog’ozlar bo’yicha foiz daromadlari (Hisobvaraq-40600) Qimmatli qog’ozlar bo’yicha foizli daromadlar (imtiyozli daromadlar)",
+        "nameRU": "Процентные доходы по ценным бумагам для купли и продажи (Счет-40600) Процентные доходы по ценным бумагам (льготные доходы)",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10499001023000000",
+        "nameUZ": "Онлайн-НКТ орқали жисмоний шахсларнинг банк карталаридан нақд пул олиш хизматлари",
+        "nameLAT": "Onlayn-NKT orqali jismoniy shaxslarning bank kartalaridan naqd pul olish xizmatlari",
+        "nameRU": "Услуги по обналичиванию денег с банковских  карт физических лиц через онлайн-ККТ",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10408002002000000",
+        "nameUZ": "Банклараро пул бозори, кредит ва депозит аукционларида пул маблағларини жойлаштириш ва жалб қилиш бўйича биржа савдоларини ташкиллаштириш ва ўтказиш",
+        "nameLAT": "Banklararo pul bozori, kredit va depozit auksionlarida pul mablag’larini joylashtirish va jalb qilish bo’yicha birja savdolarini tashkillashtirish va o’tkazish",
+        "nameRU": "Организация и проведение биржевых торгов по размещению и привлечению средств на межбанковском денежном рынке,  депозитных и кредитных аукционах",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10403003008000002",
+        "nameUZ": "Кредитлар бўйича фоизли даромадлар (Ҳисобварақ-41400,44600) Кредитлар, нақд пул ва қимматли қоғозлар займлар бериш бўйича фоизли даромадлар (имтиёзли даромадлар)",
+        "nameLAT": "Kreditlar bo’yicha foizli daromadlar (Hisobvaraq-41400,44600) Kreditlar, naqd pul va qimmatli qog’ozlar zaymlar berish bo’yicha foizli daromadlar (imtiyozli daromadlar)",
+        "nameRU": "Процентые доходы по кредитам (Счет-41400,44600) Процентные доходы за выдачу кредитов, займов в денежной форме и ценными бумагами (льготные доходы)",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10401999003000000",
+        "nameUZ": "Заёмлар бўйича фоиз тўловлари (банкларнинг фоиз тўловларидан ташқари)",
+        "nameLAT": "Zayomlar bo’yicha foiz to’lovlari (banklarning foiz to’lovlaridan tashqari)",
+        "nameRU": "Процентные платежи по займам (кроме процентных платежей банкам)",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10401999001000000",
+        "nameUZ": "Маблағларни ўтказиш билан боғлиқ молиявий операциялар (мукофот тўловларидан ташқари)",
+        "nameLAT": "Mablag’larni o’tkazish bilan bog’liq moliyaviy operatsiyalar (mukofot to’lovlaridan tashqari)",
+        "nameRU": "Финансовые операции, связанные с перечислением средств (кроме вознаграждений)",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10408002001000000",
+        "nameUZ": "Фонд биржалари хизматлар",
+        "nameLAT": "Fond birjalari xizmatlar",
+        "nameRU": "Услуги фондовой биржи",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10499001004000000",
+        "nameUZ": "Мижозларни қидириш ва жалб қилиш бўйича хизмат (воситачилик хизматлари)",
+        "nameLAT": "Mijozlarni qidirish va jalb qilish bo’yicha xizmat (vositachilik xizmatlari)",
+        "nameRU": "Услуги по поиску и привлечению клиентов (посреднические услуги)\r\n",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYaVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10401999022000000",
+        "nameUZ": "Рейимбурсация бўйича харажатларни қоплаш",
+        "nameLAT": "Reyimbursatsiya bo’yicha xarajatlarni qoplash",
+        "nameRU": "Возмещение затрат по рейимбурсации",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYAVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10499001024000000",
+        "nameUZ": "Товар чегирмаси",
+        "nameLAT": "Tovar chegirmasi",
+        "nameRU": "Товарная скидка",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYAVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10402001003000001",
+        "nameUZ": "Суғурта брокерлик хизматлари (суғурта брокерларининг хизматлари ва комиссияси) қайта суғурта бўйича",
+        "nameLAT": "Sug’urta brokerlik xizmatlari (sug’urta brokerlarining xizmatlari va komissiyasi) qayta sug’urta bo’yicha",
+        "nameRU": "Страховые брокерские услуги (услуги и комиссия страховых брокеров) по перестрахование",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYAVIY XIZMATLAR"
+      },
+      {
+        "mxikCode": "10401999021000001",
+        "nameUZ": "Барча турдаги ҳуқуқларни реализация қилиш (суғурта қилдирувчининг ҳуқуқини ва интеллектуал ҳуқуқдан ташқари) солиқ солишдан озод этиладиган мажбуриятлар бўйича ҳуқуқлардан бошқа шахс фойдасига воз кечиш",
+        "nameLAT": "Barcha turdagi huquqlarni realizatsiya qilish (sug’urta qildiruvchining huquqini va intellektual huquqdan tashqari) soliq solishdan ozod etiladigan majburiyatlar bo’yicha huquqlardan boshqa shaxs foydasiga voz kechish",
+        "nameRU": "Реализация всех видов прав (кроме интеллектуальных прав и прав страховщиков) операции по уступке (переуступке) прав (требований) по обязательствам которых освобождается от налогообложения",
+        "groupCODE": "104",
+        "groupNameUZ": "МОЛИЯВИЙ ХИЗМАТЛАР",
+        "groupNameRU": "ФИНАНСОВЫЕ УСЛУГИ",
+        "groupNameLAT": "MOLIYAVIY XIZMATLAR"
+      }
+    ],
+    "recordTotal": 97,
+    "errors": null,
+    "permitted": false
+  }
+}

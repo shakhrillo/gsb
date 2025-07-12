@@ -1,0 +1,817 @@
+{
+  "metadata": {
+    "groupId": 64,
+    "fetchedAt": "2025-07-12T16:34:21.232Z",
+    "source": "https://tasnif.soliq.uz/api/cl-api/integration-mxik/references/group/code?group=64"
+  },
+  "data": {
+    "success": true,
+    "code": 200,
+    "reason": null,
+    "data": [
+      {
+        "mxikCode": "06401003004000000",
+        "nameUZ": "Эркаклар учун шиппак (барча шакл ва турдаги)",
+        "nameLAT": "Erkaklar uchun shippak (barcha shakl va turdagi)",
+        "nameRU": "Тапочки мужские (всех форм и видов)",
+        "groupCODE": "064",
+        "groupNameUZ": "ПОЙАБЗАЛ ВА УНИНГ ТАФСИЛОТЛАРИ ",
+        "groupNameRU": "ОБУВЬ И АНАЛОГИЧНЫЕ ИЗДЕЛИЯ; ИХ ДЕТАЛИ",
+        "groupNameLAT": "POYABZAL VA UNING TAFSILOTLARI "
+      },
+      {
+        "mxikCode": "06402003001001004",
+        "nameUZ": "Болалар поябзали (барча шакл ва турдаги) Bonito Kids бошмоқча янги туғилган артикул 945 ўлчами 62 пушти рангли",
+        "nameLAT": "Bolalar poyabzali (barcha shakl va turdagi) Bonito Kids boshmoqcha yangi tug’ilgan artikul 945 o’lchami 62 pushti rangli",
+        "nameRU": "Детская обувь (всех форм и видов) Bonito Kids пинетки для новорожденных артикул 945 размер 62 цвет розовый",
+        "groupCODE": "064",
+        "groupNameUZ": "ПОЙАБЗАЛ ВА УНИНГ ТАФСИЛОТЛАРИ ",
+        "groupNameRU": "ОБУВЬ И АНАЛОГИЧНЫЕ ИЗДЕЛИЯ; ИХ ДЕТАЛИ",
+        "groupNameLAT": "POYABZAL VA UNING TAFSILOTLARI"
+      },
+      {
+        "mxikCode": "06402003001003001",
+        "nameUZ": "Болалар поябзали (барча шакл ва турдаги) Pattino kids бошмоқча қиз болалар учун, ўлчами 16-25",
+        "nameLAT": "Bolalar poyabzali (barcha shakl va turdagi) Pattino kids boshmoqcha qiz bolalar uchun, o’lchami 16-25",
+        "nameRU": "Детская обувь (всех форм и видов) Pattino kids пинетки детские для девочек, размер 16-25",
+        "groupCODE": "064",
+        "groupNameUZ": "ПОЙАБЗАЛ ВА УНИНГ ТАФСИЛОТЛАРИ ",
+        "groupNameRU": "ОБУВЬ И АНАЛОГИЧНЫЕ ИЗДЕЛИЯ; ИХ ДЕТАЛИ",
+        "groupNameLAT": "POYABZAL VA UNING TAFSILOTLARI"
+      },
+      {
+        "mxikCode": "06402003001002004",
+        "nameUZ": "Болалар поябзали (барча шакл ва турдаги) Twins бошмоқча янги туғилган артикул 48.1 полотно интерлок бойитилган қушлар",
+        "nameLAT": "Bolalar poyabzali (barcha shakl va turdagi) Twins boshmoqcha yangi tug’ilgan artikul 48.1 polotno interlok boyitilgan qushlar",
+        "nameRU": "Детская обувь (всех форм и видов) Twins пинетки для новорожденных артикул 48.1 полотно интерлок с набивкой птички",
+        "groupCODE": "064",
+        "groupNameUZ": "ПОЙАБЗАЛ ВА УНИНГ ТАФСИЛОТЛАРИ ",
+        "groupNameRU": "ОБУВЬ И АНАЛОГИЧНЫЕ ИЗДЕЛИЯ; ИХ ДЕТАЛИ",
+        "groupNameLAT": "POYABZAL VA UNING TAFSILOTLARI"
+      },
+      {
+        "mxikCode": "06402003001003002",
+        "nameUZ": "Болалар поябзали (барча шакл ва турдаги) Pattino kids бошмоқча ўғил болалар учун, ўлчами 16-25",
+        "nameLAT": "Bolalar poyabzali (barcha shakl va turdagi) Pattino kids boshmoqcha o’g’il bolalar uchun, o’lchami 16-25",
+        "nameRU": "Детская обувь (всех форм и видов) Pattino kids пинетки детские для мальчиков, размер 16-25",
+        "groupCODE": "064",
+        "groupNameUZ": "ПОЙАБЗАЛ ВА УНИНГ ТАФСИЛОТЛАРИ ",
+        "groupNameRU": "ОБУВЬ И АНАЛОГИЧНЫЕ ИЗДЕЛИЯ; ИХ ДЕТАЛИ",
+        "groupNameLAT": "POYABZAL VA UNING TAFSILOTLARI"
+      },
+      {
+        "mxikCode": "06402003001001001",
+        "nameUZ": "Болалар поябзали (барча шакл ва турдаги) Bonito Kids янги туғилган чақалоқлар учун пипетка артикул 945 ўлчами 50 пушти рангли",
+        "nameLAT": "Bolalar poyabzali (barcha shakl va turdagi) Bonito Kids yangi tug’ilgan chaqaloqlar uchun pipetka artikul 945 o’lchami 50 pushti rangli",
+        "nameRU": "Детская обувь (всех форм и видов) Bonito Kids пинетки для новорождённых артикул 945 размер 50 цвет розовый",
+        "groupCODE": "064",
+        "groupNameUZ": "ПОЙАБЗАЛ ВА УНИНГ ТАФСИЛОТЛАРИ ",
+        "groupNameRU": "ОБУВЬ И АНАЛОГИЧНЫЕ ИЗДЕЛИЯ; ИХ ДЕТАЛИ",
+        "groupNameLAT": "POYABZAL VA UNING TAFSILOTLARI"
+      },
+      {
+        "mxikCode": "06401007002000000",
+        "nameUZ": "Эркаклар лоферлари, маккасинлар ва еспадриллар (барча шакл ва турлар)",
+        "nameLAT": "Erkaklar loferlari, makkasinlar va yespadrillar (barcha shakl va turlar)",
+        "nameRU": "Лоферы, мокасины и эспадрильи мужские (всех форм и видов)",
+        "groupCODE": "064",
+        "groupNameUZ": "ПОЙАБЗАЛ ВА УНИНГ ТАФСИЛОТЛАРИ ",
+        "groupNameRU": "ОБУВЬ И АНАЛОГИЧНЫЕ ИЗДЕЛИЯ; ИХ ДЕТАЛИ",
+        "groupNameLAT": "POYABZAL VA UNING TAFSILOTLARI"
+      },
+      {
+        "mxikCode": "06401007003000000",
+        "nameUZ": "Aёллар учун лоферлар, макасинлар ва эспадрильялар (барча шакл ва турдаги)",
+        "nameLAT": "Ayollar uchun loferlar, makasinlar va espadrilyalar (barcha shakl va turdagi)",
+        "nameRU": "Лоферы, макасины и эспадрильи женские (всех форм и видов)",
+        "groupCODE": "064",
+        "groupNameUZ": "ПОЙАБЗАЛ ВА УНИНГ ТАФСИЛОТЛАРИ ",
+        "groupNameRU": "ОБУВЬ И АНАЛОГИЧНЫЕ ИЗДЕЛИЯ; ИХ ДЕТАЛИ",
+        "groupNameLAT": "POYABZAL VA UNING TAFSILOTLARI"
+      },
+      {
+        "mxikCode": "06402003001002001",
+        "nameUZ": "Болалар поябзали (барча шакл ва турдаги) Twins бошмоқча янги туғилган артикул 48.1 ўлчами 62 полотно феруза рангли велюр",
+        "nameLAT": "Bolalar poyabzali (barcha shakl va turdagi) Twins",
+        "nameRU": "Детская обувь (всех форм и видов) Twins пинетка для новорожденных артикул 48.1 размер 62 полотно бирюзовый велюр",
+        "groupCODE": "064",
+        "groupNameUZ": "ПОЙАБЗАЛ ВА УНИНГ ТАФСИЛОТЛАРИ ",
+        "groupNameRU": "ОБУВЬ И АНАЛОГИЧНЫЕ ИЗДЕЛИЯ; ИХ ДЕТАЛИ",
+        "groupNameLAT": "POYABZAL VA UNING TAFSILOTLARI"
+      },
+      {
+        "mxikCode": "06402003001002002",
+        "nameUZ": "Болалар поябзали (барча шакл ва турдаги) Twins бошмоқча янги туғилган артикул 48.1 ўлчами 62 полотно пушти велюр",
+        "nameLAT": "Bolalar poyabzali (barcha shakl va turdagi) Twins",
+        "nameRU": "Детская обувь (всех форм и видов) Twins пинетка для новорожденных артикул 48.1 размер 62 полотно розовый велюр",
+        "groupCODE": "064",
+        "groupNameUZ": "ПОЙАБЗАЛ ВА УНИНГ ТАФСИЛОТЛАРИ ",
+        "groupNameRU": "ОБУВЬ И АНАЛОГИЧНЫЕ ИЗДЕЛИЯ; ИХ ДЕТАЛИ",
+        "groupNameLAT": "POYABZAL VA UNING TAFSILOTLARI"
+      },
+      {
+        "mxikCode": "06402003001001003",
+        "nameUZ": "Болалар поябзали (барча шакл ва турдаги) Bonito Kids янги туғилган чақалоқлар учун пипетка артикул 945 ўлчами 60 пушти рангли",
+        "nameLAT": "Bolalar poyabzali (barcha shakl va turdagi) Bonito Kids",
+        "nameRU": "Детская обувь (всех форм и видов) Bonito Kids пинетки для новорождённых артикул 945 размер 60 цвет розовый",
+        "groupCODE": "064",
+        "groupNameUZ": "ПОЙАБЗАЛ ВА УНИНГ ТАФСИЛОТЛАРИ ",
+        "groupNameRU": "ОБУВЬ И АНАЛОГИЧНЫЕ ИЗДЕЛИЯ; ИХ ДЕТАЛИ",
+        "groupNameLAT": "POYABZAL VA UNING TAFSILOTLARI"
+      },
+      {
+        "mxikCode": "06402003001001002",
+        "nameUZ": "Болалар поябзали (барча шакл ва турдаги) Bonito Kids янги туғилган чақалоқлар учун пипетка артикул 945 ўлчами 56 пушти рангли",
+        "nameLAT": "Bolalar poyabzali (barcha shakl va turdagi) Bonito Kids",
+        "nameRU": "Детская обувь (всех форм и видов) Bonito Kids пинетки для новорождённых артикул 945 размер 56 цвет розовый",
+        "groupCODE": "064",
+        "groupNameUZ": "ПОЙАБЗАЛ ВА УНИНГ ТАФСИЛОТЛАРИ ",
+        "groupNameRU": "ОБУВЬ И АНАЛОГИЧНЫЕ ИЗДЕЛИЯ; ИХ ДЕТАЛИ",
+        "groupNameLAT": "POYABZAL VA UNING TAFSILOTLARI"
+      },
+      {
+        "mxikCode": "06402003001002003",
+        "nameUZ": "Болалар поябзали (барча шакл ва турдаги) Twins бошмоқча янги туғилган артикул 48.1 ўлчами 62 полотно кулранг велюр",
+        "nameLAT": "Bolalar poyabzali (barcha shakl va turdagi) Twins",
+        "nameRU": "Детская обувь (всех форм и видов) Twins пинетка для новорожденных артикул 48.1 размер 62 полотно серый велюр",
+        "groupCODE": "064",
+        "groupNameUZ": "ПОЙАБЗАЛ ВА УНИНГ ТАФСИЛОТЛАРИ ",
+        "groupNameRU": "ОБУВЬ И АНАЛОГИЧНЫЕ ИЗДЕЛИЯ; ИХ ДЕТАЛИ",
+        "groupNameLAT": "POYABZAL VA UNING TAFSILOTLARI"
+      },
+      {
+        "mxikCode": "06401004002000000",
+        "nameUZ": "Эркаклар учун этиклар (барча шакл ва турдаги)",
+        "nameLAT": "Erkaklar uchun etiklar (barcha shakl va turdagi)",
+        "nameRU": "Ботинки мужские (всех форм и видов)",
+        "groupCODE": "064",
+        "groupNameUZ": "ПОЙАБЗАЛ ВА УНИНГ ТАФСИЛОТЛАРИ ",
+        "groupNameRU": "ОБУВЬ И АНАЛОГИЧНЫЕ ИЗДЕЛИЯ; ИХ ДЕТАЛИ",
+        "groupNameLAT": "POYABZAL VA UNING TAFSILOTLARI "
+      },
+      {
+        "mxikCode": "06403001004000000",
+        "nameUZ": "Пойабзал учун патак",
+        "nameLAT": "Poyabzal uchun patak",
+        "nameRU": "Стельки для обуви",
+        "groupCODE": "064",
+        "groupNameUZ": "ПОЙАБЗАЛ ВА УНИНГ ТАФСИЛОТЛАРИ ",
+        "groupNameRU": "ОБУВЬ И АНАЛОГИЧНЫЕ ИЗДЕЛИЯ; ИХ ДЕТАЛИ",
+        "groupNameLAT": "POYABZAL VA UNING TAFSILOTLARI"
+      },
+      {
+        "mxikCode": "06401004003000000",
+        "nameUZ": "Aёллар учун этиклар (барча шакл ва турдаги)",
+        "nameLAT": "Ayollar uchun etiklar (barcha shakl va turdagi)",
+        "nameRU": "Ботинки женские (всех форм и видов)",
+        "groupCODE": "064",
+        "groupNameUZ": "ПОЙАБЗАЛ ВА УНИНГ ТАФСИЛОТЛАРИ ",
+        "groupNameRU": "ОБУВЬ И АНАЛОГИЧНЫЕ ИЗДЕЛИЯ; ИХ ДЕТАЛИ",
+        "groupNameLAT": "POYABZAL VA UNING TAFSILOTLARI "
+      },
+      {
+        "mxikCode": "06401005002000000",
+        "nameUZ": "Эркаклар учун сапоглар (барча шакл ва турдаги)",
+        "nameLAT": "Erkaklar uchun sapoglar (barcha shakl va turdagi)",
+        "nameRU": "Сапоги мужские (всех форм и видов)",
+        "groupCODE": "064",
+        "groupNameUZ": "ПОЙАБЗАЛ ВА УНИНГ ТАФСИЛОТЛАРИ ",
+        "groupNameRU": "ОБУВЬ И АНАЛОГИЧНЫЕ ИЗДЕЛИЯ; ИХ ДЕТАЛИ",
+        "groupNameLAT": "POYABZAL VA UNING TAFSILOTLARI "
+      },
+      {
+        "mxikCode": "06401005003000000",
+        "nameUZ": "Aёллар сапоглари (барча шакл ва турдаги)",
+        "nameLAT": "Ayollar sapoglari (barcha shakl va turdagi)",
+        "nameRU": "Сапоги женские (всех форм и видов)",
+        "groupCODE": "064",
+        "groupNameUZ": "ПОЙАБЗАЛ ВА УНИНГ ТАФСИЛОТЛАРИ ",
+        "groupNameRU": "ОБУВЬ И АНАЛОГИЧНЫЕ ИЗДЕЛИЯ; ИХ ДЕТАЛИ",
+        "groupNameLAT": "POYABZAL VA UNING TAFSILOTLARI "
+      },
+      {
+        "mxikCode": "06401006002000000",
+        "nameUZ": "Профессионал/махсус пойабзал (барча шакл ва турдаги)",
+        "nameLAT": "Professional/maxsus poyabzal (barcha shakl va turdagi)",
+        "nameRU": "Профессиональная/специальная обувь (всех форм и видов)",
+        "groupCODE": "064",
+        "groupNameUZ": "ПОЙАБЗАЛ ВА УНИНГ ТАФСИЛОТЛАРИ ",
+        "groupNameRU": "ОБУВЬ И АНАЛОГИЧНЫЕ ИЗДЕЛИЯ; ИХ ДЕТАЛИ",
+        "groupNameLAT": "POYABZAL VA UNING TAFSILOTLARI "
+      },
+      {
+        "mxikCode": "06401001009000000",
+        "nameUZ": "Aёллар туфлилари (барча шакл ва турдаги)",
+        "nameLAT": "Ayollar tuflilari (barcha shakl va turdagi)",
+        "nameRU": "Туфли женские (всех форм и видов)",
+        "groupCODE": "064",
+        "groupNameUZ": "ПОЙАБЗАЛ ВА УНИНГ ТАФСИЛОТЛАРИ ",
+        "groupNameRU": "ОБУВЬ И АНАЛОГИЧНЫЕ ИЗДЕЛИЯ; ИХ ДЕТАЛИ",
+        "groupNameLAT": "POYABZAL VA UNING TAFSILOTLARI "
+      },
+      {
+        "mxikCode": "06402003001000000",
+        "nameUZ": "Болалар поябзали (барча шакл ва турдаги)",
+        "nameLAT": "Bolalar poyabzali (barcha shakl va turdagi)",
+        "nameRU": "Детская обувь (всех форм и видов)",
+        "groupCODE": "064",
+        "groupNameUZ": "ПОЙАБЗАЛ ВА УНИНГ ТАФСИЛОТЛАРИ ",
+        "groupNameRU": "ОБУВЬ И АНАЛОГИЧНЫЕ ИЗДЕЛИЯ; ИХ ДЕТАЛИ",
+        "groupNameLAT": "POYABZAL VA UNING TAFSILOTLARI"
+      },
+      {
+        "mxikCode": "06401008004000000",
+        "nameUZ": "Каучук калишлар (барча шакл ва турлар)",
+        "nameLAT": "Kauchuk kalishlar (barcha shakl va turlar)",
+        "nameRU": "Резиновые галоши (всех форм и видов)",
+        "groupCODE": "064",
+        "groupNameUZ": "ПОЙАБЗАЛ ВА УНИНГ ТАФСИЛОТЛАРИ ",
+        "groupNameRU": "ОБУВЬ И АНАЛОГИЧНЫЕ ИЗДЕЛИЯ; ИХ ДЕТАЛИ",
+        "groupNameLAT": "POYABZAL VA UNING TAFSILOTLARI "
+      },
+      {
+        "mxikCode": "06403001005000000",
+        "nameUZ": "Пойабзал тагликлари, пойабзал устки бланкалари, пойабзал учун қаттиқ орқа қисмлар",
+        "nameLAT": "Poyabzal tagliklari, poyabzal ustki blankalari, poyabzal uchun qattiq orqa qismlar",
+        "nameRU": "Обувная подошва, заготовки верха обуви, жесткие задники для обуви",
+        "groupCODE": "064",
+        "groupNameUZ": "ПОЙАБЗАЛ ВА УНИНГ ТАФСИЛОТЛАРИ ",
+        "groupNameRU": "ОБУВЬ И АНАЛОГИЧНЫЕ ИЗДЕЛИЯ; ИХ ДЕТАЛИ",
+        "groupNameLAT": "POYABZAL VA UNING TAFSILOTLARI"
+      },
+      {
+        "mxikCode": "06403001006000000",
+        "nameUZ": "Гелли бармоқ орасини ажратувчилар, камарчалар учун полоскалар ёки супинатор",
+        "nameLAT": "Gelli barmoq orasini ajratuvchilar, kamarchalar uchun poloskalar yoki supinator",
+        "nameRU": "Гелевые межпальцевые разделители, полоски для ремешков или супинатор",
+        "groupCODE": "064",
+        "groupNameUZ": "ПОЙАБЗАЛ ВА УНИНГ ТАФСИЛОТЛАРИ ",
+        "groupNameRU": "ОБУВЬ И АНАЛОГИЧНЫЕ ИЗДЕЛИЯ; ИХ ДЕТАЛИ",
+        "groupNameLAT": "POYABZAL VA UNING TAFSILOTLARI"
+      },
+      {
+        "mxikCode": "06403001007001001",
+        "nameUZ": "Эластик гетралар, хоккей гамашлар Tonus қиш учун,  қути 1 дона",
+        "nameLAT": "Elastik getralar, xokkey gamashlar Tonus qish uchun,  quti 1 dona",
+        "nameRU": "Эластичные гетры, хоккейные гамаши Tonus зимние,  коробка 1 шт",
+        "groupCODE": "064",
+        "groupNameUZ": "ПОЙАБЗАЛ ВА УНИНГ ТАФСИЛОТЛАРИ ",
+        "groupNameRU": "ОБУВЬ И АНАЛОГИЧНЫЕ ИЗДЕЛИЯ; ИХ ДЕТАЛИ",
+        "groupNameLAT": "POYABZAL VA UNING TAFSILOTLARI"
+      },
+      {
+        "mxikCode": "06403001007000000",
+        "nameUZ": "Эластик гетралар, хоккей гамашлар",
+        "nameLAT": "Elastik getralar, xokkey gamashlar",
+        "nameRU": "Эластичные гетры, хоккейные гамаши",
+        "groupCODE": "064",
+        "groupNameUZ": "ПОЙАБЗАЛ ВА УНИНГ ТАФСИЛОТЛАРИ ",
+        "groupNameRU": "ОБУВЬ И АНАЛОГИЧНЫЕ ИЗДЕЛИЯ; ИХ ДЕТАЛИ",
+        "groupNameLAT": "POYABZAL VA UNING TAFSILOTLARI"
+      },
+      {
+        "mxikCode": "06401001008000000",
+        "nameUZ": "Эркаклар учун туфли (барча шакл ва турдаги)",
+        "nameLAT": "Erkaklar uchun tufli (barcha shakl va turdagi)",
+        "nameRU": "Туфли мужские (всех форм и видов)",
+        "groupCODE": "064",
+        "groupNameUZ": "ПОЙАБЗАЛ ВА УНИНГ ТАФСИЛОТЛАРИ ",
+        "groupNameRU": "ОБУВЬ И АНАЛОГИЧНЫЕ ИЗДЕЛИЯ; ИХ ДЕТАЛИ",
+        "groupNameLAT": "POYABZAL VA UNING TAFSILOTLARI "
+      },
+      {
+        "mxikCode": "06401003005001029",
+        "nameUZ": "Aёллар шиппаклари (барча шакл ва турдаги) home&you 62021-SZA1-37/38 KITTIS",
+        "nameLAT": "Ayollar shippaklari (barcha shakl va turdagi) home&you 62021-SZA1-37/38 KITTIS",
+        "nameRU": "Тапочки женские (всех форм и видов) home&you 62021-SZA1-37/38 KITTIS",
+        "groupCODE": "064",
+        "groupNameUZ": "ПОЙАБЗАЛ ВА УНИНГ ТАФСИЛОТЛАРИ ",
+        "groupNameRU": "ОБУВЬ И АНАЛОГИЧНЫЕ ИЗДЕЛИЯ; ИХ ДЕТАЛИ",
+        "groupNameLAT": "POYABZAL VA UNING TAFSILOTLARI "
+      },
+      {
+        "mxikCode": "06401003005001002",
+        "nameUZ": "Aёллар шиппаклари (барча шакл ва турдаги) home&you 64186-NIE9-37/38-BN GINGERSKY",
+        "nameLAT": "Ayollar shippaklari (barcha shakl va turdagi) home&you 64186-NIE9-37/38-BN GINGERSKY",
+        "nameRU": "Тапочки женские (всех форм и видов) home&you 64186-NIE9-37/38-BN GINGERSKY",
+        "groupCODE": "064",
+        "groupNameUZ": "ПОЙАБЗАЛ ВА УНИНГ ТАФСИЛОТЛАРИ ",
+        "groupNameRU": "ОБУВЬ И АНАЛОГИЧНЫЕ ИЗДЕЛИЯ; ИХ ДЕТАЛИ",
+        "groupNameLAT": "POYABZAL VA UNING TAFSILOTLARI "
+      },
+      {
+        "mxikCode": "06401003005001009",
+        "nameUZ": "Aёллар шиппаклари (барча шакл ва турдаги) home&you 54819-SZA1-39/40 RIBBON",
+        "nameLAT": "Ayollar shippaklari (barcha shakl va turdagi) home&you 54819-SZA1-39/40 RIBBON",
+        "nameRU": "Тапочки женские (всех форм и видов) home&you 54819-SZA1-39/40 RIBBON",
+        "groupCODE": "064",
+        "groupNameUZ": "ПОЙАБЗАЛ ВА УНИНГ ТАФСИЛОТЛАРИ ",
+        "groupNameRU": "ОБУВЬ И АНАЛОГИЧНЫЕ ИЗДЕЛИЯ; ИХ ДЕТАЛИ",
+        "groupNameLAT": "POYABZAL VA UNING TAFSILOTLARI "
+      },
+      {
+        "mxikCode": "06401003005001024",
+        "nameUZ": "Aёллар шиппаклари (барча шакл ва турдаги) home&you 61228-SZA-39/40 KRYSTLE",
+        "nameLAT": "Ayollar shippaklari (barcha shakl va turdagi) home&you 61228-SZA-39/40 KRYSTLE",
+        "nameRU": "Тапочки женские (всех форм и видов) home&you 61228-SZA-39/40 KRYSTLE",
+        "groupCODE": "064",
+        "groupNameUZ": "ПОЙАБЗАЛ ВА УНИНГ ТАФСИЛОТЛАРИ ",
+        "groupNameRU": "ОБУВЬ И АНАЛОГИЧНЫЕ ИЗДЕЛИЯ; ИХ ДЕТАЛИ",
+        "groupNameLAT": "POYABZAL VA UNING TAFSILOTLARI "
+      },
+      {
+        "mxikCode": "06401003005001001",
+        "nameUZ": "Aёллар шиппаклари (барча шакл ва турдаги) home&you 64180-CZA-39/40-BN MODERNDEER",
+        "nameLAT": "Ayollar shippaklari (barcha shakl va turdagi) home&you 64180-CZA-39/40-BN MODERNDEER",
+        "nameRU": "Тапочки женские (всех форм и видов) home&you 64180-CZA-39/40-BN MODERNDEER",
+        "groupCODE": "064",
+        "groupNameUZ": "ПОЙАБЗАЛ ВА УНИНГ ТАФСИЛОТЛАРИ ",
+        "groupNameRU": "ОБУВЬ И АНАЛОГИЧНЫЕ ИЗДЕЛИЯ; ИХ ДЕТАЛИ",
+        "groupNameLAT": "POYABZAL VA UNING TAFSILOTLARI "
+      },
+      {
+        "mxikCode": "06401003005001017",
+        "nameUZ": "Aёллар шиппаклари (барча шакл ва турдаги) home&you 61221-SZA-39/40 MODICA",
+        "nameLAT": "Ayollar shippaklari (barcha shakl va turdagi) home&you 61221-SZA-39/40 MODICA",
+        "nameRU": "Тапочки женские (всех форм и видов) home&you 61221-SZA-39/40 MODICA",
+        "groupCODE": "064",
+        "groupNameUZ": "ПОЙАБЗАЛ ВА УНИНГ ТАФСИЛОТЛАРИ ",
+        "groupNameRU": "ОБУВЬ И АНАЛОГИЧНЫЕ ИЗДЕЛИЯ; ИХ ДЕТАЛИ",
+        "groupNameLAT": "POYABZAL VA UNING TAFSILOTLARI "
+      },
+      {
+        "mxikCode": "06401003005001013",
+        "nameUZ": "Aёллар шиппаклари (барча шакл ва турдаги) home&you 55940-BRA1-37/38 TAXUS",
+        "nameLAT": "Ayollar shippaklari (barcha shakl va turdagi) home&you 55940-BRA1-37/38 TAXUS",
+        "nameRU": "Тапочки женские (всех форм и видов) home&you 55940-BRA1-37/38 TAXUS",
+        "groupCODE": "064",
+        "groupNameUZ": "ПОЙАБЗАЛ ВА УНИНГ ТАФСИЛОТЛАРИ ",
+        "groupNameRU": "ОБУВЬ И АНАЛОГИЧНЫЕ ИЗДЕЛИЯ; ИХ ДЕТАЛИ",
+        "groupNameLAT": "POYABZAL VA UNING TAFSILOTLARI "
+      },
+      {
+        "mxikCode": "06401002004001002",
+        "nameUZ": "Эркаклар спорт пойабзаллари (барча шакл ва турдаги) UZB patriot ранг қора оқ таглик билан ўлчами 41 ,картон қоғоз 1",
+        "nameLAT": "Erkaklar sport poyabzallari (barcha shakl va turdagi) UZB patriot rang qora oq taglik bilan o’lchami 41 ,karton qog’oz 1",
+        "nameRU": "Спортивная обувь мужская (всех форм и видов) UZB patriot цвет черные с белой подошвой размер 41 ,картонная бумага 1 дона",
+        "groupCODE": "064",
+        "groupNameUZ": "ПОЙАБЗАЛ ВА УНИНГ ТАФСИЛОТЛАРИ ",
+        "groupNameRU": "ОБУВЬ И АНАЛОГИЧНЫЕ ИЗДЕЛИЯ; ИХ ДЕТАЛИ",
+        "groupNameLAT": "POYABZAL VA UNING TAFSILOTLARI "
+      },
+      {
+        "mxikCode": "06401003005001003",
+        "nameUZ": "Aёллар шиппаклари (барча шакл ва турдаги) home&you 64186-NIE9-39/40-BN GINGERSKY",
+        "nameLAT": "Ayollar shippaklari (barcha shakl va turdagi) home&you 64186-NIE9-39/40-BN GINGERSKY",
+        "nameRU": "Тапочки женские (всех форм и видов) home&you 64186-NIE9-39/40-BN GINGERSKY",
+        "groupCODE": "064",
+        "groupNameUZ": "ПОЙАБЗАЛ ВА УНИНГ ТАФСИЛОТЛАРИ ",
+        "groupNameRU": "ОБУВЬ И АНАЛОГИЧНЫЕ ИЗДЕЛИЯ; ИХ ДЕТАЛИ",
+        "groupNameLAT": "POYABZAL VA UNING TAFSILOTLARI "
+      },
+      {
+        "mxikCode": "06401003005000000",
+        "nameUZ": "Aёллар шиппаклари (барча шакл ва турдаги)",
+        "nameLAT": "Ayollar shippaklari (barcha shakl va turdagi)",
+        "nameRU": "Тапочки женские (всех форм и видов)",
+        "groupCODE": "064",
+        "groupNameUZ": "ПОЙАБЗАЛ ВА УНИНГ ТАФСИЛОТЛАРИ ",
+        "groupNameRU": "ОБУВЬ И АНАЛОГИЧНЫЕ ИЗДЕЛИЯ; ИХ ДЕТАЛИ",
+        "groupNameLAT": "POYABZAL VA UNING TAFSILOTLARI "
+      },
+      {
+        "mxikCode": "06401002004001003",
+        "nameUZ": "Эркаклар спорт пойабзаллари (барча шакл ва турдаги) UZB patriot ранг қора оқ таглик билан ўлчами 42 ,картон қоғоз 1",
+        "nameLAT": "Erkaklar sport poyabzallari (barcha shakl va turdagi) UZB patriot rang qora oq taglik bilan o’lchami 42 ,karton qog’oz 1",
+        "nameRU": "Спортивная обувь мужская (всех форм и видов) UZB patriot цвет черные с белой подошвой размер 42 ,картонная бумага 1 дона",
+        "groupCODE": "064",
+        "groupNameUZ": "ПОЙАБЗАЛ ВА УНИНГ ТАФСИЛОТЛАРИ ",
+        "groupNameRU": "ОБУВЬ И АНАЛОГИЧНЫЕ ИЗДЕЛИЯ; ИХ ДЕТАЛИ",
+        "groupNameLAT": "POYABZAL VA UNING TAFSILOTLARI "
+      },
+      {
+        "mxikCode": "06401003005001030",
+        "nameUZ": "Aёллар шиппаклари (барча шакл ва турдаги) home&you 64180-CZA-37/38-BN MODERNDEER",
+        "nameLAT": "Ayollar shippaklari (barcha shakl va turdagi) home&you 64180-CZA-37/38-BN MODERNDEER",
+        "nameRU": "Тапочки женские (всех форм и видов) home&you 64180-CZA-37/38-BN MODERNDEER",
+        "groupCODE": "064",
+        "groupNameUZ": "ПОЙАБЗАЛ ВА УНИНГ ТАФСИЛОТЛАРИ ",
+        "groupNameRU": "ОБУВЬ И АНАЛОГИЧНЫЕ ИЗДЕЛИЯ; ИХ ДЕТАЛИ",
+        "groupNameLAT": "POYABZAL VA UNING TAFSILOTLARI "
+      },
+      {
+        "mxikCode": "06401003005001023",
+        "nameUZ": "Aёллар шиппаклари (барча шакл ва турдаги) home&you 61221-ZIE9-39/40 MODICA",
+        "nameLAT": "Ayollar shippaklari (barcha shakl va turdagi) home&you 61221-ZIE9-39/40 MODICA",
+        "nameRU": "Тапочки женские (всех форм и видов) home&you 61221-ZIE9-39/40 MODICA",
+        "groupCODE": "064",
+        "groupNameUZ": "ПОЙАБЗАЛ ВА УНИНГ ТАФСИЛОТЛАРИ ",
+        "groupNameRU": "ОБУВЬ И АНАЛОГИЧНЫЕ ИЗДЕЛИЯ; ИХ ДЕТАЛИ",
+        "groupNameLAT": "POYABZAL VA UNING TAFSILOTLARI "
+      },
+      {
+        "mxikCode": "06401003005001021",
+        "nameUZ": "Aёллар шиппаклари (барча шакл ва турдаги) home&you 54814-CZA-39/40 INGRID",
+        "nameLAT": "Ayollar shippaklari (barcha shakl va turdagi) home&you 54814-CZA-39/40 INGRID",
+        "nameRU": "Тапочки женские (всех форм и видов) home&you 54814-CZA-39/40 INGRID",
+        "groupCODE": "064",
+        "groupNameUZ": "ПОЙАБЗАЛ ВА УНИНГ ТАФСИЛОТЛАРИ ",
+        "groupNameRU": "ОБУВЬ И АНАЛОГИЧНЫЕ ИЗДЕЛИЯ; ИХ ДЕТАЛИ",
+        "groupNameLAT": "POYABZAL VA UNING TAFSILOTLARI "
+      },
+      {
+        "mxikCode": "06401003005001008",
+        "nameUZ": "Aёллар шиппаклари (барча шакл ва турдаги) home&you 54819-SZA1-37/38 RIBBON",
+        "nameLAT": "Ayollar shippaklari (barcha shakl va turdagi) home&you 54819-SZA1-37/38 RIBBON",
+        "nameRU": "Тапочки женские (всех форм и видов) home&you 54819-SZA1-37/38 RIBBON",
+        "groupCODE": "064",
+        "groupNameUZ": "ПОЙАБЗАЛ ВА УНИНГ ТАФСИЛОТЛАРИ ",
+        "groupNameRU": "ОБУВЬ И АНАЛОГИЧНЫЕ ИЗДЕЛИЯ; ИХ ДЕТАЛИ",
+        "groupNameLAT": "POYABZAL VA UNING TAFSILOTLARI "
+      },
+      {
+        "mxikCode": "06401003005001015",
+        "nameUZ": "Aёллар шиппаклари (барча шакл ва турдаги) home&you 55940-MIX-39/40 TAXUS",
+        "nameLAT": "Ayollar shippaklari (barcha shakl va turdagi) home&you 55940-MIX-39/40 TAXUS",
+        "nameRU": "Тапочки женские (всех форм и видов) home&you 55940-MIX-39/40 TAXUS",
+        "groupCODE": "064",
+        "groupNameUZ": "ПОЙАБЗАЛ ВА УНИНГ ТАФСИЛОТЛАРИ ",
+        "groupNameRU": "ОБУВЬ И АНАЛОГИЧНЫЕ ИЗДЕЛИЯ; ИХ ДЕТАЛИ",
+        "groupNameLAT": "POYABZAL VA UNING TAFSILOTLARI "
+      },
+      {
+        "mxikCode": "06401003005001004",
+        "nameUZ": "Aёллар шиппаклари (барча шакл ва турдаги) home&you 54814-ZIE9-39/40 INGRID",
+        "nameLAT": "Ayollar shippaklari (barcha shakl va turdagi) home&you 54814-ZIE9-39/40 INGRID",
+        "nameRU": "Тапочки женские (всех форм и видов) home&you 54814-ZIE9-39/40 INGRID",
+        "groupCODE": "064",
+        "groupNameUZ": "ПОЙАБЗАЛ ВА УНИНГ ТАФСИЛОТЛАРИ ",
+        "groupNameRU": "ОБУВЬ И АНАЛОГИЧНЫЕ ИЗДЕЛИЯ; ИХ ДЕТАЛИ",
+        "groupNameLAT": "POYABZAL VA UNING TAFSILOTLARI "
+      },
+      {
+        "mxikCode": "06401003005001027",
+        "nameUZ": "Aёллар шиппаклари (барча шакл ва турдаги) home&you 62020-CZA-37/38 JETS",
+        "nameLAT": "Ayollar shippaklari (barcha shakl va turdagi) home&you 62020-CZA-37/38 JETS",
+        "nameRU": "Тапочки женские (всех форм и видов) home&you 62020-CZA-37/38 JETS",
+        "groupCODE": "064",
+        "groupNameUZ": "ПОЙАБЗАЛ ВА УНИНГ ТАФСИЛОТЛАРИ ",
+        "groupNameRU": "ОБУВЬ И АНАЛОГИЧНЫЕ ИЗДЕЛИЯ; ИХ ДЕТАЛИ",
+        "groupNameLAT": "POYABZAL VA UNING TAFSILOTLARI "
+      },
+      {
+        "mxikCode": "06401003005001016",
+        "nameUZ": "Aёллар шиппаклари (барча шакл ва турдаги) home&you 61221-SZA-37/38 MODICA",
+        "nameLAT": "Ayollar shippaklari (barcha shakl va turdagi) home&you 61221-SZA-37/38 MODICA",
+        "nameRU": "Тапочки женские (всех форм и видов) home&you 61221-SZA-37/38 MODICA",
+        "groupCODE": "064",
+        "groupNameUZ": "ПОЙАБЗАЛ ВА УНИНГ ТАФСИЛОТЛАРИ ",
+        "groupNameRU": "ОБУВЬ И АНАЛОГИЧНЫЕ ИЗДЕЛИЯ; ИХ ДЕТАЛИ",
+        "groupNameLAT": "POYABZAL VA UNING TAFSILOTLARI "
+      },
+      {
+        "mxikCode": "06401003005001006",
+        "nameUZ": "Aёллар шиппаклари (барча шакл ва турдаги) home&you 54814-ZLO-39/40 INGRID",
+        "nameLAT": "Ayollar shippaklari (barcha shakl va turdagi) home&you 54814-ZLO-39/40 INGRID",
+        "nameRU": "Тапочки женские (всех форм и видов) home&you 54814-ZLO-39/40 INGRID",
+        "groupCODE": "064",
+        "groupNameUZ": "ПОЙАБЗАЛ ВА УНИНГ ТАФСИЛОТЛАРИ ",
+        "groupNameRU": "ОБУВЬ И АНАЛОГИЧНЫЕ ИЗДЕЛИЯ; ИХ ДЕТАЛИ",
+        "groupNameLAT": "POYABZAL VA UNING TAFSILOTLARI "
+      },
+      {
+        "mxikCode": "06401003005001012",
+        "nameUZ": "Aёллар шиппаклари (барча шакл ва турдаги) home&you 54819-ZLO-39/40 RIBBON",
+        "nameLAT": "Ayollar shippaklari (barcha shakl va turdagi) home&you 54819-ZLO-39/40 RIBBON",
+        "nameRU": "Тапочки женские (всех форм и видов) home&you 54819-ZLO-39/40 RIBBON",
+        "groupCODE": "064",
+        "groupNameUZ": "ПОЙАБЗАЛ ВА УНИНГ ТАФСИЛОТЛАРИ ",
+        "groupNameRU": "ОБУВЬ И АНАЛОГИЧНЫЕ ИЗДЕЛИЯ; ИХ ДЕТАЛИ",
+        "groupNameLAT": "POYABZAL VA UNING TAFSILOTLARI "
+      },
+      {
+        "mxikCode": "06401003005001019",
+        "nameUZ": "Aёллар шиппаклари (барча шакл ва турдаги) home&you 43240-ROZ1-38/39 BAFFIES",
+        "nameLAT": "Ayollar shippaklari (barcha shakl va turdagi) home&you 43240-ROZ1-38/39 BAFFIES",
+        "nameRU": "Тапочки женские (всех форм и видов) home&you 43240-ROZ1-38/39 BAFFIES",
+        "groupCODE": "064",
+        "groupNameUZ": "ПОЙАБЗАЛ ВА УНИНГ ТАФСИЛОТЛАРИ ",
+        "groupNameRU": "ОБУВЬ И АНАЛОГИЧНЫЕ ИЗДЕЛИЯ; ИХ ДЕТАЛИ",
+        "groupNameLAT": "POYABZAL VA UNING TAFSILOTLARI "
+      },
+      {
+        "mxikCode": "06401003005001026",
+        "nameUZ": "Aёллар шиппаклари (барча шакл ва турдаги) home&you 54814-ZIE9-37/38 INGRID",
+        "nameLAT": "Ayollar shippaklari (barcha shakl va turdagi) home&you 54814-ZIE9-37/38 INGRID",
+        "nameRU": "Тапочки женские (всех форм и видов) home&you 54814-ZIE9-37/38 INGRID",
+        "groupCODE": "064",
+        "groupNameUZ": "ПОЙАБЗАЛ ВА УНИНГ ТАФСИЛОТЛАРИ ",
+        "groupNameRU": "ОБУВЬ И АНАЛОГИЧНЫЕ ИЗДЕЛИЯ; ИХ ДЕТАЛИ",
+        "groupNameLAT": "POYABZAL VA UNING TAFSILOTLARI "
+      },
+      {
+        "mxikCode": "06401003005001007",
+        "nameUZ": "Aёллар шиппаклари (барча шакл ва турдаги) home&you 54819-ROZ1-37/38 RIBBON",
+        "nameLAT": "Ayollar shippaklari (barcha shakl va turdagi) home&you 54819-ROZ1-37/38 RIBBON",
+        "nameRU": "Тапочки женские (всех форм и видов) home&you 54819-ROZ1-37/38 RIBBON",
+        "groupCODE": "064",
+        "groupNameUZ": "ПОЙАБЗАЛ ВА УНИНГ ТАФСИЛОТЛАРИ ",
+        "groupNameRU": "ОБУВЬ И АНАЛОГИЧНЫЕ ИЗДЕЛИЯ; ИХ ДЕТАЛИ",
+        "groupNameLAT": "POYABZAL VA UNING TAFSILOTLARI "
+      },
+      {
+        "mxikCode": "06401003005001018",
+        "nameUZ": "Aёллар шиппаклари (барча шакл ва турдаги) home&you 61221-ZIE9-37/38 MODICA",
+        "nameLAT": "Ayollar shippaklari (barcha shakl va turdagi) home&you 61221-ZIE9-37/38 MODICA",
+        "nameRU": "Тапочки женские (всех форм и видов) home&you 61221-ZIE9-37/38 MODICA",
+        "groupCODE": "064",
+        "groupNameUZ": "ПОЙАБЗАЛ ВА УНИНГ ТАФСИЛОТЛАРИ ",
+        "groupNameRU": "ОБУВЬ И АНАЛОГИЧНЫЕ ИЗДЕЛИЯ; ИХ ДЕТАЛИ",
+        "groupNameLAT": "POYABZAL VA UNING TAFSILOTLARI "
+      },
+      {
+        "mxikCode": "06401003005001028",
+        "nameUZ": "Aёллар шиппаклари (барча шакл ва турдаги) home&you 62020-CZA-39/40 JETS",
+        "nameLAT": "Ayollar shippaklari (barcha shakl va turdagi) home&you 62020-CZA-39/40 JETS",
+        "nameRU": "Тапочки женские (всех форм и видов) home&you 62020-CZA-39/40 JETS",
+        "groupCODE": "064",
+        "groupNameUZ": "ПОЙАБЗАЛ ВА УНИНГ ТАФСИЛОТЛАРИ ",
+        "groupNameRU": "ОБУВЬ И АНАЛОГИЧНЫЕ ИЗДЕЛИЯ; ИХ ДЕТАЛИ",
+        "groupNameLAT": "POYABZAL VA UNING TAFSILOTLARI "
+      },
+      {
+        "mxikCode": "06401003005001014",
+        "nameUZ": "Aёллар шиппаклари (барча шакл ва турдаги) home&you 55940-MIX-37/38 TAXUS",
+        "nameLAT": "Ayollar shippaklari (barcha shakl va turdagi) home&you 55940-MIX-37/38 TAXUS",
+        "nameRU": "Тапочки женские (всех форм и видов) home&you 55940-MIX-37/38 TAXUS",
+        "groupCODE": "064",
+        "groupNameUZ": "ПОЙАБЗАЛ ВА УНИНГ ТАФСИЛОТЛАРИ ",
+        "groupNameRU": "ОБУВЬ И АНАЛОГИЧНЫЕ ИЗДЕЛИЯ; ИХ ДЕТАЛИ",
+        "groupNameLAT": "POYABZAL VA UNING TAFSILOTLARI "
+      },
+      {
+        "mxikCode": "06401003005001020",
+        "nameUZ": "Aёллар шиппаклари (барча шакл ва турдаги) home&you 54814-CZA-37/38 INGRID",
+        "nameLAT": "Ayollar shippaklari (barcha shakl va turdagi) home&you 54814-CZA-37/38 INGRID",
+        "nameRU": "Тапочки женские (всех форм и видов) home&you 54814-CZA-37/38 INGRID",
+        "groupCODE": "064",
+        "groupNameUZ": "ПОЙАБЗАЛ ВА УНИНГ ТАФСИЛОТЛАРИ ",
+        "groupNameRU": "ОБУВЬ И АНАЛОГИЧНЫЕ ИЗДЕЛИЯ; ИХ ДЕТАЛИ",
+        "groupNameLAT": "POYABZAL VA UNING TAFSILOTLARI "
+      },
+      {
+        "mxikCode": "06401002004001004",
+        "nameUZ": "Эркаклар спорт пойабзаллари (барча шакл ва турдаги) UZB patriot ранг қора оқ таглик билан ўлчами 43 ,картон қоғоз 1",
+        "nameLAT": "Erkaklar sport poyabzallari (barcha shakl va turdagi) UZB patriot rang qora oq taglik bilan o’lchami 43 ,karton qog’oz 1",
+        "nameRU": "Спортивная обувь мужская (всех форм и видов) UZB patriot цвет черные с белой подошвой размер 43 ,картонная бумага 1 дона",
+        "groupCODE": "064",
+        "groupNameUZ": "ПОЙАБЗАЛ ВА УНИНГ ТАФСИЛОТЛАРИ ",
+        "groupNameRU": "ОБУВЬ И АНАЛОГИЧНЫЕ ИЗДЕЛИЯ; ИХ ДЕТАЛИ",
+        "groupNameLAT": "POYABZAL VA UNING TAFSILOTLARI "
+      },
+      {
+        "mxikCode": "06401002004001005",
+        "nameUZ": "Эркаклар спорт пойабзаллари (барча шакл ва турдаги) UZB patriot ранг қора оқ таглик билан ўлчами 44 ,картон қоғоз 1",
+        "nameLAT": "Erkaklar sport poyabzallari (barcha shakl va turdagi) UZB patriot rang qora oq taglik bilan o’lchami 44 ,karton qog’oz 1",
+        "nameRU": "Спортивная обувь мужская (всех форм и видов) UZB patriot цвет черные с белой подошвой размер 44 ,картонная бумага 1 дона",
+        "groupCODE": "064",
+        "groupNameUZ": "ПОЙАБЗАЛ ВА УНИНГ ТАФСИЛОТЛАРИ ",
+        "groupNameRU": "ОБУВЬ И АНАЛОГИЧНЫЕ ИЗДЕЛИЯ; ИХ ДЕТАЛИ",
+        "groupNameLAT": "POYABZAL VA UNING TAFSILOTLARI "
+      },
+      {
+        "mxikCode": "06401002004001009",
+        "nameUZ": "Эркаклар спорт пойабзаллари (барча шакл ва турдаги) UZB patriot қора рангли оқ таглик билан ўлчами 39 ,картон қоғоз 1",
+        "nameLAT": "Erkaklar sport poyabzallari (barcha shakl va turdagi) UZB patriot qora rangli oq taglik bilan o’lchami 39 ,karton qog’oz 1",
+        "nameRU": "Спортивная обувь мужская (всех форм и видов) UZB patriot цвет черный с белой подошвой размер 39 ,картонная бумага 1 дона",
+        "groupCODE": "064",
+        "groupNameUZ": "ПОЙАБЗАЛ ВА УНИНГ ТАФСИЛОТЛАРИ ",
+        "groupNameRU": "ОБУВЬ И АНАЛОГИЧНЫЕ ИЗДЕЛИЯ; ИХ ДЕТАЛИ",
+        "groupNameLAT": "POYABZAL VA UNING TAFSILOTLARI "
+      },
+      {
+        "mxikCode": "06401002004001012",
+        "nameUZ": "Эркаклар спорт пойабзаллари (барча шакл ва турдаги) UZB patriot қора рангли қора таглик билан ўлчами 38 ,картон қоғоз 1",
+        "nameLAT": "Erkaklar sport poyabzallari (barcha shakl va turdagi) UZB patriot qora rangli qora taglik bilan o’lchami 38 ,karton qog’oz 1",
+        "nameRU": "Спортивная обувь мужская (всех форм и видов) UZB patriot цвет черный с черной подошвой размер 38 ,картонная бумага 1 дона",
+        "groupCODE": "064",
+        "groupNameUZ": "ПОЙАБЗАЛ ВА УНИНГ ТАФСИЛОТЛАРИ ",
+        "groupNameRU": "ОБУВЬ И АНАЛОГИЧНЫЕ ИЗДЕЛИЯ; ИХ ДЕТАЛИ",
+        "groupNameLAT": "POYABZAL VA UNING TAFSILOTLARI "
+      },
+      {
+        "mxikCode": "06401002004001001",
+        "nameUZ": "Эркаклар спорт пойабзаллари (барча шакл ва турдаги) UZB patriot ранг қора оқ таглик билан ўлчами 40 ,картон қоғоз 1",
+        "nameLAT": "Erkaklar sport poyabzallari (barcha shakl va turdagi) UZB patriot rang qora oq taglik bilan o’lchami 40 ,karton qog’oz 1",
+        "nameRU": "Спортивная обувь мужская (всех форм и видов) UZB patriot цвет черные с белой подошвой размер 40 ,картонная бумага 1 дона",
+        "groupCODE": "064",
+        "groupNameUZ": "ПОЙАБЗАЛ ВА УНИНГ ТАФСИЛОТЛАРИ ",
+        "groupNameRU": "ОБУВЬ И АНАЛОГИЧНЫЕ ИЗДЕЛИЯ; ИХ ДЕТАЛИ",
+        "groupNameLAT": "POYABZAL VA UNING TAFSILOTLARI "
+      },
+      {
+        "mxikCode": "06401002004001007",
+        "nameUZ": "Эркаклар спорт пойабзаллари (барча шакл ва турдаги) UZB patriot қора рангли оқ таглик билан ўлчами 37 ,картон қоғоз 1",
+        "nameLAT": "Erkaklar sport poyabzallari (barcha shakl va turdagi) UZB patriot qora rangli oq taglik bilan o’lchami 37 ,karton qog’oz 1",
+        "nameRU": "Спортивная обувь мужская (всех форм и видов) UZB patriot цвет черный с белой подошвой размер 37 ,картонная бумага 1 дона",
+        "groupCODE": "064",
+        "groupNameUZ": "ПОЙАБЗАЛ ВА УНИНГ ТАФСИЛОТЛАРИ ",
+        "groupNameRU": "ОБУВЬ И АНАЛОГИЧНЫЕ ИЗДЕЛИЯ; ИХ ДЕТАЛИ",
+        "groupNameLAT": "POYABZAL VA UNING TAFSILOTLARI "
+      },
+      {
+        "mxikCode": "06401002004002002",
+        "nameUZ": "Эркаклар спорт пойабзаллари (барча шакл ва турдаги) Falak эркак учун, қора рангли жуфт",
+        "nameLAT": "Erkaklar sport poyabzallari (barcha shakl va turdagi) Falak erkak uchun, qora rangli juft",
+        "nameRU": "Спортивная обувь мужская (всех форм и видов) Falak мужские, цвет черный , одна пара",
+        "groupCODE": "064",
+        "groupNameUZ": "ПОЙАБЗАЛ ВА УНИНГ ТАФСИЛОТЛАРИ ",
+        "groupNameRU": "ОБУВЬ И АНАЛОГИЧНЫЕ ИЗДЕЛИЯ; ИХ ДЕТАЛИ",
+        "groupNameLAT": "POYABZAL VA UNING TAFSILOTLARI "
+      },
+      {
+        "mxikCode": "06401002004001018",
+        "nameUZ": "Эркаклар спорт пойабзаллари (барча шакл ва турдаги) UZB patriot қора рангли қора таглик билан ўлчами 44 ,картон қоғоз 1",
+        "nameLAT": "Erkaklar sport poyabzallari (barcha shakl va turdagi) UZB patriot qora rangli qora taglik bilan o’lchami 44 ,karton qog’oz 1",
+        "nameRU": "Спортивная обувь мужская (всех форм и видов) UZB patriot цвет черный с черной подошвой размер 44 ,картонная бумага 1 дона",
+        "groupCODE": "064",
+        "groupNameUZ": "ПОЙАБЗАЛ ВА УНИНГ ТАФСИЛОТЛАРИ ",
+        "groupNameRU": "ОБУВЬ И АНАЛОГИЧНЫЕ ИЗДЕЛИЯ; ИХ ДЕТАЛИ",
+        "groupNameLAT": "POYABZAL VA UNING TAFSILOTLARI "
+      },
+      {
+        "mxikCode": "06401002004001006",
+        "nameUZ": "Эркаклар спорт пойабзаллари (барча шакл ва турдаги) UZB patriot қора рангли оқ таглик билан ўлчами 36 ,картон қоғоз 1",
+        "nameLAT": "Erkaklar sport poyabzallari (barcha shakl va turdagi) UZB patriot qora rangli oq taglik bilan o’lchami 36 ,karton qog’oz 1",
+        "nameRU": "Спортивная обувь мужская (всех форм и видов) UZB patriot цвет черный с белой подошвой размер 36 ,картонная бумага 1 дона",
+        "groupCODE": "064",
+        "groupNameUZ": "ПОЙАБЗАЛ ВА УНИНГ ТАФСИЛОТЛАРИ ",
+        "groupNameRU": "ОБУВЬ И АНАЛОГИЧНЫЕ ИЗДЕЛИЯ; ИХ ДЕТАЛИ",
+        "groupNameLAT": "POYABZAL VA UNING TAFSILOTLARI "
+      },
+      {
+        "mxikCode": "06401002004001010",
+        "nameUZ": "Эркаклар спорт пойабзаллари (барча шакл ва турдаги) UZB patriot қора рангли қора таглик билан ўлчами 36 ,картон қоғоз 1",
+        "nameLAT": "Erkaklar sport poyabzallari (barcha shakl va turdagi) UZB patriot qora rangli qora taglik bilan o’lchami 36 ,karton qog’oz 1",
+        "nameRU": "Спортивная обувь мужская (всех форм и видов) UZB patriot цвет черный с черной подошвой размер 36 ,картонная бумага 1 дона",
+        "groupCODE": "064",
+        "groupNameUZ": "ПОЙАБЗАЛ ВА УНИНГ ТАФСИЛОТЛАРИ ",
+        "groupNameRU": "ОБУВЬ И АНАЛОГИЧНЫЕ ИЗДЕЛИЯ; ИХ ДЕТАЛИ",
+        "groupNameLAT": "POYABZAL VA UNING TAFSILOTLARI "
+      },
+      {
+        "mxikCode": "06401002004001014",
+        "nameUZ": "Эркаклар спорт пойабзаллари (барча шакл ва турдаги) UZB patriot қора рангли қора таглик билан ўлчами 40 ,картон қоғоз 1",
+        "nameLAT": "Erkaklar sport poyabzallari (barcha shakl va turdagi) UZB patriot qora rangli qora taglik bilan o’lchami 40 ,karton qog’oz 1",
+        "nameRU": "Спортивная обувь мужская (всех форм и видов) UZB patriot цвет черный с черной подошвой размер 40 ,картонная бумага 1 дона",
+        "groupCODE": "064",
+        "groupNameUZ": "ПОЙАБЗАЛ ВА УНИНГ ТАФСИЛОТЛАРИ ",
+        "groupNameRU": "ОБУВЬ И АНАЛОГИЧНЫЕ ИЗДЕЛИЯ; ИХ ДЕТАЛИ",
+        "groupNameLAT": "POYABZAL VA UNING TAFSILOTLARI "
+      },
+      {
+        "mxikCode": "06401002004001015",
+        "nameUZ": "Эркаклар спорт пойабзаллари (барча шакл ва турдаги) UZB patriot қора рангли қора таглик билан ўлчами 41 ,картон қоғоз 1",
+        "nameLAT": "Erkaklar sport poyabzallari (barcha shakl va turdagi) UZB patriot qora rangli qora taglik bilan o’lchami 41 ,karton qog’oz 1",
+        "nameRU": "Спортивная обувь мужская (всех форм и видов) UZB patriot цвет черный с черной подошвой размер 41 ,картонная бумага 1 дона",
+        "groupCODE": "064",
+        "groupNameUZ": "ПОЙАБЗАЛ ВА УНИНГ ТАФСИЛОТЛАРИ ",
+        "groupNameRU": "ОБУВЬ И АНАЛОГИЧНЫЕ ИЗДЕЛИЯ; ИХ ДЕТАЛИ",
+        "groupNameLAT": "POYABZAL VA UNING TAFSILOTLARI "
+      },
+      {
+        "mxikCode": "06401002004001008",
+        "nameUZ": "Эркаклар спорт пойабзаллари (барча шакл ва турдаги) UZB patriot қора рангли оқ таглик билан ўлчами 38 ,картон қоғоз 1",
+        "nameLAT": "Erkaklar sport poyabzallari (barcha shakl va turdagi) UZB patriot qora rangli oq taglik bilan o’lchami 38 ,karton qog’oz 1",
+        "nameRU": "Спортивная обувь мужская (всех форм и видов) UZB patriot цвет черный с белой подошвой размер 38 ,картонная бумага 1 дона",
+        "groupCODE": "064",
+        "groupNameUZ": "ПОЙАБЗАЛ ВА УНИНГ ТАФСИЛОТЛАРИ ",
+        "groupNameRU": "ОБУВЬ И АНАЛОГИЧНЫЕ ИЗДЕЛИЯ; ИХ ДЕТАЛИ",
+        "groupNameLAT": "POYABZAL VA UNING TAFSILOTLARI "
+      },
+      {
+        "mxikCode": "06401002004001013",
+        "nameUZ": "Эркаклар спорт пойабзаллари (барча шакл ва турдаги) UZB patriot қора рангли қора таглик билан ўлчами 39 ,картон қоғоз 1",
+        "nameLAT": "Erkaklar sport poyabzallari (barcha shakl va turdagi) UZB patriot qora rangli qora taglik bilan o’lchami 39 ,karton qog’oz 1",
+        "nameRU": "Спортивная обувь мужская (всех форм и видов) UZB patriot цвет черный с черной подошвой размер 39 ,картонная бумага 1 дона",
+        "groupCODE": "064",
+        "groupNameUZ": "ПОЙАБЗАЛ ВА УНИНГ ТАФСИЛОТЛАРИ ",
+        "groupNameRU": "ОБУВЬ И АНАЛОГИЧНЫЕ ИЗДЕЛИЯ; ИХ ДЕТАЛИ",
+        "groupNameLAT": "POYABZAL VA UNING TAFSILOTLARI "
+      },
+      {
+        "mxikCode": "06401002004001017",
+        "nameUZ": "Эркаклар спорт пойабзаллари (барча шакл ва турдаги) UZB patriot қора рангли қора таглик билан ўлчами 43 ,картон қоғоз 1",
+        "nameLAT": "Erkaklar sport poyabzallari (barcha shakl va turdagi) UZB patriot qora rangli qora taglik bilan o’lchami 43 ,karton qog’oz 1",
+        "nameRU": "Спортивная обувь мужская (всех форм и видов) UZB patriot цвет черный с черной подошвой размер 43 ,картонная бумага 1 дона",
+        "groupCODE": "064",
+        "groupNameUZ": "ПОЙАБЗАЛ ВА УНИНГ ТАФСИЛОТЛАРИ ",
+        "groupNameRU": "ОБУВЬ И АНАЛОГИЧНЫЕ ИЗДЕЛИЯ; ИХ ДЕТАЛИ",
+        "groupNameLAT": "POYABZAL VA UNING TAFSILOTLARI "
+      },
+      {
+        "mxikCode": "06401002004000000",
+        "nameUZ": "Эркаклар спорт пойабзаллари (барча шакл ва турдаги)",
+        "nameLAT": "Erkaklar sport poyabzallari (barcha shakl va turdagi)",
+        "nameRU": "Спортивная обувь мужская (всех форм и видов)",
+        "groupCODE": "064",
+        "groupNameUZ": "ПОЙАБЗАЛ ВА УНИНГ ТАФСИЛОТЛАРИ ",
+        "groupNameRU": "ОБУВЬ И АНАЛОГИЧНЫЕ ИЗДЕЛИЯ; ИХ ДЕТАЛИ",
+        "groupNameLAT": "POYABZAL VA UNING TAFSILOTLARI "
+      },
+      {
+        "mxikCode": "06401002004002001",
+        "nameUZ": "Эркаклар спорт пойабзаллари (барча шакл ва турдаги) Falak эркак учун, сарғиш ранг жуфт",
+        "nameLAT": "Erkaklar sport poyabzallari (barcha shakl va turdagi) Falak erkak uchun, sarg’ish rang juft",
+        "nameRU": "Спортивная обувь мужская (всех форм и видов) Falak мужские, цвет бежевый , одна пара",
+        "groupCODE": "064",
+        "groupNameUZ": "ПОЙАБЗАЛ ВА УНИНГ ТАФСИЛОТЛАРИ ",
+        "groupNameRU": "ОБУВЬ И АНАЛОГИЧНЫЕ ИЗДЕЛИЯ; ИХ ДЕТАЛИ",
+        "groupNameLAT": "POYABZAL VA UNING TAFSILOTLARI "
+      },
+      {
+        "mxikCode": "06401002004001011",
+        "nameUZ": "Эркаклар спорт пойабзаллари (барча шакл ва турдаги) UZB patriot қора рангли қора таглик билан ўлчами 37 ,картон қоғоз 1",
+        "nameLAT": "Erkaklar sport poyabzallari (barcha shakl va turdagi) UZB patriot qora rangli qora taglik bilan o’lchami 37 ,karton qog’oz 1",
+        "nameRU": "Спортивная обувь мужская (всех форм и видов) UZB patriot цвет черный с черной подошвой размер 37 ,картонная бумага 1 дона",
+        "groupCODE": "064",
+        "groupNameUZ": "ПОЙАБЗАЛ ВА УНИНГ ТАФСИЛОТЛАРИ ",
+        "groupNameRU": "ОБУВЬ И АНАЛОГИЧНЫЕ ИЗДЕЛИЯ; ИХ ДЕТАЛИ",
+        "groupNameLAT": "POYABZAL VA UNING TAFSILOTLARI "
+      },
+      {
+        "mxikCode": "06401003005001005",
+        "nameUZ": "Aёллар шиппаклари (барча шакл ва турдаги) home&you 54814-ZLO-37/38 INGRID",
+        "nameLAT": "Ayollar shippaklari (barcha shakl va turdagi) home&you 54814-ZLO-37/38 INGRID",
+        "nameRU": "Тапочки женские (всех форм и видов) home&you 54814-ZLO-37/38 INGRID",
+        "groupCODE": "064",
+        "groupNameUZ": "ПОЙАБЗАЛ ВА УНИНГ ТАФСИЛОТЛАРИ ",
+        "groupNameRU": "ОБУВЬ И АНАЛОГИЧНЫЕ ИЗДЕЛИЯ; ИХ ДЕТАЛИ",
+        "groupNameLAT": "POYABZAL VA UNING TAFSILOTLARI "
+      },
+      {
+        "mxikCode": "06401002004001016",
+        "nameUZ": "Эркаклар спорт пойабзаллари (барча шакл ва турдаги) UZB patriot қора рангли қора таглик билан ўлчами 42 ,картон қоғоз 1",
+        "nameLAT": "Erkaklar sport poyabzallari (barcha shakl va turdagi) UZB patriot qora rangli qora taglik bilan o’lchami 42 ,karton qog’oz 1",
+        "nameRU": "Спортивная обувь мужская (всех форм и видов) UZB patriot цвет черный с черной подошвой размер 42 ,картонная бумага 1 дона",
+        "groupCODE": "064",
+        "groupNameUZ": "ПОЙАБЗАЛ ВА УНИНГ ТАФСИЛОТЛАРИ ",
+        "groupNameRU": "ОБУВЬ И АНАЛОГИЧНЫЕ ИЗДЕЛИЯ; ИХ ДЕТАЛИ",
+        "groupNameLAT": "POYABZAL VA UNING TAFSILOTLARI "
+      },
+      {
+        "mxikCode": "06401002005000000",
+        "nameUZ": "Aёллар учун спорт пойабзали (барча шакл ва турдаги)",
+        "nameLAT": "Ayollar uchun sport poyabzali (barcha shakl va turdagi)",
+        "nameRU": "Спортивная обувь женская (всех форм и видов)",
+        "groupCODE": "064",
+        "groupNameUZ": "ПОЙАБЗАЛ ВА УНИНГ ТАФСИЛОТЛАРИ ",
+        "groupNameRU": "ОБУВЬ И АНАЛОГИЧНЫЕ ИЗДЕЛИЯ; ИХ ДЕТАЛИ",
+        "groupNameLAT": "POYABZAL VA UNING TAFSILOTLARI "
+      },
+      {
+        "mxikCode": "06401003005001025",
+        "nameUZ": "Aёллар шиппаклари (барча шакл ва турдаги) home&you 54814-MIX-39/40 INGRID",
+        "nameLAT": "Ayollar shippaklari (barcha shakl va turdagi) home&you 54814-MIX-39/40 INGRID",
+        "nameRU": "Тапочки женские (всех форм и видов) home&you 54814-MIX-39/40 INGRID",
+        "groupCODE": "064",
+        "groupNameUZ": "ПОЙАБЗАЛ ВА УНИНГ ТАФСИЛОТЛАРИ ",
+        "groupNameRU": "ОБУВЬ И АНАЛОГИЧНЫЕ ИЗДЕЛИЯ; ИХ ДЕТАЛИ",
+        "groupNameLAT": "POYABZAL VA UNING TAFSILOTLARI "
+      },
+      {
+        "mxikCode": "06401003005001011",
+        "nameUZ": "Aёллар шиппаклари (барча шакл ва турдаги) home&you 54819-ZIE-39/40 RIBBON",
+        "nameLAT": "Ayollar shippaklari (barcha shakl va turdagi) home&you 54819-ZIE-39/40 RIBBON",
+        "nameRU": "Тапочки женские (всех форм и видов) home&you 54819-ZIE-39/40 RIBBON",
+        "groupCODE": "064",
+        "groupNameUZ": "ПОЙАБЗАЛ ВА УНИНГ ТАФСИЛОТЛАРИ ",
+        "groupNameRU": "ОБУВЬ И АНАЛОГИЧНЫЕ ИЗДЕЛИЯ; ИХ ДЕТАЛИ",
+        "groupNameLAT": "POYABZAL VA UNING TAFSILOTLARI "
+      },
+      {
+        "mxikCode": "06401003005001022",
+        "nameUZ": "Aёллар шиппаклари (барча шакл ва турдаги) home&you 54814-MIX-37/38 INGRID",
+        "nameLAT": "Ayollar shippaklari (barcha shakl va turdagi) home&you 54814-MIX-37/38 INGRID",
+        "nameRU": "Тапочки женские (всех форм и видов) home&you 54814-MIX-37/38 INGRID",
+        "groupCODE": "064",
+        "groupNameUZ": "ПОЙАБЗАЛ ВА УНИНГ ТАФСИЛОТЛАРИ ",
+        "groupNameRU": "ОБУВЬ И АНАЛОГИЧНЫЕ ИЗДЕЛИЯ; ИХ ДЕТАЛИ",
+        "groupNameLAT": "POYABZAL VA UNING TAFSILOTLARI "
+      },
+      {
+        "mxikCode": "06401003005001010",
+        "nameUZ": "Aёллар шиппаклари (барча шакл ва турдаги) home&you 54819-ZIE-37/38 RIBBON",
+        "nameLAT": "Ayollar shippaklari (barcha shakl va turdagi) home&you 54819-ZIE-37/38 RIBBON",
+        "nameRU": "Тапочки женские (всех форм и видов) home&you 54819-ZIE-37/38 RIBBON",
+        "groupCODE": "064",
+        "groupNameUZ": "ПОЙАБЗАЛ ВА УНИНГ ТАФСИЛОТЛАРИ ",
+        "groupNameRU": "ОБУВЬ И АНАЛОГИЧНЫЕ ИЗДЕЛИЯ; ИХ ДЕТАЛИ",
+        "groupNameLAT": "POYABZAL VA UNING TAFSILOTLARI "
+      }
+    ],
+    "recordTotal": 80,
+    "errors": null,
+    "permitted": false
+  }
+}

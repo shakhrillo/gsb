@@ -1,0 +1,937 @@
+{
+  "metadata": {
+    "groupId": 31,
+    "fetchedAt": "2025-07-12T16:32:02.378Z",
+    "source": "https://tasnif.soliq.uz/api/cl-api/integration-mxik/references/group/code?group=31"
+  },
+  "data": {
+    "success": true,
+    "code": 200,
+    "reason": null,
+    "data": [
+      {
+        "mxikCode": "03102003005000000",
+        "nameUZ": "Натрийли селитра",
+        "nameLAT": "Natriyli selitra",
+        "nameRU": "Натриевая селитра",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      },
+      {
+        "mxikCode": "03102003004000000",
+        "nameUZ": "Кальцийли селитра",
+        "nameLAT": "Kaltsiyli selitra",
+        "nameRU": "Кальциевая селитра",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      },
+      {
+        "mxikCode": "03102001002000000",
+        "nameUZ": "Aммоний сулфат",
+        "nameLAT": "Ammoniy sulfat",
+        "nameRU": "Сульфат аммония",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      },
+      {
+        "mxikCode": "03105002001001003",
+        "nameUZ": "Калий гумати Гумат калия суюқ ўсимликлар ва дарахтлар учун, пэт бутилка 5 кг",
+        "nameLAT": "Kaliy gumati Гумат калия suyuq o’simliklar va daraxtlar uchun, pet butilka 5 kg",
+        "nameRU": "Гумат калия Гумат калия жидкое для растений и деревьев, пэт бутылка 5 кг",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      },
+      {
+        "mxikCode": "03105002001001005",
+        "nameUZ": "Калий гумати Гумат калия суюқ ўсимликлар ва дарахтлар учун, пэт бутилка 25 кг",
+        "nameLAT": "Kaliy gumati Гумат калия suyuq o’simliklar va daraxtlar uchun, pet butilka 25 kg",
+        "nameRU": "Гумат калия Гумат калия жидкое для растений и деревьев, пэт бутылка 25 кг",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      },
+      {
+        "mxikCode": "03102002002000000",
+        "nameUZ": "Цианамид кальций",
+        "nameLAT": "Sianamid kaltsiy",
+        "nameRU": "Цианамид кальция",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      },
+      {
+        "mxikCode": "03102003003000000",
+        "nameUZ": "Калийли селитра",
+        "nameLAT": "Kaliyli selitra",
+        "nameRU": "Калиевая селитра",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      },
+      {
+        "mxikCode": "03105002001001001",
+        "nameUZ": "Калий гумати Гумат калия суюқ ўсимликлар ва дарахтлар учун, пэт бутилка 1 кг",
+        "nameLAT": "Kaliy gumati Гумат калия suyuq o’simliklar va daraxtlar uchun, pet butilka 1 kg",
+        "nameRU": "Гумат калия Гумат калия жидкое для растений и деревьев, пэт бутылка 1 кг",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      },
+      {
+        "mxikCode": "03105002001001002",
+        "nameUZ": "Калий гумати Гумат калия суюқ ўсимликлар ва дарахтлар учун, пэт бутилка 3 кг",
+        "nameLAT": "Kaliy gumati Гумат калия suyuq o’simliklar va daraxtlar uchun, pet butilka 3 kg",
+        "nameRU": "Гумат калия Гумат калия жидкое для растений и деревьев, пэт бутылка 3 кг",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      },
+      {
+        "mxikCode": "03105002001001006",
+        "nameUZ": "Калий гумати Гумат калия суюқ ўсимликлар ва дарахтлар учун, пластмасса еврокуб 1000 г",
+        "nameLAT": "Kaliy gumati Гумат калия suyuq o’simliklar va daraxtlar uchun, plastmassa yevrokub 1000 g",
+        "nameRU": "Гумат калия Гумат калия жидкое для растений и деревьев, пластмассовый еврокуб 1000 г",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      },
+      {
+        "mxikCode": "03105002001001004",
+        "nameUZ": "Калий гумати Гумат калия суюқ ўсимликлар ва дарахтлар учун, пэт бутилка 20 кг",
+        "nameLAT": "Kaliy gumati Гумат калия suyuq o’simliklar va daraxtlar uchun, pet butilka 20 kg",
+        "nameRU": "Гумат калия Гумат калия жидкое для растений и деревьев, пэт бутылка 20 кг",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      },
+      {
+        "mxikCode": "03105001004002004",
+        "nameUZ": "Микроўғитлар IMPETUS NOVA CHEMICALS суюқ ўсимликлар ва дарахтлар учун, пэт бутилка 1 кг",
+        "nameLAT": "Mikroo’g’itlar IMPETUS NOVA CHEMICALS suyuq o’simliklar va daraxtlar uchun, pet butilka 1 kg",
+        "nameRU": "Микроудобрение IMPETUS NOVA CHEMICALS жидкое для растений и деревьев, пэт бутылка 1 кг",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      },
+      {
+        "mxikCode": "03104001001000002",
+        "nameUZ": "Калий хлорид Калий хлорли бойитилган эритма",
+        "nameLAT": "Kaliy xlorid Kaliy xlorli boyitilgan eritma",
+        "nameRU": "Хлорид калия (калий хлористый) Калий хлористый насыщенный р-р",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      },
+      {
+        "mxikCode": "03104001001000005",
+        "nameUZ": "Калий хлорид Калий хлорид \"хч\"",
+        "nameLAT": "Kaliy xlorid Kaliy xlorid \"xch\"",
+        "nameRU": "Хлорид калия (калий хлористый) Калий хлористый \"хч\"",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      },
+      {
+        "mxikCode": "03104001001000008",
+        "nameUZ": "Калий хлорид Калий хлорид 3М р-р",
+        "nameLAT": "Kaliy xlorid Kaliy xlorid 3M r-r",
+        "nameRU": "Хлорид калия (калий хлористый) Калий хлористый 3М р-р",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      },
+      {
+        "mxikCode": "03104001001000004",
+        "nameUZ": "Калий хлорид Стандарт-титр калий хлорли амп",
+        "nameLAT": "Kaliy xlorid Standart-titr kaliy xlorli amp",
+        "nameRU": "Хлорид калия (калий хлористый) Стандарт-титр калий хлористый амп",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      },
+      {
+        "mxikCode": "03104001001000001",
+        "nameUZ": "Калий хлорид Калий хлорист 3Н р-р",
+        "nameLAT": "Kaliy xlorid Kaliy xlorist 3N r-r",
+        "nameRU": "Хлорид калия (калий хлористый) Калий хлористый 3Н р-р",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      },
+      {
+        "mxikCode": "03104001001000006",
+        "nameUZ": "Калий хлорид Калий хлорид \"ч\"",
+        "nameLAT": "Kaliy xlorid Kaliy xlorid \"ch\"",
+        "nameRU": "Хлорид калия (калий хлористый) Калий хлористый \"ч\"",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      },
+      {
+        "mxikCode": "03104001001000007",
+        "nameUZ": "Калий хлорид Калий хлорид \"чда\"",
+        "nameLAT": "Kaliy xlorid Kaliy xlorid \"chda\"",
+        "nameRU": "Хлорид калия (калий хлористый) Калий хлористый \"чда\"",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      },
+      {
+        "mxikCode": "03104001001000003",
+        "nameUZ": "Калий хлорид Стандарт-титр калий хлорли",
+        "nameLAT": "Kaliy xlorid Standart-titr kaliy xlorli",
+        "nameRU": "Хлорид калия (калий хлористый) Стандарт-титр калий хлористый",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      },
+      {
+        "mxikCode": "03105002003000000",
+        "nameUZ": "Цитогумат",
+        "nameLAT": "Sitogumat",
+        "nameRU": "Цитогумат",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      },
+      {
+        "mxikCode": "03103001002000001",
+        "nameUZ": "Аммоний фосфат (аммофос) Аммоний фосфор кислота 1-зам  \"чда\"",
+        "nameLAT": "Ammoniy fosfat (ammofos) Ammoniy fosfor kislota 1-zam  \"chda\"",
+        "nameRU": "Аммоний фосфорнокислый (аммофос) Аммоний фосфорнокислый 1-зам  \"чда\"",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      },
+      {
+        "mxikCode": "03105001004002007",
+        "nameUZ": "Микроўғитлар IMPETUS NOVA CHEMICALS суюқ ўсимликлар уруғлари ва дарахт кўчатларини ивитиш учун, пэт бутилка 1 кг",
+        "nameLAT": "Mikroo’g’itlar IMPETUS NOVA CHEMICALS suyuq o’simliklar urug’lari va daraxt ko’chatlarini ivitish uchun, pet butilka 1 kg",
+        "nameRU": "Микроудобрение IMPETUS NOVA CHEMICALS жидкое для замачивания семян растений и саженцев деревьев, пэт бутылка 1 кг",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      },
+      {
+        "mxikCode": "03105001004002009",
+        "nameUZ": "Микроўғитлар IMPETUS NOVA CHEMICALS микросуюқ ўсимликлар ва дарахтлар учун 6.0%, пэт бутилка 1 кг",
+        "nameLAT": "Mikroo’g’itlar IMPETUS NOVA CHEMICALS mikrosuyuq o’simliklar va daraxtlar uchun 6.0%, pet butilka 1 kg",
+        "nameRU": "Микроудобрение IMPETUS NOVA CHEMICALS микрожидкое для растений и деревьев 6.0%, пэт бутылка 1 кг",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      },
+      {
+        "mxikCode": "03103001002000002",
+        "nameUZ": "Аммоний фосфат (аммофос) Аммоний фосфор кислота 1-зам \"ч\"",
+        "nameLAT": "Ammoniy fosfat (ammofos) Ammoniy fosfor kislota 1-zam \"ch\"",
+        "nameRU": "Аммоний фосфорнокислый (аммофос) Аммоний фосфорнокислый 1-зам \"ч\"",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      },
+      {
+        "mxikCode": "03103001002000005",
+        "nameUZ": "Аммоний фосфат (аммофос) Аммоний фосфор кислота 3-зам  \"ч\"",
+        "nameLAT": "Ammoniy fosfat (ammofos) Ammoniy fosfor kislota 3-zam  \"ch\"",
+        "nameRU": "Аммоний фосфорнокислый (аммофос) Аммоний фосфорнокислый 3-зам  \"ч\"",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      },
+      {
+        "mxikCode": "03103001002000000",
+        "nameUZ": "Аммоний фосфат (аммофос)",
+        "nameLAT": "Ammoniy fosfat (ammofos)",
+        "nameRU": "Аммоний фосфорнокислый (аммофос)",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      },
+      {
+        "mxikCode": "03103001002000004",
+        "nameUZ": "Аммоний фосфат (аммофос) Аммоний фосфор кислота 2-зам \"чда\"",
+        "nameLAT": "Ammoniy fosfat (ammofos) Ammoniy fosfor kislota 2-zam \"chda\"",
+        "nameRU": "Аммоний фосфорнокислый (аммофос) Аммоний фосфорнокислый 2-зам \"чда\"",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      },
+      {
+        "mxikCode": "03103001002000003",
+        "nameUZ": "Аммоний фосфат (аммофос) Аммоний фосфор кислота 2-зам \"ч\"",
+        "nameLAT": "Ammoniy fosfat (ammofos) Ammoniy fosfor kislota 2-zam \"ch\"",
+        "nameRU": "Аммоний фосфорнокислый (аммофос) Аммоний фосфорнокислый 2-зам \"ч\"",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      },
+      {
+        "mxikCode": "03102001005000000",
+        "nameUZ": "Аммоний карбонат",
+        "nameLAT": "Ammoniy karbonat",
+        "nameRU": "Карбонат аммония",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      },
+      {
+        "mxikCode": "03103001001000000",
+        "nameUZ": "Фосфорли ўғитлар",
+        "nameLAT": "Fosforli o’g’itlar",
+        "nameRU": "Фосфорные удобрения",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      },
+      {
+        "mxikCode": "03104001003000000",
+        "nameUZ": "Калий сулфат",
+        "nameLAT": "Kaliy sulfat",
+        "nameRU": "Калий сернокислый (сульфат калия)",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      },
+      {
+        "mxikCode": "03105003001000000",
+        "nameUZ": "Бошқа минерал ва кимёвий ўғитлар",
+        "nameLAT": "Boshqa mineral va kimyoviy o’g’itlar",
+        "nameRU": "Прочие удобрения минеральные или химические",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      },
+      {
+        "mxikCode": "03105001008000000",
+        "nameUZ": "Биогомус",
+        "nameLAT": "Biogomus",
+        "nameRU": "Биогомус",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      },
+      {
+        "mxikCode": "03102001006000000",
+        "nameUZ": "Аммоний хлорид",
+        "nameLAT": "Ammoniy xlorid",
+        "nameRU": "Хлористый аммоний",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      },
+      {
+        "mxikCode": "03105001004000000",
+        "nameUZ": "Микроўғитлар",
+        "nameLAT": "Mikroo’g’itlar",
+        "nameRU": "Микроудобрение",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      },
+      {
+        "mxikCode": "03105001004002006",
+        "nameUZ": "Микроўғитлар IMPETUS NOVA CHEMICALS суюқ буғдой поясини мустаҳкамлаш учун, пэт бутилка 1 кг",
+        "nameLAT": "Mikroo’g’itlar IMPETUS NOVA CHEMICALS suyuq bug’doy poyasini mustahkamlash uchun, pet butilka 1 kg",
+        "nameRU": "Микроудобрение IMPETUS NOVA CHEMICALS жидкое для укрепления стеблей пшеницы, пэт бутылка 1 кг",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      },
+      {
+        "mxikCode": "03104001003000003",
+        "nameUZ": "Калий сулфат Калий олтингугурт кислота \"ч\"",
+        "nameLAT": "Kaliy sulfat Kaliy oltingugurt kislota \"ch\"",
+        "nameRU": "Калий сернокислый (сульфат калия) Калий сернокислый пиро \"ч\"",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      },
+      {
+        "mxikCode": "03102002001000000",
+        "nameUZ": "Мочевина (карбамид)",
+        "nameLAT": "Mochevina (karbamid)",
+        "nameRU": "Мочевина (карбамид)",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      },
+      {
+        "mxikCode": "03105001006000000",
+        "nameUZ": "Азот, фосфор ва калий ўғитлари (НПК)",
+        "nameLAT": "Azot, fosfor va kaliy o’g’itlari (NPK)",
+        "nameRU": "Азотные, фосфорные и калийные удобрения (НПК)",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      },
+      {
+        "mxikCode": "03105003002000000",
+        "nameUZ": "Фульвокислоталар",
+        "nameLAT": "Fulvokislotalar",
+        "nameRU": "Фульвокислоты",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      },
+      {
+        "mxikCode": "03104001003000002",
+        "nameUZ": "Калий сулфат Калий олтингугурт кислота \"ч\"",
+        "nameLAT": "Kaliy sulfat Kaliy oltingugurt kislota \"ch\"",
+        "nameRU": "Калий сернокислый (сульфат калия) Калий сернокислый кислый \"ч\"",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      },
+      {
+        "mxikCode": "03105001006001002",
+        "nameUZ": "Азот, фосфор ва калий ўғитлари (НПК) FARG'ONAAZOT минерал - npks, полипропилен қоп 50 кг",
+        "nameLAT": "Azot, fosfor va kaliy o’g’itlari (NPK) FARG'ONAAZOT mineral - npks, polipropilen qop 50 kg",
+        "nameRU": "Азотные, фосфорные и калийные удобрения (НПК) FARG'ONAAZOT минеральное - npks, полипропиленовый мешок 50 кг",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      },
+      {
+        "mxikCode": "03105001003000000",
+        "nameUZ": "Темир хелат (кукун)",
+        "nameLAT": "Temir xelat (kukun)",
+        "nameRU": "Хелат железо (порошок)",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      },
+      {
+        "mxikCode": "03104001003000001",
+        "nameUZ": "Калий сулфат Калий олтингугурт кислота б/в \"ч\"",
+        "nameLAT": "Kaliy sulfat Kaliy oltingugurt kislota b/v \"ch\"",
+        "nameRU": "Калий сернокислый (сульфат калия) Калий сернокислый б/в \"ч\"",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      },
+      {
+        "mxikCode": "03102999999000000",
+        "nameUZ": "Aммиакли селитра",
+        "nameLAT": "Ammiakli selitra",
+        "nameRU": "Аммиачная селитра",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      },
+      {
+        "mxikCode": "03105001004002003",
+        "nameUZ": "Микроўғитлар IMPETUS NOVA CHEMICALS суюқ ўсимликлар ва дарахтлар учун, пэт бутилка 5 кг",
+        "nameLAT": "Mikroo’g’itlar IMPETUS NOVA CHEMICALS suyuq o’simliklar va daraxtlar uchun, pet butilka 5 kg",
+        "nameRU": "Микроудобрение IMPETUS NOVA CHEMICALS жидкое для растений и деревьев, пэт бутылка 5 кг",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      },
+      {
+        "mxikCode": "03104001003000004",
+        "nameUZ": "Калий сулфат Калий олтингугурт кислота \"ч\"",
+        "nameLAT": "Kaliy sulfat Kaliy oltingugurt kislota \"ch\"",
+        "nameRU": "Калий сернокислый (сульфат калия) Калий сернокислый\"ч\"",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      },
+      {
+        "mxikCode": "03102001004000000",
+        "nameUZ": "Аммоний сульфид",
+        "nameLAT": "Ammoniy sulfid",
+        "nameRU": "Сульфид аммония",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      },
+      {
+        "mxikCode": "03105001004002002",
+        "nameUZ": "Микроўғитлар IMPETUS NOVA CHEMICALS суюқ ўсимликлар ва дарахтлар учун, пэт бутилка 1 кг",
+        "nameLAT": "Mikroo’g’itlar IMPETUS NOVA CHEMICALS suyuq o’simliklar va daraxtlar uchun, pet butilka 1 kg",
+        "nameRU": "Микроудобрение IMPETUS NOVA CHEMICALS жидкое для растений и деревьев, пэт бутылка 1 кг",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      },
+      {
+        "mxikCode": "03105001006001001",
+        "nameUZ": "Азот, фосфор ва калий ўғитлари (НПК) FARG'ONAAZOT минерал - npk, полипропилен қоп 50 кг",
+        "nameLAT": "Azot, fosfor va kaliy o’g’itlari (NPK) FARG'ONAAZOT mineral - npk, polipropilen qop 50 kg",
+        "nameRU": "Азотные, фосфорные и калийные удобрения (НПК) FARG'ONAAZOT минеральное - npk, полипропиленовый мешок 50 кг",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      },
+      {
+        "mxikCode": "03105001004002012",
+        "nameUZ": "Микроўғитлар IMPETUS NOVA CHEMICALS концентрат гумата натрия ўсимликлар ва дарахтлар учун, қоғоз қоп 15 кг",
+        "nameLAT": "Mikroo’g’itlar IMPETUS NOVA CHEMICALS konsentrat gumata natriya o’simliklar va daraxtlar uchun, qog’oz qop 15 kg",
+        "nameRU": "Микроудобрение IMPETUS NOVA CHEMICALS концентрат гумата натрия для растений и деревьев, бумажный мешок 15 кг",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      },
+      {
+        "mxikCode": "03105001006001004",
+        "nameUZ": "Азот, фосфор ва калий ўғитлари (НПК) FARG'ONAAZOT минерал - npkmg, полипропилен қоп 50 кг",
+        "nameLAT": "Azot, fosfor va kaliy o’g’itlari (NPK) FARG'ONAAZOT mineral - npkmg, polipropilen qop 50 kg",
+        "nameRU": "Азотные, фосфорные и калийные удобрения (НПК) FARG'ONAAZOT минеральное - npkmg, полипропиленовый мешок 50 кг",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      },
+      {
+        "mxikCode": "03105001004002011",
+        "nameUZ": "Микроўғитлар IMPETUS NOVA CHEMICALS микросуюқ ўсимликлар ва дарахтлар учун 1.0%, пэт бутилка 1 кг",
+        "nameLAT": "Mikroo’g’itlar IMPETUS NOVA CHEMICALS mikrosuyuq o’simliklar va daraxtlar uchun 1.0%, pet butilka 1 kg",
+        "nameRU": "Микроудобрение IMPETUS NOVA CHEMICALS микрожидкое для растений и деревьев 1.0%, пэт бутылка 1 кг",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      },
+      {
+        "mxikCode": "03105001004002005",
+        "nameUZ": "Микроўғитлар IMPETUS NOVA CHEMICALS суюқ ғўза кўсагини тўкилишини олдини олади, пэт бутилка 1 кг",
+        "nameLAT": "Mikroo’g’itlar IMPETUS NOVA CHEMICALS suyuq g’o’za ko’sagini to’kilishini oldini oladi, pet butilka 1 kg",
+        "nameRU": "Микроудобрение IMPETUS NOVA CHEMICALS жидкое для предотвращения выпадения коробочек хлопчатника, пэт бутылка 1 кг",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      },
+      {
+        "mxikCode": "03101001001000000",
+        "nameUZ": "Келиб чиқиши ҳайвондан ёки ўсимликдан бўлган ўғитлар",
+        "nameLAT": "Kelib chiqishi hayvondan yoki o’simlikdan bo’lgan o’g’itlar",
+        "nameRU": "Удобрения животного или растительного происхождения",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      },
+      {
+        "mxikCode": "03104001001000000",
+        "nameUZ": "Калий хлорид",
+        "nameLAT": "Kaliy xlorid",
+        "nameRU": "Хлорид калия (калий хлористый)",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      },
+      {
+        "mxikCode": "03105001009000000",
+        "nameUZ": "Yara TENSO COCKTAIL",
+        "nameLAT": "Yara TENSO COCKTAIL",
+        "nameRU": "Yara TENSO COCKTAIL",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      },
+      {
+        "mxikCode": "03104999999000000",
+        "nameUZ": "Бошқа калийли ўғитлар",
+        "nameLAT": "Boshqa kaliyli o’g’itlar",
+        "nameRU": "Другие калийные удобрения",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      },
+      {
+        "mxikCode": "03105002001000000",
+        "nameUZ": "Калий гумати",
+        "nameLAT": "Kaliy gumati",
+        "nameRU": "Гумат калия",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      },
+      {
+        "mxikCode": "03105001001000000",
+        "nameUZ": "Комплекс ўғитлар",
+        "nameLAT": "Kompleks o’g’itlar",
+        "nameRU": "Комплексные удобрения",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      },
+      {
+        "mxikCode": "03105002002000000",
+        "nameUZ": "Натрий гумати",
+        "nameLAT": "Natriy gumati",
+        "nameRU": "Гумат натрия",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      },
+      {
+        "mxikCode": "03105001004002001",
+        "nameUZ": "Микроўғитлар IMPETUS NOVA CHEMICALS микросуюқ ўсимликлар ва дарахтлар учун 6.0%, пэт бутилка 1 кг",
+        "nameLAT": "Mikroo’g’itlar IMPETUS NOVA CHEMICALS mikrosuyuq o’simliklar va daraxtlar uchun 6.0%, pet butilka 1 kg",
+        "nameRU": "Микроудобрение IMPETUS NOVA CHEMICALS микрожидкое для растений и деревьев 6.0%, пэт бутылка 1 кг",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      },
+      {
+        "mxikCode": "03102002001001001",
+        "nameUZ": "Мочевина (карбамид) Mannol ПЭТ қадоқ, 20 л.",
+        "nameLAT": "Mochevina (karbamid) Mannol PET qadoq, 20 l.",
+        "nameRU": "Мочевина (карбамид) Mannol ПЭТ упаковка, 20 л",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      },
+      {
+        "mxikCode": "03105001005000000",
+        "nameUZ": "Ўсимликларни ўстирувчи биостимулятор",
+        "nameLAT": "O’simliklarni o’stiruvchi biostimulyator",
+        "nameRU": "Биостимулятор роста растений",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      },
+      {
+        "mxikCode": "03105001007000000",
+        "nameUZ": "Моноаммоний фосфат",
+        "nameLAT": "Monoammoniy fosfat",
+        "nameRU": "Моноаммоний фосфат",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      },
+      {
+        "mxikCode": "03102002001001002",
+        "nameUZ": "Мочевина (карбамид) Mannol AdBlue SCR тизими учун суюқлик,  канистр 20 л",
+        "nameLAT": "Mochevina (karbamid) Mannol AdBlue SCR tizimi uchun suyuqlik,  kanistr 20 l",
+        "nameRU": "Мочевина (карбамид) Mannol AdBlue жидкость для системы SCR, канистра 20 л.",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      },
+      {
+        "mxikCode": "03105001004002008",
+        "nameUZ": "Микроўғитлар IMPETUS NOVA CHEMICALS микросуюқ ўсимликлар ва дарахтлар учун 6.0%, пэт бутилка 1 кг",
+        "nameLAT": "Mikroo’g’itlar IMPETUS NOVA CHEMICALS mikrosuyuq o’simliklar va daraxtlar uchun 6.0%, pet butilka 1 kg",
+        "nameRU": "Микроудобрение IMPETUS NOVA CHEMICALS микрожидкое для растений и деревьев 6.0%, пэт бутылка 1 кг",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      },
+      {
+        "mxikCode": "03105001006001003",
+        "nameUZ": "Азот, фосфор ва калий ўғитлари (НПК) FARG'ONAAZOT минерал - npkcu, полипропилен қоп 50 кг",
+        "nameLAT": "Azot, fosfor va kaliy o’g’itlari (NPK) FARG'ONAAZOT mineral - npkcu, polipropilen qop 50 kg",
+        "nameRU": "Азотные, фосфорные и калийные удобрения (НПК) FARG'ONAAZOT минеральное - npkcu, полипропиленовый мешок 50 кг",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      },
+      {
+        "mxikCode": "03101001001000001",
+        "nameUZ": "Келиб чиқиши ҳайвондан ёки ўсимликдан\n бўлган ўғитлар ҳумик кислоталар, калий гумати суюқ торф асосида",
+        "nameLAT": "Kelib chiqishi hayvondan yoki o’simlikdan\n bo’lgan o’g’itlar hümik kislotalar, kaliy gumati suyuq torf asosida",
+        "nameRU": "Удобрения животного или растительного происхождения на основе гуминовых кислот, гумат калия жидкий торфяной",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      },
+      {
+        "mxikCode": "03105003001000004",
+        "nameUZ": "Бошқа минерал ва кимёвий ўғитлар техник CХ (калий нитрат/калий нитрат)",
+        "nameLAT": "Boshqa mineral va kimyoviy o’g’itlar texnik CX (kaliy nitrat/kaliy nitrat)",
+        "nameRU": "Прочие удобрения минеральные или химические техническая СХ (калий азотнокислый/нитрат калия)",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      },
+      {
+        "mxikCode": "03101001001000002",
+        "nameUZ": "Келиб чиқиши ҳайвондан ёки ўсимликдан\n бўлган ўғитлар органик супер компост",
+        "nameLAT": "Kelib chiqishi hayvondan yoki o’simlikdan\n bo’lgan o’g’itlar organik super kompost",
+        "nameRU": "Удобрения животного или растительного происхождения органические суперкомпост",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      },
+      {
+        "mxikCode": "03102999999000001",
+        "nameUZ": "Aммиакли селитра Азот ўз ичига олган суюқ азотли ўғитлар ва суюқ агрегат ҳолатида",
+        "nameLAT": "Ammiakli selitra Azot o'z ichiga olgan suyuq azotli o'g'itlar va suyuq agregat holatida",
+        "nameRU": "Аммиачная селитра Жидкие азотные удобрения, содержащие азот и находящиеся в жидком агрегатном состоянии",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      },
+      {
+        "mxikCode": "03104001003000005",
+        "nameUZ": "Калий сулфат ҲФ",
+        "nameLAT": "Kaliy sulfat HF",
+        "nameRU": "Калий сернокислый (сульфат калия) ХЧ",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      },
+      {
+        "mxikCode": "03105003001000005",
+        "nameUZ": "Бошқа минерал ва кимёвий ўғитлар Органик бирикма карбамиднинг амид шаклида азот ўз ичига олган амид ўғитлари",
+        "nameLAT": "Boshqa mineral va kimyoviy o’g’itlar Organik birikma karbamidning amid shaklida azot o'z ichiga olgan amid o'g'itlari",
+        "nameRU": "Прочие удобрения минеральные или химические Амидные удобрения, содержащие азот в амидной форме органического соединения мочевины",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      },
+      {
+        "mxikCode": "03105003001000006",
+        "nameUZ": "Бошқа минерал ва кимёвий ўғитлар Боромагнийли ўғитлар",
+        "nameLAT": "Boshqa mineral va kimyoviy o’g’itlar Boromagniyli o'g'itlar",
+        "nameRU": "Прочие удобрения минеральные или химические Бормагниевые удобрения",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      },
+      {
+        "mxikCode": "03105003001000007",
+        "nameUZ": "Бошқа минерал ва кимёвий ўғитлар Бор ўғитлари",
+        "nameLAT": "Boshqa mineral va kimyoviy o’g’itlar Bor o'g'itlari",
+        "nameRU": "Прочие удобрения минеральные или химические Борные удобрения",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      },
+      {
+        "mxikCode": "03102999999000002",
+        "nameUZ": "Aммиакли селитра Нитрат ва аммиак таркибида азот бўлган аммиакли селитрали ўғитлар бир вақтнинг ўзида ҳосил бўлади.",
+        "nameLAT": "Ammiakli selitra Nitrat va ammiak tarkibida azot bo'lgan ammiakli selitrali o'g'itlar bir vaqtning o'zida hosil bo'ladi.",
+        "nameRU": "Аммиачная селитра Аммиачно-нитратные удобрения, содержащие азот и в нитратной, и в аммиачной форме одновременно",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      },
+      {
+        "mxikCode": "03102999999000003",
+        "nameUZ": "Aммиакли селитра Аммиак гуруҳи шаклида азот ўз ичига олган аммиакли ўғитлар",
+        "nameLAT": "Ammiakli selitra Ammiak guruhi shaklida azot o'z ichiga olgan ammiakli o'g'itlar",
+        "nameRU": "Аммиачная селитра Аммиачные удобрения, содержащие азот в виде аммиачной группы",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      },
+      {
+        "mxikCode": "03103001001000001",
+        "nameUZ": "Фосфорли ўғитлар Сувда ерувчан шаклда фосфор мавжуд",
+        "nameLAT": "Fosforli o’g’itlar Suvda eruvchan shaklda fosfor mavjud",
+        "nameRU": "Фосфорные удобрения Содержащие фосфор в водорастворимой форме",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      },
+      {
+        "mxikCode": "03105003001000008",
+        "nameUZ": "Бошқа минерал ва кимёвий ўғитлар Боросуперфосфат",
+        "nameLAT": "Boshqa mineral va kimyoviy o’g’itlar Borosuperfosfat",
+        "nameRU": "Прочие удобрения минеральные или химические Боросуперфосфат",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      },
+      {
+        "mxikCode": "03105003001000009",
+        "nameUZ": "Бошқа минерал ва кимёвий ўғитлар Суюқ мураккаб ўғитлар",
+        "nameLAT": "Boshqa mineral va kimyoviy o’g’itlar Suyuq murakkab o'g'itlar",
+        "nameRU": "Прочие удобрения минеральные или химические Жидкие комплексные удобрения",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      },
+      {
+        "mxikCode": "03105003001000010",
+        "nameUZ": "Бошқа минерал ва кимёвий ўғитлар Ҳумофос",
+        "nameLAT": "Boshqa mineral va kimyoviy o’g’itlar Humofos",
+        "nameRU": "Прочие удобрения минеральные или химические Гумофос",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      },
+      {
+        "mxikCode": "03103001001000002",
+        "nameUZ": "Фосфорли ўғитлар Таркибида фосфор бор, сувда еримайди, лэкин кучсиз кислоталарда ерийди (2% лимон кислотаси)",
+        "nameLAT": "Fosforli o’g’itlar Tarkibida fosfor bor, suvda erimaydi, lekin kuchsiz kislotalarda eriydi (2% limon kislotasi)",
+        "nameRU": "Фосфорные удобрения Содержащие фосфор, не растворимый в воде, но растворимый в слабых кислотах (2% лимонной кислоты)",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      },
+      {
+        "mxikCode": "03103001001000003",
+        "nameUZ": "Фосфорли ўғитлар Фосфорни ўз ичига олади, кучли кислоталарда тўлиқ ерийди",
+        "nameLAT": "Fosforli o’g’itlar Fosforni o'z ichiga oladi, kuchli kislotalarda to'liq eriydi",
+        "nameRU": "Фосфорные удобрения Содержащие фосфор, полностью растворимый в сильных кислотах",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      },
+      {
+        "mxikCode": "03101001001000003",
+        "nameUZ": "Келиб чиқиши ҳайвондан ёки ўсимликдан\n бўлган ўғитлар Гўнг",
+        "nameLAT": "Kelib chiqishi hayvondan yoki o’simlikdan\n bo’lgan o’g’itlar Go'ng",
+        "nameRU": "Удобрения животного или растительного происхождения Навоз",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      },
+      {
+        "mxikCode": "03102001002000001",
+        "nameUZ": "Aммоний сулфат (аммиак сулфат) тозаланган",
+        "nameLAT": "Ammoniy sulfat (ammiak sulfat) tozalangan",
+        "nameRU": "Сульфат аммония (сульфат аммония) очищенный",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      },
+      {
+        "mxikCode": "03102003005000001",
+        "nameUZ": "Натрийли селитра (натрий нитрат) техник А",
+        "nameLAT": "Natriyli selitra (natriy nitrat) texnik A",
+        "nameRU": "Натриевая селитра (селитра натриевая) технический А",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      },
+      {
+        "mxikCode": "03105003001000001",
+        "nameUZ": "Бошқа минерал ва кимёвий ўғитлар икки алмаштирилган (диаммоний фосфат), кимёвий жиҳатдан тоза",
+        "nameLAT": "Boshqa mineral va kimyoviy o’g’itlar ikki almashtirilgan (diammoniy fosfat), kimyoviy jihatdan toza",
+        "nameRU": "Прочие удобрения минеральные или химические двузамещенный (диаммонийфосфат), химически чистый",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      },
+      {
+        "mxikCode": "03105003001000002",
+        "nameUZ": "Бошқа минерал ва кимёвий ўғитлар икки алмаштирилган (диаммоний фосфат)",
+        "nameLAT": "Boshqa mineral va kimyoviy o’g’itlar ikki almashtirilgan (diammoniy fosfat)",
+        "nameRU": "Прочие удобрения минеральные или химические двузамещенный (диаммонийфосфат)",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      },
+      {
+        "mxikCode": "03105003001000003",
+        "nameUZ": "Бошқа минерал ва кимёвий ўғитлар икки алмаштирилган (диаммоний фосфат), тоза",
+        "nameLAT": "Boshqa mineral va kimyoviy o’g’itlar ikki almashtirilgan (diammoniy fosfat), toza",
+        "nameRU": "Прочие удобрения минеральные или химические двузамещенный (диаммонийфосфат), чистый",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      },
+      {
+        "mxikCode": "03102002001000001",
+        "nameUZ": "Мочевина (карбамид) суюқ шаклда",
+        "nameLAT": "Mochevina (karbamid) suyuq shaklda",
+        "nameRU": "Мочевина (карбамид) в жидкой форме",
+        "groupCODE": "031",
+        "groupNameUZ": "ЎҒИТЛАР",
+        "groupNameRU": "УДОБРЕНИЯ",
+        "groupNameLAT": "O’G’ITLAR"
+      }
+    ],
+    "recordTotal": 92,
+    "errors": null,
+    "permitted": false
+  }
+}

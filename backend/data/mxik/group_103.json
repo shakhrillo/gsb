@@ -1,0 +1,777 @@
+{
+  "metadata": {
+    "groupId": 103,
+    "fetchedAt": "2025-07-12T16:38:16.537Z",
+    "source": "https://tasnif.soliq.uz/api/cl-api/integration-mxik/references/group/code?group=103"
+  },
+  "data": {
+    "success": true,
+    "code": 200,
+    "reason": null,
+    "data": [
+      {
+        "mxikCode": "10305001002000000",
+        "nameUZ": "Киберхавфсизлик, ахборот-коммуникация технологиялари, рақамлаштириш ва автоматлаштириш соҳасида дастурий-аппарат комплекслари, техник воситалар ва ускуналар, шунингдек улар учун бутловчи қисмлар, деталлар, узеллар, технологик ва микроэлектроника тизимларини ишлаб чиқиш (яратиш), ишлаб чиқариш (саноат усулида), жорий этиш ва/ёки реализация қилиш (сотиш)",
+        "nameLAT": "Kiberxavfsizlik, axborot-kommunikatsiya texnologiyalari, raqamlashtirish va avtomatlashtirish sohasida dasturiy-apparat komplekslari, texnik vositalar va uskunalar, shuningdek ular uchun butlovchi qismlar, detallar, uzellar, texnologik va mikroelektronika tizimlarini ishlab chiqish (yaratish), ishlab chiqarish (sanoat usulida), joriy etish va/yoki realizatsiya qilish (sotish)",
+        "nameRU": "Разработка (создание), промышленное производство, внедрение и/или реализация (продажа) программно-аппаратных комплексов, технических средств и оборудования, а также комплектующих для них — деталей, узлов, технологических и микроэлектронных систем в области кибербезопасности, информационно-коммуникационных технологий, цифровизации и автоматизации",
+        "groupCODE": "103",
+        "groupNameUZ": "АХБОРОТ ВА АЛОҚА СОҲАСИДАГИ ХИЗМАТЛАР ",
+        "groupNameRU": "ИНФОРМАЦИОННО-КОММУНИКАЦИОННЫЕ УСЛУГИ",
+        "groupNameLAT": "AXBOROT VA ALOQA SOHASIDAGI XIZMATLAR "
+      },
+      {
+        "mxikCode": "10304003008000000",
+        "nameUZ": "Маълумотлар ва хабарларни узатиш учун симли телекоммуникация хизматлари",
+        "nameLAT": "Malumotlar va xabarlarni uzatish uchun simli telekommunikatsiya xizmatlari",
+        "nameRU": "Услуги проводные телекоммуникационные по передаче данных и сообщений",
+        "groupCODE": "103",
+        "groupNameUZ": "АХБОРОТ ВА АЛОҚА СОҲАСИДАГИ ХИЗМАТЛАР ",
+        "groupNameRU": "ИНФОРМАЦИОННО-КОММУНИКАЦИОННЫЕ УСЛУГИ",
+        "groupNameLAT": "AXBOROT VA ALOQA SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10305012002000000",
+        "nameUZ": "Киберхавфсизлик, ахборот-коммуникация технологиялари, кибер ҳуқуқ ва рақамли иқтисодиёт, кибернетика, табииий фанлар ва инжиниринг соҳасида илмий-тадқиқот ва тажриба-конструкторлик ишлар ва хизматлар\t",
+        "nameLAT": "Kiberxavfsizlik, axborot-kommunikatsiya texnologiyalari, kiber huquq va raqamli iqtisodiyot, kibernetika, tabiiiy fanlar va injiniring sohasida ilmiy-tadqiqot va tajriba-konstruktorlik ishlar va xizmatlar\t",
+        "nameRU": "Научно-исследовательские и опытно-конструкторские работы и услуги в области кибербезопасности, информационно-коммуникационных технологий, киберправа и цифровой экономики, кибернетики, естественных наук и инжиниринга\t",
+        "groupCODE": "103",
+        "groupNameUZ": "АХБОРОТ ВА АЛОҚА СОҲАСИДАГИ ХИЗМАТЛАР ",
+        "groupNameRU": "ИНФОРМАЦИОННО-КОММУНИКАЦИОННЫЕ УСЛУГИ",
+        "groupNameLAT": "AXBOROT VA ALOQA SOHASIDAGI XIZMATLAR "
+      },
+      {
+        "mxikCode": "10305001003000000",
+        "nameUZ": "Мудофаа, ҳарбийлашган ва ҳуқуқни муҳофаза қилувчи органлар эҳтиёжлари учун дастурий-аппарат комплекслари, автоматлаштирилган тизимлар, дастурий маҳсулотлар, махсус техник ҳимоя ёки ҳужумкор воситалар ҳамда ускуналар, шунингдек улар учун бутловчи қисмлар, деталлар, узеллар, технологик ва микроэлектроника тизимларини ишлаб чиқиш (яратиш), ишлаб чиқариш (саноат усулида), жорий этиш ва/ёки реализация қилиш (сотиш)",
+        "nameLAT": "Mudofaa, harbiylashgan va huquqni muhofaza qiluvchi organlar ehtiyojlari uchun dasturiy-apparat komplekslari, avtomatlashtirilgan tizimlar, dasturiy mahsulotlar, maxsus texnik himoya yoki hujumkor vositalar hamda uskunalar, shuningdek ular uchun butlovchi qismlar, detallar, uzellar, texnologik va mikroelektronika tizimlarini ishlab chiqish (yaratish), ishlab chiqarish (sanoat usulida), joriy etish va/yoki realizatsiya qilish (sotish)",
+        "nameRU": "Разработка (создание), промышленное производство, внедрение и/или реализация (продажа) программно-аппаратных комплексов, автоматизированных систем, программных продуктов, специальных технических средств защиты или наступательного назначения, а также оборудования и комплектующих для них — деталей, узлов, технологических и микроэлектронных систем для нужд обороны, военизированных и правоохранительных органов",
+        "groupCODE": "103",
+        "groupNameUZ": "АХБОРОТ ВА АЛОҚА СОҲАСИДАГИ ХИЗМАТЛАР ",
+        "groupNameRU": "ИНФОРМАЦИОННО-КОММУНИКАЦИОННЫЕ УСЛУГИ",
+        "groupNameLAT": "AXBOROT VA ALOQA SOHASIDAGI XIZMATLAR "
+      },
+      {
+        "mxikCode": "10305012003000000",
+        "nameUZ": "Киберхавфсизлик, тармоқ хавфсизлигини таъминлаш ва ахборотни ҳимоялаш, киберхавфсизлик ва компьютер инжининиринги, киберхавфсизлик менежменти ва рақамли криминалистика, кибер ҳуқуқ ва рақамли иктисодиёт (менежмент), ахборот-коммуникация технологиялари ва сунъий интеллект, блокчейн технологиялари, авиамоделлаштириш, мехатроника ва амалий математика, робототехника ва инжиниринг соҳасидаги таълим хизматлари\t",
+        "nameLAT": "Kiberxavfsizlik, tarmoq xavfsizligini taminlash va axborotni himoyalash, kiberxavfsizlik va kompyuter injininiringi, kiberxavfsizlik menejmenti va raqamli kriminalistika, kiber huquq va raqamli iktisodiyot (menejment), axborot-kommunikatsiya texnologiyalari va suniy intellekt, blokcheyn texnologiyalari, aviamodellashtirish, mexatronika va amaliy matematika, robototexnika va injiniring sohasidagi talim xizmatlari\t",
+        "nameRU": "Образовательные услуги в области кибербезопасности, обеспечения сетевой безопасности и защиты информации, кибербезопасности и компьютерной инженерии, управления кибербезопасностью и цифровой криминалистики, киберправа и цифровой экономики (менеджмента), информационно-коммуникационных технологий и искусственного интеллекта, технологий блокчейн, авиамоделирования, мехатроники и прикладной математики, робототехники и инжиниринга\t",
+        "groupCODE": "103",
+        "groupNameUZ": "АХБОРОТ ВА АЛОҚА СОҲАСИДАГИ ХИЗМАТЛАР ",
+        "groupNameRU": "ИНФОРМАЦИОННО-КОММУНИКАЦИОННЫЕ УСЛУГИ",
+        "groupNameLAT": "AXBOROT VA ALOQA SOHASIDAGI XIZMATLAR "
+      },
+      {
+        "mxikCode": "10305005002000000",
+        "nameUZ": "Компьютерлар ва периферик ускуналарни таъмирлаш ва техник хизмат кўрсатиш бўйича хизматлар",
+        "nameLAT": "Kompyuterlar va periferik uskunalarni tamirlash va texnik xizmat ko’rsatish bo’yicha xizmatlar",
+        "nameRU": "Услуги по ремонту и техническому обслуживанию компьютеров и периферийного оборудования",
+        "groupCODE": "103",
+        "groupNameUZ": "АХБОРОТ ВА АЛОҚА СОҲАСИДАГИ ХИЗМАТЛАР ",
+        "groupNameRU": "ИНФОРМАЦИОННО-КОММУНИКАЦИОННЫЕ УСЛУГИ",
+        "groupNameLAT": "AXBOROT VA ALOQA SOHASIDAGI XIZMATLAR "
+      },
+      {
+        "mxikCode": "10302001003000000",
+        "nameUZ": "Теле ва радио дастурлар ишлаб чиқариш бўйича хизматлар",
+        "nameLAT": "Tele va radio dasturlar ishlab chiqarish bo’yicha xizmatlar",
+        "nameRU": "Услуги по производству теле- и радиопрограмм",
+        "groupCODE": "103",
+        "groupNameUZ": "АХБОРОТ ВА АЛОҚА СОҲАСИДАГИ ХИЗМАТЛАР ",
+        "groupNameRU": "ИНФОРМАЦИОННО-КОММУНИКАЦИОННЫЕ УСЛУГИ",
+        "groupNameLAT": "AXBOROT VA ALOQA SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10302001002000000",
+        "nameUZ": "Анимация хизматлари",
+        "nameLAT": "Animatsiya xizmatlari",
+        "nameRU": "Услуги в области анимации",
+        "groupCODE": "103",
+        "groupNameUZ": "АХБОРОТ ВА АЛОҚА СОҲАСИДАГИ ХИЗМАТЛАР ",
+        "groupNameRU": "ИНФОРМАЦИОННО-КОММУНИКАЦИОННЫЕ УСЛУГИ",
+        "groupNameLAT": "AXBOROT VA ALOQA SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10309999001000000",
+        "nameUZ": "Корпоратив стиль, реклама дизайни ва бошқа график йўналишда график дизайн яратиш бўйича хизматлар",
+        "nameLAT": "Korporativ stil, reklama dizayni va boshqa grafik yo’nalishda grafik dizayn yaratish bo’yicha xizmatlar",
+        "nameRU": "Услуги графического дизайна по разработке корпоративного стиля, рекламного дизайна и других направлений графики",
+        "groupCODE": "103",
+        "groupNameUZ": "АХБОРОТ ВА АЛОҚА СОҲАСИДАГИ ХИЗМАТЛАР ",
+        "groupNameRU": "ИНФОРМАЦИОННО-КОММУНИКАЦИОННЫЕ УСЛУГИ",
+        "groupNameLAT": "AXBOROT VA ALOQA SOHASIDAGI XIZMATLAR "
+      },
+      {
+        "mxikCode": "10304008005000000",
+        "nameUZ": "Симсиз тармоқлардан фойдаланган ҳолда энг сўнгги истеъмолчиларга дастурларни тарқатиш бўйича хизматлар",
+        "nameLAT": "Simsiz tarmoqlardan foydalangan holda eng so’nggi istemolchilarga dasturlarni tarqatish bo’yicha xizmatlar",
+        "nameRU": "Услуги по распространению программного обеспечения конечным пользователям с использованием беспроводных сетей",
+        "groupCODE": "103",
+        "groupNameUZ": "АХБОРОТ ВА АЛОҚА СОҲАСИДАГИ ХИЗМАТЛАР ",
+        "groupNameRU": "ИНФОРМАЦИОННО-КОММУНИКАЦИОННЫЕ УСЛУГИ",
+        "groupNameLAT": "AXBOROT VA ALOQA SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10304008003000000",
+        "nameUZ": "Симсиз телекоммуникация тармоқлари орқали маълумот узатиш бўйича хизматлар",
+        "nameLAT": "Simsiz telekommunikatsiya tarmoqlari orqali malumot uzatish bo’yicha xizmatlar",
+        "nameRU": "Услуги по передаче данных по беспроводным телекоммуникационным сетям",
+        "groupCODE": "103",
+        "groupNameUZ": "АХБОРОТ ВА АЛОҚА СОҲАСИДАГИ ХИЗМАТЛАР ",
+        "groupNameRU": "ИНФОРМАЦИОННО-КОММУНИКАЦИОННЫЕ УСЛУГИ",
+        "groupNameLAT": "AXBOROT VA ALOQA SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10304008004000000",
+        "nameUZ": "Интернет тармоғидаги симсиз телекоммуникация хизматлари",
+        "nameLAT": "Internet tarmog’idagi simsiz telekommunikatsiya xizmatlari",
+        "nameRU": "Услуги беспроводные телекоммуникационные в сети Интернет",
+        "groupCODE": "103",
+        "groupNameUZ": "АХБОРОТ ВА АЛОҚА СОҲАСИДАГИ ХИЗМАТЛАР ",
+        "groupNameRU": "ИНФОРМАЦИОННО-КОММУНИКАЦИОННЫЕ УСЛУГИ",
+        "groupNameLAT": "AXBOROT VA ALOQA SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10304003003000000",
+        "nameUZ": "Симли телекоммуникация соҳасидаги операторларнинг хизматлари",
+        "nameLAT": "Simli telekommunikatsiya sohasidagi operatorlarning xizmatlari",
+        "nameRU": "Услуги операторов связи в сфере проводных телекоммуникаций",
+        "groupCODE": "103",
+        "groupNameUZ": "АХБОРОТ ВА АЛОҚА СОҲАСИДАГИ ХИЗМАТЛАР ",
+        "groupNameRU": "ИНФОРМАЦИОННО-КОММУНИКАЦИОННЫЕ УСЛУГИ",
+        "groupNameLAT": "AXBOROT VA ALOQA SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10304003005000000",
+        "nameUZ": "Интернет тармоғидаги симли телекоммуникация хизматлари",
+        "nameLAT": "Internet tarmog’idagi simli telekommunikatsiya xizmatlari",
+        "nameRU": "Услуги проводные телекоммуникационные в сети Интернет",
+        "groupCODE": "103",
+        "groupNameUZ": "АХБОРОТ ВА АЛОҚА СОҲАСИДАГИ ХИЗМАТЛАР ",
+        "groupNameRU": "ИНФОРМАЦИОННО-КОММУНИКАЦИОННЫЕ УСЛУГИ",
+        "groupNameLAT": "AXBOROT VA ALOQA SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10304017006000000",
+        "nameUZ": "Телекоммуникациянинг техник воситаларидан фойдаланиш ва уларга хизмат кўрсатиш хизматлари",
+        "nameLAT": "Telekommunikatsiyaning texnik vositalaridan foydalanish va ularga xizmat ko’rsatish xizmatlari",
+        "nameRU": "Услуги по использованию и обслуживанию технических средств телекоммуникаций",
+        "groupCODE": "103",
+        "groupNameUZ": "АХБОРОТ ВА АЛОҚА СОҲАСИДАГИ ХИЗМАТЛАР ",
+        "groupNameRU": "ИНФОРМАЦИОННО-КОММУНИКАЦИОННЫЕ УСЛУГИ",
+        "groupNameLAT": "AXBOROT VA ALOQA SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10318001001000000",
+        "nameUZ": "Ахборот технологияларининг (барча турдаги хизматлар), шу жумладан телефониянинг ишлашини таъминлаш билан боғлиқ компьютер инжиниринг хизматлари",
+        "nameLAT": "Axborot texnologiyalarining (barcha turdagi xizmatlar), shu jumladan telefoniyaning ishlashini taminlash bilan bog’liq kompyuter injiniring xizmatlari",
+        "nameRU": "Услуги компьютерной инженерии, связанные с поддержкой функционирования информационной техники (все виды услуг), в том числе телефонии",
+        "groupCODE": "103",
+        "groupNameUZ": "АХБОРОТ ВА АЛОҚА СОҲАСИДАГИ ХИЗМАТЛАР ",
+        "groupNameRU": "ИНФОРМАЦИОННО-КОММУНИКАЦИОННЫЕ УСЛУГИ",
+        "groupNameLAT": "AXBOROT VA ALOQA SOHASIDAGI XIZMATLAR "
+      },
+      {
+        "mxikCode": "10305005003000000",
+        "nameUZ": "Принтер картриджларини тўлдириш хизматлари",
+        "nameLAT": "Printer kartridjlarini to’ldirish xizmatlari",
+        "nameRU": "Услуги по заправке картриджей принтеров",
+        "groupCODE": "103",
+        "groupNameUZ": "АХБОРОТ ВА АЛОҚА СОҲАСИДАГИ ХИЗМАТЛАР ",
+        "groupNameRU": "ИНФОРМАЦИОННО-КОММУНИКАЦИОННЫЕ УСЛУГИ",
+        "groupNameLAT": "AXBOROT VA ALOQA SOHASIDAGI XIZMATLAR "
+      },
+      {
+        "mxikCode": "10304014004000000",
+        "nameUZ": "Транспортларни сунъий йўлдош орқали мониторинг қилиш хизматлари",
+        "nameLAT": "Transportlarni suniy yo’ldosh orqali monitoring qilish xizmatlari",
+        "nameRU": "Услуги спутникового мониторинга транспорта",
+        "groupCODE": "103",
+        "groupNameUZ": "АХБОРОТ ВА АЛОҚА СОҲАСИДАГИ ХИЗМАТЛАР ",
+        "groupNameRU": "ИНФОРМАЦИОННО-КОММУНИКАЦИОННЫЕ УСЛУГИ",
+        "groupNameLAT": "AXBOROT VA ALOQA SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10303003001000000",
+        "nameUZ": "Телевизион дастурлар, телерадиоэшиттиришларни тайёрлаш ва эфирга узатиш хизматлари",
+        "nameLAT": "Televizion dasturlar, teleradioeshittirishlarni tayyorlash va efirga uzatish xizmatlari",
+        "nameRU": "Услуги по составлению телепрограмм,  телерадиовещанию и трансляции",
+        "groupCODE": "103",
+        "groupNameUZ": "АХБОРОТ ВА АЛОҚА СОҲАСИДАГИ ХИЗМАТЛАР ",
+        "groupNameRU": "ИНФОРМАЦИОННО-КОММУНИКАЦИОННЫЕ УСЛУГИ",
+        "groupNameLAT": "AXBOROT VA ALOQA SOHASIDAGI XIZMATLAR "
+      },
+      {
+        "mxikCode": "10306001001000000",
+        "nameUZ": "Гидрометеорологик маълумотларни тақдим этиш хизматлари",
+        "nameLAT": "Gidrometeorologik malumotlarni taqdim etish xizmatlari",
+        "nameRU": "Услуги по предоставлению гидрометеорологической информации\r\n",
+        "groupCODE": "103",
+        "groupNameUZ": "АХБОРОТ ВА АЛОҚА СОҲАСИДАГИ ХИЗМАТЛАР ",
+        "groupNameRU": "ИНФОРМАЦИОННО-КОММУНИКАЦИОННЫЕ УСЛУГИ",
+        "groupNameLAT": "AXBOROT VA ALOQA SOHASIDAGI XIZMATLAR "
+      },
+      {
+        "mxikCode": "10302001007000000",
+        "nameUZ": "Кино-, видеофилмлар ва телевизион дастурлар ишлаб чиқариш билан боғлиқ бошқа хизматлар",
+        "nameLAT": "Kino-, videofilmlar va televizion dasturlar ishlab chiqarish bilan bog’liq boshqa xizmatlar",
+        "nameRU": "Прочие услуги, связанные с производством кино-, видеофильмов и телевизионных программ",
+        "groupCODE": "103",
+        "groupNameUZ": "АХБОРОТ ВА АЛОҚА СОҲАСИДАГИ ХИЗМАТЛАР ",
+        "groupNameRU": "ИНФОРМАЦИОННО-КОММУНИКАЦИОННЫЕ УСЛУГИ",
+        "groupNameLAT": "AXBOROT VA ALOQA SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10304014006000000",
+        "nameUZ": "Сунъий йўлдош алоқаси соҳасидаги бошқа хизматлар",
+        "nameLAT": "Suniy yo’ldosh aloqasi sohasidagi boshqa xizmatlar",
+        "nameRU": "Установка, переустановка, ремонт и демонтаж спутниковой системы слежения (всех видов)",
+        "groupCODE": "103",
+        "groupNameUZ": "АХБОРОТ ВА АЛОҚА СОҲАСИДАГИ ХИЗМАТЛАР ",
+        "groupNameRU": "ИНФОРМАЦИОННО-КОММУНИКАЦИОННЫЕ УСЛУГИ",
+        "groupNameLAT": "AXBOROT VA ALOQA SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10310004001000000",
+        "nameUZ": "Мижозларнинг қўнғироқларини бошқариш учун умумий телефон тармоқларининг қўшимча имкониятларидан (хусусиятларидан) фойдаланиш бўйича стационар телефон алоқаси хизматлари",
+        "nameLAT": "Mijozlarning qo’ng’iroqlarini boshqarish uchun umumiy telefon tarmoqlarining qo’shimcha imkoniyatlaridan (xususiyatlaridan) foydalanish bo’yicha statsionar telefon aloqasi xizmatlari",
+        "nameRU": "Услуги фиксированной (стационарной) телефонной связи по использованию дополнительных возможностей (особенностей) общественных телефонных сетей по управлению вызовами клиентов",
+        "groupCODE": "103",
+        "groupNameUZ": "АХБОРОТ ВА АЛОҚА СОҲАСИДАГИ ХИЗМАТЛАР ",
+        "groupNameRU": "ИНФОРМАЦИОННО-КОММУНИКАЦИОННЫЕ УСЛУГИ",
+        "groupNameLAT": "AXBOROT VA ALOQA SOHASIDAGI XIZMATLAR "
+      },
+      {
+        "mxikCode": "10304014005000000",
+        "nameUZ": "GPS ускунасига ҳар ойлик хизмат кўрсатиш",
+        "nameLAT": "GPS uskunasiga har oylik xizmat ko’rsatish",
+        "nameRU": "Ежемесячное обслуживание GPS оборудования",
+        "groupCODE": "103",
+        "groupNameUZ": "АХБОРОТ ВА АЛОҚА СОҲАСИДАГИ ХИЗМАТЛАР ",
+        "groupNameRU": "ИНФОРМАЦИОННО-КОММУНИКАЦИОННЫЕ УСЛУГИ",
+        "groupNameLAT": "AXBOROT VA ALOQA SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10301007001000000",
+        "nameUZ": "Электрон ОАВ нашриёт хизматлари",
+        "nameLAT": "Elektron OAV nashriyot xizmatlari",
+        "nameRU": "Услуги электронных СМИ",
+        "groupCODE": "103",
+        "groupNameUZ": "АХБОРОТ ВА АЛОҚА СОҲАСИДАГИ ХИЗМАТЛАР ",
+        "groupNameRU": "ИНФОРМАЦИОННО-КОММУНИКАЦИОННЫЕ УСЛУГИ",
+        "groupNameLAT": "AXBOROT VA ALOQA SOHASIDAGI XIZMATLAR "
+      },
+      {
+        "mxikCode": "10301004001000000",
+        "nameUZ": "Журналлар ва даврий нашрларни нашр этиш бўйича хизматлар",
+        "nameLAT": "Jurnallar va davriy nashrlarni nashr etish bo’yicha xizmatlar",
+        "nameRU": "Услуги по изданию журналов и периодических публикаций",
+        "groupCODE": "103",
+        "groupNameUZ": "АХБОРОТ ВА АЛОҚА СОҲАСИДАГИ ХИЗМАТЛАР ",
+        "groupNameRU": "ИНФОРМАЦИОННО-КОММУНИКАЦИОННЫЕ УСЛУГИ",
+        "groupNameLAT": "AXBOROT VA ALOQA SOHASIDAGI XIZMATLAR "
+      },
+      {
+        "mxikCode": "10302001004000000",
+        "nameUZ": "Видеоконтентни жойлаштириш хизматлари",
+        "nameLAT": "Videokontentni joylashtirish xizmatlari",
+        "nameRU": "Услуги размещения видеоконтента",
+        "groupCODE": "103",
+        "groupNameUZ": "АХБОРОТ ВА АЛОҚА СОҲАСИДАГИ ХИЗМАТЛАР ",
+        "groupNameRU": "ИНФОРМАЦИОННО-КОММУНИКАЦИОННЫЕ УСЛУГИ",
+        "groupNameLAT": "AXBOROT VA ALOQA SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10304008006000000",
+        "nameUZ": "Мобил телекоммуникация алоқаси хизматлари ва симсиз телекоммуникация тизимларидаги хусусий тармоқлар хизматлари",
+        "nameLAT": "Mobil telekommunikatsiya aloqasi xizmatlari va simsiz telekommunikatsiya tizimlaridagi xususiy tarmoqlar xizmatlari",
+        "nameRU": "Услуги мобильной связи и услуги частных сетей в беспроводных телекоммуникационных системах",
+        "groupCODE": "103",
+        "groupNameUZ": "АХБОРОТ ВА АЛОҚА СОҲАСИДАГИ ХИЗМАТЛАР ",
+        "groupNameRU": "ИНФОРМАЦИОННО-КОММУНИКАЦИОННЫЕ УСЛУГИ",
+        "groupNameLAT": "AXBOROT VA ALOQA SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10310006001000000",
+        "nameUZ": "Махсус почта хизматлари",
+        "nameLAT": "Maxsus pochta xizmatlari",
+        "nameRU": "Услуги специальной почтовой связи",
+        "groupCODE": "103",
+        "groupNameUZ": "АХБОРОТ ВА АЛОҚА СОҲАСИДАГИ ХИЗМАТЛАР ",
+        "groupNameRU": "ИНФОРМАЦИОННО-КОММУНИКАЦИОННЫЕ УСЛУГИ",
+        "groupNameLAT": "AXBOROT VA ALOQA SOHASIDAGI XIZMATLAR "
+      },
+      {
+        "mxikCode": "10306008001000000",
+        "nameUZ": "Aхборот агентликлари хизматлари (барча турдаги хизматлар)",
+        "nameLAT": "Axborot agentliklari xizmatlari (barcha turdagi xizmatlar)",
+        "nameRU": "Услуги информационных агентств (все виды услуг)",
+        "groupCODE": "103",
+        "groupNameUZ": "АХБОРОТ ВА АЛОҚА СОҲАСИДАГИ ХИЗМАТЛАР ",
+        "groupNameRU": "ИНФОРМАЦИОННО-КОММУНИКАЦИОННЫЕ УСЛУГИ",
+        "groupNameLAT": "AXBOROT VA ALOQA SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10306002002000000",
+        "nameUZ": "Маълумотлар базаларини яратиш, маълумотларни қайта ишлаш, узатиш (реализация қилиш, шу жумладан, учинчи шахсларга), сақлаш хизматлари (электрон ҳужжат айланиши бўйича хизматлардан ташқари)",
+        "nameLAT": "Malumotlar bazalarini yaratish, malumotlarni qayta ishlash, uzatish (realizatsiya qilish, shu jumladan, uchinchi shaxslarga), saqlash xizmatlari (elektron hujjat aylanishi bo’yicha xizmatlardan tashqari)",
+        "nameRU": "Услуги по созданию баз данных, обработке данных, передаче (в том числе реализация третьим лицам), хранению (кроме услуг электронного документооборота)",
+        "groupCODE": "103",
+        "groupNameUZ": "АХБОРОТ ВА АЛОҚА СОҲАСИДАГИ ХИЗМАТЛАР ",
+        "groupNameRU": "ИНФОРМАЦИОННО-КОММУНИКАЦИОННЫЕ УСЛУГИ",
+        "groupNameLAT": "AXBOROT VA ALOQA SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10399001001000000",
+        "nameUZ": "Ахборот технологиялари соҳасидаги бошқа хизматлар",
+        "nameLAT": "Axborot texnologiyalari sohasidagi boshqa xizmatlar",
+        "nameRU": "Прочие услуги в сфере информационных технологий",
+        "groupCODE": "103",
+        "groupNameUZ": "АХБОРОТ ВА АЛОҚА СОҲАСИДАГИ ХИЗМАТЛАР ",
+        "groupNameRU": "ИНФОРМАЦИОННО-КОММУНИКАЦИОННЫЕ УСЛУГИ",
+        "groupNameLAT": "AXBOROT VA ALOQA SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10301001001000000",
+        "nameUZ": "Китобларни нашр этиш бўйича хизматлар",
+        "nameLAT": "Kitoblarni nashr etish bo’yicha xizmatlar",
+        "nameRU": "Услуги по изданию книг",
+        "groupCODE": "103",
+        "groupNameUZ": "АХБОРОТ ВА АЛОҚА СОҲАСИДАГИ ХИЗМАТЛАР ",
+        "groupNameRU": "ИНФОРМАЦИОННО-КОММУНИКАЦИОННЫЕ УСЛУГИ",
+        "groupNameLAT": "AXBOROT VA ALOQA SOHASIDAGI XIZMATLAR "
+      },
+      {
+        "mxikCode": "10302001001000000",
+        "nameUZ": "Кино ва видеофилмлар ишлаб чиқариш (ишлаб чиқаришдан кейинги босқич) хизматлари",
+        "nameLAT": "Kino va videofilmlar ishlab chiqarish (ishlab chiqarishdan keyingi bosqich) xizmatlari",
+        "nameRU": "Услуги по производству (постпроизводственного этапа) кино и видеофильмов",
+        "groupCODE": "103",
+        "groupNameUZ": "АХБОРОТ ВА АЛОҚА СОҲАСИДАГИ ХИЗМАТЛАР ",
+        "groupNameRU": "ИНФОРМАЦИОННО-КОММУНИКАЦИОННЫЕ УСЛУГИ",
+        "groupNameLAT": "AXBOROT VA ALOQA SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10301006001000000",
+        "nameUZ": "Бошқа босма материалларни нашр этиш бўйича хизматлар (тақвимлар, посткарталар, расмлар)",
+        "nameLAT": "Boshqa bosma materiallarni nashr etish bo’yicha xizmatlar (taqvimlar, postkartalar, rasmlar)",
+        "nameRU": "Услуги по изданию прочих печатных материалов (календари, открытки, фотографии) на типографиях",
+        "groupCODE": "103",
+        "groupNameUZ": "АХБОРОТ ВА АЛОҚА СОҲАСИДАГИ ХИЗМАТЛАР ",
+        "groupNameRU": "ИНФОРМАЦИОННО-КОММУНИКАЦИОННЫЕ УСЛУГИ",
+        "groupNameLAT": "AXBOROT VA ALOQA SOHASIDAGI XIZMATLAR "
+      },
+      {
+        "mxikCode": "10310007001000000",
+        "nameUZ": "Радиочастота спектридан фойдаланиш",
+        "nameLAT": "Radiochastota spektridan foydalanish",
+        "nameRU": "Использование радиочастотного спектра",
+        "groupCODE": "103",
+        "groupNameUZ": "АХБОРОТ ВА АЛОҚА СОҲАСИДАГИ ХИЗМАТЛАР ",
+        "groupNameRU": "ИНФОРМАЦИОННО-КОММУНИКАЦИОННЫЕ УСЛУГИ",
+        "groupNameLAT": "AXBOROT VA ALOQA SOHASIDAGI XIZMATLAR "
+      },
+      {
+        "mxikCode": "10301003001000000",
+        "nameUZ": "Газеталарни нашр этиш бўйича хизматлар",
+        "nameLAT": "Gazetalarni nashr etish bo’yicha xizmatlar",
+        "nameRU": "Услуги по изданию газет",
+        "groupCODE": "103",
+        "groupNameUZ": "АХБОРОТ ВА АЛОҚА СОҲАСИДАГИ ХИЗМАТЛАР ",
+        "groupNameRU": "ИНФОРМАЦИОННО-КОММУНИКАЦИОННЫЕ УСЛУГИ",
+        "groupNameLAT": "AXBOROT VA ALOQA SOHASIDAGI XIZMATLAR "
+      },
+      {
+        "mxikCode": "10301004002000000",
+        "nameUZ": "Даврий нашрларнинг экспедиторлик хизматлари",
+        "nameLAT": "Davriy nashrlarning ekspeditorlik xizmatlari",
+        "nameRU": "Услуги по экспедированию периодических изданий\r\n",
+        "groupCODE": "103",
+        "groupNameUZ": "АХБОРОТ ВА АЛОҚА СОҲАСИДАГИ ХИЗМАТЛАР ",
+        "groupNameRU": "ИНФОРМАЦИОННО-КОММУНИКАЦИОННЫЕ УСЛУГИ",
+        "groupNameLAT": "AXBOROT VA ALOQA SOHASIDAGI XIZMATLAR "
+      },
+      {
+        "mxikCode": "10302006001000000",
+        "nameUZ": "Овоз ёзиш ва мусиқий асарларни нашр этиш хизматлари",
+        "nameLAT": "Ovoz yozish va musiqiy asarlarni nashr etish xizmatlari",
+        "nameRU": "Услуги по звукозаписи и изданию музыкальных произведений",
+        "groupCODE": "103",
+        "groupNameUZ": "АХБОРОТ ВА АЛОҚА СОҲАСИДАГИ ХИЗМАТЛАР ",
+        "groupNameRU": "ИНФОРМАЦИОННО-КОММУНИКАЦИОННЫЕ УСЛУГИ",
+        "groupNameLAT": "AXBOROT VA ALOQA SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10303001003000000",
+        "nameUZ": "Радио дастурлари, радиоэшиттириш ва эфирга узатиш хизматлари",
+        "nameLAT": "Radio dasturlari, radioeshittirish va efirga uzatish xizmatlari",
+        "nameRU": "Услуги по составлению радиопрограмм,  радиовещанию и трансляции",
+        "groupCODE": "103",
+        "groupNameUZ": "АХБОРОТ ВА АЛОҚА СОҲАСИДАГИ ХИЗМАТЛАР ",
+        "groupNameRU": "ИНФОРМАЦИОННО-КОММУНИКАЦИОННЫЕ УСЛУГИ",
+        "groupNameLAT": "AXBOROT VA ALOQA SOHASIDAGI XIZMATLAR "
+      },
+      {
+        "mxikCode": "10304017002000000",
+        "nameUZ": "Телекоммуникация соҳасидаги бошқа хизматлар",
+        "nameLAT": "Telekommunikatsiya sohasidagi boshqa xizmatlar",
+        "nameRU": "Прочие услуги в сфере телекоммуникаций",
+        "groupCODE": "103",
+        "groupNameUZ": "АХБОРОТ ВА АЛОҚА СОҲАСИДАГИ ХИЗМАТЛАР ",
+        "groupNameRU": "ИНФОРМАЦИОННО-КОММУНИКАЦИОННЫЕ УСЛУГИ",
+        "groupNameLAT": "AXBOROT VA ALOQA SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10304017008000000",
+        "nameUZ": "Телекоммуникация хизматларини лицензиялаш  хизматлари",
+        "nameLAT": "Telekommunikatsiya xizmatlarini litsenziyalash  xizmatlari",
+        "nameRU": "Услуги лицензирования телекоммуникационных  услуг",
+        "groupCODE": "103",
+        "groupNameUZ": "АХБОРОТ ВА АЛОҚА СОҲАСИДАГИ ХИЗМАТЛАР ",
+        "groupNameRU": "ИНФОРМАЦИОННО-КОММУНИКАЦИОННЫЕ УСЛУГИ",
+        "groupNameLAT": "AXBOROT VA ALOQA SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10305001001000000",
+        "nameUZ": "Ахборот ва бошқарув тизимлари ва ҳар қандай платформалар учун дастурий таъминотни лойиҳалаштириш, уларнинг алоҳида босқичларини амалга ошириш, ишлаб чиқиш, жорий этиш ва/ёки реализация қилиш (сотиш) хизматлари",
+        "nameLAT": "Axborot va boshqaruv tizimlari va har qanday platformalar uchun dasturiy taminotni loyihalashtirish, ularning alohida bosqichlarini amalga oshirish, ishlab chiqish, joriy etish va/yoki realizatsiya qilish (sotish) xizmatlari",
+        "nameRU": "Услуги по проектированию программного обеспечения для информационных и управленческих систем и любых платформ, реализация их отдельных этапов, разработке, внедрению и/или реализации (продаже)",
+        "groupCODE": "103",
+        "groupNameUZ": "АХБОРОТ ВА АЛОҚА СОҲАСИДАГИ ХИЗМАТЛАР ",
+        "groupNameRU": "ИНФОРМАЦИОННО-КОММУНИКАЦИОННЫЕ УСЛУГИ",
+        "groupNameLAT": "AXBOROT VA ALOQA SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10304014001000000",
+        "nameUZ": "Сунъий йўлдош алоқаси хизматлари, шу жумладан, йўлдош алоқасидан фойдаланган ҳолда энг сўнгги истеъмолчиларга дастурларни тарқатиш бўйича хизматлар",
+        "nameLAT": "Suniy yo’ldosh aloqasi xizmatlari, shu jumladan, yo’ldosh aloqasidan foydalangan holda eng so’nggi istemolchilarga dasturlarni tarqatish bo’yicha xizmatlar",
+        "nameRU": "Услуги спутниковой связи, в том числе распространение программ конечным пользователям посредством спутниковой связи",
+        "groupCODE": "103",
+        "groupNameUZ": "АХБОРОТ ВА АЛОҚА СОҲАСИДАГИ ХИЗМАТЛАР ",
+        "groupNameRU": "ИНФОРМАЦИОННО-КОММУНИКАЦИОННЫЕ УСЛУГИ",
+        "groupNameLAT": "AXBOROT VA ALOQA SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10399004001000000",
+        "nameUZ": "Call-center (диспетчерлик) хизматлари",
+        "nameLAT": "Call-center (dispetcherlik) xizmatlari",
+        "nameRU": "Услуги колл-центра (диспетчерской службы)",
+        "groupCODE": "103",
+        "groupNameUZ": "АХБОРОТ ВА АЛОҚА СОҲАСИДАГИ ХИЗМАТЛАР ",
+        "groupNameRU": "ИНФОРМАЦИОННО-КОММУНИКАЦИОННЫЕ УСЛУГИ",
+        "groupNameLAT": "AXBOROT VA ALOQA SOHASIDAGI XIZMATLAR "
+      },
+      {
+        "mxikCode": "10399002001000000",
+        "nameUZ": "Ахборот-коммуникация технологиялари соҳасида (шу жумладан, Интернет жаҳон ахборот тармоғи орқали) таълим бериш хизматлари",
+        "nameLAT": "Axborot-kommunikatsiya texnologiyalari sohasida (shu jumladan, Internet jahon axborot tarmog’i orqali) talim berish xizmatlari",
+        "nameRU": "Образовательные услуги в сфере информационно-коммуникационных технологий (в том числе через глобальной информационной сети интернет)",
+        "groupCODE": "103",
+        "groupNameUZ": "АХБОРОТ ВА АЛОҚА СОҲАСИДАГИ ХИЗМАТЛАР ",
+        "groupNameRU": "ИНФОРМАЦИОННО-КОММУНИКАЦИОННЫЕ УСЛУГИ",
+        "groupNameLAT": "AXBOROT VA ALOQA SOHASIDAGI XIZMATLAR "
+      },
+      {
+        "mxikCode": "10306002007000000",
+        "nameUZ": "Хостинг хизматлари, шунингдек, серверларни ижарага бериш хизматлари",
+        "nameLAT": "Xosting xizmatlari, shuningdek, serverlarni ijaraga berish xizmatlari",
+        "nameRU": "Услуги хостинга, а также услуги аренды серверов",
+        "groupCODE": "103",
+        "groupNameUZ": "АХБОРОТ ВА АЛОҚА СОҲАСИДАГИ ХИЗМАТЛАР ",
+        "groupNameRU": "ИНФОРМАЦИОННО-КОММУНИКАЦИОННЫЕ УСЛУГИ",
+        "groupNameLAT": "AXBOROT VA ALOQA SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10305010001000000",
+        "nameUZ": "Ахборот ва бошқарув тизимлари, дастурий таъминотни ишлашига техник кўмаклашиш, такомиллаштириш, модификация қилиш, қўллаб-қувватлаш ва интеграция қилиш хизматлари",
+        "nameLAT": "Axborot va boshqaruv tizimlari, dasturiy taminotni ishlashiga texnik ko’maklashish, takomillashtirish, modifikatsiya qilish, qo’llab-quvvatlash va integratsiya qilish xizmatlari",
+        "nameRU": "Информационные и управленческие системы, услуги технической поддержки, улучшения, модификации, поддержки и интеграции для работы программного обеспечения",
+        "groupCODE": "103",
+        "groupNameUZ": "АХБОРОТ ВА АЛОҚА СОҲАСИДАГИ ХИЗМАТЛАР ",
+        "groupNameRU": "ИНФОРМАЦИОННО-КОММУНИКАЦИОННЫЕ УСЛУГИ",
+        "groupNameLAT": "AXBOROT VA ALOQA SOHASIDAGI XIZMATLAR "
+      },
+      {
+        "mxikCode": "10304017009000000",
+        "nameUZ": "Мобил қурилмаларнинг IMEI кодларини рўйхатдан ўтказиш.",
+        "nameLAT": "Mobil qurilmalarning IMEI kodlarini ro’yxatdan o’tkazish.",
+        "nameRU": "Регистрация IMEI кодов мобильных устройств.",
+        "groupCODE": "103",
+        "groupNameUZ": "АХБОРОТ ВА АЛОҚА СОҲАСИДАГИ ХИЗМАТЛАР ",
+        "groupNameRU": "ИНФОРМАЦИОННО-КОММУНИКАЦИОННЫЕ УСЛУГИ",
+        "groupNameLAT": "AXBOROT VA ALOQA SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10399005001000000",
+        "nameUZ": "Ахборот-коммуникация технологияларидан фойдаланган ҳолда (СММ) кўрсатиладиган хизматлар",
+        "nameLAT": "Axborot-kommunikatsiya texnologiyalaridan foydalangan holda (SMM) ko’rsatiladigan xizmatlar",
+        "nameRU": "Услуги, предоставляемые с использованием информационно-коммуникационных технологий (СММ)",
+        "groupCODE": "103",
+        "groupNameUZ": "АХБОРОТ ВА АЛОҚА СОҲАСИДАГИ ХИЗМАТЛАР ",
+        "groupNameRU": "ИНФОРМАЦИОННО-КОММУНИКАЦИОННЫЕ УСЛУГИ",
+        "groupNameLAT": "AXBOROT VA ALOQA SOHASIDAGI XIZMATLAR "
+      },
+      {
+        "mxikCode": "10306013001000000",
+        "nameUZ": "Интернет жаҳон ахборот тармоғи орқали ахборот хизматларини экспорт (аутсорсинг) қилиш (бизнес-жараёнларни аутсорсинг қилиш)",
+        "nameLAT": "Internet jahon axborot tarmog’i orqali axborot xizmatlarini eksport (autsorsing) qilish (biznes-jarayonlarni autsorsing qilish)",
+        "nameRU": "Экспорт (аутсорсинг) информационных услуг через глобальной информационной сети интернет (аутсорсинг бизнес-процессов)",
+        "groupCODE": "103",
+        "groupNameUZ": "АХБОРОТ ВА АЛОҚА СОҲАСИДАГИ ХИЗМАТЛАР ",
+        "groupNameRU": "ИНФОРМАЦИОННО-КОММУНИКАЦИОННЫЕ УСЛУГИ",
+        "groupNameLAT": "AXBOROT VA ALOQA SOHASIDAGI XIZMATLAR "
+      },
+      {
+        "mxikCode": "10306002005000000",
+        "nameUZ": "Электрон ҳужжат айланиши соҳасидаги хизматлар.",
+        "nameLAT": "Elektron hujjat aylanishi sohasidagi xizmatlar.",
+        "nameRU": "Услуги по электронному документообороту.",
+        "groupCODE": "103",
+        "groupNameUZ": "АХБОРОТ ВА АЛОҚА СОҲАСИДАГИ ХИЗМАТЛАР ",
+        "groupNameRU": "ИНФОРМАЦИОННО-КОММУНИКАЦИОННЫЕ УСЛУГИ",
+        "groupNameLAT": "AXBOROT VA ALOQA SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10305008002000000",
+        "nameUZ": "Учинчи шахсларга дастурий таъминот (маълумотлар базаси)дан фойдаланиш имкониятини бериш (шу жумладан, дастурий таъминотнинг қўшимча функцияларини тақдим этиш) хизматлари ",
+        "nameLAT": "Uchinchi shaxslarga dasturiy taminot (malumotlar bazasi)dan foydalanish imkoniyatini berish (shu jumladan, dasturiy taminotning qo’shimcha funksiyalarini taqdim etish) xizmatlari",
+        "nameRU": "Услуги по предоставлению (в том числе предоставление дополнительных функций программного обеспечения) третьим лицам доступа к программному обеспечению (базе данных)",
+        "groupCODE": "103",
+        "groupNameUZ": "АХБОРОТ ВА АЛОҚА СОҲАСИДАГИ ХИЗМАТЛАР ",
+        "groupNameRU": "ИНФОРМАЦИОННО-КОММУНИКАЦИОННЫЕ УСЛУГИ",
+        "groupNameLAT": "AXBOROT VA ALOQA SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10399006001000000",
+        "nameUZ": "Мультимедиа, веб-, график-, техник-, моушин-, визуаллаштирувчи-,  компьютер ўйинлари дизайни, вектор графикаси, 3D графикаси, мультипликация йўналишларидаги бошқа хизматлар",
+        "nameLAT": "Multimedia, veb-, grafik-, texnik-, moushin-, vizuallashtiruvchi-,  kompyuter o’yinlari dizayni, vektor grafikasi, 3D grafikasi, multiplikatsiya yo’nalishlaridagi boshqa xizmatlar",
+        "nameRU": "Мультимедиа, веб, графика, техническая, анимация, визуализация, дизайн компьютерных игр, векторная графика, 3D графика, другие услуги в области мультипликации",
+        "groupCODE": "103",
+        "groupNameUZ": "АХБОРОТ ВА АЛОҚА СОҲАСИДАГИ ХИЗМАТЛАР ",
+        "groupNameRU": "ИНФОРМАЦИОННО-КОММУНИКАЦИОННЫЕ УСЛУГИ",
+        "groupNameLAT": "AXBOROT VA ALOQA SOHASIDAGI XIZMATLAR "
+      },
+      {
+        "mxikCode": "10399003001000000",
+        "nameUZ": "Электрон рақамли имзони яратиш ва рўйхатдан ўтказиш хизматлари.",
+        "nameLAT": "Elektron raqamli imzoni yaratish va ro’yxatdan o’tkazish xizmatlari.",
+        "nameRU": "Услуга по генерации и регистрации электронной цифровой подписи.",
+        "groupCODE": "103",
+        "groupNameUZ": "АХБОРОТ ВА АЛОҚА СОҲАСИДАГИ ХИЗМАТЛАР ",
+        "groupNameRU": "ИНФОРМАЦИОННО-КОММУНИКАЦИОННЫЕ УСЛУГИ",
+        "groupNameLAT": "AXBOROT VA ALOQA SOHASIDAGI XIZMATLAR "
+      },
+      {
+        "mxikCode": "10306002006000000",
+        "nameUZ": "Домен номларини рўйхатга олиш хизматлари",
+        "nameLAT": "Domen nomlarini ro’yxatga olish xizmatlari",
+        "nameRU": "Услуги по регистрации названия доменов",
+        "groupCODE": "103",
+        "groupNameUZ": "АХБОРОТ ВА АЛОҚА СОҲАСИДАГИ ХИЗМАТЛАР ",
+        "groupNameRU": "ИНФОРМАЦИОННО-КОММУНИКАЦИОННЫЕ УСЛУГИ",
+        "groupNameLAT": "AXBOROT VA ALOQA SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10305013002000000",
+        "nameUZ": "Ахборот тизимлари ва дастурий таъминотни киберхавсизлик бўйича текшириш, ҳимоя қилиш (шу жумладан, криптографик) хизматлари",
+        "nameLAT": "Axborot tizimlari va dasturiy taminotni kiberxavsizlik bo’yicha tekshirish, himoya qilish (shu jumladan, kriptografik) xizmatlari",
+        "nameRU": "Услуги по проверке кибербезопасности информационных систем и программного обеспечения, защите (в том числе криптографической)",
+        "groupCODE": "103",
+        "groupNameUZ": "АХБОРОТ ВА АЛОҚА СОҲАСИДАГИ ХИЗМАТЛАР ",
+        "groupNameRU": "ИНФОРМАЦИОННО-КОММУНИКАЦИОННЫЕ УСЛУГИ",
+        "groupNameLAT": "AXBOROT VA ALOQA SOHASIDAGI XIZMATLAR "
+      },
+      {
+        "mxikCode": "10305012001000000",
+        "nameUZ": "Дастурий аппарат комплекслари, ахборот ва бошқарув тизимларида ишлашни (малака ошириш) ўргатиш хизматлари",
+        "nameLAT": "Dasturiy apparat komplekslari, axborot va boshqaruv tizimlarida ishlashni (malaka oshirish) o’rgatish xizmatlari",
+        "nameRU": "Услуги по обучению (повышению квалификации) эксплуатации  программно-аппаратных комплексов, информационных и управленческих систем",
+        "groupCODE": "103",
+        "groupNameUZ": "АХБОРОТ ВА АЛОҚА СОҲАСИДАГИ ХИЗМАТЛАР ",
+        "groupNameRU": "ИНФОРМАЦИОННО-КОММУНИКАЦИОННЫЕ УСЛУГИ",
+        "groupNameLAT": "AXBOROT VA ALOQA SOHASIDAGI XIZMATLAR "
+      },
+      {
+        "mxikCode": "10305008004000000",
+        "nameUZ": "Дастурий таъминотда мижоз томонидан тақдим этилган реклама ва эълонларни жойлаштириш хизматлари",
+        "nameLAT": "Dasturiy taminotda mijoz tomonidan taqdim etilgan reklama va elonlarni joylashtirish xizmatlari",
+        "nameRU": "Услуги по размещению рекламы и объявлений в программном обеспечении, предоставляемые клиентом",
+        "groupCODE": "103",
+        "groupNameUZ": "АХБОРОТ ВА АЛОҚА СОҲАСИДАГИ ХИЗМАТЛАР ",
+        "groupNameRU": "ИНФОРМАЦИОННО-КОММУНИКАЦИОННЫЕ УСЛУГИ",
+        "groupNameLAT": "AXBOROT VA ALOQA SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10305011001000000",
+        "nameUZ": "Дастурий аппарат комплекслари ишлашига техник кўмаклашиш, қўллаб-қувватлаш ва интеграция қилиш хизматлари",
+        "nameLAT": "Dasturiy apparat komplekslari ishlashiga texnik ko’maklashish, qo’llab-quvvatlash va integratsiya qilish xizmatlari",
+        "nameRU": "Услуги технической помощи, поддержки и интеграции для работы программно-аппаратных комплексов",
+        "groupCODE": "103",
+        "groupNameUZ": "АХБОРОТ ВА АЛОҚА СОҲАСИДАГИ ХИЗМАТЛАР ",
+        "groupNameRU": "ИНФОРМАЦИОННО-КОММУНИКАЦИОННЫЕ УСЛУГИ",
+        "groupNameLAT": "AXBOROT VA ALOQA SOHASIDAGI XIZMATLAR "
+      },
+      {
+        "mxikCode": "10305008003000000",
+        "nameUZ": "Дастурий таъминотдан фойдаланиш ҳуқуқини (шу жумладан, лицензия, сублицензия) тақдим этиш/рухсат бериш хизматлари",
+        "nameLAT": "Dasturiy taminotdan foydalanish huquqini (shu jumladan, litsenziya, sublitsenziya) taqdim etish/ruxsat berish xizmatlari",
+        "nameRU": "Услуги по предоставлению/разрешению права пользования (в том числе лицензии, сублицензии) программным обеспечением",
+        "groupCODE": "103",
+        "groupNameUZ": "АХБОРОТ ВА АЛОҚА СОҲАСИДАГИ ХИЗМАТЛАР ",
+        "groupNameRU": "ИНФОРМАЦИОННО-КОММУНИКАЦИОННЫЕ УСЛУГИ",
+        "groupNameLAT": "AXBOROT VA ALOQA SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10399003002000000",
+        "nameUZ": "Электрон рақамли имзо калитини ҳимояланган USB-токенга ёзиш хизмати.",
+        "nameLAT": "Elektron raqamli imzo kalitini himoyalangan USB-tokenga yozish xizmati.",
+        "nameRU": "Услуга по записи ключа электронной цифровой подписи на защищенном USB-токене.",
+        "groupCODE": "103",
+        "groupNameUZ": "АХБОРОТ ВА АЛОҚА СОҲАСИДАГИ ХИЗМАТЛАР ",
+        "groupNameRU": "ИНФОРМАЦИОННО-КОММУНИКАЦИОННЫЕ УСЛУГИ",
+        "groupNameLAT": "AXBOROT VA ALOQA SOHASIDAGI XIZMATLAR "
+      },
+      {
+        "mxikCode": "10306002008000000",
+        "nameUZ": "SSL сертификатларини бериш хизматлари",
+        "nameLAT": "SSL sertifikatlarini berish xizmatlari",
+        "nameRU": "Услуги по выдаче SSL сертификатов",
+        "groupCODE": "103",
+        "groupNameUZ": "АХБОРОТ ВА АЛОҚА СОҲАСИДАГИ ХИЗМАТЛАР ",
+        "groupNameRU": "ИНФОРМАЦИОННО-КОММУНИКАЦИОННЫЕ УСЛУГИ",
+        "groupNameLAT": "AXBOROT VA ALOQA SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10305013001000000",
+        "nameUZ": "Ахборот технологиялари соҳасида консалтинг  (шу жумладан, техник талаб, аудит, таҳлил, бизнес инжиниринг, синовдан ўтказиш)",
+        "nameLAT": "Axborot texnologiyalari sohasida konsalting  (shu jumladan, texnik talab, audit, tahlil, biznes injiniring, sinovdan o’tkazish)",
+        "nameRU": "Консалтинг в области информационных технологий (включая технического требования, аудита, анализа, бизнес-инжиниринга, тестирования)",
+        "groupCODE": "103",
+        "groupNameUZ": "АХБОРОТ ВА АЛОҚА СОҲАСИДАГИ ХИЗМАТЛАР ",
+        "groupNameRU": "ИНФОРМАЦИОННО-КОММУНИКАЦИОННЫЕ УСЛУГИ",
+        "groupNameLAT": "AXBOROT VA ALOQA SOHASIDAGI XIZMATLAR "
+      },
+      {
+        "mxikCode": "10305009001000000",
+        "nameUZ": "Дастурий-аппарат комплексларини ишлаб чиқиш, жорий этиш ва/ёки реализация қилиш (сотиш) хизматлари",
+        "nameLAT": "Dasturiy-apparat komplekslarini ishlab chiqish, joriy etish va/yoki realizatsiya qilish (sotish) xizmatlari",
+        "nameRU": "Услуги по разработке, внедрению и/или реализации (продаже) программно-аппаратных комплексов",
+        "groupCODE": "103",
+        "groupNameUZ": "АХБОРОТ ВА АЛОҚА СОҲАСИДАГИ ХИЗМАТЛАР ",
+        "groupNameRU": "ИНФОРМАЦИОННО-КОММУНИКАЦИОННЫЕ УСЛУГИ",
+        "groupNameLAT": "AXBOROT VA ALOQA SOHASIDAGI XIZMATLAR "
+      },
+      {
+        "mxikCode": "10304003009000000",
+        "nameUZ": "Кабель инфратузилмасидан фойдаланган ҳолда энг сўнгги истеъмолчилар орасида дастурларни тарқатиш бўйича хизматлар.",
+        "nameLAT": "Kabel infratuzilmasidan foydalangan holda eng so’nggi istemolchilar orasida dasturlarni tarqatish bo’yicha xizmatlar.",
+        "nameRU": "Услуги по распространению программ среди конечных потребителей с использованием кабельной инфраструктуры.",
+        "groupCODE": "103",
+        "groupNameUZ": "АХБОРОТ ВА АЛОҚА СОҲАСИДАГИ ХИЗМАТЛАР ",
+        "groupNameRU": "ИНФОРМАЦИОННО-КОММУНИКАЦИОННЫЕ УСЛУГИ",
+        "groupNameLAT": "AXBOROT VA ALOQA SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10306002004000000",
+        "nameUZ": "Процессинг хизматлари",
+        "nameLAT": "Protsessing xizmatlari",
+        "nameRU": "Процессинговые услуги",
+        "groupCODE": "103",
+        "groupNameUZ": "АХБОРОТ ВА АЛОҚА СОҲАСИДАГИ ХИЗМАТЛАР ",
+        "groupNameRU": "ИНФОРМАЦИОННО-КОММУНИКАЦИОННЫЕ УСЛУГИ",
+        "groupNameLAT": "AXBOROT VA ALOQA SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10302001005000000",
+        "nameUZ": "Кино, видеофилмлар, телевизион дастурлар ва видеоконтентни намойиш қилиш хизматлари (шу жумладан кинотеатрлар хизматлари)",
+        "nameLAT": "Kino, videofilmlar, televizion dasturlar va videokontentni namoyish qilish xizmatlari (shu jumladan kinoteatrlar xizmatlari)",
+        "nameRU": "Услуги по демонстрации кино, видеофильмов, телевизионных программ и видеоконтента (в том числе услуги кинотеатров)",
+        "groupCODE": "103",
+        "groupNameUZ": "АХБОРОТ ВА АЛОҚА СОҲАСИДАГИ ХИЗМАТЛАР ",
+        "groupNameRU": "ИНФОРМАЦИОННО-КОММУНИКАЦИОННЫЕ УСЛУГИ",
+        "groupNameLAT": "AXBOROT VA ALOQA SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10399007001000000",
+        "nameUZ": "Ахборот технологиялари соҳасидаги венчур молиялаштириш ва акселерация дастурларини амалга ошириш хизматлари",
+        "nameLAT": "Axborot texnologiyalari sohasidagi venchur moliyalashtirish va akseleratsiya dasturlarini amalga oshirish xizmatlari",
+        "nameRU": "Услуги по внедрению программ венчурного финансирования и акселерации в сферу информационных технологий",
+        "groupCODE": "103",
+        "groupNameUZ": "АХБОРОТ ВА АЛОҚА СОҲАСИДАГИ ХИЗМАТЛАР ",
+        "groupNameRU": "ИНФОРМАЦИОННО-КОММУНИКАЦИОННЫЕ УСЛУГИ",
+        "groupNameLAT": "AXBOROT VA ALOQA SOHASIDAGI XIZMATLAR "
+      },
+      {
+        "mxikCode": "10302006002000000",
+        "nameUZ": "Мусиқий асарларни (фонограммаларни) ёзиб олиш, нашр этиш ва улардан фойдаланиш билан боғлиқ бошқа хизматлар",
+        "nameLAT": "Musiqiy asarlarni (fonogrammalarni) yozib olish, nashr etish va ulardan foydalanish bilan bog’liq boshqa xizmatlar",
+        "nameRU": "Прочие услуги, связанные с звукозаписью,  изданием  и использованием музыкальных произведений (фонограмм)",
+        "groupCODE": "103",
+        "groupNameUZ": "АХБОРОТ ВА АЛОҚА СОҲАСИДАГИ ХИЗМАТЛАР ",
+        "groupNameRU": "ИНФОРМАЦИОННО-КОММУНИКАЦИОННЫЕ УСЛУГИ",
+        "groupNameLAT": "AXBOROT VA ALOQA SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10311001001000000",
+        "nameUZ": "Типография хизматлари (барча турдаги хизматлар)",
+        "nameLAT": "Tipografiya xizmatlari (barcha turdagi xizmatlar)",
+        "nameRU": "Услуги типографии (все виды услуг)",
+        "groupCODE": "103",
+        "groupNameUZ": "АХБОРОТ ВА АЛОҚА СОҲАСИДАГИ ХИЗМАТЛАР ",
+        "groupNameRU": "ИНФОРМАЦИОННО-КОММУНИКАЦИОННЫЕ УСЛУГИ",
+        "groupNameLAT": "AXBOROT VA ALOQA SOHASIDAGI XIZMATLAR "
+      },
+      {
+        "mxikCode": "10310003002000000",
+        "nameUZ": "Умумий фойдаланиладиган телефон тармоқларига кириш ва фойдаланишни таъминлаш бўйича стационар (стационар) телефон алоқаси хизматлари",
+        "nameLAT": "Umumiy foydalaniladigan telefon tarmoqlariga kirish va foydalanishni taminlash bo’yicha statsionar (statsionar) telefon aloqasi xizmatlari",
+        "nameRU": "Услуги фиксированной (стационарной) телефонной связи по предоставлению доступа и пользованию общественными телефонными сетями",
+        "groupCODE": "103",
+        "groupNameUZ": "АХБОРОТ ВА АЛОҚА СОҲАСИДАГИ ХИЗМАТЛАР ",
+        "groupNameRU": "ИНФОРМАЦИОННО-КОММУНИКАЦИОННЫЕ УСЛУГИ",
+        "groupNameLAT": "AXBOROT VA ALOQA SOHASIDAGI XIZMATLAR "
+      },
+      {
+        "mxikCode": "10399008001000000",
+        "nameUZ": "Киберспорт соҳасидаги хизматлар",
+        "nameLAT": "Kibersport sohasidagi xizmatlar",
+        "nameRU": "Услуги в сфере Киберспорта",
+        "groupCODE": "103",
+        "groupNameUZ": "АХБОРОТ ВА АЛОҚА СОҲАСИДАГИ ХИЗМАТЛАР ",
+        "groupNameRU": "ИНФОРМАЦИОННО-КОММУНИКАЦИОННЫЕ УСЛУГИ",
+        "groupNameLAT": "AXBOROT VA ALOQA SOHASIDAGI XIZMATLAR "
+      },
+      {
+        "mxikCode": "10304008002000000",
+        "nameUZ": "Симсиз телекоммуникация соҳасидаги операторларнинг хизматлари",
+        "nameLAT": "Simsiz telekommunikatsiya sohasidagi operatorlarning xizmatlari",
+        "nameRU": "Услуга операторов связи в сфере беспроводных телекоммуникаций",
+        "groupCODE": "103",
+        "groupNameUZ": "АХБОРОТ ВА АЛОҚА СОҲАСИДАГИ ХИЗМАТЛАР ",
+        "groupNameRU": "ИНФОРМАЦИОННО-КОММУНИКАЦИОННЫЕ УСЛУГИ",
+        "groupNameLAT": "AXBOROT VA ALOQA SOHASIDAGI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10305008006000000",
+        "nameUZ": "Дастурий таъминотдан фойдаланган ҳолда йўловчилар, багаж ва (ёки) юкларни ташишни ташкил қилишга ёрдам бериш бўйича  хизматлар\t",
+        "nameLAT": "Dasturiy taminotdan foydalangan holda yo’lovchilar, bagaj va (yoki) yuklarni tashishni tashkil qilishga yordam berish bo’yicha  xizmatlar\t",
+        "nameRU": "Услуги по содействию в организации перевозки пассажиров, багажа и (или) доставки отправлений с использованием программного  обеспечения",
+        "groupCODE": "103",
+        "groupNameUZ": "АХБОРОТ ВА АЛОҚА СОҲАСИДАГИ ХИЗМАТЛАР ",
+        "groupNameRU": "ИНФОРМАЦИОННО-КОММУНИКАЦИОННЫЕ УСЛУГИ",
+        "groupNameLAT": "AXBOROT VA ALOQA SOHASIDAGI XIZMATLAR "
+      },
+      {
+        "mxikCode": "10305008005000000",
+        "nameUZ": "Мультимедиа контенти (мусиқалар, фильмлар, сериаллар), бошқа рақамли кўнгилочар материаллар ва маркетинг таклифларига дастурий таъминот орқали кириш имкониятини тақдим этиш бўйича хизмат",
+        "nameLAT": "Multimedia kontenti (musiqalar, filmlar, seriallar), boshqa raqamli ko’ngilochar materiallar va marketing takliflariga dasturiy taminot orqali kirish imkoniyatini taqdim etish bo’yicha xizmat",
+        "nameRU": "Услуга по предоставлению доступа к мультимедийному контенту (музыке, фильмам, сериалам), другим цифровым развлечениям, а также к маркетинговым предложениям через программное обеспечение",
+        "groupCODE": "103",
+        "groupNameUZ": "АХБОРОТ ВА АЛОҚА СОҲАСИДАГИ ХИЗМАТЛАР ",
+        "groupNameRU": "ИНФОРМАЦИОННО-КОММУНИКАЦИОННЫЕ УСЛУГИ",
+        "groupNameLAT": "AXBOROT VA ALOQA SOHASIDAGI XIZMATLAR "
+      }
+    ],
+    "recordTotal": 76,
+    "errors": null,
+    "permitted": false
+  }
+}

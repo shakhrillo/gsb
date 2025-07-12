@@ -1,0 +1,607 @@
+{
+  "metadata": {
+    "groupId": 49,
+    "fetchedAt": "2025-07-12T16:33:19.499Z",
+    "source": "https://tasnif.soliq.uz/api/cl-api/integration-mxik/references/group/code?group=49"
+  },
+  "data": {
+    "success": true,
+    "code": 200,
+    "reason": null,
+    "data": [
+      {
+        "mxikCode": "04901001001000000",
+        "nameUZ": "Босма китоблар",
+        "nameLAT": "Bosma kitoblar",
+        "nameRU": "Печатные книги",
+        "groupCODE": "049",
+        "groupNameUZ": "КИТОБЛАР, ГАЗEТАЛАР ВА БОШҚА МАТБАА МАҲСУЛОТЛАРИ ",
+        "groupNameRU": "КНИГИ, ГАЗЕТЫ И ДРУГАЯ ПОЛИГРАФИЧЕСКАЯ ПРОДУКЦИЯ",
+        "groupNameLAT": "KITOBLAR, GAZETALAR VA BOShQA MATBAA MAHSULOTLARI "
+      },
+      {
+        "mxikCode": "04911001011000000",
+        "nameUZ": "Хизмат китобчаси",
+        "nameLAT": "Xizmat kitobchasi",
+        "nameRU": "Сервисная книжка",
+        "groupCODE": "049",
+        "groupNameUZ": "КИТОБЛАР, ГАЗEТАЛАР ВА БОШҚА МАТБАА МАҲСУЛОТЛАРИ ",
+        "groupNameRU": "КНИГИ, ГАЗЕТЫ И ДРУГАЯ ПОЛИГРАФИЧЕСКАЯ ПРОДУКЦИЯ",
+        "groupNameLAT": "KITOBLAR, GAZETALAR VA BOShQA MATBAA MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "04911002001000000",
+        "nameUZ": "Чоп қилинган лоторея билети",
+        "nameLAT": "Chop qilingan lotoreya bileti",
+        "nameRU": "Напечатанный лотерейный билет",
+        "groupCODE": "049",
+        "groupNameUZ": "КИТОБЛАР, ГАЗEТАЛАР ВА БОШҚА МАТБАА МАҲСУЛОТЛАРИ ",
+        "groupNameRU": "КНИГИ, ГАЗЕТЫ И ДРУГАЯ ПОЛИГРАФИЧЕСКАЯ ПРОДУКЦИЯ",
+        "groupNameLAT": "KITOBLAR, GAZETALAR VA BOShQA MATBAA MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "04905001001000000",
+        "nameUZ": "Географик, гидрографик ва астрономик хариталар",
+        "nameLAT": "Geografik, gidrografik va astronomik xaritalar",
+        "nameRU": "Географические, гидрографические и астрономические карты",
+        "groupCODE": "049",
+        "groupNameUZ": "КИТОБЛАР, ГАЗEТАЛАР ВА БОШҚА МАТБАА МАҲСУЛОТЛАРИ ",
+        "groupNameRU": "КНИГИ, ГАЗЕТЫ И ДРУГАЯ ПОЛИГРАФИЧЕСКАЯ ПРОДУКЦИЯ",
+        "groupNameLAT": "KITOBLAR, GAZETALAR VA BOShQA MATBAA MAHSULOTLARI "
+      },
+      {
+        "mxikCode": "04909001003000000",
+        "nameUZ": "Таклифномалар ва шунга ўхшаш карточкалар",
+        "nameLAT": "Taklifnomalar va shunga o’xshash kartochkalar",
+        "nameRU": "Пригласительные и аналогичные карточки",
+        "groupCODE": "049",
+        "groupNameUZ": "КИТОБЛАР, ГАЗEТАЛАР ВА БОШҚА МАТБАА МАҲСУЛОТЛАРИ ",
+        "groupNameRU": "КНИГИ, ГАЗЕТЫ И ДРУГАЯ ПОЛИГРАФИЧЕСКАЯ ПРОДУКЦИЯ",
+        "groupNameLAT": "KITOBLAR, GAZETALAR VA BOShQA MATBAA MAHSULOTLARI "
+      },
+      {
+        "mxikCode": "04911001032000000",
+        "nameUZ": "тизим ишлашини назорат килиш учун мишень",
+        "nameLAT": "tizim ishlashini nazorat kilish uchun mishen",
+        "nameRU": "Мишени для контроля работы системы наведения",
+        "groupCODE": "049",
+        "groupNameUZ": "КИТОБЛАР, ГАЗEТАЛАР ВА БОШҚА МАТБАА МАҲСУЛОТЛАРИ ",
+        "groupNameRU": "КНИГИ, ГАЗЕТЫ И ДРУГАЯ ПОЛИГРАФИЧЕСКАЯ ПРОДУКЦИЯ",
+        "groupNameLAT": "KITOBLAR, GAZETALAR VA BOShQA MATBAA MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "04907003001000000",
+        "nameUZ": "Бошқа қимматли қоғозлар",
+        "nameLAT": "Boshqa qimmatli qog’ozlar",
+        "nameRU": "Прочие ценные бумаги",
+        "groupCODE": "049",
+        "groupNameUZ": "КИТОБЛАР, ГАЗEТАЛАР ВА БОШҚА МАТБАА МАҲСУЛОТЛАРИ ",
+        "groupNameRU": "КНИГИ, ГАЗЕТЫ И ДРУГАЯ ПОЛИГРАФИЧЕСКАЯ ПРОДУКЦИЯ",
+        "groupNameLAT": "KITOBLAR, GAZETALAR VA BOShQA MATBAA MAHSULOTLARI "
+      },
+      {
+        "mxikCode": "04907001001000001",
+        "nameUZ": "Почта маркалари, божхона маркалари ёки шунга ўхшаш маркалар Почта маркалари",
+        "nameLAT": "Pochta markalari, bojxona markalari yoki shunga o’xshash markalar Pochta markalari",
+        "nameRU": "Почтовые марки, марки госпошлин или аналогичные марки Почтовые марки",
+        "groupCODE": "049",
+        "groupNameUZ": "КИТОБЛАР, ГАЗEТАЛАР ВА БОШҚА МАТБАА МАҲСУЛОТЛАРИ ",
+        "groupNameRU": "КНИГИ, ГАЗЕТЫ И ДРУГАЯ ПОЛИГРАФИЧЕСКАЯ ПРОДУКЦИЯ",
+        "groupNameLAT": "KITOBLAR, GAZETALAR VA BOShQA MATBAA MAHSULOTLARI "
+      },
+      {
+        "mxikCode": "04901001002000000",
+        "nameUZ": "Брошюралар",
+        "nameLAT": "Broshyuralar",
+        "nameRU": "Брошюры",
+        "groupCODE": "049",
+        "groupNameUZ": "КИТОБЛАР, ГАЗEТАЛАР ВА БОШҚА МАТБАА МАҲСУЛОТЛАРИ ",
+        "groupNameRU": "КНИГИ, ГАЗЕТЫ И ДРУГАЯ ПОЛИГРАФИЧЕСКАЯ ПРОДУКЦИЯ",
+        "groupNameLAT": "KITOBLAR, GAZETALAR VA BOShQA MATBAA MAHSULOTLARI "
+      },
+      {
+        "mxikCode": "04911001024000000",
+        "nameUZ": "Техникавий ҳужжатлар",
+        "nameLAT": "Texnikaviy hujjatlar",
+        "nameRU": "Техническая документация",
+        "groupCODE": "049",
+        "groupNameUZ": "КИТОБЛАР, ГАЗEТАЛАР ВА БОШҚА МАТБАА МАҲСУЛОТЛАРИ ",
+        "groupNameRU": "КНИГИ, ГАЗЕТЫ И ДРУГАЯ ПОЛИГРАФИЧЕСКАЯ ПРОДУКЦИЯ",
+        "groupNameLAT": "KITOBLAR, GAZETALAR VA BOShQA MATBAA MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "04902001002000000",
+        "nameUZ": "Журнал",
+        "nameLAT": "Jurnal",
+        "nameRU": "Журнал",
+        "groupCODE": "049",
+        "groupNameUZ": "КИТОБЛАР, ГАЗEТАЛАР ВА БОШҚА МАТБАА МАҲСУЛОТЛАРИ ",
+        "groupNameRU": "КНИГИ, ГАЗЕТЫ И ДРУГАЯ ПОЛИГРАФИЧЕСКАЯ ПРОДУКЦИЯ",
+        "groupNameLAT": "KITOBLAR, GAZETALAR VA BOShQA MATBAA MAHSULOTLARI "
+      },
+      {
+        "mxikCode": "04911001009000000",
+        "nameUZ": "Ранглар пантони",
+        "nameLAT": "Ranglar pantoni",
+        "nameRU": "Пантон цвета",
+        "groupCODE": "049",
+        "groupNameUZ": "КИТОБЛАР, ГАЗEТАЛАР ВА БОШҚА МАТБАА МАҲСУЛОТЛАРИ ",
+        "groupNameRU": "КНИГИ, ГАЗЕТЫ И ДРУГАЯ ПОЛИГРАФИЧЕСКАЯ ПРОДУКЦИЯ",
+        "groupNameLAT": "KITOBLAR, GAZETALAR VA BOShQA MATBAA MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "04911001021000000",
+        "nameUZ": "Каталог картаси",
+        "nameLAT": "Katalog kartasi",
+        "nameRU": "Каталожная карточка",
+        "groupCODE": "049",
+        "groupNameUZ": "КИТОБЛАР, ГАЗEТАЛАР ВА БОШҚА МАТБАА МАҲСУЛОТЛАРИ ",
+        "groupNameRU": "КНИГИ, ГАЗЕТЫ И ДРУГАЯ ПОЛИГРАФИЧЕСКАЯ ПРОДУКЦИЯ",
+        "groupNameLAT": "KITOBLAR, GAZETALAR VA BOShQA MATBAA MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "04903001004000000",
+        "nameUZ": "Болалар бўяш альбоми",
+        "nameLAT": "Bolalar bo’yash albomi",
+        "nameRU": "Детская албомная раскраска",
+        "groupCODE": "049",
+        "groupNameUZ": "КИТОБЛАР, ГАЗEТАЛАР ВА БОШҚА МАТБАА МАҲСУЛОТЛАРИ ",
+        "groupNameRU": "КНИГИ, ГАЗЕТЫ И ДРУГАЯ ПОЛИГРАФИЧЕСКАЯ ПРОДУКЦИЯ",
+        "groupNameLAT": "KITOBLAR, GAZETALAR VA BOShQA MATBAA MAHSULOTLARI "
+      },
+      {
+        "mxikCode": "04911001033000000",
+        "nameUZ": "Чегирма купони",
+        "nameLAT": "Chegirma kuponi",
+        "nameRU": "Купоны скидочные",
+        "groupCODE": "049",
+        "groupNameUZ": "КИТОБЛАР, ГАЗEТАЛАР ВА БОШҚА МАТБАА МАҲСУЛОТЛАРИ ",
+        "groupNameRU": "КНИГИ, ГАЗЕТЫ И ДРУГАЯ ПОЛИГРАФИЧЕСКАЯ ПРОДУКЦИЯ",
+        "groupNameLAT": "KITOBLAR, GAZETALAR VA BOShQA MATBAA MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "04903001004000001",
+        "nameUZ": "Болалар бўяш альбоми рақамлар бўйича",
+        "nameLAT": "Bolalar bo’yash albomi raqamlar bo’yicha",
+        "nameRU": "Детская албомная раскраска по номерам",
+        "groupCODE": "049",
+        "groupNameUZ": "КИТОБЛАР, ГАЗEТАЛАР ВА БОШҚА МАТБАА МАҲСУЛОТЛАРИ ",
+        "groupNameRU": "КНИГИ, ГАЗЕТЫ И ДРУГАЯ ПОЛИГРАФИЧЕСКАЯ ПРОДУКЦИЯ",
+        "groupNameLAT": "KITOBLAR, GAZETALAR VA BOShQA MATBAA MAHSULOTLARI "
+      },
+      {
+        "mxikCode": "04911001020000000",
+        "nameUZ": "Металлар кучланиши жадвали",
+        "nameLAT": "Metallar kuchlanishi jadvali",
+        "nameRU": "Таблица напряжений металлов",
+        "groupCODE": "049",
+        "groupNameUZ": "КИТОБЛАР, ГАЗEТАЛАР ВА БОШҚА МАТБАА МАҲСУЛОТЛАРИ ",
+        "groupNameRU": "КНИГИ, ГАЗЕТЫ И ДРУГАЯ ПОЛИГРАФИЧЕСКАЯ ПРОДУКЦИЯ",
+        "groupNameLAT": "KITOBLAR, GAZETALAR VA BOShQA MATBAA MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "04911001017000000",
+        "nameUZ": "Деворга расм чизиш",
+        "nameLAT": "Devorga rasm chizish",
+        "nameRU": "Картина настенная",
+        "groupCODE": "049",
+        "groupNameUZ": "КИТОБЛАР, ГАЗEТАЛАР ВА БОШҚА МАТБАА МАҲСУЛОТЛАРИ ",
+        "groupNameRU": "КНИГИ, ГАЗЕТЫ И ДРУГАЯ ПОЛИГРАФИЧЕСКАЯ ПРОДУКЦИЯ",
+        "groupNameLAT": "KITOBLAR, GAZETALAR VA BOShQA MATBAA MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "04902001001000000",
+        "nameUZ": "Газета",
+        "nameLAT": "Gazeta",
+        "nameRU": "Газета",
+        "groupCODE": "049",
+        "groupNameUZ": "КИТОБЛАР, ГАЗEТАЛАР ВА БОШҚА МАТБАА МАҲСУЛОТЛАРИ ",
+        "groupNameRU": "КНИГИ, ГАЗЕТЫ И ДРУГАЯ ПОЛИГРАФИЧЕСКАЯ ПРОДУКЦИЯ",
+        "groupNameLAT": "KITOBLAR, GAZETALAR VA BOShQA MATBAA MAHSULOTLARI "
+      },
+      {
+        "mxikCode": "04911002002000000",
+        "nameUZ": "Чипта",
+        "nameLAT": "Chipta",
+        "nameRU": "Билет",
+        "groupCODE": "049",
+        "groupNameUZ": "КИТОБЛАР, ГАЗEТАЛАР ВА БОШҚА МАТБАА МАҲСУЛОТЛАРИ ",
+        "groupNameRU": "КНИГИ, ГАЗЕТЫ И ДРУГАЯ ПОЛИГРАФИЧЕСКАЯ ПРОДУКЦИЯ",
+        "groupNameLAT": "KITOBLAR, GAZETALAR VA BOShQA MATBAA MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "04911001016000000",
+        "nameUZ": "Буклет",
+        "nameLAT": "Buklet",
+        "nameRU": "Буклет",
+        "groupCODE": "049",
+        "groupNameUZ": "КИТОБЛАР, ГАЗEТАЛАР ВА БОШҚА МАТБАА МАҲСУЛОТЛАРИ ",
+        "groupNameRU": "КНИГИ, ГАЗЕТЫ И ДРУГАЯ ПОЛИГРАФИЧЕСКАЯ ПРОДУКЦИЯ",
+        "groupNameLAT": "KITOBLAR, GAZETALAR VA BOShQA MATBAA MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "04909001001000000",
+        "nameUZ": "Печатланган почта откриткалари",
+        "nameLAT": "Pechatlangan pochta otkritkalari",
+        "nameRU": "Открытки почтовые печатные",
+        "groupCODE": "049",
+        "groupNameUZ": "КИТОБЛАР, ГАЗEТАЛАР ВА БОШҚА МАТБАА МАҲСУЛОТЛАРИ ",
+        "groupNameRU": "КНИГИ, ГАЗЕТЫ И ДРУГАЯ ПОЛИГРАФИЧЕСКАЯ ПРОДУКЦИЯ",
+        "groupNameLAT": "KITOBLAR, GAZETALAR VA BOShQA MATBAA MAHSULOTLARI "
+      },
+      {
+        "mxikCode": "04901001002000001",
+        "nameUZ": "Брошюралар Реклама брашуралар",
+        "nameLAT": "Broshyuralar Reklama brashuralar",
+        "nameRU": "Брошюры Брошюра рекламная",
+        "groupCODE": "049",
+        "groupNameUZ": "КИТОБЛАР, ГАЗEТАЛАР ВА БОШҚА МАТБАА МАҲСУЛОТЛАРИ ",
+        "groupNameRU": "КНИГИ, ГАЗЕТЫ И ДРУГАЯ ПОЛИГРАФИЧЕСКАЯ ПРОДУКЦИЯ",
+        "groupNameLAT": "KITOBLAR, GAZETALAR VA BOShQA MATBAA MAHSULOTLARI "
+      },
+      {
+        "mxikCode": "04911001010000000",
+        "nameUZ": "Плакат",
+        "nameLAT": "Plakat",
+        "nameRU": "Плакат",
+        "groupCODE": "049",
+        "groupNameUZ": "КИТОБЛАР, ГАЗEТАЛАР ВА БОШҚА МАТБАА МАҲСУЛОТЛАРИ ",
+        "groupNameRU": "КНИГИ, ГАЗЕТЫ И ДРУГАЯ ПОЛИГРАФИЧЕСКАЯ ПРОДУКЦИЯ",
+        "groupNameLAT": "KITOBLAR, GAZETALAR VA BOShQA MATBAA MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "04911001025000000",
+        "nameUZ": "Коғоз идишда нашриёт маҳсулоти (калит)",
+        "nameLAT": "Kog’oz idishda nashriyot mahsuloti (kalit)",
+        "nameRU": "Печатная продукция на бумажном носителе (ключ)",
+        "groupCODE": "049",
+        "groupNameUZ": "КИТОБЛАР, ГАЗEТАЛАР ВА БОШҚА МАТБАА МАҲСУЛОТЛАРИ ",
+        "groupNameRU": "КНИГИ, ГАЗЕТЫ И ДРУГАЯ ПОЛИГРАФИЧЕСКАЯ ПРОДУКЦИЯ",
+        "groupNameLAT": "KITOBLAR, GAZETALAR VA BOShQA MATBAA MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "04911001003000000",
+        "nameUZ": "Ташриф қоғози",
+        "nameLAT": "Tashrif qog’ozi",
+        "nameRU": "Визитка",
+        "groupCODE": "049",
+        "groupNameUZ": "КИТОБЛАР, ГАЗEТАЛАР ВА БОШҚА МАТБАА МАҲСУЛОТЛАРИ ",
+        "groupNameRU": "КНИГИ, ГАЗЕТЫ И ДРУГАЯ ПОЛИГРАФИЧЕСКАЯ ПРОДУКЦИЯ",
+        "groupNameLAT": "KITOBLAR, GAZETALAR VA BOShQA MATBAA MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "04901001001001001",
+        "nameUZ": "Босма китоблар Ирина Дронова Қаноти тўкилаётган фаришта",
+        "nameLAT": "Bosma kitoblar Ирина Дронова Qanoti to’kilayotgan farishta",
+        "nameRU": "Печатные книги Ирина Дронова Ангел, роняющий перья",
+        "groupCODE": "049",
+        "groupNameUZ": "КИТОБЛАР, ГАЗEТАЛАР ВА БОШҚА МАТБАА МАҲСУЛОТЛАРИ ",
+        "groupNameRU": "КНИГИ, ГАЗЕТЫ И ДРУГАЯ ПОЛИГРАФИЧЕСКАЯ ПРОДУКЦИЯ",
+        "groupNameLAT": "KITOBLAR, GAZETALAR VA BOShQA MATBAA MAHSULOTLARI "
+      },
+      {
+        "mxikCode": "04911003001002001",
+        "nameUZ": "Босма реклама маҳсулоти (баннер) SD баннер катак 40 варақ қадоқсиз 1 дона",
+        "nameLAT": "Bosma reklama mahsuloti (banner) SD banner katak 40 varaq qadoqsiz 1 dona",
+        "nameRU": "Печатная рекламная продукция (баннер) SD баннер в клетку 40 листов без упаковки 1 шт.",
+        "groupCODE": "049",
+        "groupNameUZ": "КИТОБЛАР, ГАЗEТАЛАР ВА БОШҚА МАТБАА МАҲСУЛОТЛАРИ ",
+        "groupNameRU": "КНИГИ, ГАЗЕТЫ И ДРУГАЯ ПОЛИГРАФИЧЕСКАЯ ПРОДУКЦИЯ",
+        "groupNameLAT": "KITOBLAR, GAZETALAR VA BOShQA MATBAA MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "04910001001000000",
+        "nameUZ": "Барча турдаги босма календарлар, шу жумладан йиртиладиган",
+        "nameLAT": "Barcha turdagi bosma kalendarlar, shu jumladan yirtiladigan",
+        "nameRU": "Печатные календари всех видов, включая отрывные",
+        "groupCODE": "049",
+        "groupNameUZ": "КИТОБЛАР, ГАЗEТАЛАР ВА БОШҚА МАТБАА МАҲСУЛОТЛАРИ ",
+        "groupNameRU": "КНИГИ, ГАЗЕТЫ И ДРУГАЯ ПОЛИГРАФИЧЕСКАЯ ПРОДУКЦИЯ",
+        "groupNameLAT": "KITOBLAR, GAZETALAR VA BOShQA MATBAA MAHSULOTLARI "
+      },
+      {
+        "mxikCode": "04909001002000000",
+        "nameUZ": "Табрик карточкалари",
+        "nameLAT": "Tabrik kartochkalari",
+        "nameRU": "Поздравительные карточки",
+        "groupCODE": "049",
+        "groupNameUZ": "КИТОБЛАР, ГАЗEТАЛАР ВА БОШҚА МАТБАА МАҲСУЛОТЛАРИ ",
+        "groupNameRU": "КНИГИ, ГАЗЕТЫ И ДРУГАЯ ПОЛИГРАФИЧЕСКАЯ ПРОДУКЦИЯ",
+        "groupNameLAT": "KITOBLAR, GAZETALAR VA BOShQA MATBAA MAHSULOTLARI "
+      },
+      {
+        "mxikCode": "04911001007000000",
+        "nameUZ": "Диплом, сертификат, талаба гувохномаси ва шунга ўхшаш нарсалар",
+        "nameLAT": "Diplom, sertifikat, talaba guvoxnomasi va shunga o’xshash narsalar",
+        "nameRU": "Диплом, сертификат , студентические билет и аналогичные изделия",
+        "groupCODE": "049",
+        "groupNameUZ": "КИТОБЛАР, ГАЗEТАЛАР ВА БОШҚА МАТБАА МАҲСУЛОТЛАРИ ",
+        "groupNameRU": "КНИГИ, ГАЗЕТЫ И ДРУГАЯ ПОЛИГРАФИЧЕСКАЯ ПРОДУКЦИЯ",
+        "groupNameLAT": "KITOBLAR, GAZETALAR VA BOShQA MATBAA MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "04911001026000000",
+        "nameUZ": "этикетка",
+        "nameLAT": "etiketka",
+        "nameRU": "Наклейкa",
+        "groupCODE": "049",
+        "groupNameUZ": "КИТОБЛАР, ГАЗEТАЛАР ВА БОШҚА МАТБАА МАҲСУЛОТЛАРИ ",
+        "groupNameRU": "КНИГИ, ГАЗЕТЫ И ДРУГАЯ ПОЛИГРАФИЧЕСКАЯ ПРОДУКЦИЯ",
+        "groupNameLAT": "KITOBLAR, GAZETALAR VA BOShQA MATBAA MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "04901001006000000",
+        "nameUZ": "Маънавий ва диний китоблар (ёки диний адабиёт)",
+        "nameLAT": "Manaviy va diniy kitoblar (yoki diniy adabiyot)",
+        "nameRU": "Книги про духовность и религию (или религиозная литература)",
+        "groupCODE": "049",
+        "groupNameUZ": "КИТОБЛАР, ГАЗEТАЛАР ВА БОШҚА МАТБАА МАҲСУЛОТЛАРИ ",
+        "groupNameRU": "КНИГИ, ГАЗЕТЫ И ДРУГАЯ ПОЛИГРАФИЧЕСКАЯ ПРОДУКЦИЯ",
+        "groupNameLAT": "KITOBLAR, GAZETALAR VA BOShQA MATBAA MAHSULOTLARI "
+      },
+      {
+        "mxikCode": "04911001012000000",
+        "nameUZ": "Оракл наклейка",
+        "nameLAT": "Orakl nakleyka",
+        "nameRU": "Наклейка из оракла",
+        "groupCODE": "049",
+        "groupNameUZ": "КИТОБЛАР, ГАЗEТАЛАР ВА БОШҚА МАТБАА МАҲСУЛОТЛАРИ ",
+        "groupNameRU": "КНИГИ, ГАЗЕТЫ И ДРУГАЯ ПОЛИГРАФИЧЕСКАЯ ПРОДУКЦИЯ",
+        "groupNameLAT": "KITOBLAR, GAZETALAR VA BOShQA MATBAA MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "04907001001000000",
+        "nameUZ": "Почта маркалари, божхона маркалари ёки шунга ўхшаш маркалар",
+        "nameLAT": "Pochta markalari, bojxona markalari yoki shunga o’xshash markalar",
+        "nameRU": "Почтовые марки, марки госпошлин или аналогичные марки",
+        "groupCODE": "049",
+        "groupNameUZ": "КИТОБЛАР, ГАЗEТАЛАР ВА БОШҚА МАТБАА МАҲСУЛОТЛАРИ ",
+        "groupNameRU": "КНИГИ, ГАЗЕТЫ И ДРУГАЯ ПОЛИГРАФИЧЕСКАЯ ПРОДУКЦИЯ",
+        "groupNameLAT": "KITOBLAR, GAZETALAR VA BOShQA MATBAA MAHSULOTLARI "
+      },
+      {
+        "mxikCode": "04908002001000000",
+        "nameUZ": "Ўтказма расмлар (декалькомпания)",
+        "nameLAT": "O’tkazma rasmlar (dekalkompaniya)",
+        "nameRU": "Картинки переводные (декалькомания)",
+        "groupCODE": "049",
+        "groupNameUZ": "КИТОБЛАР, ГАЗEТАЛАР ВА БОШҚА МАТБАА МАҲСУЛОТЛАРИ ",
+        "groupNameRU": "КНИГИ, ГАЗЕТЫ И ДРУГАЯ ПОЛИГРАФИЧЕСКАЯ ПРОДУКЦИЯ",
+        "groupNameLAT": "KITOBLAR, GAZETALAR VA BOShQA MATBAA MAHSULOTLARI "
+      },
+      {
+        "mxikCode": "04911001030000000",
+        "nameUZ": "Лицензия (лицензия акслантирилган қоғоз конверт)",
+        "nameLAT": "Litsenziya (litsenziya akslantirilgan qog’oz konvert)",
+        "nameRU": "Лицензия (конверт бумажный с лицензией)",
+        "groupCODE": "049",
+        "groupNameUZ": "КИТОБЛАР, ГАЗEТАЛАР ВА БОШҚА МАТБАА МАҲСУЛОТЛАРИ ",
+        "groupNameRU": "КНИГИ, ГАЗЕТЫ И ДРУГАЯ ПОЛИГРАФИЧЕСКАЯ ПРОДУКЦИЯ",
+        "groupNameLAT": "KITOBLAR, GAZETALAR VA BOShQA MATBAA MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "04911001031000000",
+        "nameUZ": "Инициализация тўплами",
+        "nameLAT": "Initsializatsiya to’plami",
+        "nameRU": "Комплект инициализации",
+        "groupCODE": "049",
+        "groupNameUZ": "КИТОБЛАР, ГАЗEТАЛАР ВА БОШҚА МАТБАА МАҲСУЛОТЛАРИ ",
+        "groupNameRU": "КНИГИ, ГАЗЕТЫ И ДРУГАЯ ПОЛИГРАФИЧЕСКАЯ ПРОДУКЦИЯ",
+        "groupNameLAT": "KITOBLAR, GAZETALAR VA BOShQA MATBAA MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "04901001007000000",
+        "nameUZ": "Бошқа китоблар, брошюралар, варақалар ва  шунга ўхшаш нашрлар",
+        "nameLAT": "Boshqa kitoblar, broshyuralar, varaqalar va  shunga o’xshash nashrlar",
+        "nameRU": "Прочие книги, брошюры, листовки, аналогичные печатные издания",
+        "groupCODE": "049",
+        "groupNameUZ": "КИТОБЛАР, ГАЗEТАЛАР ВА БОШҚА МАТБАА МАҲСУЛОТЛАРИ ",
+        "groupNameRU": "КНИГИ, ГАЗЕТЫ И ДРУГАЯ ПОЛИГРАФИЧЕСКАЯ ПРОДУКЦИЯ",
+        "groupNameLAT": "KITOBLAR, GAZETALAR VA BOShQA MATBAA MAHSULOTLARI "
+      },
+      {
+        "mxikCode": "04902001003000000",
+        "nameUZ": "Бошқа даврий нашрлар",
+        "nameLAT": "Boshqa davriy nashrlar",
+        "nameRU": "Прочие периодические издания",
+        "groupCODE": "049",
+        "groupNameUZ": "КИТОБЛАР, ГАЗEТАЛАР ВА БОШҚА МАТБАА МАҲСУЛОТЛАРИ ",
+        "groupNameRU": "КНИГИ, ГАЗЕТЫ И ДРУГАЯ ПОЛИГРАФИЧЕСКАЯ ПРОДУКЦИЯ",
+        "groupNameLAT": "KITOBLAR, GAZETALAR VA BOShQA MATBAA MAHSULOTLARI "
+      },
+      {
+        "mxikCode": "04901001005000000",
+        "nameUZ": "Варақалар",
+        "nameLAT": "Varaqalar",
+        "nameRU": "Листовки",
+        "groupCODE": "049",
+        "groupNameUZ": "КИТОБЛАР, ГАЗEТАЛАР ВА БОШҚА МАТБАА МАҲСУЛОТЛАРИ ",
+        "groupNameRU": "КНИГИ, ГАЗЕТЫ И ДРУГАЯ ПОЛИГРАФИЧЕСКАЯ ПРОДУКЦИЯ",
+        "groupNameLAT": "KITOBLAR, GAZETALAR VA BOShQA MATBAA MAHSULOTLARI "
+      },
+      {
+        "mxikCode": "04911001005000000",
+        "nameUZ": "Лифлет",
+        "nameLAT": "Liflet",
+        "nameRU": "Лифлет",
+        "groupCODE": "049",
+        "groupNameUZ": "КИТОБЛАР, ГАЗEТАЛАР ВА БОШҚА МАТБАА МАҲСУЛОТЛАРИ ",
+        "groupNameRU": "КНИГИ, ГАЗЕТЫ И ДРУГАЯ ПОЛИГРАФИЧЕСКАЯ ПРОДУКЦИЯ",
+        "groupNameLAT": "KITOBLAR, GAZETALAR VA BOShQA MATBAA MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "04911001022000000",
+        "nameUZ": "Талон",
+        "nameLAT": "Talon",
+        "nameRU": "Талон",
+        "groupCODE": "049",
+        "groupNameUZ": "КИТОБЛАР, ГАЗEТАЛАР ВА БОШҚА МАТБАА МАҲСУЛОТЛАРИ ",
+        "groupNameRU": "КНИГИ, ГАЗЕТЫ И ДРУГАЯ ПОЛИГРАФИЧЕСКАЯ ПРОДУКЦИЯ",
+        "groupNameLAT": "KITOBLAR, GAZETALAR VA BOShQA MATBAA MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "04911001019000000",
+        "nameUZ": "Гувоҳнома",
+        "nameLAT": "Guvohnoma",
+        "nameRU": "Удостоверение",
+        "groupCODE": "049",
+        "groupNameUZ": "КИТОБЛАР, ГАЗEТАЛАР ВА БОШҚА МАТБАА МАҲСУЛОТЛАРИ ",
+        "groupNameRU": "КНИГИ, ГАЗЕТЫ И ДРУГАЯ ПОЛИГРАФИЧЕСКАЯ ПРОДУКЦИЯ",
+        "groupNameLAT": "KITOBLAR, GAZETALAR VA BOShQA MATBAA MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "04906001001000000",
+        "nameUZ": "Архитектура, муҳандислик, саноат, тижорат, топографик ёки шунга ўхшаш мақсадлар учун лойихалар ва чизмалар",
+        "nameLAT": "Arxitektura, muhandislik, sanoat, tijorat, topografik yoki shunga o’xshash maqsadlar uchun loyixalar va chizmalar",
+        "nameRU": "Планы и чертежи для архитектурных, инженерных, промышленных, коммерческих, топографических или аналогичных целей",
+        "groupCODE": "049",
+        "groupNameUZ": "КИТОБЛАР, ГАЗEТАЛАР ВА БОШҚА МАТБАА МАҲСУЛОТЛАРИ ",
+        "groupNameRU": "КНИГИ, ГАЗЕТЫ И ДРУГАЯ ПОЛИГРАФИЧЕСКАЯ ПРОДУКЦИЯ",
+        "groupNameLAT": "KITOBLAR, GAZETALAR VA BOShQA MATBAA MAHSULOTLARI "
+      },
+      {
+        "mxikCode": "04911001010001002",
+        "nameUZ": "Плакат Hatber 25 х 180 мм, 24 карточка",
+        "nameLAT": "Plakat Hatber 25 x 180 mm, 24 kartochka",
+        "nameRU": "Плакат Hatber 25 х 180 мм, 24 карточки",
+        "groupCODE": "049",
+        "groupNameUZ": "КИТОБЛАР, ГАЗEТАЛАР ВА БОШҚА МАТБАА МАҲСУЛОТЛАРИ ",
+        "groupNameRU": "КНИГИ, ГАЗЕТЫ И ДРУГАЯ ПОЛИГРАФИЧЕСКАЯ ПРОДУКЦИЯ",
+        "groupNameLAT": "KITOBLAR, GAZETALAR VA BOShQA MATBAA MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "04911001023000000",
+        "nameUZ": "Президенти портрети",
+        "nameLAT": "Prezidenti portreti",
+        "nameRU": "Портрет Президента",
+        "groupCODE": "049",
+        "groupNameUZ": "КИТОБЛАР, ГАЗEТАЛАР ВА БОШҚА МАТБАА МАҲСУЛОТЛАРИ ",
+        "groupNameRU": "КНИГИ, ГАЗЕТЫ И ДРУГАЯ ПОЛИГРАФИЧЕСКАЯ ПРОДУКЦИЯ",
+        "groupNameLAT": "KITOBLAR, GAZETALAR VA BOShQA MATBAA MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "04911001010001001",
+        "nameUZ": "Плакат Hatber 25 х 180 мм, 64 карточка",
+        "nameLAT": "Plakat Hatber 25 x 180 mm, 64 kartochka",
+        "nameRU": "Плакат Hatber 25 х 180 мм, 64 карточки",
+        "groupCODE": "049",
+        "groupNameUZ": "КИТОБЛАР, ГАЗEТАЛАР ВА БОШҚА МАТБАА МАҲСУЛОТЛАРИ ",
+        "groupNameRU": "КНИГИ, ГАЗЕТЫ И ДРУГАЯ ПОЛИГРАФИЧЕСКАЯ ПРОДУКЦИЯ",
+        "groupNameLAT": "KITOBLAR, GAZETALAR VA BOShQA MATBAA MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "04905001002000000",
+        "nameUZ": "Глобус",
+        "nameLAT": "Globus",
+        "nameRU": "Глобус",
+        "groupCODE": "049",
+        "groupNameUZ": "КИТОБЛАР, ГАЗEТАЛАР ВА БОШҚА МАТБАА МАҲСУЛОТЛАРИ ",
+        "groupNameRU": "КНИГИ, ГАЗЕТЫ И ДРУГАЯ ПОЛИГРАФИЧЕСКАЯ ПРОДУКЦИЯ",
+        "groupNameLAT": "KITOBLAR, GAZETALAR VA BOShQA MATBAA MAHSULOTLARI "
+      },
+      {
+        "mxikCode": "04907002001000000",
+        "nameUZ": "Акциялар, облигациялар ёки бонлар ва шунга ўхшаш турдаги қимматли қоғозлар",
+        "nameLAT": "Aksiyalar, obligatsiyalar yoki bonlar va shunga o’xshash turdagi qimmatli qog’ozlar",
+        "nameRU": "Акции, облигации или боны и аналогичные виды ценных бумаг",
+        "groupCODE": "049",
+        "groupNameUZ": "КИТОБЛАР, ГАЗEТАЛАР ВА БОШҚА МАТБАА МАҲСУЛОТЛАРИ ",
+        "groupNameRU": "КНИГИ, ГАЗЕТЫ И ДРУГАЯ ПОЛИГРАФИЧЕСКАЯ ПРОДУКЦИЯ",
+        "groupNameLAT": "KITOBLAR, GAZETALAR VA BOShQA MATBAA MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "04911001015000000",
+        "nameUZ": "Каталог",
+        "nameLAT": "Katalog",
+        "nameRU": "Каталог",
+        "groupCODE": "049",
+        "groupNameUZ": "КИТОБЛАР, ГАЗEТАЛАР ВА БОШҚА МАТБАА МАҲСУЛОТЛАРИ ",
+        "groupNameRU": "КНИГИ, ГАЗЕТЫ И ДРУГАЯ ПОЛИГРАФИЧЕСКАЯ ПРОДУКЦИЯ",
+        "groupNameLAT": "KITOBLAR, GAZETALAR VA BOShQA MATBAA MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "04911003001001001",
+        "nameUZ": "Босма реклама маҳсулоти (баннер) Dapple баннер катак 40 варақ формат а4 артикул b01 қадоқсиз 1 дона",
+        "nameLAT": "Bosma reklama mahsuloti (banner) Dapple banner katak 40 varaq format a4 artikul b01 qadoqsiz 1 dona",
+        "nameRU": "Печатная рекламная продукция (баннер) Dapple баннер в клетку 40 листов формат а4 артикул b01 без упаковки 1 шт.",
+        "groupCODE": "049",
+        "groupNameUZ": "КИТОБЛАР, ГАЗEТАЛАР ВА БОШҚА МАТБАА МАҲСУЛОТЛАРИ ",
+        "groupNameRU": "КНИГИ, ГАЗЕТЫ И ДРУГАЯ ПОЛИГРАФИЧЕСКАЯ ПРОДУКЦИЯ",
+        "groupNameLAT": "KITOBLAR, GAZETALAR VA BOShQA MATBAA MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "04904001001000000",
+        "nameUZ": "Барча турдаги эслатмалар",
+        "nameLAT": "Barcha turdagi eslatmalar",
+        "nameRU": "Ноты всех видов",
+        "groupCODE": "049",
+        "groupNameUZ": "КИТОБЛАР, ГАЗEТАЛАР ВА БОШҚА МАТБАА МАҲСУЛОТЛАРИ ",
+        "groupNameRU": "КНИГИ, ГАЗЕТЫ И ДРУГАЯ ПОЛИГРАФИЧЕСКАЯ ПРОДУКЦИЯ",
+        "groupNameLAT": "KITOBLAR, GAZETALAR VA BOShQA MATBAA MAHSULOTLARI "
+      },
+      {
+        "mxikCode": "04911001004000000",
+        "nameUZ": "Флаер",
+        "nameLAT": "Flayer",
+        "nameRU": "Флаер",
+        "groupCODE": "049",
+        "groupNameUZ": "КИТОБЛАР, ГАЗEТАЛАР ВА БОШҚА МАТБАА МАҲСУЛОТЛАРИ ",
+        "groupNameRU": "КНИГИ, ГАЗЕТЫ И ДРУГАЯ ПОЛИГРАФИЧЕСКАЯ ПРОДУКЦИЯ",
+        "groupNameLAT": "KITOBLAR, GAZETALAR VA BOShQA MATBAA MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "04911001008000000",
+        "nameUZ": "Сивцев жадвали",
+        "nameLAT": "Sivsev jadvali",
+        "nameRU": "Таблица Сивцева",
+        "groupCODE": "049",
+        "groupNameUZ": "КИТОБЛАР, ГАЗEТАЛАР ВА БОШҚА МАТБАА МАҲСУЛОТЛАРИ ",
+        "groupNameRU": "КНИГИ, ГАЗЕТЫ И ДРУГАЯ ПОЛИГРАФИЧЕСКАЯ ПРОДУКЦИЯ",
+        "groupNameLAT": "KITOBLAR, GAZETALAR VA BOShQA MATBAA MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "04903001003000000",
+        "nameUZ": "Болалар расмли китоблари, шу жумладан кесма китоблар",
+        "nameLAT": "Bolalar rasmli kitoblari, shu jumladan kesma kitoblar",
+        "nameRU": "Детские книги-картинки, в том числе книга-вырезалка",
+        "groupCODE": "049",
+        "groupNameUZ": "КИТОБЛАР, ГАЗEТАЛАР ВА БОШҚА МАТБАА МАҲСУЛОТЛАРИ ",
+        "groupNameRU": "КНИГИ, ГАЗЕТЫ И ДРУГАЯ ПОЛИГРАФИЧЕСКАЯ ПРОДУКЦИЯ",
+        "groupNameLAT": "KITOBLAR, GAZETALAR VA BOShQA MATBAA MAHSULOTLARI "
+      },
+      {
+        "mxikCode": "04903001003001001",
+        "nameUZ": "Болалар расмли китоблари, шу жумладан кесма китоблар ArtSpace \"Модные девчонки. Мой стиль\", A5, 16 саҳифа",
+        "nameLAT": "Bolalar rasmli kitoblari, shu jumladan kesma kitoblar ArtSpace \"Modnыe devchonki. Moy stil\", A5, 16 sahifa",
+        "nameRU": "Детские книги-картинки, в том числе книга-вырезалка ArtSpace \"Модные девчонки. Мой стиль\", A5, 16 стр.",
+        "groupCODE": "049",
+        "groupNameUZ": "КИТОБЛАР, ГАЗEТАЛАР ВА БОШҚА МАТБАА МАҲСУЛОТЛАРИ ",
+        "groupNameRU": "КНИГИ, ГАЗЕТЫ И ДРУГАЯ ПОЛИГРАФИЧЕСКАЯ ПРОДУКЦИЯ",
+        "groupNameLAT": "KITOBLAR, GAZETALAR VA BOShQA MATBAA MAHSULOTLARI "
+      },
+      {
+        "mxikCode": "04911003001000000",
+        "nameUZ": "Босма реклама маҳсулоти (баннер)",
+        "nameLAT": "Bosma reklama mahsuloti (banner)",
+        "nameRU": "Печатная рекламная продукция (баннер)",
+        "groupCODE": "049",
+        "groupNameUZ": "КИТОБЛАР, ГАЗEТАЛАР ВА БОШҚА МАТБАА МАҲСУЛОТЛАРИ ",
+        "groupNameRU": "КНИГИ, ГАЗЕТЫ И ДРУГАЯ ПОЛИГРАФИЧЕСКАЯ ПРОДУКЦИЯ",
+        "groupNameLAT": "KITOBLAR, GAZETALAR VA BOShQA MATBAA MAHSULOTLARI"
+      },
+      {
+        "mxikCode": "04904001001000001",
+        "nameUZ": "Барча турдаги эслатмалар Брайл алифбоси",
+        "nameLAT": "Barcha turdagi eslatmalar Brayl alifbosi",
+        "nameRU": "Ноты всех видов алфавит Брайля",
+        "groupCODE": "049",
+        "groupNameUZ": "КИТОБЛАР, ГАЗEТАЛАР ВА БОШҚА МАТБАА МАҲСУЛОТЛАРИ ",
+        "groupNameRU": "КНИГИ, ГАЗЕТЫ И ДРУГАЯ ПОЛИГРАФИЧЕСКАЯ ПРОДУКЦИЯ",
+        "groupNameLAT": "KITOBLAR, GAZETALAR VA BOSHQA MATBAA MAHSULOTLARI "
+      }
+    ],
+    "recordTotal": 59,
+    "errors": null,
+    "permitted": false
+  }
+}

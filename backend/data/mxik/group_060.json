@@ -1,0 +1,197 @@
+{
+  "metadata": {
+    "groupId": 60,
+    "fetchedAt": "2025-07-12T16:34:03.327Z",
+    "source": "https://tasnif.soliq.uz/api/cl-api/integration-mxik/references/group/code?group=60"
+  },
+  "data": {
+    "success": true,
+    "code": 200,
+    "reason": null,
+    "data": [
+      {
+        "mxikCode": "06002001011000001",
+        "nameUZ": "Трикотаж мато, ворс бўлмаган окрашенное, с эластомерной нитью",
+        "nameLAT": "Trikotaj mato, vors bo’lmagan okrashennoye, s elastomernoy nityu",
+        "nameRU": "Трикотажное полотно, не ворсовое бўялган, эластомерик ип билан",
+        "groupCODE": "060",
+        "groupNameUZ": "ТРИКОТАЖ МАТО ",
+        "groupNameRU": "ТРИКОТАЖНЫЕ ПОЛОТНА",
+        "groupNameLAT": "TRIKOTAJ MATO "
+      },
+      {
+        "mxikCode": "06002001011000000",
+        "nameUZ": "Трикотаж мато, ворс бўлмаган",
+        "nameLAT": "Trikotaj mato, vors bo’lmagan",
+        "nameRU": "Трикотажное полотно, не ворсовое",
+        "groupCODE": "060",
+        "groupNameUZ": "ТРИКОТАЖ МАТО ",
+        "groupNameRU": "ТРИКОТАЖНЫЕ ПОЛОТНА",
+        "groupNameLAT": "TRIKOTAJ MATO "
+      },
+      {
+        "mxikCode": "06002001009000000",
+        "nameUZ": "Каучук ипларни ўз ичига олган трикотаж матолар",
+        "nameLAT": "Kauchuk iplarni o’z ichiga olgan trikotaj matolar",
+        "nameRU": "Трикотажные полотна с содержанием резиновых нитей",
+        "groupCODE": "060",
+        "groupNameUZ": "ТРИКОТАЖ МАТО ",
+        "groupNameRU": "ТРИКОТАЖНЫЕ ПОЛОТНА",
+        "groupNameLAT": "TRIKOTAJ MATO "
+      },
+      {
+        "mxikCode": "06001001003000000",
+        "nameUZ": "Пахмоқ матолар",
+        "nameLAT": "Paxmoq matolar",
+        "nameRU": "Махровые полотна",
+        "groupCODE": "060",
+        "groupNameUZ": "ТРИКОТАЖ МАТО ",
+        "groupNameRU": "ТРИКОТАЖНЫЕ ПОЛОТНА",
+        "groupNameLAT": "TRIKOTAJ MATO "
+      },
+      {
+        "mxikCode": "06002001006000000",
+        "nameUZ": "Жун ипдан тайёрланган трикотаж мато",
+        "nameLAT": "Jun ipdan tayyorlangan trikotaj mato",
+        "nameRU": "Трикотажное полотно из шерстяной пряжи",
+        "groupCODE": "060",
+        "groupNameUZ": "ТРИКОТАЖ МАТО ",
+        "groupNameRU": "ТРИКОТАЖНЫЕ ПОЛОТНА",
+        "groupNameLAT": "TRIKOTAJ MATO "
+      },
+      {
+        "mxikCode": "06002001008000000",
+        "nameUZ": "Эластомерик ипларни ўз ичига олган трикотаж матолар",
+        "nameLAT": "Elastomerik iplarni o’z ichiga olgan trikotaj matolar",
+        "nameRU": "Трикотажные полотна с содержанием эластомерных нитей",
+        "groupCODE": "060",
+        "groupNameUZ": "ТРИКОТАЖ МАТО ",
+        "groupNameRU": "ТРИКОТАЖНЫЕ ПОЛОТНА",
+        "groupNameLAT": "TRIKOTAJ MATO "
+      },
+      {
+        "mxikCode": "06002001010000000",
+        "nameUZ": "Трикотаж матолар (бошқа барча турлар)",
+        "nameLAT": "Trikotaj matolar (boshqa barcha turlar)",
+        "nameRU": "Трикотажные полотна (прочие, всех других видов)",
+        "groupCODE": "060",
+        "groupNameUZ": "ТРИКОТАЖ МАТО ",
+        "groupNameRU": "ТРИКОТАЖНЫЕ ПОЛОТНА",
+        "groupNameLAT": "TRIKOTAJ MATO "
+      },
+      {
+        "mxikCode": "06002001005000000",
+        "nameUZ": "Асосий трикотаж дантел",
+        "nameLAT": "Asosiy trikotaj dantel",
+        "nameRU": "Кружево основовязаное",
+        "groupCODE": "060",
+        "groupNameUZ": "ТРИКОТАЖ МАТО ",
+        "groupNameRU": "ТРИКОТАЖНЫЕ ПОЛОТНА",
+        "groupNameLAT": "TRIKOTAJ MATO "
+      },
+      {
+        "mxikCode": "06002001007000000",
+        "nameUZ": "Пахта ипидан тайёрланган трикотаж мато",
+        "nameLAT": "Paxta ipidan tayyorlangan trikotaj mato",
+        "nameRU": "Трикотажное полотно из х/б пряжи",
+        "groupCODE": "060",
+        "groupNameUZ": "ТРИКОТАЖ МАТО ",
+        "groupNameRU": "ТРИКОТАЖНЫЕ ПОЛОТНА",
+        "groupNameLAT": "TRIKOTAJ MATO "
+      },
+      {
+        "mxikCode": "06001001004000000",
+        "nameUZ": "Футер матоси",
+        "nameLAT": "Futer matosi",
+        "nameRU": "Ткань футер",
+        "groupCODE": "060",
+        "groupNameUZ": "ТРИКОТАЖ МАТО ",
+        "groupNameRU": "ТРИКОТАЖНЫЕ ПОЛОТНА",
+        "groupNameLAT": "TRIKOTAJ MATO "
+      },
+      {
+        "mxikCode": "06002001010000001",
+        "nameUZ": "Трикотаж матолар (бошқа барча турлар) Ярим тайёр маҳсулотлар",
+        "nameLAT": "Trikotaj matolar (boshqa barcha turlar) Yarim tayyor mahsulotlar",
+        "nameRU": "Трикотажные полотна (прочие, всех других видов) полуфабрикаты",
+        "groupCODE": "060",
+        "groupNameUZ": "ТРИКОТАЖ МАТО ",
+        "groupNameRU": "ТРИКОТАЖНЫЕ ПОЛОТНА",
+        "groupNameLAT": "TRIKOTAJ MATO "
+      },
+      {
+        "mxikCode": "06001001001000000",
+        "nameUZ": "Қозиқли ва узун қозиқли матолар",
+        "nameLAT": "Qoziqli va uzun qoziqli matolar",
+        "nameRU": "Ворсовые и длинноворсовые полотна",
+        "groupCODE": "060",
+        "groupNameUZ": "ТРИКОТАЖ МАТО ",
+        "groupNameRU": "ТРИКОТАЖНЫЕ ПОЛОТНА",
+        "groupNameLAT": "TRIKOTAJ MATO "
+      },
+      {
+        "mxikCode": "06002001002000000",
+        "nameUZ": "Синтетик иплардан тайёрланган машинaда тўқилган трикотаж матолар",
+        "nameLAT": "Sintetik iplardan tayyorlangan mashinada to’qilgan trikotaj matolar",
+        "nameRU": "Трикотажные полотна машинного вязания из синтетических нитей",
+        "groupCODE": "060",
+        "groupNameUZ": "ТРИКОТАЖ МАТО ",
+        "groupNameRU": "ТРИКОТАЖНЫЕ ПОЛОТНА",
+        "groupNameLAT": "TRIKOTAJ MATO "
+      },
+      {
+        "mxikCode": "06002001003000000",
+        "nameUZ": "Синтетик иплардан қўлда тўқилган трикотаж матолар",
+        "nameLAT": "Sintetik iplardan qo’lda to’qilgan trikotaj matolar",
+        "nameRU": "Трикотажные полотна ручного вязания из синтетических нитей",
+        "groupCODE": "060",
+        "groupNameUZ": "ТРИКОТАЖ МАТО ",
+        "groupNameRU": "ТРИКОТАЖНЫЕ ПОЛОТНА",
+        "groupNameLAT": "TRIKOTAJ MATO "
+      },
+      {
+        "mxikCode": "06002001001000000",
+        "nameUZ": "Синтетик иплардан тайёрланган трикотаж матолари, асосий мато",
+        "nameLAT": "Sintetik iplardan tayyorlangan trikotaj matolari, asosiy mato",
+        "nameRU": "Полотна трикотажные, основовязаные, из синтетических нитей",
+        "groupCODE": "060",
+        "groupNameUZ": "ТРИКОТАЖ МАТО ",
+        "groupNameRU": "ТРИКОТАЖНЫЕ ПОЛОТНА",
+        "groupNameLAT": "TRIKOTAJ MATO "
+      },
+      {
+        "mxikCode": "06002001004000000",
+        "nameUZ": "Синтетик иплардан тайёрланган ва бўялган трикотаж матолар",
+        "nameLAT": "Sintetik iplardan tayyorlangan va bo’yalgan trikotaj matolar",
+        "nameRU": "Трикотажные полотна окрашенное из синтетических нитей",
+        "groupCODE": "060",
+        "groupNameUZ": "ТРИКОТАЖ МАТО ",
+        "groupNameRU": "ТРИКОТАЖНЫЕ ПОЛОТНА",
+        "groupNameLAT": "TRIKOTAJ MATO "
+      },
+      {
+        "mxikCode": "06002001001000001",
+        "nameUZ": "Синтетик иплардан тайёрланган трикотаж матолари, асосий мато бўялган",
+        "nameLAT": "Sintetik iplardan tayyorlangan trikotaj matolari, asosiy mato bo’yalgan",
+        "nameRU": "Полотна трикотажные, основовязаные, из синтетических нитей окрашенное",
+        "groupCODE": "060",
+        "groupNameUZ": "ТРИКОТАЖ МАТО ",
+        "groupNameRU": "ТРИКОТАЖНЫЕ ПОЛОТНА",
+        "groupNameLAT": "TRIKOTAJ MATO "
+      },
+      {
+        "mxikCode": "06005001001000000",
+        "nameUZ": "Асоси тўқилган матолар, трикотаж матоларидан ташқари",
+        "nameLAT": "Asosi to’qilgan matolar, trikotaj matolaridan tashqari",
+        "nameRU": "Полотна основовязаные, кроме трикотажных полотен",
+        "groupCODE": "060",
+        "groupNameUZ": "ТРИКОТАЖ МАТО ",
+        "groupNameRU": "ТРИКОТАЖНЫЕ ПОЛОТНА",
+        "groupNameLAT": "TRIKOTAJ MATO "
+      }
+    ],
+    "recordTotal": 18,
+    "errors": null,
+    "permitted": false
+  }
+}

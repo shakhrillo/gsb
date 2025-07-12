@@ -1,0 +1,327 @@
+{
+  "metadata": {
+    "groupId": 81,
+    "fetchedAt": "2025-07-12T16:35:38.170Z",
+    "source": "https://tasnif.soliq.uz/api/cl-api/integration-mxik/references/group/code?group=81"
+  },
+  "data": {
+    "success": true,
+    "code": 200,
+    "reason": null,
+    "data": [
+      {
+        "mxikCode": "08111001001000000",
+        "nameUZ": "Марганец ва ундан тайёрланган буюмлар",
+        "nameLAT": "Marganets va undan tayyorlangan buyumlar",
+        "nameRU": "Марганец и изделия из него",
+        "groupCODE": "081",
+        "groupNameUZ": "БОШҚА ҚИММАТЛИ БЎЛМАГАН МEТАЛЛАР ВА КEРАМИКАЛАР",
+        "groupNameRU": "ПРОЧИЕ ДРАГОЦЕННЫЕ МЕТАЛЛЫ И КЕРАМИКА",
+        "groupNameLAT": "BOShQA QIMMATLI BO’LMAGAN METALLAR VA KERAMIKALAR"
+      },
+      {
+        "mxikCode": "08108001001000000",
+        "nameUZ": "Титан ва ундан тайёрланган буюмлар",
+        "nameLAT": "Titan va undan tayyorlangan buyumlar",
+        "nameRU": "Титан и изделия из него",
+        "groupCODE": "081",
+        "groupNameUZ": "БОШҚА ҚИММАТЛИ БЎЛМАГАН МEТАЛЛАР ВА КEРАМИКАЛАР",
+        "groupNameRU": "ПРОЧИЕ ДРАГОЦЕННЫЕ МЕТАЛЛЫ И КЕРАМИКА",
+        "groupNameLAT": "BOShQA QIMMATLI BO’LMAGAN METALLAR VA KERAMIKALAR"
+      },
+      {
+        "mxikCode": "08112001001000000",
+        "nameUZ": "Бошқа қимматбаҳо бўлмаган металлар ва улардан тайёрланган маҳсулотлар",
+        "nameLAT": "Boshqa qimmatbaho bo’lmagan metallar va ulardan tayyorlangan mahsulotlar",
+        "nameRU": "Другие недрагоценные металлы и изделия из них",
+        "groupCODE": "081",
+        "groupNameUZ": "БОШҚА ҚИММАТЛИ БЎЛМАГАН МEТАЛЛАР ВА КEРАМИКАЛАР",
+        "groupNameRU": "ПРОЧИЕ ДРАГОЦЕННЫЕ МЕТАЛЛЫ И КЕРАМИКА",
+        "groupNameLAT": "BOShQA QIMMATLI BO’LMAGAN METALLAR VA KERAMIKALAR"
+      },
+      {
+        "mxikCode": "08101001001000000",
+        "nameUZ": "Вольфрам ва ундан тайёрланган буюмлар",
+        "nameLAT": "Volfram va undan tayyorlangan buyumlar",
+        "nameRU": "Вольфрам и изделия из него",
+        "groupCODE": "081",
+        "groupNameUZ": "БОШҚА ҚИММАТЛИ БЎЛМАГАН МEТАЛЛАР ВА КEРАМИКАЛАР",
+        "groupNameRU": "ПРОЧИЕ ДРАГОЦЕННЫЕ МЕТАЛЛЫ И КЕРАМИКА",
+        "groupNameLAT": "BOShQA QIMMATLI BO’LMAGAN METALLAR VA KERAMIKALAR"
+      },
+      {
+        "mxikCode": "08113001001000000",
+        "nameUZ": "Сермет ва ундан тайёрланган маҳсулотлар",
+        "nameLAT": "Sermet va undan tayyorlangan mahsulotlar",
+        "nameRU": "Металлокерамика и изделия из нее",
+        "groupCODE": "081",
+        "groupNameUZ": "БОШҚА ҚИММАТЛИ БЎЛМАГАН МEТАЛЛАР ВА КEРАМИКАЛАР",
+        "groupNameRU": "ПРОЧИЕ ДРАГОЦЕННЫЕ МЕТАЛЛЫ И КЕРАМИКА",
+        "groupNameLAT": "BOShQA QIMMATLI BO’LMAGAN METALLAR VA KERAMIKALAR"
+      },
+      {
+        "mxikCode": "08103001001000000",
+        "nameUZ": "Тантал ва ундан тайёрланган буюмлар",
+        "nameLAT": "Tantal va undan tayyorlangan buyumlar",
+        "nameRU": "Тантал и изделия из него",
+        "groupCODE": "081",
+        "groupNameUZ": "БОШҚА ҚИММАТЛИ БЎЛМАГАН МEТАЛЛАР ВА КEРАМИКАЛАР",
+        "groupNameRU": "ПРОЧИЕ ДРАГОЦЕННЫЕ МЕТАЛЛЫ И КЕРАМИКА",
+        "groupNameLAT": "BOShQA QIMMATLI BO’LMAGAN METALLAR VA KERAMIKALAR"
+      },
+      {
+        "mxikCode": "08102001001000000",
+        "nameUZ": "Молибден ва ундан тайёрланган буюмлар",
+        "nameLAT": "Molibden va undan tayyorlangan buyumlar",
+        "nameRU": "Молибден и изделия из него",
+        "groupCODE": "081",
+        "groupNameUZ": "БОШҚА ҚИММАТЛИ БЎЛМАГАН МEТАЛЛАР ВА КEРАМИКАЛАР",
+        "groupNameRU": "ПРОЧИЕ ДРАГОЦЕННЫЕ МЕТАЛЛЫ И КЕРАМИКА",
+        "groupNameLAT": "BOShQA QIMMATLI BO’LMAGAN METALLAR VA KERAMIKALAR"
+      },
+      {
+        "mxikCode": "08107001002000000",
+        "nameUZ": "Кадмия қолдиқлари ва парчалари",
+        "nameLAT": "Kadmiya qoldiqlari va parchalari",
+        "nameRU": "Отходы и лом кадмия",
+        "groupCODE": "081",
+        "groupNameUZ": "БОШҚА ҚИММАТЛИ БЎЛМАГАН МEТАЛЛАР ВА КEРАМИКАЛАР",
+        "groupNameRU": "ПРОЧИЕ ДРАГОЦЕННЫЕ МЕТАЛЛЫ И КЕРАМИКА",
+        "groupNameLAT": "BOShQA QIMMATLI BO’LMAGAN METALLAR VA KERAMIKALAR"
+      },
+      {
+        "mxikCode": "08101001002000000",
+        "nameUZ": "Вольфрам қолдиқлари ва парчалари",
+        "nameLAT": "Volfram qoldiqlari va parchalari",
+        "nameRU": "Отходы и лом вольфрама",
+        "groupCODE": "081",
+        "groupNameUZ": "БОШҚА ҚИММАТЛИ БЎЛМАГАН МEТАЛЛАР ВА КEРАМИКАЛАР",
+        "groupNameRU": "ПРОЧИЕ ДРАГОЦЕННЫЕ МЕТАЛЛЫ И КЕРАМИКА",
+        "groupNameLAT": "BOShQA QIMMATLI BO’LMAGAN METALLAR VA KERAMIKALAR"
+      },
+      {
+        "mxikCode": "08104001001000000",
+        "nameUZ": "Магний ва ундан тайёрланган буюмлар",
+        "nameLAT": "Magniy va undan tayyorlangan buyumlar",
+        "nameRU": "Магний и изделия из него",
+        "groupCODE": "081",
+        "groupNameUZ": "БОШҚА ҚИММАТЛИ БЎЛМАГАН МEТАЛЛАР ВА КEРАМИКАЛАР",
+        "groupNameRU": "ПРОЧИЕ ДРАГОЦЕННЫЕ МЕТАЛЛЫ И КЕРАМИКА",
+        "groupNameLAT": "BOShQA QIMMATLI BO’LMAGAN METALLAR VA KERAMIKALAR"
+      },
+      {
+        "mxikCode": "08108001002000000",
+        "nameUZ": "Титан чиқиндилари ва парчалари",
+        "nameLAT": "Titan chiqindilari va parchalari",
+        "nameRU": "Отходы и лом титана",
+        "groupCODE": "081",
+        "groupNameUZ": "БОШҚА ҚИММАТЛИ БЎЛМАГАН МEТАЛЛАР ВА КEРАМИКАЛАР",
+        "groupNameRU": "ПРОЧИЕ ДРАГОЦЕННЫЕ МЕТАЛЛЫ И КЕРАМИКА",
+        "groupNameLAT": "BOShQA QIMMATLI BO’LMAGAN METALLAR VA KERAMIKALAR"
+      },
+      {
+        "mxikCode": "08110001002000000",
+        "nameUZ": "Сурма қолдиқлари ва парчалари",
+        "nameLAT": "Surma qoldiqlari va parchalari",
+        "nameRU": "Отходы и лом из сурьмы",
+        "groupCODE": "081",
+        "groupNameUZ": "БОШҚА ҚИММАТЛИ БЎЛМАГАН МEТАЛЛАР ВА КEРАМИКАЛАР",
+        "groupNameRU": "ПРОЧИЕ ДРАГОЦЕННЫЕ МЕТАЛЛЫ И КЕРАМИКА",
+        "groupNameLAT": "BOShQA QIMMATLI BO’LMAGAN METALLAR VA KERAMIKALAR"
+      },
+      {
+        "mxikCode": "08105001003000000",
+        "nameUZ": "Кобалт ва ундан тайёрланган маҳсулотлар",
+        "nameLAT": "Kobalt va undan tayyorlangan mahsulotlar",
+        "nameRU": "Кобальт и изделия из него",
+        "groupCODE": "081",
+        "groupNameUZ": "БОШҚА ҚИММАТЛИ БЎЛМАГАН МEТАЛЛАР ВА КEРАМИКАЛАР",
+        "groupNameRU": "ПРОЧИЕ ДРАГОЦЕННЫЕ МЕТАЛЛЫ И КЕРАМИКА",
+        "groupNameLAT": "BOShQA QIMMATLI BO’LMAGAN METALLAR VA KERAMIKALAR"
+      },
+      {
+        "mxikCode": "08104001003000000",
+        "nameUZ": "Магний қолдиқлари ва парчалари",
+        "nameLAT": "Magniy qoldiqlari va parchalari",
+        "nameRU": "Магниевые отходы и лом",
+        "groupCODE": "081",
+        "groupNameUZ": "БОШҚА ҚИММАТЛИ БЎЛМАГАН МEТАЛЛАР ВА КEРАМИКАЛАР",
+        "groupNameRU": "ПРОЧИЕ ДРАГОЦЕННЫЕ МЕТАЛЛЫ И КЕРАМИКА",
+        "groupNameLAT": "BOShQA QIMMATLI BO’LMAGAN METALLAR VA KERAMIKALAR"
+      },
+      {
+        "mxikCode": "08103001002000000",
+        "nameUZ": "Тантал қолдиқлари ва парчалари",
+        "nameLAT": "Tantal qoldiqlari va parchalari",
+        "nameRU": "Отходы и лом тантала",
+        "groupCODE": "081",
+        "groupNameUZ": "БОШҚА ҚИММАТЛИ БЎЛМАГАН МEТАЛЛАР ВА КEРАМИКАЛАР",
+        "groupNameRU": "ПРОЧИЕ ДРАГОЦЕННЫЕ МЕТАЛЛЫ И КЕРАМИКА",
+        "groupNameLAT": "BOShQA QIMMATLI BO’LMAGAN METALLAR VA KERAMIKALAR"
+      },
+      {
+        "mxikCode": "08106001001000000",
+        "nameUZ": "Бизмут ва улардан тайёрланган буюмлар",
+        "nameLAT": "Bizmut va ulardan tayyorlangan buyumlar",
+        "nameRU": "Висмут и изделия из него",
+        "groupCODE": "081",
+        "groupNameUZ": "БОШҚА ҚИММАТЛИ БЎЛМАГАН МEТАЛЛАР ВА КEРАМИКАЛАР",
+        "groupNameRU": "ПРОЧИЕ ДРАГОЦЕННЫЕ МЕТАЛЛЫ И КЕРАМИКА",
+        "groupNameLAT": "BOShQA QIMMATLI BO’LMAGAN METALLAR VA KERAMIKALAR"
+      },
+      {
+        "mxikCode": "08109001002000000",
+        "nameUZ": "Циркония қолдиқлари ва парчалари",
+        "nameLAT": "Sirkoniya qoldiqlari va parchalari",
+        "nameRU": "Отходы и лом из циркония",
+        "groupCODE": "081",
+        "groupNameUZ": "БОШҚА ҚИММАТЛИ БЎЛМАГАН МEТАЛЛАР ВА КEРАМИКАЛАР",
+        "groupNameRU": "ПРОЧИЕ ДРАГОЦЕННЫЕ МЕТАЛЛЫ И КЕРАМИКА",
+        "groupNameLAT": "BOShQA QIMMATLI BO’LMAGAN METALLAR VA KERAMIKALAR"
+      },
+      {
+        "mxikCode": "08107001001000000",
+        "nameUZ": "Кадмий ва ундан тайёрланган маҳсулотлар",
+        "nameLAT": "Kadmiy va undan tayyorlangan mahsulotlar",
+        "nameRU": "Кадмий и изделия из него\r\n",
+        "groupCODE": "081",
+        "groupNameUZ": "БОШҚА ҚИММАТЛИ БЎЛМАГАН МEТАЛЛАР ВА КEРАМИКАЛАР",
+        "groupNameRU": "ПРОЧИЕ ДРАГОЦЕННЫЕ МЕТАЛЛЫ И КЕРАМИКА",
+        "groupNameLAT": "BOShQA QIMMATLI BO’LMAGAN METALLAR VA KERAMIKALAR"
+      },
+      {
+        "mxikCode": "08110001001000000",
+        "nameUZ": "Сурма ва ундан тайёрланган маҳсулотлар",
+        "nameLAT": "Surma va undan tayyorlangan mahsulotlar",
+        "nameRU": "Сурьма и изделия из нее",
+        "groupCODE": "081",
+        "groupNameUZ": "БОШҚА ҚИММАТЛИ БЎЛМАГАН МEТАЛЛАР ВА КEРАМИКАЛАР",
+        "groupNameRU": "ПРОЧИЕ ДРАГОЦЕННЫЕ МЕТАЛЛЫ И КЕРАМИКА",
+        "groupNameLAT": "BOShQA QIMMATLI BO’LMAGAN METALLAR VA KERAMIKALAR"
+      },
+      {
+        "mxikCode": "08106001002000000",
+        "nameUZ": "Висмут қолдиқлари ва парчалари",
+        "nameLAT": "Vismut qoldiqlari va parchalari",
+        "nameRU": "Отходы и лом висмута",
+        "groupCODE": "081",
+        "groupNameUZ": "БОШҚА ҚИММАТЛИ БЎЛМАГАН МEТАЛЛАР ВА КEРАМИКАЛАР",
+        "groupNameRU": "ПРОЧИЕ ДРАГОЦЕННЫЕ МЕТАЛЛЫ И КЕРАМИКА",
+        "groupNameLAT": "BOShQA QIMMATLI BO’LMAGAN METALLAR VA KERAMIKALAR"
+      },
+      {
+        "mxikCode": "08105001002000000",
+        "nameUZ": "Кобальт қолдиқлари ва парчалари",
+        "nameLAT": "Kobalt qoldiqlari va parchalari",
+        "nameRU": "Отходы и лом кобальта",
+        "groupCODE": "081",
+        "groupNameUZ": "БОШҚА ҚИММАТЛИ БЎЛМАГАН МEТАЛЛАР ВА КEРАМИКАЛАР",
+        "groupNameRU": "ПРОЧИЕ ДРАГОЦЕННЫЕ МЕТАЛЛЫ И КЕРАМИКА",
+        "groupNameLAT": "BOShQA QIMMATLI BO’LMAGAN METALLAR VA KERAMIKALAR"
+      },
+      {
+        "mxikCode": "08102001002000000",
+        "nameUZ": "Молибден қолдиқлари ва парчалари",
+        "nameLAT": "Molibden qoldiqlari va parchalari",
+        "nameRU": "Отходы и лом молибдена",
+        "groupCODE": "081",
+        "groupNameUZ": "БОШҚА ҚИММАТЛИ БЎЛМАГАН МEТАЛЛАР ВА КEРАМИКАЛАР",
+        "groupNameRU": "ПРОЧИЕ ДРАГОЦЕННЫЕ МЕТАЛЛЫ И КЕРАМИКА",
+        "groupNameLAT": "BOShQA QIMMATLI BO’LMAGAN METALLAR VA KERAMIKALAR"
+      },
+      {
+        "mxikCode": "08111001002000000",
+        "nameUZ": "Марганец қолдиқлари ва парчалари",
+        "nameLAT": "Marganets qoldiqlari va parchalari",
+        "nameRU": "Отходы и лом марганца",
+        "groupCODE": "081",
+        "groupNameUZ": "БОШҚА ҚИММАТЛИ БЎЛМАГАН МEТАЛЛАР ВА КEРАМИКАЛАР",
+        "groupNameRU": "ПРОЧИЕ ДРАГОЦЕННЫЕ МЕТАЛЛЫ И КЕРАМИКА",
+        "groupNameLAT": "BOShQA QIMMATLI BO’LMAGAN METALLAR VA KERAMIKALAR"
+      },
+      {
+        "mxikCode": "08113001002000000",
+        "nameUZ": "Металлкерамика қолдиқлари ва парчалари",
+        "nameLAT": "Metallkeramika qoldiqlari va parchalari",
+        "nameRU": "Отходы и лом металлокерамики",
+        "groupCODE": "081",
+        "groupNameUZ": "БОШҚА ҚИММАТЛИ БЎЛМАГАН МEТАЛЛАР ВА КEРАМИКАЛАР",
+        "groupNameRU": "ПРОЧИЕ ДРАГОЦЕННЫЕ МЕТАЛЛЫ И КЕРАМИКА",
+        "groupNameLAT": "BOShQA QIMMATLI BO’LMAGAN METALLAR VA KERAMIKALAR"
+      },
+      {
+        "mxikCode": "08112001002000000",
+        "nameUZ": "Қимматбаҳо бўлмаган металлар қолдиқлари ва парчалари, 07112 классдаги товарлардан ташқари",
+        "nameLAT": "Qimmatbaho bo’lmagan metallar qoldiqlari va parchalari, 07112 klassdagi tovarlardan tashqari",
+        "nameRU": "Отходы и лом недрагоценных металлов, кроме товаров в классе 07112",
+        "groupCODE": "081",
+        "groupNameUZ": "БОШҚА ҚИММАТЛИ БЎЛМАГАН МEТАЛЛАР ВА КEРАМИКАЛАР",
+        "groupNameRU": "ПРОЧИЕ ДРАГОЦЕННЫЕ МЕТАЛЛЫ И КЕРАМИКА",
+        "groupNameLAT": "BOShQA QIMMATLI BO’LMAGAN METALLAR VA KERAMIKALAR"
+      },
+      {
+        "mxikCode": "08109001001000000",
+        "nameUZ": "Зирконюм ва ундан тайёрланган буюмлар",
+        "nameLAT": "Zirkonyum va undan tayyorlangan buyumlar",
+        "nameRU": "Цирконий и изделия из него",
+        "groupCODE": "081",
+        "groupNameUZ": "БОШҚА ҚИММАТЛИ БЎЛМАГАН МEТАЛЛАР ВА КEРАМИКАЛАР",
+        "groupNameRU": "ПРОЧИЕ ДРАГОЦЕННЫЕ МЕТАЛЛЫ И КЕРАМИКА",
+        "groupNameLAT": "BOShQA QIMMATLI BO’LMAGAN METALLAR VA KERAMIKALAR"
+      },
+      {
+        "mxikCode": "08104001001000001",
+        "nameUZ": "Магний ва ундан тайёрланган буюмлар Магний ҳимоячиси, узунлиги 700 мм, диаметри 200 мм",
+        "nameLAT": "Magniy va undan tayyorlangan buyumlar Magniy himoyachisi, uzunligi 700 mm, diametri 200 mm",
+        "nameRU": "Магний и изделия из него Протектор магниевый, длина 700 мм, диаметр 200 мм",
+        "groupCODE": "081",
+        "groupNameUZ": "БОШҚА ҚИММАТЛИ БЎЛМАГАН МEТАЛЛАР ВА КEРАМИКАЛАР",
+        "groupNameRU": "ПРОЧИЕ ДРАГОЦЕННЫЕ МЕТАЛЛЫ И КЕРАМИКА",
+        "groupNameLAT": "BOShQA QIMMATLI BO’LMAGAN METALLAR VA KERAMIKALAR"
+      },
+      {
+        "mxikCode": "08104001001000002",
+        "nameUZ": "Магний ва ундан тайёрланган буюмлар Магний ҳимояси, узунлиги 710 мм, диаметри 270 мм",
+        "nameLAT": "Magniy va undan tayyorlangan buyumlar Magniy himoyasi, uzunligi 710 mm, diametri 270 mm",
+        "nameRU": "Магний и изделия из него Протектор магниевый, длина 710 мм, диаметр 270 мм",
+        "groupCODE": "081",
+        "groupNameUZ": "БОШҚА ҚИММАТЛИ БЎЛМАГАН МEТАЛЛАР ВА КEРАМИКАЛАР",
+        "groupNameRU": "ПРОЧИЕ ДРАГОЦЕННЫЕ МЕТАЛЛЫ И КЕРАМИКА",
+        "groupNameLAT": "BOShQA QIMMATLI BO’LMAGAN METALLAR VA KERAMIKALAR"
+      },
+      {
+        "mxikCode": "08104001001000004",
+        "nameUZ": "Магний ва ундан тайёрланган буюмлар Икки томонлама зангламайдиган пўлатларни пайвандлаш учун оқимли сим, диаметри 1,2 мм",
+        "nameLAT": "Magniy va undan tayyorlangan buyumlar Ikki tomonlama zanglamaydigan po'latlarni payvandlash uchun oqimli sim, diametri 1,2 mm",
+        "nameRU": "Магний и изделия из него Проволока порошковая для сварки дуплексных нержавеющих сталей, диаметр 1,2 мм",
+        "groupCODE": "081",
+        "groupNameUZ": "БОШҚА ҚИММАТЛИ БЎЛМАГАН МEТАЛЛАР ВА КEРАМИКАЛАР",
+        "groupNameRU": "ПРОЧИЕ ДРАГОЦЕННЫЕ МЕТАЛЛЫ И КЕРАМИКА",
+        "groupNameLAT": "BOShQA QIMMATLI BO’LMAGAN METALLAR VA KERAMIKALAR"
+      },
+      {
+        "mxikCode": "08104001001000005",
+        "nameUZ": "Магний ва ундан тайёрланган буюмлар АСТМ А106 / АСМЕ СА106 бўйича углеродли пўлатларни пайвандлаш учун рутил оқими бўлган оқим сими, диаметри 1,2 мм",
+        "nameLAT": "Magniy va undan tayyorlangan buyumlar ASTM A106 / ASME SA106 bo'yicha uglerodli po'latlarni payvandlash uchun rutil oqimi bo'lgan oqim simi, diametri 1,2 mm",
+        "nameRU": "Магний и изделия из него Проволока порошковая с флюсом рутилового типа для сварки углеродистых сталей стандарта ASTM A106/ASME SA106, диаметр 1,2 мм",
+        "groupCODE": "081",
+        "groupNameUZ": "БОШҚА ҚИММАТЛИ БЎЛМАГАН МEТАЛЛАР ВА КEРАМИКАЛАР",
+        "groupNameRU": "ПРОЧИЕ ДРАГОЦЕННЫЕ МЕТАЛЛЫ И КЕРАМИКА",
+        "groupNameLAT": "BOShQA QIMMATLI BO’LMAGAN METALLAR VA KERAMIKALAR"
+      },
+      {
+        "mxikCode": "08104001001000006",
+        "nameUZ": "Магний ва ундан тайёрланган буюмлар АСТМ А335/А335М стандарти бўйича паст қотишма иссиқликка чидамли пўлатларни пайвандлаш учун рутилли оқимли оқим ўтказгичли сим, диаметри 1,2 мм",
+        "nameLAT": "Magniy va undan tayyorlangan buyumlar ASTM A335/A335M standarti boʻyicha past qotishma issiqlikka chidamli poʻlatlarni payvandlash uchun rutilli oqimli oqim oʻtkazgichli sim, diametri 1,2 mm",
+        "nameRU": "Магний и изделия из него Проволока порошковая с флюсом рутилового типа для сварки низколегированных теплоустойчивых сталей стандарта ASTM A335/A335M, диаметр 1,2 мм",
+        "groupCODE": "081",
+        "groupNameUZ": "БОШҚА ҚИММАТЛИ БЎЛМАГАН МEТАЛЛАР ВА КEРАМИКАЛАР",
+        "groupNameRU": "ПРОЧИЕ ДРАГОЦЕННЫЕ МЕТАЛЛЫ И КЕРАМИКА",
+        "groupNameLAT": "BOShQA QIMMATLI BO’LMAGAN METALLAR VA KERAMIKALAR"
+      }
+    ],
+    "recordTotal": 31,
+    "errors": null,
+    "permitted": false
+  }
+}

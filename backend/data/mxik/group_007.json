@@ -1,0 +1,4247 @@
+{
+  "metadata": {
+    "groupId": 7,
+    "fetchedAt": "2025-07-12T16:29:18.192Z",
+    "source": "https://tasnif.soliq.uz/api/cl-api/integration-mxik/references/group/code?group=7"
+  },
+  "data": {
+    "success": true,
+    "code": 200,
+    "reason": null,
+    "data": [
+      {
+        "mxikCode": "00706005003000000",
+        "nameUZ": "Сельдр пояси",
+        "nameLAT": "Seldr poyasi",
+        "nameRU": "Стебли сельдерея",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708001001006002",
+        "nameUZ": "Нўхат Grand Қовурилган, полиэтилен пакет 500 г.",
+        "nameLAT": "No’xat Grand Qovurilgan, polietilen paket 500 g.",
+        "nameRU": "Горох Grand Жаренный, полиэтиленовый пакет 500 г.",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708001001008001",
+        "nameUZ": "Нўхат Hush Ta'm Битталик, полиэтилен пакет 200",
+        "nameLAT": "No’xat Hush Ta'm Bittalik, polietilen paket 200",
+        "nameRU": "Горох Hush Ta'm Обычный, полиэтиленовый пакет 200",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00709001921000000",
+        "nameUZ": "Айсберг салати",
+        "nameLAT": "Aysberg salati",
+        "nameRU": "Салат Айсберг",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00709001916000001",
+        "nameUZ": "Орегано, кўкат Исроил",
+        "nameLAT": "Oregano, ko’kat Isroil",
+        "nameRU": "Орегано, зелень Израиль",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00710001001001012",
+        "nameUZ": "Бошқа музлатилган сабзавотлар Мираторг Қишлоқ хўжалиги маҳсулотлари гуруч,яшил жигаранг сабзавотлар 400гр",
+        "nameLAT": "Boshqa muzlatilgan sabzavotlar Мираторг Qishloq xo’jaligi mahsulotlari guruch,yashil jigarang sabzavotlar 400gr",
+        "nameRU": "Прочие замороженные овощи Мираторг Рис фермерские продукты с овощ и зелен бурый 400гр",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00709001908000000",
+        "nameUZ": "Ялпиз",
+        "nameLAT": "Yalpiz",
+        "nameRU": "Мята",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00706004001000002",
+        "nameUZ": "Турп Ювилган",
+        "nameLAT": "Turp Yuvilgan",
+        "nameRU": "Редька Мытая",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00799999014000000",
+        "nameUZ": "Янги қалампир",
+        "nameLAT": "Yangi qalampir",
+        "nameRU": "Свежий перец",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708005001002005",
+        "nameUZ": "Мош Else мош Полиэтилен пакет 600 г",
+        "nameLAT": "Mosh Else mosh Polietilen paket 600 g",
+        "nameRU": "Маш Else маш Полиэтиленовый пакет 600 г",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00706007002001002",
+        "nameUZ": "Хрен Махеевъ ошхона учун - туба 100г",
+        "nameLAT": "Xren Махеевъ oshxona uchun - tuba 100g",
+        "nameRU": "Хрен Махеевъ столовый - туба 100г",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00706005003000001",
+        "nameUZ": "Сельдр пояси Хитой",
+        "nameLAT": "Seldr poyasi Xitoy",
+        "nameRU": "Стебли сельдерея Китай",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708002003005001",
+        "nameUZ": "Фасоль KOMRONBEK ZIRAVORLARI оқ ПЭТ бутилка 1 000 г",
+        "nameLAT": "Fasol KOMRONBEK ZIRAVORLARI oq PET butilka 1 000 g",
+        "nameRU": "Фасоль KOMRONBEK ZIRAVORLARI белая ПЭТ бутылка 1 000 г",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00703001001009001",
+        "nameUZ": "Пиёз Omega Ziravorlari Йирик янчилган, полиэтилен пакет 50 г.",
+        "nameLAT": "Piyoz Omega Ziravorlari Yirik yanchilgan, polietilen paket 50 g.",
+        "nameRU": "Лук репчатый Omega Ziravorlari Крупно дроблёный, полиэтиленовый пакет 50 г.",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00706007002001001",
+        "nameUZ": "Хрен Махеевъ ошхона учун 140г",
+        "nameLAT": "Xren Махеевъ oshxona uchun 140g",
+        "nameRU": "Хрен Махеевъ столовый 140г",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00702001001013002",
+        "nameUZ": "Янги томатлар (помидорлар) Trovanzo Помидор янги узилган F-1-навли, гофро қути 7500",
+        "nameLAT": "Yangi tomatlar (pomidorlar) Trovanzo Pomidor yangi uzilgan F-1-navli, gofro quti 7500",
+        "nameRU": "Свежие томаты (помидоры) Trovanzo Томаты свежие сорт F-1 Гофрокоробка 7,5",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00799999010003001",
+        "nameUZ": "Булғор қалампири Красный Перец қалампир қизил янги узилган Калифорния навли, картон қутида 5000 гр",
+        "nameLAT": "Bulg’or qalampiri Красный Перец qalampir qizil yangi uzilgan Kaliforniya navli, karton qutida 5000 gr",
+        "nameRU": "Болгарский перец Красный Перец Перец красный свежий сорт Калифорния Картонная коробка 5000 гр",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00704001001007001",
+        "nameUZ": "Карам Капуста кольраби",
+        "nameLAT": "Karam Капуста кольраби",
+        "nameRU": "Капуста Капуста кольраби",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00704001001009001",
+        "nameUZ": "Карам Брюссельская капуста",
+        "nameLAT": "Karam Брюссельская капуста",
+        "nameRU": "Капуста Брюссельская капуста",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00703001001014001",
+        "nameUZ": "Пиёз Оқ пиёз",
+        "nameLAT": "Piyoz Oq piyoz",
+        "nameRU": "Лук репчатый Белый лук",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00701001001004001",
+        "nameUZ": "Картошка Семенная картошка Уруғлик картошка",
+        "nameLAT": "Kartoshka Семенная картошка Urug’lik kartoshka",
+        "nameRU": "Картошка Семенная картошка Семенная картошка",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00701001001002001",
+        "nameUZ": "Картошка Красная картошка",
+        "nameLAT": "Kartoshka Красная картошка",
+        "nameRU": "Картошка Красная картошка",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00701001001003001",
+        "nameUZ": "Картошка Картошка (гала) Картошка (гала)",
+        "nameLAT": "Kartoshka Картошка (гала) Kartoshka (gala)",
+        "nameRU": "Картошка Картошка (гала) Картошка (гала)",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00701001001001001",
+        "nameUZ": "Картошка курода янги",
+        "nameLAT": "Kartoshka курода yangi",
+        "nameRU": "Картошка курода свежий",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00702001001023002",
+        "nameUZ": "Янги томатлар (помидорлар) 365 дней биринчи нав, пэт пакет 600 гр",
+        "nameLAT": "Yangi tomatlar (pomidorlar) 365 дней",
+        "nameRU": "Свежие томаты (помидоры) 365 дней первый сорт, пэт пакет 600 гр",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708002003014001",
+        "nameUZ": "Фасоль Agrifood Ловия оч-қизил ола-була, полипропилен қоп 25",
+        "nameLAT": "Fasol Agrifood",
+        "nameRU": "Фасоль Agrifood Фасоль красно-светлая пёстрая Полипропиленовый мешок 25",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708002003014002",
+        "nameUZ": "Фасоль Agrifood Ловия тўқ-қизил ола-була, полипропилен қоп 25",
+        "nameLAT": "Fasol Agrifood",
+        "nameRU": "Фасоль Agrifood Фасоль красно-тёмная пёстрая Полипропиленовый мешок 25",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708002003012001",
+        "nameUZ": "Фасоль Фасоль Ловия қизил тозаланган калибрланган, полиэтилен қоп 25",
+        "nameLAT": "Fasol Фасоль",
+        "nameRU": "Фасоль Фасоль Фасоль красная очищенная калиброванная Полиэтиленовый мешок 25",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708002003014003",
+        "nameUZ": "Фасоль Agrifood Ловия қора кўз, полипропилен қоп 25",
+        "nameLAT": "Fasol Agrifood",
+        "nameRU": "Фасоль Agrifood Фасоль чёрный глаз Полипропиленовый мешок 25",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708002003012002",
+        "nameUZ": "Фасоль Фасоль Ловия қизил тозаланган калибрланган, полиэтилен қоп 50",
+        "nameLAT": "Fasol Фасоль",
+        "nameRU": "Фасоль Фасоль Фасоль красная очищенная калиброванная Полиэтиленовый мешок 50",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708003001002001",
+        "nameUZ": "Ясмиқ Kundalik Ro'zg'or Нави қизил, полиэтилен пакет 900 г.",
+        "nameLAT": "Yasmiq Kundalik Ro'zg'or",
+        "nameRU": "Чечевица Kundalik Ro'zg'or Сорт красный, полиэтиленовой пакет 900 г.",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00702001001001001",
+        "nameUZ": "Янги томатлар (помидорлар) Grand Янги пушти нав, пластмасса идиш 600 г.",
+        "nameLAT": "Yangi tomatlar (pomidorlar) Grand",
+        "nameRU": "Свежие томаты (помидоры) Grand Свежие сорт розовые, пластиковый контейнер 600 г.",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00711001001004012",
+        "nameUZ": "Қисқа муддатли сақлаш учун консерваланган сабзавотлар Maestro De Oliva Данаксиз зайтун (оливка) 200 мл п/б",
+        "nameLAT": "Qisqa muddatli saqlash uchun konservalangan sabzavotlar Maestro De Oliva Danaksiz zaytun (olivka) 200 ml p/b",
+        "nameRU": "Овощи консервированные для кратковременного хранения Maestro De Oliva Оливки б/косточки 200мл п/б",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00710001001001001",
+        "nameUZ": "Бошқа музлатилган сабзавотлар Мираторг Гавайи аралашмаси 400гр",
+        "nameLAT": "Boshqa muzlatilgan sabzavotlar Мираторг Gavayi aralashmasi 400gr",
+        "nameRU": "Прочие замороженные овощи Мираторг Смесь гавайская 400гр",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708002003013001",
+        "nameUZ": "Фасоль 365 дней Ловия қизил, BOPP пакет 900",
+        "nameLAT": "Fasol 365 дней Loviya qizil, BOPP paket 900",
+        "nameRU": "Фасоль 365 дней Фасоль красная BOPP пакет 900",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708002003003004",
+        "nameUZ": "Фасоль Roma's Чёрный глаз навли Полипропилен пакет 500 г",
+        "nameLAT": "Fasol Roma's Chyornыy glaz navli Polipropilen paket 500 g",
+        "nameRU": "Фасоль Roma's сорт Чёрный глаз Полипропиленовый пакет 500 г",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00799999002004001",
+        "nameUZ": "Бақлажон Нарезанные кружками в томатном соусе с фаршем Бақлажон, шиша банкада TWIST OFF 550 мл",
+        "nameLAT": "Baqlajon Нарезанные кружками в томатном соусе с фаршем Baqlajon, shisha bankada TWIST OFF 550 ml",
+        "nameRU": "Баклажан Нарезанные кружками в томатном соусе с фаршем Баклажаны Стеклянная банка TWIST OFF 550 мл",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00712001001002003",
+        "nameUZ": "Қуритилган сабзавотлар Agronic Лавлаги қуритилган 1-навли, крафт қоп 22",
+        "nameLAT": "Quritilgan sabzavotlar Agronic Lavlagi quritilgan 1-navli, kraft qop 22",
+        "nameRU": "Сушеные овощи Agronic Свекла сушёная 1 сорт Крафт мешок 22",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708002003001001",
+        "nameUZ": "Фасоль Altyn Dan Полиэтилен пакет 700 г.",
+        "nameLAT": "Fasol Altyn Dan Polietilen paket 700 g.",
+        "nameRU": "Фасоль Altyn Dan Полиэтиленовой пакет 700 г.",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00703001001013001",
+        "nameUZ": "Пиёз Лук-шалот",
+        "nameLAT": "Piyoz Лук-шалот",
+        "nameRU": "Лук репчатый Лук-шалот",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00704001001005001",
+        "nameUZ": "Карам Красная капуста",
+        "nameLAT": "Karam Красная капуста",
+        "nameRU": "Капуста Красная капуста",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00703001001015001",
+        "nameUZ": "Пиёз Анзурский  лук",
+        "nameLAT": "Piyoz Анзурский  лук",
+        "nameRU": "Лук репчатый Анзурский  лук",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00703001001012001",
+        "nameUZ": "Пиёз Красный лук",
+        "nameLAT": "Piyoz Красный лук",
+        "nameRU": "Лук репчатый Красный лук",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00704001001008001",
+        "nameUZ": "Карам Капуста брокколи",
+        "nameLAT": "Karam Капуста брокколи",
+        "nameRU": "Капуста Капуста брокколи",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00799999016000000",
+        "nameUZ": "Сабзавотлар аралашмаси",
+        "nameLAT": "Sabzavotlar aralashmasi",
+        "nameRU": "Микс из овощей",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00706007002000000",
+        "nameUZ": "Хрен",
+        "nameLAT": "Xren",
+        "nameRU": "Хрен",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708001002001001",
+        "nameUZ": "Яшил нўхат 7 грядок олий нав, алюминий банка 400 гр.",
+        "nameLAT": "Yashil no’xat 7 грядок oliy nav, alyuminiy banka 400 gr.",
+        "nameRU": "Горошек зеленый 7 грядок высший сорт, алюминиевая банка 400 гр.",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00706003001000000",
+        "nameUZ": "Лавлаги",
+        "nameLAT": "Lavlagi",
+        "nameRU": "Свёкла",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708001001016001",
+        "nameUZ": "Нўхат Минутка Полиэтилен пакет 700 г.",
+        "nameLAT": "No’xat Минутка Polietilen paket 700 g.",
+        "nameRU": "Горох Минутка Полиэтиленовый пакет 700 г.",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708002003015001",
+        "nameUZ": "Фасоль Red kidney beans Ловия қизил, полиэтилен пакетда 800",
+        "nameLAT": "Fasol Red kidney beans Loviya qizil, polietilen paketda 800",
+        "nameRU": "Фасоль Red kidney beans Фасоль красная Полиэтиленовый пакет 800",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00711001001004007",
+        "nameUZ": "Қисқа муддатли сақлаш учун консерваланган сабзавотлар Maestro De Oliva Данаксиз эксклюзив зайтун (маслина) 370 мл т/б",
+        "nameLAT": "Qisqa muddatli saqlash uchun konservalangan sabzavotlar Maestro De Oliva Danaksiz eksklyuziv zaytun (maslina) 370 ml t/b",
+        "nameRU": "Овощи консервированные для кратковременного хранения Maestro De Oliva Маслины эксклюзив б/косточки 370мл ж/б",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708005001011002",
+        "nameUZ": "Мош Ift Quality Foods тозаланган калибрланган ПЭТ бутилка 1 200 г",
+        "nameLAT": "Mosh Ift Quality Foods tozalangan kalibrlangan PET butilka 1 200 g",
+        "nameRU": "Маш Ift Quality Foods тозаланган калибрланган ПЭТ бутылка 1 200 г",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00702001001012001",
+        "nameUZ": "Янги томатлар (помидорлар) Forticia Помидор янги узилган F-1-навли, ёғоч қути 7500",
+        "nameLAT": "Yangi tomatlar (pomidorlar) Forticia Pomidor yangi uzilgan F-1-navli, yog’och quti 7500",
+        "nameRU": "Свежие томаты (помидоры) Forticia Томаты свежие сорт F-1 Деревянный ящик 7,5",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708003001009001",
+        "nameUZ": "Ясмиқ Tasty в месте Қизил ясмиқ, полипропилен пакетда 950",
+        "nameLAT": "Yasmiq Tasty в месте Qizil yasmiq, polipropilen paketda 950",
+        "nameRU": "Чечевица Tasty в месте Чечеквица красная Полипропиленовый пакет 950",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00712001001002008",
+        "nameUZ": "Қуритилган сабзавотлар Agronic Картошка қуритилган 1-навли, полиэтилен  қоп 22",
+        "nameLAT": "Quritilgan sabzavotlar Agronic Kartoshka quritilgan 1-navli, polietilen  qop 22",
+        "nameRU": "Сушеные овощи Agronic Картофель сушёный 1 сорт Полиэтиленовый мешок 22",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00709001906017001",
+        "nameUZ": "Салат барг Звезда Востока Салат, полиэтилен контейнерда 100",
+        "nameLAT": "Salat barg Звезда Востока Salat, polietilen konteynerda 100",
+        "nameRU": "Салат листовой Звезда Востока Салат Полиэтиленовый контейнер 100",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00702001001008001",
+        "nameUZ": "Янги томатлар (помидорлар) Танаис Томат черри, шиша банкада 1000",
+        "nameLAT": "Yangi tomatlar (pomidorlar) Танаис Tomat cherri, shisha bankada 1000",
+        "nameRU": "Свежие томаты (помидоры) Танаис Томат черри Стеклянная банка 1,0",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00799999002001001",
+        "nameUZ": "Бақлажон Uzkand Бақлажон қуритилган, полиэтилен пакетда 100 гр",
+        "nameLAT": "Baqlajon Uzkand Baqlajon quritilgan, polietilen paketda 100 gr",
+        "nameRU": "Баклажан Uzkand Баклажан сушённый Полиэтиленовый пакет 100 г.",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00709001906004002",
+        "nameUZ": "Салат барг Пак Чой Салат, полиэтилен пакетда 150",
+        "nameLAT": "Salat barg Пак Чой Salat, polietilen paketda 150",
+        "nameRU": "Салат листовой Пак Чой Салат Полиэтиленовый пакет 150",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00703003004000000",
+        "nameUZ": "Хушбўй пиёз (жусай)",
+        "nameLAT": "Xushbo’y piyoz (jusay)",
+        "nameRU": "Лук душистый (джусай)",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00799999006000000",
+        "nameUZ": "Дайкон",
+        "nameLAT": "Daykon",
+        "nameRU": "Дайкон",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00702001001004001",
+        "nameUZ": "Янги томатлар (помидорлар) Vilagro Янги қизил факел нави, пластмасса идиш 700 г.",
+        "nameLAT": "Yangi tomatlar (pomidorlar) Vilagro Yangi qizil fakel navi, plastmassa idish 700 g.",
+        "nameRU": "Свежие томаты (помидоры) Vilagro Свежие сорт красный факел, пластиковый контейнер 700 г.",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708001001024001",
+        "nameUZ": "Нўхат Мистраль Эзилган сариқ 900 гр",
+        "nameLAT": "No’xat Мистраль Ezilgan sariq 900 gr",
+        "nameRU": "Горох Мистраль Желтый колотый 900 гр",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708005001002001",
+        "nameUZ": "Мош Else мош Полиэтилен пакет 100 г",
+        "nameLAT": "Mosh Else mosh Polietilen paket 100 g",
+        "nameRU": "Маш Else маш Полиэтиленовый пакет 100 г",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708002003010001",
+        "nameUZ": "Фасоль Amigo Ловия оқ, полипропилен пакетда 800",
+        "nameLAT": "Fasol Amigo Loviya oq, polipropilen paketda 800",
+        "nameRU": "Фасоль Amigo Фасоль белая Полипропиленовый пакет 800",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708002003011001",
+        "nameUZ": "Фасоль UzRice Ловия қизил, полипропилен пакетда 850",
+        "nameLAT": "Fasol UzRice Loviya qizil, polipropilen paketda 850",
+        "nameRU": "Фасоль UzRice Фасоль красная Полипропиленовый пакет 850",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708002003009001",
+        "nameUZ": "Фасоль Greenray Оқ 400 гр т/б",
+        "nameLAT": "Fasol Greenray Oq 400 gr t/b",
+        "nameRU": "Фасоль Greenray Бел 400гр ж/б",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00710001001001010",
+        "nameUZ": "Бошқа музлатилган сабзавотлар Мираторг Провенcал ўтлар билан соте қишлоқ хўжалиги маҳсулотлари 400гр",
+        "nameLAT": "Boshqa muzlatilgan sabzavotlar Мираторг Provencal o’tlar bilan sote qishloq xo’jaligi mahsulotlari 400gr",
+        "nameRU": "Прочие замороженные овощи Мираторг Сотэ фермерские продукты с прованскими травами 400гр",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00703001001001003",
+        "nameUZ": "Пиёз Grand Янги сариқ, полиэтилен пакет 1,2 кг.",
+        "nameLAT": "Piyoz Grand Yangi sariq, polietilen paket 1,2 kg.",
+        "nameRU": "Лук репчатый Grand Свежий жёлтый, полиэтиленовый пакет 1,2 кг.",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00709002002002001",
+        "nameUZ": "Яшил зайтун Bonduelle яшил данак билан 300г",
+        "nameLAT": "Yashil zaytun Bonduelle yashil danak bilan 300g",
+        "nameRU": "Оливка Bonduelle зелёные с косточкой 300г",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00709002002012001",
+        "nameUZ": "Яшил зайтун Veranda тозаланмаган 350  г",
+        "nameLAT": "Yashil zaytun Veranda tozalanmagan 350  g",
+        "nameRU": "Оливка Veranda без косточки 350 г",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00711001001005010",
+        "nameUZ": "Қисқа муддатли сақлаш учун консерваланган сабзавотлар Olivari яшил пастеризацияланган данаксиз 300гр с/б",
+        "nameLAT": "Qisqa muddatli saqlash uchun konservalangan sabzavotlar Olivari yashil pasterizatsiyalangan danaksiz 300gr s/b",
+        "nameRU": "Овощи консервированные для кратковременного хранения Olivari Зелен пастеризован б/косточки 300гр с/б",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708001001031002",
+        "nameUZ": "Нўхат Афсона Нўхат олий навли, полиэтилен пакетда 1000 гр",
+        "nameLAT": "No’xat Афсона No’xat oliy navli, polietilen paketda 1000 gr",
+        "nameRU": "Горох Афсона Горох высший сорт Полиэтиленовый пакет 1,0",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00703001001005001",
+        "nameUZ": "Пиёз Diyor Parranda Пиёз, қоғоз пакетда 10",
+        "nameLAT": "Piyoz Diyor Parranda Piyoz, qog’oz paketda 10",
+        "nameRU": "Лук репчатый Diyor Parranda Лук Бумажный пакет 10",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00709001906007001",
+        "nameUZ": "Салат барг Spring Mix Салат, пластик контейнерда 500",
+        "nameLAT": "Salat barg Spring Mix Salat, plastik konteynerda 500",
+        "nameRU": "Салат листовой Spring Mix Салат Пластиковый контейнер 500",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00709001913001001",
+        "nameUZ": "Исмалоқ Мираторг Баргли порция қилинган исмалоқ 400гр",
+        "nameLAT": "Ismaloq Мираторг Bargli porsiya qilingan ismaloq 400gr",
+        "nameRU": "Шпинат Мираторг Шпинат порционный листовой 400гр",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708002003003001",
+        "nameUZ": "Фасоль Roma's оқ Полипропилен пакет 500 г",
+        "nameLAT": "Fasol Roma's oq Polipropilen paket 500 g",
+        "nameRU": "Фасоль Roma's белая Полипропиленовый пакет 500 г",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708005001008001",
+        "nameUZ": "Мош Agrifood 3,0 мм Полипропилен қоп 25 000 г",
+        "nameLAT": "Mosh Agrifood 3,0 mm Polipropilen qop 25 000 g",
+        "nameRU": "Маш Agrifood 3,0 мм Полипропиленовый мешок 25 000 г",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00703003006000000",
+        "nameUZ": "Бошқа пиёзли сабзавотлар",
+        "nameLAT": "Boshqa piyozli sabzavotlar",
+        "nameRU": "Прочие луковичные овощи",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00709001923000000",
+        "nameUZ": "Бамия",
+        "nameLAT": "Bamiya",
+        "nameRU": "Бамия",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00711001001004011",
+        "nameUZ": "Қисқа муддатли сақлаш учун консерваланган сабзавотлар Maestro De Oliva Данакли зайтун (оливка) 200 мл п/б",
+        "nameLAT": "Qisqa muddatli saqlash uchun konservalangan sabzavotlar Maestro De Oliva Danakli zaytun (olivka) 200 ml p/b",
+        "nameRU": "Овощи консервированные для кратковременного хранения Maestro De Oliva Оливки с косточкой 200мл п/б",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00703001001008001",
+        "nameUZ": "Пиёз Maxad dex Маҳаллий тозаланган, полиэтилен қадоқда 200 г.",
+        "nameLAT": "Piyoz Maxad dex Mahalliy tozalangan, polietilen qadoqda 200 g.",
+        "nameRU": "Лук репчатый Maxad dex Местный очищенный, пэт чашке 200 г.",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708005001002007",
+        "nameUZ": "Мош Else мош Полиэтилен пакет 1 000 г",
+        "nameLAT": "Mosh Else mosh Polietilen paket 1 000 g",
+        "nameRU": "Маш Else маш Полиэтиленовый пакет 1 000 г",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00709002001000000",
+        "nameUZ": "Етилган зайтун",
+        "nameLAT": "Yetilgan zaytun",
+        "nameRU": "Маслина",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708001002002001",
+        "nameUZ": "Яшил нўхат Bonduelle музлатилган 400 гр.",
+        "nameLAT": "Yashil no’xat Bonduelle muzlatilgan 400 gr.",
+        "nameRU": "Горошек зеленый Bonduelle замороженный 400 гр.",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00709002001011002",
+        "nameUZ": "Етилган зайтун Olive данаксиз 280 г",
+        "nameLAT": "Yetilgan zaytun Olive danaksiz 280 g",
+        "nameRU": "Маслина Olive без косточки 280 г",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00709002001011001",
+        "nameUZ": "Етилган зайтун Olive данакли 420 г",
+        "nameLAT": "Yetilgan zaytun Olive danakli 420 g",
+        "nameRU": "Маслина Olive с косточкой 420 г",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00709002001002001",
+        "nameUZ": "Етилган зайтун Bonduelle зайтунли данак билан 300г",
+        "nameLAT": "Yetilgan zaytun Bonduelle zaytunli danak bilan 300g",
+        "nameRU": "Маслина Bonduelle оливки с косточкой 300г",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00709002001001002",
+        "nameUZ": "Етилган зайтун Lorado уруғли 314 мл т/б",
+        "nameLAT": "Yetilgan zaytun Lorado urug’li 314 ml t/b",
+        "nameRU": "Маслина Lorado с косточкой 314 мл ж/б",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00709002001005001",
+        "nameUZ": "Етилган зайтун FORA гигант 350 г",
+        "nameLAT": "Yetilgan zaytun FORA gigant 350 g",
+        "nameRU": "Маслина FORA гигант 350 г",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708001001011001",
+        "nameUZ": "Нўхат Makki Крупа, полипропилен пакет 700 г.",
+        "nameLAT": "No’xat Makki Krupa, polipropilen paket 700 g.",
+        "nameRU": "Горох Makki Крупа, полипропиленовый пакет 700 г.",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708005001001001",
+        "nameUZ": "Мош Buxara Кичири мош, мол гўштиси билан, Картон коробка 300 г.",
+        "nameLAT": "Mosh Buxara Kichiri mosh, mol go’shtisi bilan, Karton korobka 300 g.",
+        "nameRU": "Маш Buxara Маш кичири с Говяжьим мясом, Картонная коробка 300 г.",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00702001001002001",
+        "nameUZ": "Янги томатлар (помидорлар) Maxad dex Янги олмали нав, пластмасса идиш 650 г.",
+        "nameLAT": "Yangi tomatlar (pomidorlar) Maxad dex Yangi olmali nav, plastmassa idish 650 g.",
+        "nameRU": "Свежие томаты (помидоры) Maxad dex Свежие сорт яблочный, пэт контейнер 650 г.",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708002001000000",
+        "nameUZ": "Ловия",
+        "nameLAT": "Loviya",
+        "nameRU": "Бобы",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00709002002005002",
+        "nameUZ": "Яшил зайтун Coopoliva Яшил 370 мл",
+        "nameLAT": "Yashil zaytun Coopoliva Yashil 370 ml",
+        "nameRU": "Оливка Coopoliva Зеленые 370 мл",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708001001028001",
+        "nameUZ": "Нўхат A & A Нўхат майдаланган, полиэтилен пакет 900 гр",
+        "nameLAT": "No’xat A & A No’xat maydalangan, polietilen paket 900 gr",
+        "nameRU": "Горох A & A Горох дробленный Полиэтиленовые пакет 900 г.",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708003001008001",
+        "nameUZ": "Ясмиқ 365 дней Қизил БОПП пакет 900 г",
+        "nameLAT": "Yasmiq 365 дней Qizil BOPP paket 900 g",
+        "nameRU": "Чечевица 365 дней Красная БОПП пакет 900 г",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00709001906014002",
+        "nameUZ": "Салат барг Babe Kale Mix Салат, полиэтилен пакетда 220",
+        "nameLAT": "Salat barg Babe Kale Mix Salat, polietilen paketda 220",
+        "nameRU": "Салат листовой Babe Kale Mix Салат Полиэтиленовый пакет 220",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00709001906002001",
+        "nameUZ": "Салат барг Мицуна Салат, полиэтилен пакетда 80",
+        "nameLAT": "Salat barg Мицуна Salat, polietilen paketda 80",
+        "nameRU": "Салат листовой Мицуна Салат Полиэтиленовый пакет 80",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708005001002004",
+        "nameUZ": "Мош Else мош Полиэтилен пакет 500 г",
+        "nameLAT": "Mosh Else mosh Polietilen paket 500 g",
+        "nameRU": "Маш Else маш Полиэтиленовый пакет 500 г",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708002003008001",
+        "nameUZ": "Фасоль Passim Қизил ловия 700гр қадоқ",
+        "nameLAT": "Fasol Passim Qizil loviya 700gr qadoq",
+        "nameRU": "Фасоль Passim Фасоль красн 700гр пачка",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00712001003001001",
+        "nameUZ": "Қизил қалампир қуритилган (майдаланган) Special Mix саримсоқ билан special mix шиша банка 280 г. қопқоқ твистофф",
+        "nameLAT": "Qizil qalampir quritilgan (maydalangan) Special Mix sarimsoq bilan special mix shisha banka 280 g. qopqoq tvistoff",
+        "nameRU": "Красный перец сладкий сушенный (молотый) Special Mix с чесноком special mix стеклянная банка 280 г. крышка твистофф",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00709002001001001",
+        "nameUZ": "Етилган зайтун Lorado уруғсиз 314 мл т/б",
+        "nameLAT": "Yetilgan zaytun Lorado urug’siz 314 ml t/b",
+        "nameRU": "Маслина Lorado без косточки 314 мл ж/б",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00709002002005003",
+        "nameUZ": "Яшил зайтун Coopoliva данаксиз қора 314 г",
+        "nameLAT": "Yashil zaytun Coopoliva danaksiz qora 314 g",
+        "nameRU": "Оливка Coopoliva без косточек Черные 314 мл",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00709002002007002",
+        "nameUZ": "Яшил зайтун Maestro данакли 3000 г",
+        "nameLAT": "Yashil zaytun Maestro danakli 3000 g",
+        "nameRU": "Оливка Maestro с косточкой 3000 г",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00709002002005004",
+        "nameUZ": "Яшил зайтун Coopoliva қора 370 г",
+        "nameLAT": "Yashil zaytun Coopoliva qora 370 g",
+        "nameRU": "Оливка Coopoliva Черные 370 мл",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00709002002007001",
+        "nameUZ": "Яшил зайтун Maestro Яшил 260 мл",
+        "nameLAT": "Yashil zaytun Maestro Yashil 260 ml",
+        "nameRU": "Оливка Maestro Зеленые 260 г",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00709002002010001",
+        "nameUZ": "Яшил зайтун Olivalife қизил аччиқ қалампирли 230 г",
+        "nameLAT": "Yashil zaytun Olivalife qizil achchiq qalampirli 230 g",
+        "nameRU": "Оливка Olivalife с красным острым перцем 230 г",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00709002002011001",
+        "nameUZ": "Яшил зайтун Olive данакли 420 г",
+        "nameLAT": "Yashil zaytun Olive danakli 420 g",
+        "nameRU": "Оливка Olive с косточкой 420 г",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00709002002002002",
+        "nameUZ": "Яшил зайтун Bonduelle яшил данаксиз 300г",
+        "nameLAT": "Yashil zaytun Bonduelle yashil danaksiz 300g",
+        "nameRU": "Оливка Bonduelle зелёные без косточки 300г",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00709002001002002",
+        "nameUZ": "Етилган зайтун Bonduelle зайтунли 300г",
+        "nameLAT": "Yetilgan zaytun Bonduelle zaytunli 300g",
+        "nameRU": "Маслина Bonduelle оливки 300г",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00709002002005001",
+        "nameUZ": "Яшил зайтун Coopoliva данаксиз 370 г",
+        "nameLAT": "Yashil zaytun Coopoliva danaksiz 370 g",
+        "nameRU": "Оливка Coopoliva без косточек 370 мл",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00709002002001001",
+        "nameUZ": "Яшил зайтун Lorado уруғсиз 314 мл т/б",
+        "nameLAT": "Yashil zaytun Lorado urug’siz 314 ml t/b",
+        "nameRU": "Оливка Lorado без косточки 314 мл ж/б",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00709002002009001",
+        "nameUZ": "Яшил зайтун Mikado данаксиз 314мл",
+        "nameLAT": "Yashil zaytun Mikado danaksiz 314ml",
+        "nameRU": "Оливка Mikado без косточки 314мл",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00709002002001002",
+        "nameUZ": "Яшил зайтун Lorado уруғли 314 мл т/б",
+        "nameLAT": "Yashil zaytun Lorado urug’li 314 ml t/b",
+        "nameRU": "Оливка Lorado с косточкой 314 мл ж/б",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00709002002012002",
+        "nameUZ": "Яшил зайтун Veranda данакли 350 г",
+        "nameLAT": "Yashil zaytun Veranda danakli 350 g",
+        "nameRU": "Оливка Veranda с косточкой 350 г",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00709002002000000",
+        "nameUZ": "Яшил зайтун",
+        "nameLAT": "Yashil zaytun",
+        "nameRU": "Оливка",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00711001001004006",
+        "nameUZ": "Қисқа муддатли сақлаш учун консерваланган сабзавотлар Maestro De Oliva Данакли эксклюзив зайтун (маслина) 370 мл т/б",
+        "nameLAT": "Qisqa muddatli saqlash uchun konservalangan sabzavotlar Maestro De Oliva Danakli eksklyuziv zaytun (maslina) 370 ml t/b",
+        "nameRU": "Овощи консервированные для кратковременного хранения Maestro De Oliva Маслины эксклюзив с косточкой 370мл ж/б",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00711001001004008",
+        "nameUZ": "Қисқа муддатли сақлаш учун консерваланган сабзавотлар Maestro De Oliva Йирик зайтун (оливки) 432 мл т/б",
+        "nameLAT": "Qisqa muddatli saqlash uchun konservalangan sabzavotlar Maestro De Oliva Yirik zaytun (olivki) 432 ml t/b",
+        "nameRU": "Овощи консервированные для кратковременного хранения Maestro De Oliva Оливки гигантские б/косточки 432мл ж/б",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708001001006003",
+        "nameUZ": "Нўхат Grand глазурли, полиэтилен пакет 200 г.",
+        "nameLAT": "No’xat Grand glazurli, polietilen paket 200 g.",
+        "nameRU": "Горох Grand С глазурью, полиэтиленовый пакет 200 г.",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00706001001001002",
+        "nameUZ": "Сабзи Полезная еда Сариқ сублимация қилинган қисмлар, металлашган пакет 20 г.",
+        "nameLAT": "Sabzi Полезная еда Sariq sublimatsiya qilingan qismlar, metallashgan paket 20 g.",
+        "nameRU": "Морковь Полезная еда Жёлтая сублимированная кусочками, металлизированный пакет 20 г.",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708001001023001",
+        "nameUZ": "Нўхат Мираторг Яшил нўхат 400 гр",
+        "nameLAT": "No’xat Мираторг Yashil no’xat 400 gr",
+        "nameRU": "Горох Мираторг Горошек зелен 400 гр",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00799999005000000",
+        "nameUZ": "Қовоқча",
+        "nameLAT": "Qovoqcha",
+        "nameRU": "Кабачки",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708002002000000",
+        "nameUZ": "Яшил ловия (жандиқ)",
+        "nameLAT": "Yashil loviya (jandiq)",
+        "nameRU": "Стручковая фасоль (джандо)",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708005001009001",
+        "nameUZ": "Мош UMIDA PACK мош ПЭТ пакет 900 г",
+        "nameLAT": "Mosh UMIDA PACK mosh PET paket 900 g",
+        "nameRU": "Маш UMIDA PACK маш ПЭТ пакет 900 г",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708001001035001",
+        "nameUZ": "Нўхат Ift Quality Foods Нўхат Россия навли, полиэтилен пакетда 900",
+        "nameLAT": "No’xat Ift Quality Foods No’xat Rossiya navli, polietilen paketda 900",
+        "nameRU": "Горох Ift Quality Foods Горох сорт Российский Полиэтиленовый пакет 900",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708005001010001",
+        "nameUZ": "Мош Dar Vostoka - Крафт пакет 1 000 г",
+        "nameLAT": "Mosh Dar Vostoka - Kraft paket 1 000 g",
+        "nameRU": "Маш Dar Vostoka - Крафт пакет 1 000 г",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708003001005001",
+        "nameUZ": "Ясмиқ Семья Полипропиленовая упаковка 700",
+        "nameLAT": "Yasmiq Семья Polipropilenovaya upakovka 700",
+        "nameRU": "Чечевица Семья Полипропиленовая упаковка 700",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00710001001001006",
+        "nameUZ": "Бошқа музлатилган сабзавотлар Мираторг Италия аралашмаси 400гр",
+        "nameLAT": "Boshqa muzlatilgan sabzavotlar Мираторг Italiya aralashmasi 400gr",
+        "nameRU": "Прочие замороженные овощи Мираторг Смесь итальянская 400гр",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00711001001005001",
+        "nameUZ": "Қисқа муддатли сақлаш учун консерваланган сабзавотлар Olivari Донакли қора зайтун 300 гр т/б",
+        "nameLAT": "Qisqa muddatli saqlash uchun konservalangan sabzavotlar Olivari Donakli qora zaytun 300 gr t/b",
+        "nameRU": "Овощи консервированные для кратковременного хранения Olivari Оливки черн с костью 300гр ж/б",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00711001001005017",
+        "nameUZ": "Қисқа муддатли сақлаш учун консерваланган сабзавотлар Olivari Пастеризацияланган данаксиз 300гр ш/б",
+        "nameLAT": "Qisqa muddatli saqlash uchun konservalangan sabzavotlar Olivari Pasterizatsiyalangan danaksiz 300gr sh/b",
+        "nameRU": "Овощи консервированные для кратковременного хранения Olivari Пастеризован б/кости 300гр с/б",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708001001038001",
+        "nameUZ": "Нўхат Продукция от Деда Хасана Нўхат, полиэтилен пакетда 50 гр",
+        "nameLAT": "No’xat Продукция от Деда Хасана No’xat, polietilen paketda 50 gr",
+        "nameRU": "Горох Продукция от Деда Хасана Горох - Нут Полиэтиленовый пакет 50 г.",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708002003003006",
+        "nameUZ": "Фасоль Roma's Шапармак навли Полипропилен пакет 500 г",
+        "nameLAT": "Fasol Roma's Shaparmak navli Polipropilen paket 500 g",
+        "nameRU": "Фасоль Roma's сорт Шапармак Полипропиленовый пакет 500 г",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00709001906020001",
+        "nameUZ": "Салат барг Kids Salad Frozen Салат, полиэтилен пакетда 250",
+        "nameLAT": "Salat barg Kids Salad Frozen Salat, polietilen paketda 250",
+        "nameRU": "Салат листовой Kids Salad Frozen Салат Полиэтиленовый пакет 250",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00702001001011002",
+        "nameUZ": "Янги томатлар (помидорлар) Prodezo Помидор янги узилган F-1-навли, гофро қути 7500",
+        "nameLAT": "Yangi tomatlar (pomidorlar) Prodezo Pomidor yangi uzilgan F-1-navli, gofro quti 7500",
+        "nameRU": "Свежие томаты (помидоры) Prodezo Томаты свежие сорт F-1 Гофрокоробка 7,5",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00704001001003003",
+        "nameUZ": "Карам Fargona meva export Карам Пекин янги узилган, пластик қути 5800",
+        "nameLAT": "Karam Fargona meva export Karam Pekin yangi uzilgan, plastik quti 5800",
+        "nameRU": "Капуста Fargona meva export Капуста пекинская свежие Пластиковые ящик 5.8",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00799999002002001",
+        "nameUZ": "Бақлажон Agronic Бақлажон қуритилган 1-навли, крафт мешок 8000",
+        "nameLAT": "Baqlajon Agronic Baqlajon quritilgan 1-navli, kraft meshok 8000",
+        "nameRU": "Баклажан Agronic Баклажаны сушёные 1 сорт Крафт мешок 8,0",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708005001008003",
+        "nameUZ": "Мош Agrifood 4,0 мм Полипропилен қоп 25 000 г",
+        "nameLAT": "Mosh Agrifood 4,0 mm Polipropilen qop 25 000 g",
+        "nameRU": "Маш Agrifood 4,0 мм Полипропиленовый мешок 25 000 г",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00702001001015001",
+        "nameUZ": "Янги томатлар (помидорлар) FARGONA MEVA EXPORT Помидор янги узилган, ёғоч қутида 8100",
+        "nameLAT": "Yangi tomatlar (pomidorlar) FARGONA MEVA EXPORT Pomidor yangi uzilgan, yog’och qutida 8100",
+        "nameRU": "Свежие томаты (помидоры) FARGONA MEVA EXPORT томаты свежие Деревянный ящик 8.1",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00799999004002002",
+        "nameUZ": "Қўзиқорин Mikado ассорти 530 гр.",
+        "nameLAT": "Qo’ziqorin Mikado assorti 530 gr.",
+        "nameRU": "Грибы Mikado ассорти верлинское 530 гр.",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00709001911000000",
+        "nameUZ": "Кутем",
+        "nameLAT": "Kutem",
+        "nameRU": "Кутем",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00709001906019001",
+        "nameUZ": "Салат барг Хрустящий урожай Салат, полиэтилен контейнерда 100",
+        "nameLAT": "Salat barg Хрустящий урожай Salat, polietilen konteynerda 100",
+        "nameRU": "Салат листовой Хрустящий урожай Салат Полиэтиленовый контейнер 100",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708001001017002",
+        "nameUZ": "Нўхат Нахуд Нўхат Эран, полиэтилен қадоқда 900",
+        "nameLAT": "No’xat Нахуд No’xat Eran, polietilen qadoqda 900",
+        "nameRU": "Горох Нахуд Горох Иран Полиэтиленовая упаковка 900",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00709001906003001",
+        "nameUZ": "Салат барг Цезарь Салат, пластик контейнерда 220",
+        "nameLAT": "Salat barg Цезарь Salat, plastik konteynerda 220",
+        "nameRU": "Салат листовой Цезарь Салат Пластиковый контейнер 220±5,0",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00709001906010001",
+        "nameUZ": "Салат барг Romaine Mix Салат, пластик контейнерда 100",
+        "nameLAT": "Salat barg Romaine Mix Salat, plastik konteynerda 100",
+        "nameRU": "Салат листовой Romaine Mix Салат Пластиковый контейнер 100",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00712001001002004",
+        "nameUZ": "Қуритилган сабзавотлар Agronic Қовоқ қуритилган 1-навли, полиэтилен қоп 22",
+        "nameLAT": "Quritilgan sabzavotlar Agronic Qovoq quritilgan 1-navli, polietilen qop 22",
+        "nameRU": "Сушеные овощи Agronic Тыква сушёная 1 сорт Полиэтиленовый мешок 22",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708005001008002",
+        "nameUZ": "Мош Agrifood 3,5 мм Полипропилен қоп 25 000 г",
+        "nameLAT": "Mosh Agrifood 3,5 mm Polipropilen qop 25 000 g",
+        "nameRU": "Маш Agrifood 3,5 мм Полипропиленовый мешок 25 000 г",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708001002005001",
+        "nameUZ": "Яшил нўхат Heinz юмшоқ 400 гр.",
+        "nameLAT": "Yashil no’xat Heinz yumshoq 400 gr.",
+        "nameRU": "Горошек зеленый Heinz нежный 400 гр.",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00713001001001001",
+        "nameUZ": "Қуритилган дуккакли сабзавотлар Увелка бўлинган нўхат 800 гр.",
+        "nameLAT": "Quritilgan dukkakli sabzavotlar Увелка bo’lingan no’xat 800 gr.",
+        "nameRU": "Овощи бобовые сушеные Увелка горох колотый 800 гр.",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00799999004002001",
+        "nameUZ": "Қўзиқорин Mikado зираворлар билан бутун маринадланган шампинонлар 314 гр.",
+        "nameLAT": "Qo’ziqorin Mikado ziravorlar bilan butun marinadlangan shampinonlar 314 gr.",
+        "nameRU": "Грибы Mikado шампиньоны маринованные целые со специями 314 гр.",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708001002002002",
+        "nameUZ": "Яшил нўхат Bonduelle 400 гр.",
+        "nameLAT": "Yashil no’xat Bonduelle 400 gr.",
+        "nameRU": "Горошек зеленый Bonduelle 400 гр.",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00710001001001015",
+        "nameUZ": "Бошқа музлатилган сабзавотлар Мираторг туғралган шампинионлар 400 гр.",
+        "nameLAT": "Boshqa muzlatilgan sabzavotlar Мираторг tug’ralgan shampinionlar 400 gr.",
+        "nameRU": "Прочие замороженные овощи Мираторг шампиньоны резаные 400 гр.",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00707001001014001",
+        "nameUZ": "Бодринг ва корнишонлар Vilagro Янги орзу нави, пластмасса идиш 600 г.",
+        "nameLAT": "Bodring va kornishonlar Vilagro Yangi orzu navi, plastmassa idish 600 g.",
+        "nameRU": "Огурцы и корнишоны Vilagro Свежие сорт орзу, пластиковый контейнер 600 г.",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00707001001024002",
+        "nameUZ": "Бодринг ва корнишонлар Солёнка Тузланган, пластмасса челак 1,0",
+        "nameLAT": "Bodring va kornishonlar Солёнка Tuzlangan, plastmassa chelak 1,0",
+        "nameRU": "Огурцы и корнишоны Солёнка Солёные, пэт ведро 1,0",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00709001920000000",
+        "nameUZ": "Эстрагон (тархун) кўкат",
+        "nameLAT": "Estragon (tarxun) ko’kat",
+        "nameRU": "Эстрагон (тархун) зелень",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708001001018001",
+        "nameUZ": "Нўхат Нухат-шурак Мол гўшти билан тайёр қайнатилган Туркча, темир банка 325 г.",
+        "nameLAT": "No’xat Нухат-шурак Mol go’shti bilan tayyor qaynatilgan Turkcha, temir banka 325 g.",
+        "nameRU": "Горох Нухат-шурак Турецкий с мясом говядины отварная готовая, жестяная банка 325 г.",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00711001001004015",
+        "nameUZ": "Қисқа муддатли сақлаш учун консерваланган сабзавотлар Maestro De Oliva Донакли зайтун (маслины) 280 мл т/б",
+        "nameLAT": "Qisqa muddatli saqlash uchun konservalangan sabzavotlar Maestro De Oliva Donakli zaytun (maslinы) 280 ml t/b",
+        "nameRU": "Овощи консервированные для кратковременного хранения Maestro De Oliva Оливки с косточкой 280мл ж/б",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708001002000000",
+        "nameUZ": "Яшил нўхат",
+        "nameLAT": "Yashil no’xat",
+        "nameRU": "Горошек зеленый",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00704001001003001",
+        "nameUZ": "Карам Fargona meva export Карам Пекин янги узилган, пластик қути 16",
+        "nameLAT": "Karam Fargona meva export Karam Pekin yangi uzilgan, plastik quti 16",
+        "nameRU": "Капуста Fargona meva export Капуста Пекинская свежая Пластиковые ящик 16",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708001001030001",
+        "nameUZ": "Нўхат UzRice Нўхат, полипропилен пакетда 850",
+        "nameLAT": "No’xat UzRice No’xat, polipropilen paketda 850",
+        "nameRU": "Горох UzRice Горох Нохат Полипропиленовый пакет 850",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00703001001002002",
+        "nameUZ": "Пиёз Полезная еда Сублимация қилинган эзилган, металланган пакет 20 г.",
+        "nameLAT": "Piyoz Полезная еда Sublimatsiya qilingan ezilgan, metallangan paket 20 g.",
+        "nameRU": "Лук репчатый Полезная еда Сублимированный измельчённый, металлизированный пакет 20 г.",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00705001001000000",
+        "nameUZ": "Оддий сачратқи",
+        "nameLAT": "Oddiy sachratqi",
+        "nameRU": "Цикорий обыкновенный",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00799999004000000",
+        "nameUZ": "Қўзиқорин",
+        "nameLAT": "Qo’ziqorin",
+        "nameRU": "Грибы",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00711001001001003",
+        "nameUZ": "Қисқа муддатли сақлаш учун консерваланган сабзавотлар Вкусноград Маккажўхори 292гр темир банка",
+        "nameLAT": "Qisqa muddatli saqlash uchun konservalangan sabzavotlar Вкусноград Makkajo’xori 292gr temir banka",
+        "nameRU": "Овощи консервированные для кратковременного хранения Вкусноград Кукуруза 292гр жестяная банка",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00711001001004009",
+        "nameUZ": "Қисқа муддатли сақлаш учун консерваланган сабзавотлар Maestro De Oliva Данакли йирик зайтун (оливка) 432 мл т/б",
+        "nameLAT": "Qisqa muddatli saqlash uchun konservalangan sabzavotlar Maestro De Oliva Danakli yirik zaytun (olivka) 432 ml t/b",
+        "nameRU": "Овощи консервированные для кратковременного хранения Maestro De Oliva Оливки гигантские с косточкой 432мл ж/б",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00711001001005011",
+        "nameUZ": "Қисқа муддатли сақлаш учун консерваланган сабзавотлар Olivari саримсоқ билан қиймаланган пастеризацияланган",
+        "nameLAT": "Qisqa muddatli saqlash uchun konservalangan sabzavotlar Olivari sarimsoq bilan qiymalangan pasterizatsiyalangan",
+        "nameRU": "Овощи консервированные для кратковременного хранения Olivari Фаршированные чесноком пастеризован 300гр с/б",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708005001006001",
+        "nameUZ": "Мош Ramazan мош Полиэтилен пакет 700 г",
+        "nameLAT": "Mosh Ramazan mosh Polietilen paket 700 g",
+        "nameRU": "Маш Ramazan маш Полиэтиленовый пакет 700 г",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00709001906001002",
+        "nameUZ": "Салат барг Кейл Салат, полиэтилен пакетда 150",
+        "nameLAT": "Salat barg Кейл Salat, polietilen paketda 150",
+        "nameRU": "Салат листовой Кейл Салат Полиэтиленовый пакет 150",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00702001001014001",
+        "nameUZ": "Янги томатлар (помидорлар) Экочипсы Помидор қуритилган ўтлар аралашмаси билан, Zip lock қутида 40",
+        "nameLAT": "Yangi tomatlar (pomidorlar) Экочипсы Pomidor quritilgan o’tlar aralashmasi bilan, Zip lock qutida 40",
+        "nameRU": "Свежие томаты (помидоры) Экочипсы Помидоры с прованскими травами сушёные Zip lock пачка 40",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00706001001002001",
+        "nameUZ": "Сабзи Agronic Сабзи қуритилган 1-навли, крафт қоп 20",
+        "nameLAT": "Sabzi Agronic Sabzi quritilgan 1-navli, kraft qop 20",
+        "nameRU": "Морковь Agronic Морковь сушёная 1 сорт Крафт мешок 20",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708001001034001",
+        "nameUZ": "Нўхат Самаркандский Нўхат, полиэтилен пакетда 900",
+        "nameLAT": "No’xat Самаркандский No’xat, polietilen paketda 900",
+        "nameRU": "Горох Самаркандский Горох Полиэтиленовый пакет 900",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00703001001007001",
+        "nameUZ": "Пиёз KBZ Қуритилган, полиэтилен пакет 100 г.",
+        "nameLAT": "Piyoz KBZ Quritilgan, polietilen paket 100 g.",
+        "nameRU": "Лук репчатый KBZ Сушеный, полиэтиленовый пакет 100 г.",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00709001910000000",
+        "nameUZ": "Жамбил",
+        "nameLAT": "Jambil",
+        "nameRU": "Розмарин",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00712001001000000",
+        "nameUZ": "Қуритилган сабзавотлар",
+        "nameLAT": "Quritilgan sabzavotlar",
+        "nameRU": "Сушеные овощи",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00711001001001002",
+        "nameUZ": "Қисқа муддатли сақлаш учун консерваланган сабзавотлар Вкусноград Яшил нўхат 310гр темир банка",
+        "nameLAT": "Qisqa muddatli saqlash uchun konservalangan sabzavotlar Вкусноград Yashil no’xat 310gr temir banka",
+        "nameRU": "Овощи консервированные для кратковременного хранения Вкусноград Горошек зелен 310гр жестяная банка",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00709001925000000",
+        "nameUZ": "Микрозелень",
+        "nameLAT": "Mikrozelen",
+        "nameRU": "Микрозелень",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00711001001004013",
+        "nameUZ": "Қисқа муддатли сақлаш учун консерваланган сабзавотлар Maestro De Oliva Данакли зайтун (маслина) 280 мл т/б",
+        "nameLAT": "Qisqa muddatli saqlash uchun konservalangan sabzavotlar Maestro De Oliva Danakli zaytun (maslina) 280 ml t/b",
+        "nameRU": "Овощи консервированные для кратковременного хранения Maestro De Oliva Маслины с косточкой 280мл ж/б",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708002003004002",
+        "nameUZ": "Фасоль Ift Quality Foods қизил ПЭТ банка 1 000 г",
+        "nameLAT": "Fasol Ift Quality Foods qizil PET banka 1 000 g",
+        "nameRU": "Фасоль Ift Quality Foods сорт Красный ПЭТ банка 1 000 г",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00710001001000000",
+        "nameUZ": "Бошқа музлатилган сабзавотлар",
+        "nameLAT": "Boshqa muzlatilgan sabzavotlar",
+        "nameRU": "Прочие замороженные овощи",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708001001021001",
+        "nameUZ": "Нўхат Тумарис Ўзбек нути, полиэтилен пакет 300 г.",
+        "nameLAT": "No’xat Тумарис O’zbek nuti, polietilen paket 300 g.",
+        "nameRU": "Горох Тумарис Нут узбекский , полиэтиленовый пакет 300 г.",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00710001001001003",
+        "nameUZ": "Бошқа музлатилган сабзавотлар Мираторг Қизил кесилган ловия 400гр",
+        "nameLAT": "Boshqa muzlatilgan sabzavotlar Мираторг Qizil kesilgan loviya 400gr",
+        "nameRU": "Прочие замороженные овощи Мираторг Фасоль стручковая резаная 400гр",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00710001001001008",
+        "nameUZ": "Бошқа музлатилган сабзавотлар Мираторг Канада аралашмаси  400гр",
+        "nameLAT": "Boshqa muzlatilgan sabzavotlar Мираторг Kanada aralashmasi  400gr",
+        "nameRU": "Прочие замороженные овощи Мираторг Смесь канадская 400гр",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00709001907000000",
+        "nameUZ": "Руккола",
+        "nameLAT": "Rukkola",
+        "nameRU": "Руккола",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00707001001000000",
+        "nameUZ": "Бодринг ва корнишонлар",
+        "nameLAT": "Bodring va kornishonlar",
+        "nameRU": "Огурцы и корнишоны",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00711001001004001",
+        "nameUZ": "Қисқа муддатли сақлаш учун консерваланган сабзавотлар Maestro De Oliva Анчоусли зайтун (оливки) 370 мл т/б",
+        "nameLAT": "Qisqa muddatli saqlash uchun konservalangan sabzavotlar Maestro De Oliva Anchousli zaytun (olivki) 370 ml t/b",
+        "nameRU": "Овощи консервированные для кратковременного хранения Maestro De Oliva Оливки с анчоусом 370мл ж/б",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00711001001005015",
+        "nameUZ": "Қисқа муддатли сақлаш учун консерваланган сабзавотлар Olivari Суяк билан тузланган зелень 250гр в/у",
+        "nameLAT": "Qisqa muddatli saqlash uchun konservalangan sabzavotlar Olivari Suyak bilan tuzlangan zelen 250gr v/u",
+        "nameRU": "Овощи консервированные для кратковременного хранения Olivari Зелен пикантные маринованные с костью 250гр в/у",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00707001001001001",
+        "nameUZ": "Бодринг ва корнишонлар Fm Pikanta Тузланган,шиша банка 1,0 л. бурама қопқоқли",
+        "nameLAT": "Bodring va kornishonlar Fm Pikanta Tuzlangan,shisha banka 1,0 l. burama qopqoqli",
+        "nameRU": "Огурцы и корнишоны Fm Pikanta Маринованный, стеклянная банка 1,0 л. твист-офф крышка",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708001001010002",
+        "nameUZ": "Нўхат Makiz Россия, полипропилен пакет 800 г.",
+        "nameLAT": "No’xat Makiz Rossiya, polipropilen paket 800 g.",
+        "nameRU": "Горох Makiz Российский, полипропиленовый пакет 800 г.",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708001001018002",
+        "nameUZ": "Нўхат Нухат-шурак Мол гўшти билан тайёр қайнатилган Туркча, темир банка 525 г.",
+        "nameLAT": "No’xat Нухат-шурак Mol go’shti bilan tayyor qaynatilgan Turkcha, temir banka 525 g.",
+        "nameRU": "Горох Нухат-шурак Турецкий с мясом говядины отварная готовая, жестяная банка 525 г.",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00702001001016003",
+        "nameUZ": "Янги томатлар (помидорлар) OOO «VGF GLOBAL EXPORT» Помидор янги узилган \"Рома қизил\", пластик қутида 5000",
+        "nameLAT": "Yangi tomatlar (pomidorlar) OOO «VGF GLOBAL EXPORT» Pomidor yangi uzilgan \"Roma qizil\", plastik qutida 5000",
+        "nameRU": "Свежие томаты (помидоры) OOO «VGF GLOBAL EXPORT» Томаты свежие  \"Рома Красный\" пластиковые ящики 5",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00709001906021002",
+        "nameUZ": "Салат барг Стебель сельдерея Салат, полиэтилен пакетда 500",
+        "nameLAT": "Salat barg Стебель сельдерея Salat, polietilen paketda 500",
+        "nameRU": "Салат листовой Стебель сельдерея Салат Полиэтиленовый пакет 500",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708002003004001",
+        "nameUZ": "Фасоль Ift Quality Foods оқ ПЭТ банка 1 000 г",
+        "nameLAT": "Fasol Ift Quality Foods oq PET banka 1 000 g",
+        "nameRU": "Фасоль Ift Quality Foods сорт Белый ПЭТ банка 1 000 г",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00709001906001001",
+        "nameUZ": "Салат барг Кейл Салат, полиэтилен контейнерда 80",
+        "nameLAT": "Salat barg Кейл Salat, polietilen konteynerda 80",
+        "nameRU": "Салат листовой Кейл Салат Полиэтиленовый контейнер 80",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00799999010002002",
+        "nameUZ": "Булғор қалампири Agronic Булғор қалампири қуритилган 1-навли полиэтилен қоп 15",
+        "nameLAT": "Bulg’or qalampiri Agronic Bulg’or qalampiri quritilgan 1-navli polietilen qop 15",
+        "nameRU": "Болгарский перец Agronic Перец болгарский сушёный 1 сорт Полиэтиленовый мешок 15",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00799999002001002",
+        "nameUZ": "Бақлажон Uzkand Бақлажон қуритилган, полиэтилен пакетда 50 гр",
+        "nameLAT": "Baqlajon Uzkand Baqlajon quritilgan, polietilen paketda 50 gr",
+        "nameRU": "Баклажан Uzkand Баклажан сушённый Полиэтиленовый пакет 50 г.",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00706004001000000",
+        "nameUZ": "Турп",
+        "nameLAT": "Turp",
+        "nameRU": "Редька",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00799999010000000",
+        "nameUZ": "Булғор қалампири",
+        "nameLAT": "Bulg’or qalampiri",
+        "nameRU": "Болгарский перец",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00710001001001011",
+        "nameUZ": "Бошқа музлатилган сабзавотлар Мираторг Қулупнай-ананас аралашмаси/смузи учун 300гр",
+        "nameLAT": "Boshqa muzlatilgan sabzavotlar Мираторг Qulupnay-ananas aralashmasi/smuzi uchun 300gr",
+        "nameRU": "Прочие замороженные овощи Мираторг Смесь клубника-ананас д/смузи 300гр",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00706003001001001",
+        "nameUZ": "Лавлаги Bellmark Тозалаб қайнатилган, вакуум қадоқли 500 г.",
+        "nameLAT": "Lavlagi Bellmark Tozalab qaynatilgan, vakuum qadoqli 500 g.",
+        "nameRU": "Свёкла Bellmark Очищенная варёная, вакуумная упаковка 500 г.",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00711001001000000",
+        "nameUZ": "Қисқа муддатли сақлаш учун консерваланган сабзавотлар",
+        "nameLAT": "Qisqa muddatli saqlash uchun konservalangan sabzavotlar",
+        "nameRU": "Овощи консервированные для кратковременного хранения",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708005001003001",
+        "nameUZ": "Мош Lazzet Олий нав Полиэтилен пакет 600 г",
+        "nameLAT": "Mosh Lazzet Oliy nav Polietilen paket 600 g",
+        "nameRU": "Маш Lazzet Высший сорт Полиэтиленовый пакет 600 г",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00703001001003001",
+        "nameUZ": "Пиёз Agronic Бош пиёз қуритилган 1-навли, полиэтилен қоп 15000 г",
+        "nameLAT": "Piyoz Agronic Bosh piyoz quritilgan 1-navli, polietilen qop 15000 g",
+        "nameRU": "Лук репчатый Agronic Лук репчатый сушёный 1 сорт Полиэтиленовый мешок 15",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708001001013001",
+        "nameUZ": "Нўхат Maliani Полиэтилен пакет 700 г.",
+        "nameLAT": "No’xat Maliani Polietilen paket 700 g.",
+        "nameRU": "Горох Maliani Полиэтиленовый пакет 700 г.",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00706001001001003",
+        "nameUZ": "Сабзи Полезная еда Қизил сублимация қилинган қисмлар, металлашган пакет 10 г.",
+        "nameLAT": "Sabzi Полезная еда Qizil sublimatsiya qilingan qismlar, metallashgan paket 10 g.",
+        "nameRU": "Морковь Полезная еда Красная сублимированная кусочками, металлизированный пакет 10 г.",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00713001001000000",
+        "nameUZ": "Қуритилган дуккакли сабзавотлар",
+        "nameLAT": "Quritilgan dukkakli sabzavotlar",
+        "nameRU": "Овощи бобовые сушеные",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00710001001001013",
+        "nameUZ": "Бошқа музлатилган сабзавотлар Мираторг Аралашма 300гр",
+        "nameLAT": "Boshqa muzlatilgan sabzavotlar Мираторг Aralashma 300gr",
+        "nameRU": "Прочие замороженные овощи Мираторг Смесь 300гр",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00711001001004003",
+        "nameUZ": "Қисқа муддатли сақлаш учун консерваланган сабзавотлар Maestro De Oliva Данаксиз зайтун (оливка) 370 мл т/б",
+        "nameLAT": "Qisqa muddatli saqlash uchun konservalangan sabzavotlar Maestro De Oliva Danaksiz zaytun (olivka) 370 ml t/b",
+        "nameRU": "Овощи консервированные для кратковременного хранения Maestro De Oliva Оливки б/косточки 370мл ж/б",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708005001007002",
+        "nameUZ": "Мош 365 дней Олий нав БОПП пакет 2 000 г",
+        "nameLAT": "Mosh 365 дней Oliy nav BOPP paket 2 000 g",
+        "nameRU": "Маш 365 дней Высший сорт БОПП пакет 2 000 г",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708001001017001",
+        "nameUZ": "Нўхат Нахуд Американча, полиэтилен қадоқ 900 гр.",
+        "nameLAT": "No’xat Нахуд Amerikancha, polietilen qadoq 900 gr.",
+        "nameRU": "Горох Нахуд Американский, полиэтиленовая упаковка 900 гр.",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00711001001003001",
+        "nameUZ": "Қисқа муддатли сақлаш учун консерваланган сабзавотлар Lorado Сўта 370 мл банка",
+        "nameLAT": "Qisqa muddatli saqlash uchun konservalangan sabzavotlar Lorado So’ta 370 ml banka",
+        "nameRU": "Овощи консервированные для кратковременного хранения Lorado Початки 370 мл бан",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00709001922000000",
+        "nameUZ": "Сарсабил",
+        "nameLAT": "Sarsabil",
+        "nameRU": "Спаржа",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00711001001004016",
+        "nameUZ": "Қисқа муддатли сақлаш учун консерваланган сабзавотлар Maestro De Oliva Данаксиз зайтун (оливка) 280 мл т/б",
+        "nameLAT": "Qisqa muddatli saqlash uchun konservalangan sabzavotlar Maestro De Oliva Danaksiz zaytun (olivka) 280 ml t/b",
+        "nameRU": "Овощи консервированные для кратковременного хранения Maestro De Oliva Оливки б/косточки 280мл ж/б",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00711001001004017",
+        "nameUZ": "Қисқа муддатли сақлаш учун консерваланган сабзавотлар Maestro De Oliva Йирик зайтун (оливки) 270 мл банка",
+        "nameLAT": "Qisqa muddatli saqlash uchun konservalangan sabzavotlar Maestro De Oliva Yirik zaytun (olivki) 270 ml banka",
+        "nameRU": "Овощи консервированные для кратковременного хранения Maestro De Oliva Оливки гигантские 270мл бан",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708005001004001",
+        "nameUZ": "Мош UzRice мош Полипропилен пакет 950 г",
+        "nameLAT": "Mosh UzRice mosh Polipropilen paket 950 g",
+        "nameRU": "Маш UzRice маш Полипропиленовый пакет 950 г",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708001001031001",
+        "nameUZ": "Нўхат Афсона Нўхат олий навли, полиэтилен пакетда 1000 гр",
+        "nameLAT": "No’xat Афсона No’xat oliy navli, polietilen paketda 1000 gr",
+        "nameRU": "Горох Афсона Горох высший сорт Полиэтиленовый пакет 1,0",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00709001906018001",
+        "nameUZ": "Салат барг Insalata Fresca Салат, полиэтилен пакетда 200",
+        "nameLAT": "Salat barg Insalata Fresca Salat, polietilen paketda 200",
+        "nameRU": "Салат листовой Insalata Fresca Салат Полиэтиленовый пакет 200",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00709001906006001",
+        "nameUZ": "Салат барг Kids Salad Салат, полиэтилен пакетда 250",
+        "nameLAT": "Salat barg Kids Salad Salat, polietilen paketda 250",
+        "nameRU": "Салат листовой Kids Salad Салат Полиэтиленовый пакет 250",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00709001906021001",
+        "nameUZ": "Салат барг Стебель сельдерея Салат, полиэтилен пакетда 300",
+        "nameLAT": "Salat barg Стебель сельдерея Salat, polietilen paketda 300",
+        "nameRU": "Салат листовой Стебель сельдерея Салат Полиэтиленовый пакет 300",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00709001005000000",
+        "nameUZ": "Кашнич кўкати",
+        "nameLAT": "Kashnich ko’kati",
+        "nameRU": "Кинза (кориандр) зелень",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00709001001000000",
+        "nameUZ": "Райхон кўкати",
+        "nameLAT": "Rayxon ko’kati",
+        "nameRU": "Базилик зелень",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708003001001001",
+        "nameUZ": "Ясмиқ Allora Озиқ-овқат қизил, полипропилен пакет 700 г.",
+        "nameLAT": "Yasmiq Allora Oziq-ovqat qizil, polipropilen paket 700 g.",
+        "nameRU": "Чечевица Allora Продовольственная красная, полипропиленовый пакет 700 г.",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00703003005000000",
+        "nameUZ": "Порей-пиёз",
+        "nameLAT": "Porey-piyoz",
+        "nameRU": "Лук-порей",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708003001006001",
+        "nameUZ": "Ясмиқ Passim Яшил рус ясмиқлари 700гр қадоқ",
+        "nameLAT": "Yasmiq Passim Yashil rus yasmiqlari 700gr qadoq",
+        "nameRU": "Чечевица Passim Чечевица русская зелен 700гр пачка",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00711001001005003",
+        "nameUZ": "Қисқа муддатли сақлаш учун консерваланган сабзавотлар Olivari данаксиз қора зайтун 300гр ж/б",
+        "nameLAT": "Qisqa muddatli saqlash uchun konservalangan sabzavotlar Olivari danaksiz qora zaytun 300gr j/b",
+        "nameRU": "Овощи консервированные для кратковременного хранения Olivari Оливки зелен б/кости 300гр ж/б",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00702001001017001",
+        "nameUZ": "Янги томатлар (помидорлар) Green day export and import Помидор Пинк парадаиз навли, ёғоч қути 8",
+        "nameLAT": "Yangi tomatlar (pomidorlar) Green day export and import Pomidor Pink paradaiz navli, yog’och quti 8",
+        "nameRU": "Свежие томаты (помидоры) Green day export and import Помидор сорт Пинк парадаиз Деревянный ящик 8",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708005001002003",
+        "nameUZ": "Мош Else мош Полиэтилен пакет 400 г",
+        "nameLAT": "Mosh Else mosh Polietilen paket 400 g",
+        "nameRU": "Маш Else маш Полиэтиленовый пакет 400 г",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00703001001000000",
+        "nameUZ": "Пиёз",
+        "nameLAT": "Piyoz",
+        "nameRU": "Лук репчатый",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00711001001004019",
+        "nameUZ": "Қисқа муддатли сақлаш учун консерваланган сабзавотлар Maestro De Oliva Данакли зайтун (маслина) 200 мл п/б",
+        "nameLAT": "Qisqa muddatli saqlash uchun konservalangan sabzavotlar Maestro De Oliva Danakli zaytun (maslina) 200 ml p/b",
+        "nameRU": "Овощи консервированные для кратковременного хранения Maestro De Oliva Маслины с косточкой 200мл п/б",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00799999012000000",
+        "nameUZ": "Батат",
+        "nameLAT": "Batat",
+        "nameRU": "Батат",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00711001001005002",
+        "nameUZ": "Қисқа муддатли сақлаш учун консерваланган сабзавотлар Olivari данаксиз қора зайтун 300гр ж/б",
+        "nameLAT": "Qisqa muddatli saqlash uchun konservalangan sabzavotlar Olivari danaksiz qora zaytun 300gr j/b",
+        "nameRU": "Овощи консервированные для кратковременного хранения Olivari Оливки черн б/кости 300гр ж/б",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00799999009000000",
+        "nameUZ": "Патиссон",
+        "nameLAT": "Patisson",
+        "nameRU": "Патиссон",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00710001001001014",
+        "nameUZ": "Бошқа музлатилган сабзавотлар Мираторг Қишлоқ хўжалиги маҳсулоти картошка бўлаклари укроп билан",
+        "nameLAT": "Boshqa muzlatilgan sabzavotlar Мираторг Qishloq xo’jaligi mahsuloti kartoshka bo’laklari ukrop bilan",
+        "nameRU": "Прочие замороженные овощи Мираторг Картофельные дольки фермерские продукт с укропом 400гр",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00703001001001002",
+        "nameUZ": "Пиёз Grand Янги оқ, полиэтилен пакет 1,5 кг.",
+        "nameLAT": "Piyoz Grand Yangi oq, polietilen paket 1,5 kg.",
+        "nameRU": "Лук репчатый Grand Свежий белый, полиэтиленовый пакет 1,5 кг.",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00707001001025001",
+        "nameUZ": "Бодринг ва корнишонлар Ogorod Бодринг янги узилган Орзу навли, пластик контейнерда 600",
+        "nameLAT": "Bodring va kornishonlar Ogorod Bodring yangi uzilgan Orzu navli, plastik konteynerda 600",
+        "nameRU": "Огурцы и корнишоны Ogorod Огурцы свежие сорт Орзу Пластиковый контейнер 600±10 г.",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00702001001009001",
+        "nameUZ": "Янги томатлар (помидорлар) Modesto Помидор черри, шиша банкада Твист офф 2000",
+        "nameLAT": "Yangi tomatlar (pomidorlar) Modesto Pomidor cherri, shisha bankada Tvist off 2000",
+        "nameRU": "Свежие томаты (помидоры) Modesto Томаты черри Стеклянная банка Твист офф 2",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00702001001006002",
+        "nameUZ": "Янги томатлар (помидорлар) Ogorod Помидор янги узилган Олма навли, пластик контейнерда 700 гр",
+        "nameLAT": "Yangi tomatlar (pomidorlar) Ogorod Pomidor yangi uzilgan Olma navli, plastik konteynerda 700 gr",
+        "nameRU": "Свежие томаты (помидоры) Ogorod Помидоры свежие сорт Яблочные Пластиковый контейнер 700±10 г.",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708001001032001",
+        "nameUZ": "Нўхат 365 дней Нўхат ёрилган текисланган, BOPP пакет 900",
+        "nameLAT": "No’xat 365 дней No’xat yorilgan tekislangan, BOPP paket 900",
+        "nameRU": "Горох 365 дней Горох колотый шлифованный BOPP пакет 900",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00709001001002001",
+        "nameUZ": "Райхон кўкати Chig'atoy Базилик, қоғоз пакет 10",
+        "nameLAT": "Rayxon ko’kati Chig'atoy Bazilik, qog’oz paket 10",
+        "nameRU": "Базилик зелень Chig'atoy Базилик Бумажный пакет 10",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708001001005003",
+        "nameUZ": "Нўхат Famos Полипропилен пакет 0,45 кг.",
+        "nameLAT": "No’xat Famos Polipropilen paket 0,45 kg.",
+        "nameRU": "Горох Famos Полипропиленовый пакет 0,45 кг.",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708001001006001",
+        "nameUZ": "Нўхат Grand Қовурилган, полиэтилен пакет 200 г.",
+        "nameLAT": "No’xat Grand Qovurilgan, polietilen paket 200 g.",
+        "nameRU": "Горох Grand Жаренный, полиэтиленовый пакет 200 г.",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00799999015000000",
+        "nameUZ": "Арпабодиён (пиёз)",
+        "nameLAT": "Arpabodiyon (piyoz)",
+        "nameRU": "Фенхель (луковица)",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708001001012001",
+        "nameUZ": "Нўхат Malazoer Қуритилган сариқ, қоғоз пакет 500",
+        "nameLAT": "No’xat Malazoer Quritilgan sariq, qog’oz paket 500",
+        "nameRU": "Горох Malazoer Сушёный желтый, бумажный пакет 500",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00709001002000000",
+        "nameUZ": "Шивит",
+        "nameLAT": "Shivit",
+        "nameRU": "Укроп зелень",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00711001001001001",
+        "nameUZ": "Қисқа муддатли сақлаш учун консерваланган сабзавотлар Вкусноград Яшил нўхат 400гр темир банка",
+        "nameLAT": "Qisqa muddatli saqlash uchun konservalangan sabzavotlar Вкусноград Yashil no’xat 400gr temir banka",
+        "nameRU": "Овощи консервированные для кратковременного хранения Вкусноград Горошек зелен 400гр жестяная банка",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00710001001001007",
+        "nameUZ": "Бошқа музлатилган сабзавотлар Мираторг Карибча аралашма 400гр",
+        "nameLAT": "Boshqa muzlatilgan sabzavotlar Мираторг Karibcha aralashma 400gr",
+        "nameRU": "Прочие замороженные овощи Мираторг Смесь карибская 400гр",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00711001001004020",
+        "nameUZ": "Қисқа муддатли сақлаш учун консерваланган сабзавотлар Maestro De Oliva Данаксиз зайтун (маслина) 200 мл т/б",
+        "nameLAT": "Qisqa muddatli saqlash uchun konservalangan sabzavotlar Maestro De Oliva Danaksiz zaytun (maslina) 200 ml t/b",
+        "nameRU": "Овощи консервированные для кратковременного хранения Maestro De Oliva Маслины б/косточки 200мл ж/б",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00711001001005012",
+        "nameUZ": "Қисқа муддатли сақлаш учун консерваланган сабзавотлар Olivari бодом билан қиймаланган пастеризацияланган 300гр с/б",
+        "nameLAT": "Qisqa muddatli saqlash uchun konservalangan sabzavotlar Olivari bodom bilan qiymalangan pasterizatsiyalangan 300gr s/b",
+        "nameRU": "Овощи консервированные для кратковременного хранения Olivari Фаршированные миндалем пастеризован 300гр с/б",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708002003003003",
+        "nameUZ": "Фасоль Roma's Ласточка навли Полипропилен пакет 500 г",
+        "nameLAT": "Fasol Roma's Lastochka navli Polipropilen paket 500 g",
+        "nameRU": "Фасоль Roma's сорт Ласточка Полипропиленовый пакет 500 г",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708005001011001",
+        "nameUZ": "Мош Ift Quality Foods тозаланган калибрланган Полиэтилен пакет 900 г",
+        "nameLAT": "Mosh Ift Quality Foods tozalangan kalibrlangan Polietilen paket 900 g",
+        "nameRU": "Маш Ift Quality Foods тозаланган калибрланган Полиэтиленовый пакет 900 г",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00703001001004001",
+        "nameUZ": "Пиёз Svrs-Expo Пиёз бош пиёз навли янги узилган, капрон сетка 20000 г",
+        "nameLAT": "Piyoz Svrs-Expo Piyoz bosh piyoz navli yangi uzilgan, kapron setka 20000 g",
+        "nameRU": "Лук репчатый Svrs-Expo Лук сорт репчатый свежий Капроновая сетка 20",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00709001906016001",
+        "nameUZ": "Салат барг Весенний вкус Салат, полиэтилен контейнерда 100",
+        "nameLAT": "Salat barg Весенний вкус Salat, polietilen konteynerda 100",
+        "nameRU": "Салат листовой Весенний вкус Салат Полиэтиленовый контейнер 100",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708001001033001",
+        "nameUZ": "Нўхат Dried Fruits Нўхат, полиэтилен пакетда 200 гр",
+        "nameLAT": "No’xat Dried Fruits No’xat, polietilen paketda 200 gr",
+        "nameRU": "Горох Dried Fruits Горох Нохот Полиэтиленовый пакет 200 г.",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00707001001026001",
+        "nameUZ": "Бодринг ва корнишонлар Agronic Бодринг қуритилган 1-навли, крафт қоп 16",
+        "nameLAT": "Bodring va kornishonlar Agronic Bodring quritilgan 1-navli, kraft qop 16",
+        "nameRU": "Огурцы и корнишоны Agronic Огурцы сушёные 1 сорт Крафт мешок 16",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00709001909000000",
+        "nameUZ": "Кекик",
+        "nameLAT": "Kekik",
+        "nameRU": "Тимьян",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708003001000000",
+        "nameUZ": "Ясмиқ",
+        "nameLAT": "Yasmiq",
+        "nameRU": "Чечевица",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00799999001000000",
+        "nameUZ": "Қовоқ",
+        "nameLAT": "Qovoq",
+        "nameRU": "Тыква",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00711001001004010",
+        "nameUZ": "Қисқа муддатли сақлаш учун консерваланган сабзавотлар Maestro De Oliva Данаксиз супер йирик зайтун (маслина) 432 мл т/б",
+        "nameLAT": "Qisqa muddatli saqlash uchun konservalangan sabzavotlar Maestro De Oliva Danaksiz super yirik zaytun (maslina) 432 ml t/b",
+        "nameRU": "Овощи консервированные для кратковременного хранения Maestro De Oliva Маслины супергигант б/косточки 432мл ж/б",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00712001004000000",
+        "nameUZ": "Майдаланиб қуритилган саримсоқ пиёз",
+        "nameLAT": "Maydalanib quritilgan sarimsoq piyoz",
+        "nameRU": "Чеснок измельченный сушеный",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00702001001012002",
+        "nameUZ": "Янги томатлар (помидорлар) Forticia Помидор янги узилган F-1-навли, гофро қути 7500",
+        "nameLAT": "Yangi tomatlar (pomidorlar) Forticia Pomidor yangi uzilgan F-1-navli, gofro quti 7500",
+        "nameRU": "Свежие томаты (помидоры) Forticia Томаты свежие сорт F-1 Гофрокоробка 7,5",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708002003003002",
+        "nameUZ": "Фасоль Roma's қизил Гупка навли Полипропилен пакет 500 г",
+        "nameLAT": "Fasol Roma's qizil Gupka navli Polipropilen paket 500 g",
+        "nameRU": "Фасоль Roma's красная сорт Гупка Полипропиленовый пакет 500 г",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00702001001016002",
+        "nameUZ": "Янги томатлар (помидорлар) OOO «VGF GLOBAL EXPORT» Помидор янги узилган \"Қизил\", пластик қутида 5000",
+        "nameLAT": "Yangi tomatlar (pomidorlar) OOO «VGF GLOBAL EXPORT» Pomidor yangi uzilgan \"Qizil\", plastik qutida 5000",
+        "nameRU": "Свежие томаты (помидоры) OOO «VGF GLOBAL EXPORT» Томаты свежие  \"Красный\" пластиковые ящики 5",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00709001906005001",
+        "nameUZ": "Салат барг Valencia Салат, полиэтилен пакетда 200",
+        "nameLAT": "Salat barg Valencia Salat, polietilen paketda 200",
+        "nameRU": "Салат листовой Valencia Салат Полиэтиленовый пакет 200",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708001001026003",
+        "nameUZ": "Нўхат Else Нўхат, полиэтилен пакетда 500",
+        "nameLAT": "No’xat Else No’xat, polietilen paketda 500",
+        "nameRU": "Горох Else Горох Полиэтиленовый пакет 500",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00709001906014001",
+        "nameUZ": "Салат барг Babe Kale Mix Салат, полиэтилен пакетда 150",
+        "nameLAT": "Salat barg Babe Kale Mix Salat, polietilen paketda 150",
+        "nameRU": "Салат листовой Babe Kale Mix Салат Полиэтиленовый пакет 150",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00712001002000000",
+        "nameUZ": "Қуритилган шивит",
+        "nameLAT": "Quritilgan shivit",
+        "nameRU": "Укроп сушеный (стебель)",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00702001001001002",
+        "nameUZ": "Янги томатлар (помидорлар) Grand Янги олмали нав, пластмасса идиш 600 г.",
+        "nameLAT": "Yangi tomatlar (pomidorlar) Grand Yangi olmali nav, plastmassa idish 600 g.",
+        "nameRU": "Свежие томаты (помидоры) Grand Свежие сорт яблочный, пластиковый контейнер 600 г.",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00711001001004005",
+        "nameUZ": "Қисқа муддатли сақлаш учун консерваланган сабзавотлар Maestro De Oliva Данакли супер йирик зайтун (маслина) 432 мл т/б",
+        "nameLAT": "Qisqa muddatli saqlash uchun konservalangan sabzavotlar Maestro De Oliva Danakli super yirik zaytun (maslina) 432 ml t/b",
+        "nameRU": "Овощи консервированные для кратковременного хранения Maestro De Oliva Маслины супергигант с косточкой 432мл ж/б",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00711001001004014",
+        "nameUZ": "Қисқа муддатли сақлаш учун консерваланган сабзавотлар Maestro De Oliva Данаксиз зайтун (маслина) 280 мл т/б",
+        "nameLAT": "Qisqa muddatli saqlash uchun konservalangan sabzavotlar Maestro De Oliva Danaksiz zaytun (maslina) 280 ml t/b",
+        "nameRU": "Овощи консервированные для кратковременного хранения Maestro De Oliva Маслины б/косточки 280мл ж/б",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00711001001005009",
+        "nameUZ": "Қисқа муддатли сақлаш учун консерваланган сабзавотлар Olivari Пастеризацияланган данаксиз 1кг с/б",
+        "nameLAT": "Qisqa muddatli saqlash uchun konservalangan sabzavotlar Olivari Pasterizatsiyalangan danaksiz 1kg s/b",
+        "nameRU": "Овощи консервированные для кратковременного хранения Olivari Пастеризован б/кости 1кг с/б",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00706001001002002",
+        "nameUZ": "Сабзи Agronic Сабзи қуритилган 1-навли, полиэтилен қоп 22",
+        "nameLAT": "Sabzi Agronic Sabzi quritilgan 1-navli, polietilen qop 22",
+        "nameRU": "Морковь Agronic Морковь сушёная 1 сорт Полиэтиленовый мешок 22",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00709001906012001",
+        "nameUZ": "Салат барг Mega Vitamin Салат, пластик контейнерда 250 гр",
+        "nameLAT": "Salat barg Mega Vitamin Salat, plastik konteynerda 250 gr",
+        "nameRU": "Салат листовой Mega Vitamin Салат Пластиковый контейнер 250 г.",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708001001026001",
+        "nameUZ": "Нўхат Else Нўхат, полиэтилен пакетда 900",
+        "nameLAT": "No’xat Else No’xat, polietilen paketda 900",
+        "nameRU": "Горох Else Горох Полиэтиленовый пакет 900",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00712001001002001",
+        "nameUZ": "Қуритилган сабзавотлар Agronic Қовоқ қуритилган 1-навли, крафт қоп 18",
+        "nameLAT": "Quritilgan sabzavotlar Agronic Qovoq quritilgan 1-navli, kraft qop 18",
+        "nameRU": "Сушеные овощи Agronic Тыква сушёная 1 сорт Крафт мешок 18",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00702001001023001",
+        "nameUZ": "Янги томатлар (помидорлар) 365 дней пушти биринчи нав, пэт пакет 600 гр",
+        "nameLAT": "Yangi tomatlar (pomidorlar) 365 дней pushti birinchi nav, pet paket 600 gr",
+        "nameRU": "Свежие томаты (помидоры) 365 дней розовые первый сорт, пэт пакет 600 гр",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00707001001027001",
+        "nameUZ": "Бодринг ва корнишонлар 365 дней биринчи нав, пэт пакет 600 гр",
+        "nameLAT": "Bodring va kornishonlar 365 дней birinchi nav, pet paket 600 gr",
+        "nameRU": "Огурцы и корнишоны 365 дней первый сорт, пэт пакет 600 гр",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00799999002000000",
+        "nameUZ": "Бақлажон",
+        "nameLAT": "Baqlajon",
+        "nameRU": "Баклажан",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00703001001001001",
+        "nameUZ": "Пиёз Grand Янги оқ, полиэтилен пакет 1,2 кг.",
+        "nameLAT": "Piyoz Grand Yangi oq, polietilen paket 1,2 kg.",
+        "nameRU": "Лук репчатый Grand Свежий белый, полиэтиленовый пакет 1,2 кг.",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00707001001001002",
+        "nameUZ": "Бодринг ва корнишонлар Fm Pikanta Тузланган,шиша банка 3,0 л. ско крышка",
+        "nameLAT": "Bodring va kornishonlar Fm Pikanta Tuzlangan,shisha banka 3,0 l. sko krыshka",
+        "nameRU": "Огурцы и корнишоны Fm Pikanta Маринованный, стеклянная банка 3,0 л. ско крышка",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00710001001001004",
+        "nameUZ": "Бошқа музлатилган сабзавотлар Мираторг Қишлоқ сабзавотлари 400гр",
+        "nameLAT": "Boshqa muzlatilgan sabzavotlar Мираторг Qishloq sabzavotlari 400gr",
+        "nameRU": "Прочие замороженные овощи Мираторг Овощи по деревенски 400гр",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00711001001005008",
+        "nameUZ": "Қисқа муддатли сақлаш учун консерваланган сабзавотлар Olivari яшил пастериязацияланган данаксиз 300гр с/б",
+        "nameLAT": "Qisqa muddatli saqlash uchun konservalangan sabzavotlar Olivari yashil pasteriyazatsiyalangan danaksiz 300gr s/b",
+        "nameRU": "Овощи консервированные для кратковременного хранения Olivari Зелен пастеризован б/кости 300гр с/б",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00799999010002001",
+        "nameUZ": "Булғор қалампири Agronic Булғор қалампири қуритилган 1-навли, картон қутида 16",
+        "nameLAT": "Bulg’or qalampiri Agronic Bulg’or qalampiri quritilgan 1-navli, karton qutida 16",
+        "nameRU": "Болгарский перец Agronic Перец болгарский сушёный 1 сорт Картонная коробка 16",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708001001038002",
+        "nameUZ": "Нўхат Продукция от Деда Хасана Нўхат, полиэтилен пакетда 100 гр",
+        "nameLAT": "No’xat Продукция от Деда Хасана No’xat, polietilen paketda 100 gr",
+        "nameRU": "Горох Продукция от Деда Хасана Горох - Нут Полиэтиленовый пакет 100 г.",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00707001001003002",
+        "nameUZ": "Бодринг ва корнишонлар Grand Янги равна нави, пластмасса идиш контейнер 600 г.",
+        "nameLAT": "Bodring va kornishonlar Grand Yangi ravna navi, plastmassa idish konteyner 600 g.",
+        "nameRU": "Огурцы и корнишоны Grand Свежие сорт равна, пластиковый контейнер 600 г.",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00709001914000000",
+        "nameUZ": "Кўк пиёз",
+        "nameLAT": "Ko’k piyoz",
+        "nameRU": "Зеленый лук",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00709001915000000",
+        "nameUZ": "Мелисса, кўкат",
+        "nameLAT": "Melissa, ko’kat",
+        "nameRU": "Мелисса, зелень",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00799999004001002",
+        "nameUZ": "Қўзиқорин Еноки Тайланд 100гр дона",
+        "nameLAT": "Qo’ziqorin Еноки Tayland 100gr dona",
+        "nameRU": "Грибы Еноки Тайланд 100гр шт",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00799999002002002",
+        "nameUZ": "Бақлажон Agronic Бақлажон қуритилган 1-навли, полиэтилен мешок 9000",
+        "nameLAT": "Baqlajon Agronic Baqlajon quritilgan 1-navli, polietilen meshok 9000",
+        "nameRU": "Баклажан Agronic Баклажаны сушёные 1 сорт Полиэтиленовый мешок 9,0",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708001001039001",
+        "nameUZ": "Нўхат Узбекский Нохат высший сорт Нўхат, полиэтилен пакетда 800 гр",
+        "nameLAT": "No’xat Узбекский Нохат высший сорт No’xat, polietilen paketda 800 gr",
+        "nameRU": "Горох Узбекский Нохат высший сорт Горох Полиэтиленовый пакет 800 г.",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00702001001005001",
+        "nameUZ": "Янги томатлар (помидорлар) Черри Помидор янги узилган, полиэтилен пакетда 5000",
+        "nameLAT": "Yangi tomatlar (pomidorlar) Черри Pomidor yangi uzilgan, polietilen paketda 5000",
+        "nameRU": "Свежие томаты (помидоры) Черри Томаты свежие Полиэтиленовый пакет 5,0",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00709001906013001",
+        "nameUZ": "Салат барг Летний букет Салат, полиэтилен контейнерда 100",
+        "nameLAT": "Salat barg Летний букет Salat, polietilen konteynerda 100",
+        "nameRU": "Салат листовой Летний букет Салат Полиэтиленовый контейнер 100",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00712001003000000",
+        "nameUZ": "Қизил қалампир қуритилган (майдаланган)",
+        "nameLAT": "Qizil qalampir quritilgan (maydalangan)",
+        "nameRU": "Красный перец сладкий сушенный (молотый)",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00706002001000000",
+        "nameUZ": "Шолғом",
+        "nameLAT": "Sholg’om",
+        "nameRU": "Репа",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00703001001002001",
+        "nameUZ": "Пиёз Полезная еда Сублимация қилинган эзилган, металланган пакет 10 г.",
+        "nameLAT": "Piyoz Полезная еда Sublimatsiya qilingan ezilgan, metallangan paket 10 g.",
+        "nameRU": "Лук репчатый Полезная еда Сублимированный измельчённый, металлизированный пакет 10 г.",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00709001906000000",
+        "nameUZ": "Салат барг",
+        "nameLAT": "Salat barg",
+        "nameRU": "Салат листовой",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00711001001004002",
+        "nameUZ": "Қисқа муддатли сақлаш учун консерваланган сабзавотлар Maestro De Oliva Қисқичбақали зайтун (оливки) 370 мл т/б",
+        "nameLAT": "Qisqa muddatli saqlash uchun konservalangan sabzavotlar Maestro De Oliva Qisqichbaqali zaytun (olivki) 370 ml t/b",
+        "nameRU": "Овощи консервированные для кратковременного хранения Maestro De Oliva Оливки с креветками 370мл ж/б",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00711001001002001",
+        "nameUZ": "Қисқа муддатли сақлаш учун консерваланган сабзавотлар Iberika 250 мл банка",
+        "nameLAT": "Qisqa muddatli saqlash uchun konservalangan sabzavotlar Iberika 250 ml banka",
+        "nameRU": "Овощи консервированные для кратковременного хранения Iberika 250 мл бан",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708003001007001",
+        "nameUZ": "Ясмиқ Мистраль Йирик канада кўкатлари 450гр",
+        "nameLAT": "Yasmiq Мистраль Yirik kanada ko’katlari 450gr",
+        "nameRU": "Чечевица Мистраль Канадская зелен крупная 450гр",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00704001001002001",
+        "nameUZ": "Карам А/ф Дустлик Карам маринадланган, шиша банка твист-офф қопқоқ 1000",
+        "nameLAT": "Karam А/ф Дустлик Karam marinadlangan, shisha banka tvist-off qopqoq 1000",
+        "nameRU": "Капуста А/ф Дустлик Капуста маринованная Стеклянная банка крышка твист-офф 1,0",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00702001001011001",
+        "nameUZ": "Янги томатлар (помидорлар) Prodezo Помидор янги узилган F-1-навли, ёғоч қути 7500",
+        "nameLAT": "Yangi tomatlar (pomidorlar) Prodezo Pomidor yangi uzilgan F-1-navli, yog’och quti 7500",
+        "nameRU": "Свежие томаты (помидоры) Prodezo Томаты свежие сорт F-1 Деревянный ящик 7,5",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708002003002002",
+        "nameUZ": "Фасоль Lazzet қизил Полиэтилен пакет 1 000 г",
+        "nameLAT": "Fasol Lazzet qizil Polietilen paket 1 000 g",
+        "nameRU": "Фасоль Lazzet сорт красный Полиэтиленовый пакет 1 000 г",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708001001007001",
+        "nameUZ": "Нўхат Greeny униб чиққан, пластик идиш 55 г.",
+        "nameLAT": "No’xat Greeny unib chiqqan, plastik idish 55 g.",
+        "nameRU": "Горох Greeny Пророщенный, пластиковый контейнер 55 г.",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708003001003001",
+        "nameUZ": "Ясмиқ Ro'zg'or Полипропилен пакет 850 г.",
+        "nameLAT": "Yasmiq Ro'zg'or Polipropilen paket 850 g.",
+        "nameRU": "Чечевица Ro'zg'or Полипропиленовый пакет 850 г.",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708003001004001",
+        "nameUZ": "Ясмиқ Алтын-Дан Тип не однородная, opp пакет 500",
+        "nameLAT": "Yasmiq Алтын-Дан Tip ne odnorodnaya, opp paket 500",
+        "nameRU": "Чечевица Алтын-Дан Тип не однородная, opp пакет 500",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708001001010001",
+        "nameUZ": "Нўхат Makiz Полипропилен пакет 800 г.",
+        "nameLAT": "No’xat Makiz Polipropilen paket 800 g.",
+        "nameRU": "Горох Makiz Полипропиленовый пакет 800 г.",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00702001001013001",
+        "nameUZ": "Янги томатлар (помидорлар) Trovanzo Помидор янги узилган F-1-навли, ёғоч қути 7500",
+        "nameLAT": "Yangi tomatlar (pomidorlar) Trovanzo Pomidor yangi uzilgan F-1-navli, yog’och quti 7500",
+        "nameRU": "Свежие томаты (помидоры) Trovanzo Томаты свежие сорт F-1 Деревянный ящик 7,5",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708001001035002",
+        "nameUZ": "Нўхат Ift Quality Foods Нўхат Россия навли, ПЭТ банкада 1150",
+        "nameLAT": "No’xat Ift Quality Foods No’xat Rossiya navli, PET bankada 1150",
+        "nameRU": "Горох Ift Quality Foods Горох сорт Российский ПЭТ банка 1150",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00712001001002002",
+        "nameUZ": "Қуритилган сабзавотлар Agronic Картошка қуритилган 1-навли, крафт қоп 20",
+        "nameLAT": "Quritilgan sabzavotlar Agronic Kartoshka quritilgan 1-navli, kraft qop 20",
+        "nameRU": "Сушеные овощи Agronic Картофель сушёный 1 сорт Крафт мешок 20",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00709001003000000",
+        "nameUZ": "Петрушка кўкати",
+        "nameLAT": "Petrushka ko’kati",
+        "nameRU": "Петрушка зелень",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708001001005001",
+        "nameUZ": "Нўхат Famos Полипропилен пакет 0,3 кг.",
+        "nameLAT": "No’xat Famos Polipropilen paket 0,3 kg.",
+        "nameRU": "Горох Famos Полипропиленовый пакет 0,3 кг.",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708001001006004",
+        "nameUZ": "Нўхат Grand глазурли, полиэтилен пакет 500 г.",
+        "nameLAT": "No’xat Grand glazurli, polietilen paket 500 g.",
+        "nameRU": "Горох Grand С глазурью, полиэтиленовый пакет 500 г.",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00703002001000000",
+        "nameUZ": "Саримсоқ пиёз",
+        "nameLAT": "Sarimsoq piyoz",
+        "nameRU": "Чеснок",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708001001005004",
+        "nameUZ": "Нўхат Famos Полипропилен пакет 0,5 кг.",
+        "nameLAT": "No’xat Famos Polipropilen paket 0,5 kg.",
+        "nameRU": "Горох Famos Полипропиленовый пакет 0,5 кг.",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00711001001002002",
+        "nameUZ": "Қисқа муддатли сақлаш учун консерваланган сабзавотлар Iberika 720 мл банка",
+        "nameLAT": "Qisqa muddatli saqlash uchun konservalangan sabzavotlar Iberika 720 ml banka",
+        "nameRU": "Овощи консервированные для кратковременного хранения Iberika 720 мл бан",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00710001001001002",
+        "nameUZ": "Бошқа музлатилган сабзавотлар Мираторг Ёзги сабзавотлар аралашмаси 400гр",
+        "nameLAT": "Boshqa muzlatilgan sabzavotlar Мираторг Yozgi sabzavotlar aralashmasi 400gr",
+        "nameRU": "Прочие замороженные овощи Мираторг Смесь овощи летняя 400гр",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708005001002002",
+        "nameUZ": "Мош Else мош Полиэтилен пакет 200 г",
+        "nameLAT": "Mosh Else mosh Polietilen paket 200 g",
+        "nameRU": "Маш Else маш Полиэтиленовый пакет 200 г",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00712001001002007",
+        "nameUZ": "Қуритилган сабзавотлар Agronic Карам оқ қуритилган 1-навли, полиэтилен қоп 15000",
+        "nameLAT": "Quritilgan sabzavotlar Agronic Karam oq quritilgan 1-navli, polietilen qop 15000",
+        "nameRU": "Сушеные овощи Agronic Капуста белокочанная сушёная 1 сорт Полиэтиленовый мешок 15",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708005001003002",
+        "nameUZ": "Мош Lazzet Олий нав Полиэтилен пакет 1 000 г",
+        "nameLAT": "Mosh Lazzet Oliy nav Polietilen paket 1 000 g",
+        "nameRU": "Маш Lazzet Высший сорт Полиэтиленовый пакет 1 000 г",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00703001001010001",
+        "nameUZ": "Пиёз Spice expert Майдаланган, полипропилен пакет 10",
+        "nameLAT": "Piyoz Spice expert Maydalangan, polipropilen paket 10",
+        "nameRU": "Лук репчатый Spice expert Молотый, полипропиленовый пакет 10",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00706001001001001",
+        "nameUZ": "Сабзи Полезная еда Сариқ сублимация қилинган қисмлар, металлашган пакет 10 г.",
+        "nameLAT": "Sabzi Полезная еда Sariq sublimatsiya qilingan qismlar, metallashgan paket 10 g.",
+        "nameRU": "Морковь Полезная еда Жёлтая сублимированная кусочками, металлизированный пакет 10 г.",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00704001001004001",
+        "nameUZ": "Карам OOO «VGF GLOBAL EXPORT» Карам оқ янги узилган, пластик қути 5000",
+        "nameLAT": "Karam OOO «VGF GLOBAL EXPORT» Karam oq yangi uzilgan, plastik quti 5000",
+        "nameRU": "Капуста OOO «VGF GLOBAL EXPORT» Капуста белокочанная свежая Пластиковые ящики 5",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00704001001003002",
+        "nameUZ": "Карам Fargona meva export Карам янги узилган, пластик қути 3100",
+        "nameLAT": "Karam Fargona meva export Karam yangi uzilgan, plastik quti 3100",
+        "nameRU": "Капуста Fargona meva export Капуста свежая Пластиковые ящик 3.1",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00704001001003004",
+        "nameUZ": "Карам Fargona meva export Карам оқ янги узилган, ёғоч қути 11.5 kg",
+        "nameLAT": "Karam Fargona meva export Karam oq yangi uzilgan, yog’och quti 11.5 kg",
+        "nameRU": "Капуста Fargona meva export Капуста белокочанная свежая Деревянный ящик 11.5 кг",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00706006001000001",
+        "nameUZ": "Редиска Боғлам",
+        "nameLAT": "Rediska Bog’lam",
+        "nameRU": "Редиска Пучок",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00706006001000000",
+        "nameUZ": "Редиска",
+        "nameLAT": "Rediska",
+        "nameRU": "Редиска",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00704001001001001",
+        "nameUZ": "Карам Santa Bremor Сабзили корейсча денгиз карамии 150 гр",
+        "nameLAT": "Karam Santa Bremor Sabzili koreyscha dengiz karamii 150 gr",
+        "nameRU": "Капуста Santa Bremor Морская капуста по-корейски с морковью 150 гр",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00711001001005013",
+        "nameUZ": "Қисқа муддатли сақлаш учун консерваланган сабзавотлар Olivari қалампир билан қиймаланган пастеризацияланган 300гр с/б",
+        "nameLAT": "Qisqa muddatli saqlash uchun konservalangan sabzavotlar Olivari qalampir bilan qiymalangan pasterizatsiyalangan 300gr s/b",
+        "nameRU": "Овощи консервированные для кратковременного хранения Olivari Фаршированные перцем пастеризован 300гр с/б",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00711001001005007",
+        "nameUZ": "Қисқа муддатли сақлаш учун консерваланган сабзавотлар Olivari яшил пастеризацияланган данаксиз 1 кг с/б",
+        "nameLAT": "Qisqa muddatli saqlash uchun konservalangan sabzavotlar Olivari yashil pasterizatsiyalangan danaksiz 1 kg s/b",
+        "nameRU": "Овощи консервированные для кратковременного хранения Olivari Зелен пастеризован б/кости 1кг с/б",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00702001001016001",
+        "nameUZ": "Янги томатлар (помидорлар) OOO «VGF GLOBAL EXPORT» Помидор янги узилган \"Цетус Розовый\", пластик қути 5000",
+        "nameLAT": "Yangi tomatlar (pomidorlar) OOO «VGF GLOBAL EXPORT» Pomidor yangi uzilgan \"Setus Rozovыy\", plastik quti 5000",
+        "nameRU": "Свежие томаты (помидоры) OOO «VGF GLOBAL EXPORT» Томаты свежие  \"Цетус Розовый\" пластиковые ящики 5",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00703001001007002",
+        "nameUZ": "Пиёз KBZ Қуритилган, полиэтилен пакет 170 г.",
+        "nameLAT": "Piyoz KBZ Quritilgan, polietilen paket 170 g.",
+        "nameRU": "Лук репчатый KBZ Сушеный, полиэтиленовый пакет 170 г.",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00703001001007003",
+        "nameUZ": "Пиёз KBZ Қуритилган, полиэтилен пакет 25 г.",
+        "nameLAT": "Piyoz KBZ Quritilgan, polietilen paket 25 g.",
+        "nameRU": "Лук репчатый KBZ Сушеный, полиэтиленовый пакет 25 г.",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00702001001000000",
+        "nameUZ": "Янги томатлар (помидорлар)",
+        "nameLAT": "Yangi tomatlar (pomidorlar)",
+        "nameRU": "Свежие томаты (помидоры)",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00706001001000000",
+        "nameUZ": "Сабзи",
+        "nameLAT": "Sabzi",
+        "nameRU": "Морковь",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00707001001024001",
+        "nameUZ": "Бодринг ва корнишонлар Солёнка Тузланган, шиша банка бурама қопқоқли 1,0",
+        "nameLAT": "Bodring va kornishonlar Солёнка Tuzlangan, shisha banka burama qopqoqli 1,0",
+        "nameRU": "Огурцы и корнишоны Солёнка Маринованный, стеклянная банка твист-офф крышка 1,0",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708001001001001",
+        "nameUZ": "Нўхат Altyn Dan Майдаланган, полиэтилен пакет 700 г.",
+        "nameLAT": "No’xat Altyn Dan Maydalangan, polietilen paket 700 g.",
+        "nameRU": "Горох Altyn Dan Молотый, полиэтиленовой пакет 700 г.",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708001001018003",
+        "nameUZ": "Нўхат Нухат-шурак Мол гўшти билан тайёр қайнатилган Туркча, шиша банка 430 г. Бурама қопқоқли",
+        "nameLAT": "No’xat Нухат-шурак Mol go’shti bilan tayyor qaynatilgan Turkcha, shisha banka 430 g. Burama qopqoqli",
+        "nameRU": "Горох Нухат-шурак Турецкий с мясом говядины отварная готовая, стеклянная банка 430 г. твист-офф крышка",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00702001001003001",
+        "nameUZ": "Янги томатлар (помидорлар) Numa кукун кўринишида, металланган пакет 12 г.",
+        "nameLAT": "Yangi tomatlar (pomidorlar) Numa kukun ko’rinishida, metallangan paket 12 g.",
+        "nameRU": "Свежие томаты (помидоры) Numa В порошке, металлизированный пакет 12 г.",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00701002001000000",
+        "nameUZ": "Совутилган картошка",
+        "nameLAT": "Sovutilgan kartoshka",
+        "nameRU": "Охлажденный картофель",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00710001004000000",
+        "nameUZ": "Музлатилган исмалоқ, янги зелландия исмалоғи ва гигант исмалоқ",
+        "nameLAT": "Muzlatilgan ismaloq, yangi zellandiya ismalog’i va gigant ismaloq",
+        "nameRU": "Замороженные шпинат, шпинат новозеландский и шпинат гигантский",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00704001007000000",
+        "nameUZ": "Бошқа турдаги бошли карамлар",
+        "nameLAT": "Boshqa turdagi boshli karamlar",
+        "nameRU": "Прочие виды кочанной капусты",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00703003002000000",
+        "nameUZ": "Шнитт-пиёзи",
+        "nameLAT": "Shnitt-piyozi",
+        "nameRU": "Лук-резанец",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708001001004001",
+        "nameUZ": "Нўхат Braibanti Полиэтилен пакет 700 г.",
+        "nameLAT": "No’xat Braibanti Polietilen paket 700 g.",
+        "nameRU": "Горох Braibanti Полиэтиленовый пакет 700 г.",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708002003002001",
+        "nameUZ": "Фасоль Lazzet қизил Полиэтилен пакет 600 г",
+        "nameLAT": "Fasol Lazzet qizil Polietilen paket 600 g",
+        "nameRU": "Фасоль Lazzet сорт красный Полиэтиленовый пакет 600 г",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708005001007001",
+        "nameUZ": "Мош 365 дней - БОПП пакет 900 г",
+        "nameLAT": "Mosh 365 дней - BOPP paket 900 g",
+        "nameRU": "Маш 365 дней - БОПП пакет 900 г",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00710001003000000",
+        "nameUZ": "Музлатилган дуккакли сабзавотлар",
+        "nameLAT": "Muzlatilgan dukkakli sabzavotlar",
+        "nameRU": "Замороженные бобовые овощи",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00710001002000000",
+        "nameUZ": "Музлатилган картошка",
+        "nameLAT": "Muzlatilgan kartoshka",
+        "nameRU": "Замороженный картофель",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708006001000000",
+        "nameUZ": "Бошқа дуккакли сабзавотлар",
+        "nameLAT": "Boshqa dukkakli sabzavotlar",
+        "nameRU": "Прочие бобовые овощи",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00702002001000000",
+        "nameUZ": "Совутилган томатлар (помидорлар)",
+        "nameLAT": "Sovutilgan tomatlar (pomidorlar)",
+        "nameRU": "Охлажденный томаты (помидоры)",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708001001027001",
+        "nameUZ": "Нўхат Safi Нўхат, полипропилен пакетда 950",
+        "nameLAT": "No’xat Safi No’xat, polipropilen paketda 950",
+        "nameRU": "Горох Safi Горох Полипропиленовый пакет 950",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00709001906011001",
+        "nameUZ": "Салат барг Vita Snacks Салат, пластик стаканда 300",
+        "nameLAT": "Salat barg Vita Snacks Salat, plastik stakanda 300",
+        "nameRU": "Салат листовой Vita Snacks Салат Пластиковый стакан 300",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00702001001014002",
+        "nameUZ": "Янги томатлар (помидорлар) Экочипсы Помидор қуритилган ўтлар аралашмаси билан, Zip lock қутида 100",
+        "nameLAT": "Yangi tomatlar (pomidorlar) Экочипсы Pomidor quritilgan o’tlar aralashmasi bilan, Zip lock qutida 100",
+        "nameRU": "Свежие томаты (помидоры) Экочипсы Помидоры с прованскими травами сушёные Zip lock пачка 100",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708001001010003",
+        "nameUZ": "Нўхат Makiz Нўхат, полипропилен пакетда 800 гр",
+        "nameLAT": "No’xat Makiz No’xat, polipropilen paketda 800 gr",
+        "nameRU": "Горох Makiz Горох Полипропиленовый пакет 800 г.",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708001001026002",
+        "nameUZ": "Нўхат Else Нўхат, полиэтилен пакетда 1000",
+        "nameLAT": "No’xat Else No’xat, polietilen paketda 1000",
+        "nameRU": "Горох Else Горох Полиэтиленовый пакет 1000",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00710001006000000",
+        "nameUZ": "Музлатилган сабзавотлар аралашмаси",
+        "nameLAT": "Muzlatilgan sabzavotlar aralashmasi",
+        "nameRU": "Замороженные овощные смеси",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00706005001000000",
+        "nameUZ": "Сельдерей илдизи",
+        "nameLAT": "Selderey ildizi",
+        "nameRU": "Сельдерей корневой",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00706007001000000",
+        "nameUZ": "Бошқа шунга ўхшаш истеъмол қилинадиган илдиз мевалар",
+        "nameLAT": "Boshqa shunga o’xshash istemol qilinadigan ildiz mevalar",
+        "nameRU": "Прочие аналогичные съедобные корнеплоды",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00710001005000000",
+        "nameUZ": "Музлатилган шакарли жўхори",
+        "nameLAT": "Muzlatilgan shakarli jo’xori",
+        "nameRU": "Замороженная сахарная кукуруза",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00703003003000000",
+        "nameUZ": "Батун пиёзи",
+        "nameLAT": "Batun piyozi",
+        "nameRU": "Лук батун",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00711001001005016",
+        "nameUZ": "Қисқа муддатли сақлаш учун консерваланган сабзавотлар Olivari Яшил зайтун донакли 250гр в/у",
+        "nameLAT": "Qisqa muddatli saqlash uchun konservalangan sabzavotlar Olivari Yashil zaytun donakli 250gr v/u",
+        "nameRU": "Овощи консервированные для кратковременного хранения Olivari Зелен маринованные с костью 250гр в/у",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00704001001000000",
+        "nameUZ": "Карам",
+        "nameLAT": "Karam",
+        "nameRU": "Капуста",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708001001033002",
+        "nameUZ": "Нўхат Dried Fruits Нўхат, OPP пакет 500 гр",
+        "nameLAT": "No’xat Dried Fruits No’xat, OPP paket 500 gr",
+        "nameRU": "Горох Dried Fruits Горох Нохот OPP пакет 500 г.",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708001001029001",
+        "nameUZ": "Нўхат Bayce Нўхат йирик, полипропилен қоп 25000 гр",
+        "nameLAT": "No’xat Bayce No’xat yirik, polipropilen qop 25000 gr",
+        "nameRU": "Горох Bayce Горох крупный   Полипропиленовый мешок 25 кг.",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00707001001025002",
+        "nameUZ": "Бодринг ва корнишонлар Ogorod Бодринг янги узилган Равва навли, пластик контейнерда 600",
+        "nameLAT": "Bodring va kornishonlar Ogorod Bodring yangi uzilgan Ravva navli, plastik konteynerda 600",
+        "nameRU": "Огурцы и корнишоны Ogorod Огурцы свежие сорт Равва Пластиковый контейнер 600±10 г.",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00709001906009001",
+        "nameUZ": "Салат барг Fitness Mix Салат, пластик контейнерда 100",
+        "nameLAT": "Salat barg Fitness Mix Salat, plastik konteynerda 100",
+        "nameRU": "Салат листовой Fitness Mix Салат Пластиковый контейнер 100",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00712001001002005",
+        "nameUZ": "Қуритилган сабзавотлар Agronic Лавлаги қуритилган 1-навли, полиэтилен қоп 25",
+        "nameLAT": "Quritilgan sabzavotlar Agronic Lavlagi quritilgan 1-navli, polietilen qop 25",
+        "nameRU": "Сушеные овощи Agronic Свекла сушёная 1 сорт Полиэтиленовый мешок 25",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708001001015001",
+        "nameUZ": "Нўхат Ro'zg'or Силлиқланган, полипропилен пакет 850 г.",
+        "nameLAT": "No’xat Ro'zg'or Silliqlangan, polipropilen paket 850 g.",
+        "nameRU": "Горох Ro'zg'or Шлифованный, полипропиленовый пакет 850 г.",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708005001000000",
+        "nameUZ": "Мош",
+        "nameLAT": "Mosh",
+        "nameRU": "Маш",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00709001916000000",
+        "nameUZ": "Орегано, кўкат",
+        "nameLAT": "Oregano, ko’kat",
+        "nameRU": "Орегано, зелень",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00711001001004021",
+        "nameUZ": "Қисқа муддатли сақлаш учун консерваланган сабзавотлар Maestro De Oliva Йирик қалампирли зайтун (оливки) 270 мл банка",
+        "nameLAT": "Qisqa muddatli saqlash uchun konservalangan sabzavotlar Maestro De Oliva Yirik qalampirli zaytun (olivki) 270 ml banka",
+        "nameRU": "Овощи консервированные для кратковременного хранения Maestro De Oliva Оливки с перцем гигантские 270мл бан",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00711001001005004",
+        "nameUZ": "Қисқа муддатли сақлаш учун консерваланган сабзавотлар Olivari яшил зайтун анчоус 300гр ж/б",
+        "nameLAT": "Qisqa muddatli saqlash uchun konservalangan sabzavotlar Olivari yashil zaytun anchous 300gr j/b",
+        "nameRU": "Овощи консервированные для кратковременного хранения Olivari Оливки зелен анчоус 300гр ж/б",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00711001001005005",
+        "nameUZ": "Қисқа муддатли сақлаш учун консерваланган сабзавотлар Olivari яшил зайтун креветка 300гр ж/б",
+        "nameLAT": "Qisqa muddatli saqlash uchun konservalangan sabzavotlar Olivari yashil zaytun krevetka 300gr j/b",
+        "nameRU": "Овощи консервированные для кратковременного хранения Olivari Оливки зелен креветки 300гр ж/б",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708001001036001",
+        "nameUZ": "Нўхат Русский высший сорт Нўхат, полиэтилен пакетда 800 гр",
+        "nameLAT": "No’xat Русский высший сорт No’xat, polietilen paketda 800 gr",
+        "nameRU": "Горох Русский высший сорт Горох Полиэтиленовый пакет 800 г.",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00799999010002003",
+        "nameUZ": "Булғор қалампири Agronic Булғор қалампири қуритилган 1-навли, полиэтилен қоп 17",
+        "nameLAT": "Bulg’or qalampiri Agronic Bulg’or qalampiri quritilgan 1-navli, polietilen qop 17",
+        "nameRU": "Болгарский перец Agronic Перец болгарский сушёный 1 сорт Полиэтиленовый мешок 17",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708005001002006",
+        "nameUZ": "Мош Else мош Полиэтилен пакет 900 г",
+        "nameLAT": "Mosh Else mosh Polietilen paket 900 g",
+        "nameRU": "Маш Else маш Полиэтиленовый пакет 900 г",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00702001001010001",
+        "nameUZ": "Янги томатлар (помидорлар) Olevita Помидор черри, шиша банкада Твист офф 2",
+        "nameLAT": "Yangi tomatlar (pomidorlar) Olevita Pomidor cherri, shisha bankada Tvist off 2",
+        "nameRU": "Свежие томаты (помидоры) Olevita Помидоры черри Стеклянная банка Твист офф 2",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00799999010001001",
+        "nameUZ": "Булғор қалампири Salyut Қизил ва яшил кесилган, Пластик контейнер 500 г.",
+        "nameLAT": "Bulg’or qalampiri Salyut Qizil va yashil kesilgan, Plastik konteyner 500 g.",
+        "nameRU": "Болгарский перец Salyut Красный и зелёный резанный, Пластиковый контейнер 500 г.",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708001001000000",
+        "nameUZ": "Нўхат",
+        "nameLAT": "No’xat",
+        "nameRU": "Горох",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00710001001001009",
+        "nameUZ": "Бошқа музлатилган сабзавотлар Мираторг Қишлоқ хўжалигининг ўтли маҳсулотлари билан фермер картошкаси 400гр",
+        "nameLAT": "Boshqa muzlatilgan sabzavotlar Мираторг Qishloq xo’jaligining o’tli mahsulotlari bilan fermer kartoshkasi 400gr",
+        "nameRU": "Прочие замороженные овощи Мираторг Картофель фермерские продукты с травами по деревенский 400гр",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708001001005002",
+        "nameUZ": "Нўхат Famos Полипропилен пакет 0,4 кг.",
+        "nameLAT": "No’xat Famos Polipropilen paket 0,4 kg.",
+        "nameRU": "Горох Famos Полипропиленовый пакет 0,4 кг.",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00709001913000000",
+        "nameUZ": "Исмалоқ",
+        "nameLAT": "Ismaloq",
+        "nameRU": "Шпинат",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00711001001004004",
+        "nameUZ": "Қисқа муддатли сақлаш учун консерваланган сабзавотлар Maestro De Oliva Данакли зайтун (оливка) 370 мл т/б",
+        "nameLAT": "Qisqa muddatli saqlash uchun konservalangan sabzavotlar Maestro De Oliva Danakli zaytun (olivka) 370 ml t/b",
+        "nameRU": "Овощи консервированные для кратковременного хранения Maestro De Oliva Оливки с косточкой 370мл ж/б",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00709001906008001",
+        "nameUZ": "Салат барг Asian Salad Салат, полиэтилен пакетда 200",
+        "nameLAT": "Salat barg Asian Salad Salat, polietilen paketda 200",
+        "nameRU": "Салат листовой Asian Salad Салат Полиэтиленовый пакет 200",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00712002001000000",
+        "nameUZ": "Қуритилган пастернак илдизи",
+        "nameLAT": "Quritilgan pasternak ildizi",
+        "nameRU": "Корень пастернака сушеный",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00712001001002006",
+        "nameUZ": "Қуритилган сабзавотлар Agronic Карам оқ қуритилган 1-навли, крафт қоп 11000",
+        "nameLAT": "Quritilgan sabzavotlar Agronic Karam oq quritilgan 1-navli, kraft qop 11000",
+        "nameRU": "Сушеные овощи Agronic Капуста белокочанная сушёная 1 сорт Крафт мешок 11",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00702001001007001",
+        "nameUZ": "Янги томатлар (помидорлар) Uzkand Помидор Черри, шиша банкада твист-офф қопқоқ 1900",
+        "nameLAT": "Yangi tomatlar (pomidorlar) Uzkand Pomidor Cherri, shisha bankada tvist-off qopqoq 1900",
+        "nameRU": "Свежие томаты (помидоры) Uzkand Томаты Черри Стеклянная банка крышка твист-офф 1900",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708002003000000",
+        "nameUZ": "Фасоль",
+        "nameLAT": "Fasol",
+        "nameRU": "Фасоль",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00711001001004018",
+        "nameUZ": "Қисқа муддатли сақлаш учун консерваланган сабзавотлар Maestro De Oliva Данаксиз йирик зайтун (оливка) 270 мл банка",
+        "nameLAT": "Qisqa muddatli saqlash uchun konservalangan sabzavotlar Maestro De Oliva Danaksiz yirik zaytun (olivka) 270 ml banka",
+        "nameRU": "Овощи консервированные для кратковременного хранения Maestro De Oliva Оливки гигантские б/косточки 270мл бан",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00711001001005006",
+        "nameUZ": "Қисқа муддатли сақлаш учун консерваланган сабзавотлар Olivari яшил зайтун лимон 300гр ж/б",
+        "nameLAT": "Qisqa muddatli saqlash uchun konservalangan sabzavotlar Olivari yashil zaytun limon 300gr j/b",
+        "nameRU": "Овощи консервированные для кратковременного хранения Olivari Оливки зелен лимон 300гр ж/б",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00711001001005014",
+        "nameUZ": "Қисқа муддатли сақлаш учун консерваланган сабзавотлар Olivari яшил каламата данаги билан 250гр в/у",
+        "nameLAT": "Qisqa muddatli saqlash uchun konservalangan sabzavotlar Olivari yashil kalamata danagi bilan 250gr v/u",
+        "nameRU": "Овощи консервированные для кратковременного хранения Olivari Зелен каламата маринованные с костью 250гр в/у",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708003001007002",
+        "nameUZ": "Ясмиқ Мистраль Ош ва ёнма-овқатлар учун езилган қизил 450гр п/п",
+        "nameLAT": "Yasmiq Мистраль Osh va yonma-ovqatlar uchun yezilgan qizil 450gr p/p",
+        "nameRU": "Чечевица Мистраль Красн колотый для супов и гарниров 450гр п/п",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00710001001001005",
+        "nameUZ": "Бошқа музлатилган сабзавотлар Мираторг Рататуй аралашмаси 400гр",
+        "nameLAT": "Boshqa muzlatilgan sabzavotlar Мираторг Ratatuy aralashmasi 400gr",
+        "nameRU": "Прочие замороженные овощи Мираторг Смесь рататуй 400гр",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00702001001000014",
+        "nameUZ": "Янги томатлар (помидорлар) Олхўрисимон, сариқ",
+        "nameLAT": "Yangi tomatlar (pomidorlar) Olxo’risimon, sariq",
+        "nameRU": "Свежие томаты (помидоры) Сливовидный, желтый",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00709001906015001",
+        "nameUZ": "Салат барг Toscana Salad Салат, пластик контейнерда 100",
+        "nameLAT": "Salat barg Toscana Salad Salat, plastik konteynerda 100",
+        "nameRU": "Салат листовой Toscana Salad Салат Пластиковый контейнер 100",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00703001001001004",
+        "nameUZ": "Пиёз Grand Янги сариқ, полиэтилен пакет 1,5 кг.",
+        "nameLAT": "Piyoz Grand Yangi sariq, polietilen paket 1,5 kg.",
+        "nameRU": "Лук репчатый Grand Свежий жёлтый, полиэтиленовый пакет 1,5 кг.",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00707001001014002",
+        "nameUZ": "Бодринг ва корнишонлар Vilagro Янги рава нави, пластмасса идиш 700 г.",
+        "nameLAT": "Bodring va kornishonlar Vilagro Yangi rava navi, plastmassa idish 700 g.",
+        "nameRU": "Огурцы и корнишоны Vilagro Свежие сорт рава, пластиковый контейнер 700 г.",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708001001005005",
+        "nameUZ": "Нўхат Famos Полипропилен пакет 0,6 кг.",
+        "nameLAT": "No’xat Famos Polipropilen paket 0,6 kg.",
+        "nameRU": "Горох Famos Полипропиленовый пакет 0,6 кг.",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00702001001004002",
+        "nameUZ": "Янги томатлар (помидорлар) Vilagro Янги пушти юсупов нави, пластмасса идиш 700 г.",
+        "nameLAT": "Yangi tomatlar (pomidorlar) Vilagro Yangi pushti yusupov navi, plastmassa idish 700 g.",
+        "nameRU": "Свежие томаты (помидоры) Vilagro Свежие сорт розовый юсуповский, пластиковый контейнер 700 г.",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00702001001006001",
+        "nameUZ": "Янги томатлар (помидорлар) Ogorod Помидор янги узилган Paradise навли, пластик контейнерда 700 гр",
+        "nameLAT": "Yangi tomatlar (pomidorlar) Ogorod Pomidor yangi uzilgan Paradise navli, plastik konteynerda 700 gr",
+        "nameRU": "Свежие томаты (помидоры) Ogorod Помидоры свежие сорт Paradise Пластиковый контейнер 700±10 г.",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00704001001004002",
+        "nameUZ": "Карам OOO «VGF GLOBAL EXPORT» Карам оқ янги узилган, пластик қути 5000",
+        "nameLAT": "Karam OOO «VGF GLOBAL EXPORT» Karam oq yangi uzilgan, plastik quti 5000",
+        "nameRU": "Капуста OOO «VGF GLOBAL EXPORT» Капуста белокочанная свежая пластиковые ящики 5",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00711001001001004",
+        "nameUZ": "Қисқа муддатли сақлаш учун консерваланган сабзавотлар Вкусноград 400гр темир банка",
+        "nameLAT": "Qisqa muddatli saqlash uchun konservalangan sabzavotlar Вкусноград 400gr temir banka",
+        "nameRU": "Овощи консервированные для кратковременного хранения Вкусноград 400гр ж/б",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00701001001000000",
+        "nameUZ": "Картошка",
+        "nameLAT": "Kartoshka",
+        "nameRU": "Картошка",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00707001001026002",
+        "nameUZ": "Бодринг ва корнишонлар Agronic Бодринг қуритилган 1-навли, полиэтилен қоп 20",
+        "nameLAT": "Bodring va kornishonlar Agronic Bodring quritilgan 1-navli, polietilen qop 20",
+        "nameRU": "Огурцы и корнишоны Agronic Огурцы сушёные 1 сорт Полиэтиленовый мешок 20",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00712002002000000",
+        "nameUZ": "Саримсоқ кўкати",
+        "nameLAT": "Sarimsoq ko’kati",
+        "nameRU": "Зелень чеснока",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708002003007001",
+        "nameUZ": "Фасоль EKO сабзавотлар билан итальянча 510г",
+        "nameLAT": "Fasol EKO sabzavotlar bilan italyancha 510g",
+        "nameRU": "Фасоль EKO с овощами по-италянски 510г",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708003001011001",
+        "nameUZ": "Ясмиқ Агро-Альянс яшил 450г",
+        "nameLAT": "Yasmiq Агро-Альянс yashil 450g",
+        "nameRU": "Чечевица Агро-Альянс зеленая 450г",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708002003007002",
+        "nameUZ": "Фасоль EKO грекча қўзиқоринли 510г",
+        "nameLAT": "Fasol EKO grekcha qo’ziqorinli 510g",
+        "nameRU": "Фасоль EKO по-гречески с грибами 510г",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708002003006001",
+        "nameUZ": "Фасоль Bonduelle экстра юпка 400г",
+        "nameLAT": "Fasol Bonduelle ekstra yupka 400g",
+        "nameRU": "Фасоль Bonduelle экстра тонкая 400г",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708003001011002",
+        "nameUZ": "Ясмиқ Агро-Альянс кизил 450г",
+        "nameLAT": "Yasmiq Агро-Альянс kizil 450g",
+        "nameRU": "Чечевица Агро-Альянс красная 450г",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708002003006002",
+        "nameUZ": "Фасоль Bonduelle юпқа кесилан 400г",
+        "nameLAT": "Fasol Bonduelle yupqa kesilan 400g",
+        "nameRU": "Фасоль Bonduelle тонкая резаная 400г",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00707001001003001",
+        "nameUZ": "Бодринг ва корнишонлар Grand Янги орзу нави, пластмасса идиш 600 г.",
+        "nameLAT": "Bodring va kornishonlar Grand Yangi orzu navi, plastmassa idish 600 g.",
+        "nameRU": "Огурцы и корнишоны Grand Свежие сорт орзу, пластиковый контейнер 600 г.",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00709002001010001",
+        "nameUZ": "Етилган зайтун Mikado зайтунли 280г",
+        "nameLAT": "Yetilgan zaytun Mikado zaytunli 280g",
+        "nameRU": "Маслина Mikado оливки 280г",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00709001912000000",
+        "nameUZ": "Шовул",
+        "nameLAT": "Shovul",
+        "nameRU": "Щавель",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00706005002000000",
+        "nameUZ": "Селдр",
+        "nameLAT": "Seldr",
+        "nameRU": "Сельдерей",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00709001906000001",
+        "nameUZ": "Салат барг Қизил",
+        "nameLAT": "Salat barg Qizil",
+        "nameRU": "Салат листовой Красный",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00709002001012001",
+        "nameUZ": "Етилган зайтун ТЧН данаксиз 280 г",
+        "nameLAT": "Yetilgan zaytun ТЧН danaksiz 280 g",
+        "nameRU": "Маслина ТЧН без косточки 280 г",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00703001001003002",
+        "nameUZ": "Пиёз Agronic Бош пиёз қуритилган 1-навли, Крафт қоп 15000 г",
+        "nameLAT": "Piyoz Agronic Bosh piyoz quritilgan 1-navli, Kraft qop 15000 g",
+        "nameRU": "Лук репчатый Agronic Лук репчатый сушёный 1 сорт Крафт мешок 15",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00704001001006001",
+        "nameUZ": "Карам Цветная капуста",
+        "nameLAT": "Karam Цветная капуста",
+        "nameRU": "Капуста Цветная капуста",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708001001037001",
+        "nameUZ": "Нўхат Bounty of Uzbekistan Нўхат, полипропилен пакетда 500 гр",
+        "nameLAT": "No’xat Bounty of Uzbekistan No’xat, polipropilen paketda 500 gr",
+        "nameRU": "Горох Bounty of Uzbekistan Горох Полипропиленовый пакет 500 г.",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00709001924000000",
+        "nameUZ": "Кашнич",
+        "nameLAT": "Kashnich",
+        "nameRU": "Кашнич",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00708001001022001",
+        "nameUZ": "Нўхат Passim Бўлинган нўхат 800 гр қадоқда",
+        "nameLAT": "No’xat Passim Bo’lingan no’xat 800 gr qadoqda",
+        "nameRU": "Горох Passim Горох колотый 800 гр пачка",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00709001906004001",
+        "nameUZ": "Салат барг Пак Чой Салат, полиэтилен контейнерда 120",
+        "nameLAT": "Salat barg Пак Чой Salat, polietilen konteynerda 120",
+        "nameRU": "Салат листовой Пак Чой Салат Полиэтиленовый контейнер 120",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00709001926000000",
+        "nameUZ": "Лимон ўтлари",
+        "nameLAT": "Limon o’tlari",
+        "nameRU": "Лемонграсс",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00709002004000000",
+        "nameUZ": "Ровоч",
+        "nameLAT": "Rovoch",
+        "nameRU": "Ревень",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      },
+      {
+        "mxikCode": "00709002003000000",
+        "nameUZ": "Ковул",
+        "nameLAT": "Kovul",
+        "nameRU": "Каперсы",
+        "groupCODE": "007",
+        "groupNameUZ": "САБЗАВОТЛАР",
+        "groupNameRU": "ОВОЩИ",
+        "groupNameLAT": "SABZAVOTLAR"
+      }
+    ],
+    "recordTotal": 423,
+    "errors": null,
+    "permitted": false
+  }
+}

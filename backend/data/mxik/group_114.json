@@ -1,0 +1,547 @@
+{
+  "metadata": {
+    "groupId": 114,
+    "fetchedAt": "2025-07-12T16:39:00.266Z",
+    "source": "https://tasnif.soliq.uz/api/cl-api/integration-mxik/references/group/code?group=114"
+  },
+  "data": {
+    "success": true,
+    "code": 200,
+    "reason": null,
+    "data": [
+      {
+        "mxikCode": "11401004003000000",
+        "nameUZ": "Пахтани тозалаш ва қуритиш хизматлари",
+        "nameLAT": "Paxtani tozalash va quritish xizmatlari",
+        "nameRU": "Услуги по чистке, сушке и очистке хлопка",
+        "groupCODE": "114",
+        "groupNameUZ": "САНОАТ ХИЗМАТЛАРИ",
+        "groupNameRU": "ПРОМЫШЛЕННЫЕ УСЛУГИ ",
+        "groupNameLAT": "SANOAT XIZMATLARI"
+      },
+      {
+        "mxikCode": "11415001031000000",
+        "nameUZ": "Тош плиталарини кесиш ва қайта ишлаш хизматлари",
+        "nameLAT": "Tosh plitalarini kesish va qayta ishlash xizmatlari",
+        "nameRU": "Услуги по резке, распилу и обработке каменных плит",
+        "groupCODE": "114",
+        "groupNameUZ": "САНОАТ ХИЗМАТЛАРИ",
+        "groupNameRU": "ПРОМЫШЛЕННЫЕ УСЛУГИ ",
+        "groupNameLAT": "SANOAT XIZMATLARI"
+      },
+      {
+        "mxikCode": "11410002001000000",
+        "nameUZ": "Қайта ишлаш хизмати мижоз томонидан етказиб бериладиган хом ашё (шу жумладан пластмасса ва пластмасса буюмлари)",
+        "nameLAT": "Qayta ishlash xizmati mijoz tomonidan yetkazib beriladigan xom ashyo (shu jumladan plastmassa va plastmassa buyumlari)",
+        "nameRU": "Услуга по переработке давальческого сырья (в том числе пластмассы и изделий из нее)",
+        "groupCODE": "114",
+        "groupNameUZ": "САНОАТ ХИЗМАТЛАРИ",
+        "groupNameRU": "ПРОМЫШЛЕННЫЕ УСЛУГИ ",
+        "groupNameLAT": "SANOAT XIZMATLARI"
+      },
+      {
+        "mxikCode": "11402001001000000",
+        "nameUZ": "Металл ва металл буюмларни ижарага бериш хизматлари",
+        "nameLAT": "Metall va metall buyumlarni ijaraga berish xizmatlari",
+        "nameRU": "Услуги по прокату металла и металлических изделий",
+        "groupCODE": "114",
+        "groupNameUZ": "САНОАТ ХИЗМАТЛАРИ",
+        "groupNameRU": "ПРОМЫШЛЕННЫЕ УСЛУГИ ",
+        "groupNameLAT": "SANOAT XIZMATLARI"
+      },
+      {
+        "mxikCode": "11407001001000000",
+        "nameUZ": "Қудуқларни бурғулаш хизматлари",
+        "nameLAT": "Quduqlarni burg’ulash xizmatlari",
+        "nameRU": "Услуги по бурению скважин",
+        "groupCODE": "114",
+        "groupNameUZ": "САНОАТ ХИЗМАТЛАРИ",
+        "groupNameRU": "ПРОМЫШЛЕННЫЕ УСЛУГИ ",
+        "groupNameLAT": "SANOAT XIZMATLARI"
+      },
+      {
+        "mxikCode": "11401004002000000",
+        "nameUZ": "Давал тўқимачилик хомашёсини қайта ишлаш бўйича хизматлар",
+        "nameLAT": "Daval to’qimachilik xomashyosini qayta ishlash bo’yicha xizmatlar",
+        "nameRU": "Услуги по переработке давальческого текстильного сырья",
+        "groupCODE": "114",
+        "groupNameUZ": "САНОАТ ХИЗМАТЛАРИ",
+        "groupNameRU": "ПРОМЫШЛЕННЫЕ УСЛУГИ ",
+        "groupNameLAT": "SANOAT XIZMATLARI"
+      },
+      {
+        "mxikCode": "11415001030000000",
+        "nameUZ": "Резервуарни техник текшириш, тозалаш ва калибрлаш хизматлари",
+        "nameLAT": "Rezervuarni texnik tekshirish, tozalash va kalibrlash xizmatlari",
+        "nameRU": "Услуги по техническому обследованию, зачистке и калибровке резервуаров",
+        "groupCODE": "114",
+        "groupNameUZ": "САНОАТ ХИЗМАТЛАРИ",
+        "groupNameRU": "ПРОМЫШЛЕННЫЕ УСЛУГИ ",
+        "groupNameLAT": "SANOAT XIZMATLARI"
+      },
+      {
+        "mxikCode": "11402002005000000",
+        "nameUZ": "Гальванизация ва рух билан қоплаш хизматлари",
+        "nameLAT": "Galvanizatsiya va rux bilan qoplash xizmatlari",
+        "nameRU": "Услуги цинкования и по гальванопокрытию",
+        "groupCODE": "114",
+        "groupNameUZ": "САНОАТ ХИЗМАТЛАРИ",
+        "groupNameRU": "ПРОМЫШЛЕННЫЕ УСЛУГИ ",
+        "groupNameLAT": "SANOAT XIZMATLARI"
+      },
+      {
+        "mxikCode": "11415002003000000",
+        "nameUZ": "Тери саноати корхоналари томонидан давал хомашёсини қайта ишлаш хизматлари",
+        "nameLAT": "Teri sanoati korxonalari tomonidan daval xomashyosini qayta ishlash xizmatlari",
+        "nameRU": "Услуги по переработке давальческого сырья предприятиями кожевенной промышленности",
+        "groupCODE": "114",
+        "groupNameUZ": "САНОАТ ХИЗМАТЛАРИ",
+        "groupNameRU": "ПРОМЫШЛЕННЫЕ УСЛУГИ ",
+        "groupNameLAT": "SANOAT XIZMATLARI"
+      },
+      {
+        "mxikCode": "11415002004000000",
+        "nameUZ": "Нефт қазиб чиқарувчи ва ишлаб чиқарувчи саноат корхоналари томонидан хом ашёни (нефт ва нефт маҳсулотларини) қайта ишлаш бўйича хизматлар",
+        "nameLAT": "Neft qazib chiqaruvchi va ishlab chiqaruvchi sanoat korxonalari tomonidan xom ashyoni (neft va neft mahsulotlarini) qayta ishlash bo’yicha xizmatlar",
+        "nameRU": "Услуги по переработке давальческого сырья (нефти и нефтепродуктов)  предприятиями нефтедобывающей и обрабатывающей промышленности",
+        "groupCODE": "114",
+        "groupNameUZ": "САНОАТ ХИЗМАТЛАРИ",
+        "groupNameRU": "ПРОМЫШЛЕННЫЕ УСЛУГИ ",
+        "groupNameLAT": "SANOAT XIZMATLARI"
+      },
+      {
+        "mxikCode": "11402006001000000",
+        "nameUZ": "Давал металлургия хомашёсини қайта ишлаш хизматлари",
+        "nameLAT": "Daval metallurgiya xomashyosini qayta ishlash xizmatlari",
+        "nameRU": "Услуги по переработке давальческого металлургического сырья",
+        "groupCODE": "114",
+        "groupNameUZ": "САНОАТ ХИЗМАТЛАРИ",
+        "groupNameRU": "ПРОМЫШЛЕННЫЕ УСЛУГИ ",
+        "groupNameLAT": "SANOAT XIZMATLARI"
+      },
+      {
+        "mxikCode": "11404002008000000",
+        "nameUZ": "Донни тозалаш ва қайта ишлаш хизматлари (барча турдаги хизматлар)",
+        "nameLAT": "Donni tozalash va qayta ishlash xizmatlari (barcha turdagi xizmatlar)",
+        "nameRU": "Услуги по очистке и переработке злаков (все виды услуг)",
+        "groupCODE": "114",
+        "groupNameUZ": "САНОАТ ХИЗМАТЛАРИ",
+        "groupNameRU": "ПРОМЫШЛЕННЫЕ УСЛУГИ ",
+        "groupNameLAT": "SANOAT XIZMATLARI"
+      },
+      {
+        "mxikCode": "11404004001000000",
+        "nameUZ": "Ҳайвонларни (паррандаларни) сўйиш ва қайта ишлаш хизмати",
+        "nameLAT": "Hayvonlarni (parrandalarni) so’yish va qayta ishlash xizmati",
+        "nameRU": "Услуги по убою животных (птицы) и их переработке",
+        "groupCODE": "114",
+        "groupNameUZ": "САНОАТ ХИЗМАТЛАРИ",
+        "groupNameRU": "ПРОМЫШЛЕННЫЕ УСЛУГИ ",
+        "groupNameLAT": "SANOAT XIZMATLARI"
+      },
+      {
+        "mxikCode": "11415002001000000",
+        "nameUZ": "Қоғоз саноати корхоналари томонидан қоғоз хом ашёсини қайта ишлаш бўйича хизматлар",
+        "nameLAT": "Qog’oz sanoati korxonalari tomonidan qog’oz xom ashyosini qayta ishlash bo’yicha xizmatlar",
+        "nameRU": "Услуги по переработке давальческого сырья предприятиями бумажной промышленности",
+        "groupCODE": "114",
+        "groupNameUZ": "САНОАТ ХИЗМАТЛАРИ",
+        "groupNameRU": "ПРОМЫШЛЕННЫЕ УСЛУГИ ",
+        "groupNameLAT": "SANOAT XIZMATLARI"
+      },
+      {
+        "mxikCode": "11415002002000000",
+        "nameUZ": "Қурилиш саноати корхоналари томонидан давал хомашёсини қайта ишлаш хизматлари (шу жумладан плексиглас)",
+        "nameLAT": "Qurilish sanoati korxonalari tomonidan daval xomashyosini qayta ishlash xizmatlari (shu jumladan pleksiglas)",
+        "nameRU": "Услуги по переработке давальческого сырья предприятиями строительной промышленности (в том числе оргстекло)",
+        "groupCODE": "114",
+        "groupNameUZ": "САНОАТ ХИЗМАТЛАРИ",
+        "groupNameRU": "ПРОМЫШЛЕННЫЕ УСЛУГИ ",
+        "groupNameLAT": "SANOAT XIZMATLARI"
+      },
+      {
+        "mxikCode": "11412001002000000",
+        "nameUZ": "Экскаватор хизматлари",
+        "nameLAT": "Ekskavator xizmatlari",
+        "nameRU": "Услуги экскаватора",
+        "groupCODE": "114",
+        "groupNameUZ": "САНОАТ ХИЗМАТЛАРИ",
+        "groupNameRU": "ПРОМЫШЛЕННЫЕ УСЛУГИ ",
+        "groupNameLAT": "SANOAT XIZMATLARI"
+      },
+      {
+        "mxikCode": "11415001017000000",
+        "nameUZ": "Ҳунармандларнинг хизматлари (товарларни сотмасдан)",
+        "nameLAT": "Hunarmandlarning xizmatlari (tovarlarni sotmasdan)",
+        "nameRU": "Услуги ремесленников (без реализации товаров)",
+        "groupCODE": "114",
+        "groupNameUZ": "САНОАТ ХИЗМАТЛАРИ",
+        "groupNameRU": "ПРОМЫШЛЕННЫЕ УСЛУГИ ",
+        "groupNameLAT": "SANOAT XIZMATLARI"
+      },
+      {
+        "mxikCode": "11403001001000000",
+        "nameUZ": "Ёғоч ва ёғоч материалларини кесиш хизматлари (пилорама, лесопилка)",
+        "nameLAT": "Yog’och va yog’och materiallarini kesish xizmatlari (pilorama, lesopilka)",
+        "nameRU": "Услуги по распилу дерева и древесных материалов (пилорама, лесопилка)",
+        "groupCODE": "114",
+        "groupNameUZ": "САНОАТ ХИЗМАТЛАРИ",
+        "groupNameRU": "ПРОМЫШЛЕННЫЕ УСЛУГИ ",
+        "groupNameLAT": "SANOAT XIZMATLARI"
+      },
+      {
+        "mxikCode": "11401004001000000",
+        "nameUZ": "Тўқимачилик хом ашёни қайта ишлаш хизмати",
+        "nameLAT": "To’qimachilik xom ashyoni qayta ishlash xizmati",
+        "nameRU": "Услуги по переработке текстильного сырья",
+        "groupCODE": "114",
+        "groupNameUZ": "САНОАТ ХИЗМАТЛАРИ",
+        "groupNameRU": "ПРОМЫШЛЕННЫЕ УСЛУГИ ",
+        "groupNameLAT": "SANOAT XIZMATLARI"
+      },
+      {
+        "mxikCode": "11401006001000000",
+        "nameUZ": "Тикувчилик хизматлари (ателье томонидан тақдим этиладиган индивидуал хизматлардан ташқари барча турдаги хизматлар)",
+        "nameLAT": "Tikuvchilik xizmatlari (atelye tomonidan taqdim etiladigan individual xizmatlardan tashqari barcha turdagi xizmatlar)",
+        "nameRU": "Швейные услуги (все виды услуг, кроме индивидуальных услуг, оказываемых ателье)",
+        "groupCODE": "114",
+        "groupNameUZ": "САНОАТ ХИЗМАТЛАРИ",
+        "groupNameRU": "ПРОМЫШЛЕННЫЕ УСЛУГИ ",
+        "groupNameLAT": "SANOAT XIZMATLARI"
+      },
+      {
+        "mxikCode": "11409001001000000",
+        "nameUZ": "Механик, электр, гидравлик асбоблар ва қурилмаларни тўлдириш ва зарядлаш хизматлари",
+        "nameLAT": "Mexanik, elektr, gidravlik asboblar va qurilmalarni to’ldirish va zaryadlash xizmatlari",
+        "nameRU": "Услуги по заправке и зарядке механических, электрических, гидравлических приборов и устройств",
+        "groupCODE": "114",
+        "groupNameUZ": "САНОАТ ХИЗМАТЛАРИ",
+        "groupNameRU": "ПРОМЫШЛЕННЫЕ УСЛУГИ ",
+        "groupNameLAT": "SANOAT XIZMATLARI"
+      },
+      {
+        "mxikCode": "11401002001000000",
+        "nameUZ": "Тўқимачилик материаллари ва улардан тайёрланган маҳсулотларга муҳр босиш (логотиплар) бўйича хизматлар",
+        "nameLAT": "To’qimachilik materiallari va ulardan tayyorlangan mahsulotlarga muhr bosish (logotiplar) bo’yicha xizmatlar",
+        "nameRU": "Услуги по нанесения печати (логотипов) на текстильные материалы и изделия из них",
+        "groupCODE": "114",
+        "groupNameUZ": "САНОАТ ХИЗМАТЛАРИ",
+        "groupNameRU": "ПРОМЫШЛЕННЫЕ УСЛУГИ ",
+        "groupNameLAT": "SANOAT XIZMATLARI"
+      },
+      {
+        "mxikCode": "11414001001000000",
+        "nameUZ": "Ўраш, қадоқлаш ва қайта қадоқлаш хизматлари",
+        "nameLAT": "O’rash, qadoqlash va qayta qadoqlash xizmatlari",
+        "nameRU": "Услуги паллетизации, упаковки, фасовки и расфасовки",
+        "groupCODE": "114",
+        "groupNameUZ": "САНОАТ ХИЗМАТЛАРИ",
+        "groupNameRU": "ПРОМЫШЛЕННЫЕ УСЛУГИ ",
+        "groupNameLAT": "SANOAT XIZMATLARI"
+      },
+      {
+        "mxikCode": "11411001008000000",
+        "nameUZ": "Кўчат етиштириш хизматлари (уни сотмасдан)",
+        "nameLAT": "Ko’chat yetishtirish xizmatlari (uni sotmasdan)",
+        "nameRU": "Услуги по выращиванию рассады (без ее реализации)",
+        "groupCODE": "114",
+        "groupNameUZ": "САНОАТ ХИЗМАТЛАРИ",
+        "groupNameRU": "ПРОМЫШЛЕННЫЕ УСЛУГИ ",
+        "groupNameLAT": "SANOAT XIZMATLARI"
+      },
+      {
+        "mxikCode": "11415002005000000",
+        "nameUZ": "Саноатнинг бошқа йўналишлари корхоналари томонидан давал хомашёсини қайта ишлаш бўйича хизматлар",
+        "nameLAT": "Sanoatning boshqa yo’nalishlari korxonalari tomonidan daval xomashyosini qayta ishlash bo’yicha xizmatlar",
+        "nameRU": "Услуги по переработке давальческого сырья предприятиями других направлений промышленности",
+        "groupCODE": "114",
+        "groupNameUZ": "САНОАТ ХИЗМАТЛАРИ",
+        "groupNameRU": "ПРОМЫШЛЕННЫЕ УСЛУГИ ",
+        "groupNameLAT": "SANOAT XIZMATLARI"
+      },
+      {
+        "mxikCode": "11404005001000000",
+        "nameUZ": "Озиқ-овқат саноати учун хом ашёни қайта ишлаш хизматлари",
+        "nameLAT": "Oziq-ovqat sanoati uchun xom ashyoni qayta ishlash xizmatlari",
+        "nameRU": "Услуги по переработке давальческого сырья пищевой промышленности",
+        "groupCODE": "114",
+        "groupNameUZ": "САНОАТ ХИЗМАТЛАРИ",
+        "groupNameRU": "ПРОМЫШЛЕННЫЕ УСЛУГИ ",
+        "groupNameLAT": "SANOAT XIZMATLARI"
+      },
+      {
+        "mxikCode": "11412001005000000",
+        "nameUZ": "Автокран хизматлари",
+        "nameLAT": "Avtokran xizmatlari",
+        "nameRU": "Услуги автокрана",
+        "groupCODE": "114",
+        "groupNameUZ": "САНОАТ ХИЗМАТЛАРИ",
+        "groupNameRU": "ПРОМЫШЛЕННЫЕ УСЛУГИ ",
+        "groupNameLAT": "SANOAT XIZMATLARI"
+      },
+      {
+        "mxikCode": "11411001005000000",
+        "nameUZ": "Экин зараркунандаларига қарши кураш хизматлари",
+        "nameLAT": "Ekin zararkunandalariga qarshi kurash xizmatlari",
+        "nameRU": "Услуги по борьбе с вредителями сельскохозяйственных культур",
+        "groupCODE": "114",
+        "groupNameUZ": "САНОАТ ХИЗМАТЛАРИ",
+        "groupNameRU": "ПРОМЫШЛЕННЫЕ УСЛУГИ ",
+        "groupNameLAT": "SANOAT XIZMATLARI"
+      },
+      {
+        "mxikCode": "11403002001000000",
+        "nameUZ": "Дарахт ва ёғоч материалларини ишлаш ва қайта ишлаш хизматлари",
+        "nameLAT": "Daraxt va yog’och materiallarini ishlash va qayta ishlash xizmatlari",
+        "nameRU": "Услуги по обработке и переработке дерева и древесных материалов",
+        "groupCODE": "114",
+        "groupNameUZ": "САНОАТ ХИЗМАТЛАРИ",
+        "groupNameRU": "ПРОМЫШЛЕННЫЕ УСЛУГИ ",
+        "groupNameLAT": "SANOAT XIZMATLARI"
+      },
+      {
+        "mxikCode": "11415001006000000",
+        "nameUZ": "Битум, оҳак ва бошқа шунга ўхшаш моддаларни тайёрлаш ва қайта ишлаш (куйдириш) хизматлари",
+        "nameLAT": "Bitum, ohak va boshqa shunga o’xshash moddalarni tayyorlash va qayta ishlash (kuydirish) xizmatlari",
+        "nameRU": "Услуги по приготовлению и обработке (обжигу) битума, извести и прочих аналогичных веществ",
+        "groupCODE": "114",
+        "groupNameUZ": "САНОАТ ХИЗМАТЛАРИ",
+        "groupNameRU": "ПРОМЫШЛЕННЫЕ УСЛУГИ ",
+        "groupNameLAT": "SANOAT XIZMATLARI"
+      },
+      {
+        "mxikCode": "11412001003000000",
+        "nameUZ": "Булдозер хизматлари",
+        "nameLAT": "Buldozer xizmatlari",
+        "nameRU": "Услуги бульдозера",
+        "groupCODE": "114",
+        "groupNameUZ": "САНОАТ ХИЗМАТЛАРИ",
+        "groupNameRU": "ПРОМЫШЛЕННЫЕ УСЛУГИ ",
+        "groupNameLAT": "SANOAT XIZMATLARI"
+      },
+      {
+        "mxikCode": "11410001001000000",
+        "nameUZ": "Кимё саноати хизматлари (барча турдаги хизматлар)",
+        "nameLAT": "Kimyo sanoati xizmatlari (barcha turdagi xizmatlar)",
+        "nameRU": "Услуги химической промышленности (все виды услуг)",
+        "groupCODE": "114",
+        "groupNameUZ": "САНОАТ ХИЗМАТЛАРИ",
+        "groupNameRU": "ПРОМЫШЛЕННЫЕ УСЛУГИ ",
+        "groupNameLAT": "SANOAT XIZMATLARI"
+      },
+      {
+        "mxikCode": "11406001001000000",
+        "nameUZ": "Гравировка ва силлиқлаш хизматлари (барча турдаги хизматлар)",
+        "nameLAT": "Gravirovka va silliqlash xizmatlari (barcha turdagi xizmatlar)",
+        "nameRU": "Услуги гравировки и шлифовки (все виды услуг)",
+        "groupCODE": "114",
+        "groupNameUZ": "САНОАТ ХИЗМАТЛАРИ",
+        "groupNameRU": "ПРОМЫШЛЕННЫЕ УСЛУГИ ",
+        "groupNameLAT": "SANOAT XIZMATLARI"
+      },
+      {
+        "mxikCode": "11404002002000000",
+        "nameUZ": "Сут ва сут маҳсулотларини қайта ишлаш хизматлари",
+        "nameLAT": "Sut va sut mahsulotlarini qayta ishlash xizmatlari",
+        "nameRU": "Услуги по переработке молока и молочных продуктов",
+        "groupCODE": "114",
+        "groupNameUZ": "САНОАТ ХИЗМАТЛАРИ",
+        "groupNameRU": "ПРОМЫШЛЕННЫЕ УСЛУГИ ",
+        "groupNameLAT": "SANOAT XIZMATLARI"
+      },
+      {
+        "mxikCode": "11411001001000000",
+        "nameUZ": "Механизациялаш, ишлов бериш, экиш, кесиш ва йиғиш учун дала хизматлари",
+        "nameLAT": "Mexanizatsiyalash, ishlov berish, ekish, kesish va yig’ish uchun dala xizmatlari",
+        "nameRU": "Услуги полевые по механизации, возделыванию, посадке, стрижке и сбору урожая",
+        "groupCODE": "114",
+        "groupNameUZ": "САНОАТ ХИЗМАТЛАРИ",
+        "groupNameRU": "ПРОМЫШЛЕННЫЕ УСЛУГИ ",
+        "groupNameLAT": "SANOAT XIZMATLARI"
+      },
+      {
+        "mxikCode": "11407002001000000",
+        "nameUZ": "Портловчи ишлар хизматлари",
+        "nameLAT": "Portlovchi ishlar xizmatlari",
+        "nameRU": "Услуги по взрывным работам",
+        "groupCODE": "114",
+        "groupNameUZ": "САНОАТ ХИЗМАТЛАРИ",
+        "groupNameRU": "ПРОМЫШЛЕННЫЕ УСЛУГИ ",
+        "groupNameLAT": "SANOAT XIZMATLARI"
+      },
+      {
+        "mxikCode": "11404002004000000",
+        "nameUZ": "Ўсимлик ёғларини доғлаш, дезодорациялаш бўйича хизматлар",
+        "nameLAT": "O’simlik yog’larini dog’lash, dezodoratsiyalash bo’yicha xizmatlar",
+        "nameRU": "Услуги по рафинации, дезодорации растительных масел",
+        "groupCODE": "114",
+        "groupNameUZ": "САНОАТ ХИЗМАТЛАРИ",
+        "groupNameRU": "ПРОМЫШЛЕННЫЕ УСЛУГИ ",
+        "groupNameLAT": "SANOAT XIZMATLARI"
+      },
+      {
+        "mxikCode": "11403005001000000",
+        "nameUZ": "Давал ёғоч хом ашёсини қайта ишлаш хизматлари",
+        "nameLAT": "Daval yog’och xom ashyosini qayta ishlash xizmatlari",
+        "nameRU": "Услуги по переработке давальческого древесного сырья",
+        "groupCODE": "114",
+        "groupNameUZ": "САНОАТ ХИЗМАТЛАРИ",
+        "groupNameRU": "ПРОМЫШЛЕННЫЕ УСЛУГИ ",
+        "groupNameLAT": "SANOAT XIZMATLARI"
+      },
+      {
+        "mxikCode": "11401003001000000",
+        "nameUZ": "Тўқимачилик саноати корхоналарида ипларни тўқиш ва қайта ишлаш хизматлари",
+        "nameLAT": "To’qimachilik sanoati korxonalarida iplarni to’qish va qayta ishlash xizmatlari",
+        "nameRU": "Услуги вязания и обработки пряжи на  предприятиях текстильной промышленности",
+        "groupCODE": "114",
+        "groupNameUZ": "САНОАТ ХИЗМАТЛАРИ",
+        "groupNameRU": "ПРОМЫШЛЕННЫЕ УСЛУГИ ",
+        "groupNameLAT": "SANOAT XIZMATLARI"
+      },
+      {
+        "mxikCode": "11405001002000000",
+        "nameUZ": "Тайёр маҳсулотлар, буюмлар (тўқимачилик, металл, керамика, дарахт ва бошқалар)га муҳр (логотип) қўйиш хизматлари",
+        "nameLAT": "Tayyor mahsulotlar, buyumlar (to’qimachilik, metall, keramika, daraxt va boshqalar)ga muhr (logotip) qo’yish xizmatlari",
+        "nameRU": "Услуги по нанесению печатей (логотипов) на готовую продукцию (текстильную, металлическую, керамическую, деревянную и др), изделия",
+        "groupCODE": "114",
+        "groupNameUZ": "САНОАТ ХИЗМАТЛАРИ",
+        "groupNameRU": "ПРОМЫШЛЕННЫЕ УСЛУГИ ",
+        "groupNameLAT": "SANOAT XIZMATLARI"
+      },
+      {
+        "mxikCode": "11411001017000000",
+        "nameUZ": "Инкубация хизматлари (паррандачилик)",
+        "nameLAT": "Inkubatsiya xizmatlari (parrandachilik)",
+        "nameRU": "Услуги инкубации (птица)",
+        "groupCODE": "114",
+        "groupNameUZ": "САНОАТ ХИЗМАТЛАРИ",
+        "groupNameRU": "ПРОМЫШЛЕННЫЕ УСЛУГИ ",
+        "groupNameLAT": "SANOAT XIZMATLARI"
+      },
+      {
+        "mxikCode": "11403004001000000",
+        "nameUZ": "Махсус мебел (мебел қисмлари) ва бошқа дарахт ёки ёғоч маҳсулотларини ишлаб чиқариш бўйича хизматлар",
+        "nameLAT": "Maxsus mebel (mebel qismlari) va boshqa daraxt yoki yog’och mahsulotlarini ishlab chiqarish bo’yicha xizmatlar",
+        "nameRU": "Услуги по изготовлению мебели (частей мебели) и других изделий из дерева и древесных материалов  на заказ",
+        "groupCODE": "114",
+        "groupNameUZ": "САНОАТ ХИЗМАТЛАРИ",
+        "groupNameRU": "ПРОМЫШЛЕННЫЕ УСЛУГИ ",
+        "groupNameLAT": "SANOAT XIZMATLARI"
+      },
+      {
+        "mxikCode": "11402003001000000",
+        "nameUZ": "Токарликка оид хизматлари (барча турдаги хизматлар)",
+        "nameLAT": "Tokarlikka oid xizmatlari (barcha turdagi xizmatlar)",
+        "nameRU": "Токарные услуги (все виды услуг)",
+        "groupCODE": "114",
+        "groupNameUZ": "САНОАТ ХИЗМАТЛАРИ",
+        "groupNameRU": "ПРОМЫШЛЕННЫЕ УСЛУГИ ",
+        "groupNameLAT": "SANOAT XIZMATLARI"
+      },
+      {
+        "mxikCode": "11405001001000000",
+        "nameUZ": "Буюмлар ва маҳсулотларни бўяш бўйича хизматлар (барча турдаги)",
+        "nameLAT": "Buyumlar va mahsulotlarni bo’yash bo’yicha xizmatlar (barcha turdagi)",
+        "nameRU": "Услуги по покраске продукции и изделий (всех видов)",
+        "groupCODE": "114",
+        "groupNameUZ": "САНОАТ ХИЗМАТЛАРИ",
+        "groupNameRU": "ПРОМЫШЛЕННЫЕ УСЛУГИ ",
+        "groupNameLAT": "SANOAT XIZMATLARI"
+      },
+      {
+        "mxikCode": "11402002003000000",
+        "nameUZ": "Металларни эритиш ва қуйиш бўйича хизматлар",
+        "nameLAT": "Metallarni eritish va quyish bo’yicha xizmatlar",
+        "nameRU": "Услуги по плавке и заливке металлов",
+        "groupCODE": "114",
+        "groupNameUZ": "САНОАТ ХИЗМАТЛАРИ",
+        "groupNameRU": "ПРОМЫШЛЕННЫЕ УСЛУГИ ",
+        "groupNameLAT": "SANOAT XIZMATLARI"
+      },
+      {
+        "mxikCode": "11402004001000000",
+        "nameUZ": "Металл кесиш хизматлари",
+        "nameLAT": "Metall kesish xizmatlari",
+        "nameRU": "Услуги по резке металлов",
+        "groupCODE": "114",
+        "groupNameUZ": "САНОАТ ХИЗМАТЛАРИ",
+        "groupNameRU": "ПРОМЫШЛЕННЫЕ УСЛУГИ ",
+        "groupNameLAT": "SANOAT XIZMATLARI"
+      },
+      {
+        "mxikCode": "11401001001000000",
+        "nameUZ": "Трикотаж матоларни қайта ишлаш хизматлари",
+        "nameLAT": "Trikotaj matolarni qayta ishlash xizmatlari",
+        "nameRU": "Услуги по обработке трикотажного полотна",
+        "groupCODE": "114",
+        "groupNameUZ": "САНОАТ ХИЗМАТЛАРИ",
+        "groupNameRU": "ПРОМЫШЛЕННЫЕ УСЛУГИ ",
+        "groupNameLAT": "SANOAT XIZMATLARI"
+      },
+      {
+        "mxikCode": "11402002004000000",
+        "nameUZ": "Қурилмалар ва иссиқлик алмаштиргичларни пармалаш усили билан механик тозалаш бўйича хизмат",
+        "nameLAT": "Qurilmalar va issiqlik almashtirgichlarni parmalash usili bilan mexanik tozalash bo’yicha xizmat",
+        "nameRU": "Услуги по механической чистке методом сверления трубчатки аппаратов и теплообменников",
+        "groupCODE": "114",
+        "groupNameUZ": "САНОАТ ХИЗМАТЛАРИ",
+        "groupNameRU": "ПРОМЫШЛЕННЫЕ УСЛУГИ ",
+        "groupNameLAT": "SANOAT XIZMATLARI"
+      },
+      {
+        "mxikCode": "11402002001000000",
+        "nameUZ": "Металлни ишлаш ва қайта ишлаш хизматлари (барча турдаги ишлаш ва қайта ишлаш)",
+        "nameLAT": "Metallni ishlash va qayta ishlash xizmatlari (barcha turdagi ishlash va qayta ishlash)",
+        "nameRU": "Услуги по обработке и переработке металлов  (все виды обработки и переработки)",
+        "groupCODE": "114",
+        "groupNameUZ": "САНОАТ ХИЗМАТЛАРИ",
+        "groupNameRU": "ПРОМЫШЛЕННЫЕ УСЛУГИ ",
+        "groupNameLAT": "SANOAT XIZMATLARI"
+      },
+      {
+        "mxikCode": "11412001001000000",
+        "nameUZ": "Махсус техника ва машиналарнинг хизматлари(барча турдаги, экскаваторлар, булдозерлар ва автокрандан ташқари)",
+        "nameLAT": "Maxsus texnika va mashinalarning xizmatlari(barcha turdagi, ekskavatorlar, buldozerlar va avtokrandan tashqari)",
+        "nameRU": "Услуги спецтехники и машин (всех видов, кроме экскаваторов, бульдозеров и автокрана)",
+        "groupCODE": "114",
+        "groupNameUZ": "САНОАТ ХИЗМАТЛАРИ",
+        "groupNameRU": "ПРОМЫШЛЕННЫЕ УСЛУГИ ",
+        "groupNameLAT": "SANOAT XIZMATLARI"
+      },
+      {
+        "mxikCode": "11411001003000000",
+        "nameUZ": "Пилла етиштириш ва қайта ишлаш хизматлари",
+        "nameLAT": "Pilla yetishtirish va qayta ishlash xizmatlari",
+        "nameRU": "Услуги по выращиванию и обработке коконов",
+        "groupCODE": "114",
+        "groupNameUZ": "САНОАТ ХИЗМАТЛАРИ",
+        "groupNameRU": "ПРОМЫШЛЕННЫЕ УСЛУГИ ",
+        "groupNameLAT": "SANOAT XIZMATLARI"
+      },
+      {
+        "mxikCode": "11411001018000000",
+        "nameUZ": "Тупроқ ва ер ости сувларини тиклаш ва тозалаш хизматлари",
+        "nameLAT": "Tuproq va yer osti suvlarini tiklash va tozalash xizmatlari",
+        "nameRU": "Услуги по рекультивации и очистке почвы и грунтовых вод",
+        "groupCODE": "114",
+        "groupNameUZ": "САНОАТ ХИЗМАТЛАРИ",
+        "groupNameRU": "ПРОМЫШЛЕННЫЕ УСЛУГИ ",
+        "groupNameLAT": "SANOAT XIZMATLARI"
+      },
+      {
+        "mxikCode": "11415002006000000",
+        "nameUZ": "Пойабзал ишлаб чиқариш учун давал хомашёсини қайта ишлаш хизматлари",
+        "nameLAT": "Poyabzal ishlab chiqarish uchun daval xomashyosini qayta ishlash xizmatlari",
+        "nameRU": "Услуги по переработке давальческого сырья для производства обуви",
+        "groupCODE": "114",
+        "groupNameUZ": "САНОАТ ХИЗМАТЛАРИ",
+        "groupNameRU": "ПРОМЫШЛЕННЫЕ УСЛУГИ ",
+        "groupNameLAT": "SANOAT XIZMATLARI"
+      }
+    ],
+    "recordTotal": 53,
+    "errors": null,
+    "permitted": false
+  }
+}

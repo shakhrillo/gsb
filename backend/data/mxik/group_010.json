@@ -1,0 +1,1557 @@
+{
+  "metadata": {
+    "groupId": 10,
+    "fetchedAt": "2025-07-12T16:29:30.381Z",
+    "source": "https://tasnif.soliq.uz/api/cl-api/integration-mxik/references/group/code?group=10"
+  },
+  "data": {
+    "success": true,
+    "code": 200,
+    "reason": null,
+    "data": [
+      {
+        "mxikCode": "01008001001004001",
+        "nameUZ": "Гречиха Мистраль Гречиха 900 гр п/п",
+        "nameLAT": "Grechixa Мистраль Grechixa 900 gr p/p",
+        "nameRU": "Гречиха Мистраль Ядрица 900 гр п/п",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001002000000",
+        "nameUZ": "Шоли",
+        "nameLAT": "Sholi",
+        "nameRU": "Необработанный рис",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01008001001004005",
+        "nameUZ": "Гречиха Мистраль Ферма 400 гр қути",
+        "nameLAT": "Grechixa Мистраль Ferma 400 gr quti",
+        "nameRU": "Гречиха Мистраль Фермерская 400 гр коробка",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01008001001000000",
+        "nameUZ": "Гречиха",
+        "nameLAT": "Grechixa",
+        "nameRU": "Гречиха",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01008001001005001",
+        "nameUZ": "Гречиха Ярмарка Гречиха 800 гр стаб / б",
+        "nameLAT": "Grechixa Ярмарка Grechixa 800 gr stab / b",
+        "nameRU": "Гречиха Ярмарка Ядрица 800 гр стаб/б",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003014002",
+        "nameUZ": "Гуруч (қадоқланган) Ift Quality Foods сайқалланган Лазер Полиэтилен пакет 900 г",
+        "nameLAT": "Guruch (qadoqlangan) Ift Quality Foods sayqallangan Lazer Polietilen paket 900 g",
+        "nameRU": "Рис (расфасованный и упакованный) Ift Quality Foods шлифованный Лазер Полиэтиленовый пакет 900 г",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003014005",
+        "nameUZ": "Гуруч (қадоқланган) Ift Quality Foods Сайқалланган Мустакил ПЭТ банка 1 100 г",
+        "nameLAT": "Guruch (qadoqlangan) Ift Quality Foods Sayqallangan Mustakil PET banka 1 100 g",
+        "nameRU": "Рис (расфасованный и упакованный) Ift Quality Foods Шлифованный Мустакил ПЭТ банка 1 100 г",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003014001",
+        "nameUZ": "Гуруч (қадоқланган) Ift Quality Foods Сайқалланган Аланга Полиэтилен пакет 900 г",
+        "nameLAT": "Guruch (qadoqlangan) Ift Quality Foods Sayqallangan Alanga Polietilen paket 900 g",
+        "nameRU": "Рис (расфасованный и упакованный) Ift Quality Foods Шлифованный Аланга Полиэтиленовый пакет 900 г",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001001000000",
+        "nameUZ": "Тортиб сотиладиган гуруч",
+        "nameLAT": "Tortib sotiladigan guruch",
+        "nameRU": "Рис развесной",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01005001002000000",
+        "nameUZ": "Маккажўхори уруғи",
+        "nameLAT": "Makkajo’xori urug’i",
+        "nameRU": "Кукуруза семенная",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01008001001004002",
+        "nameUZ": "Гречиха Мистраль Яшил 450 гр п / п",
+        "nameLAT": "Grechixa Мистраль Yashil 450 gr p / p",
+        "nameRU": "Гречиха Мистраль Зеленая 450 гр п/п",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003014004",
+        "nameUZ": "Гуруч (қадоқланган) Ift Quality Foods сайқалланган Лазер ПЭТ банка 1 100 г",
+        "nameLAT": "Guruch (qadoqlangan) Ift Quality Foods sayqallangan Lazer PET banka 1 100 g",
+        "nameRU": "Рис (расфасованный и упакованный) Ift Quality Foods шлифованный Лазер ПЭТ банка 1 100 г",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003014003",
+        "nameUZ": "Гуруч (қадоқланган) Ift Quality Foods Сайқалланган Аланга ПЭТ банка 1 100 г",
+        "nameLAT": "Guruch (qadoqlangan) Ift Quality Foods Sayqallangan Alanga PET banka 1 100 g",
+        "nameRU": "Рис (расфасованный и упакованный) Ift Quality Foods Шлифованный Аланга ПЭТ банка 1 100 г",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003014006",
+        "nameUZ": "Гуруч (қадоқланган) Ift Quality Foods Аланга ПЭТ банка 1 300 г",
+        "nameLAT": "Guruch (qadoqlangan) Ift Quality Foods Alanga PET banka 1 300 g",
+        "nameRU": "Рис (расфасованный и упакованный) Ift Quality Foods Аланга ПЭТ банка 1 300 г",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003013003",
+        "nameUZ": "Гуруч (қадоқланган) Dar Vostoka Аланга Крафт пакет 2 000 г",
+        "nameLAT": "Guruch (qadoqlangan) Dar Vostoka Alanga Kraft paket 2 000 g",
+        "nameRU": "Рис (расфасованный и упакованный) Dar Vostoka Аланга Крафт пакет 2 000 г",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003013004",
+        "nameUZ": "Гуруч (қадоқланган) Dar Vostoka Лазер Крафт пакет 2 000 г",
+        "nameLAT": "Guruch (qadoqlangan) Dar Vostoka Lazer Kraft paket 2 000 g",
+        "nameRU": "Рис (расфасованный и упакованный) Dar Vostoka Лазер Крафт пакет 2 000 г",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003013002",
+        "nameUZ": "Гуруч (қадоқланган) Dar Vostoka Лазер Крафт пакет 1 000 г",
+        "nameLAT": "Guruch (qadoqlangan) Dar Vostoka Lazer Kraft paket 1 000 g",
+        "nameRU": "Рис (расфасованный и упакованный) Dar Vostoka Лазер Крафт пакет 1 000 г",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003013001",
+        "nameUZ": "Гуруч (қадоқланган) Dar Vostoka Аланга Крафт пакет 1 000 г",
+        "nameLAT": "Guruch (qadoqlangan) Dar Vostoka Alanga Kraft paket 1 000 g",
+        "nameRU": "Рис (расфасованный и упакованный) Dar Vostoka Аланга Крафт пакет 1 000 г",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01008001001001001",
+        "nameUZ": "Гречиха Passim Олтой ёрмалари 800 гр пачка",
+        "nameLAT": "Grechixa Passim Oltoy yormalari 800 gr pachka",
+        "nameRU": "Гречиха Passim Крупа алтайская 800 гр пачка",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01008001001002001",
+        "nameUZ": "Гречиха Yelli Оқ қўзиқоринли 250г стаб/б билан",
+        "nameLAT": "Grechixa Yelli Oq qo’ziqorinli 250g stab/b bilan",
+        "nameRU": "Гречиха Yelli С белыми грибами 250 гр стаб/б",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001002001001",
+        "nameUZ": "Шоли Bravolli 350 гр стаб/б",
+        "nameLAT": "Sholi Bravolli 350 gr stab/b",
+        "nameRU": "Необработанный рис Bravolli 350 гр стаб/б",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001002001003",
+        "nameUZ": "Шоли Bravolli 500 гр стаб/б",
+        "nameLAT": "Sholi Bravolli 500 gr stab/b",
+        "nameRU": "Необработанный рис Bravolli 500 гр стаб/б",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001002001002",
+        "nameUZ": "Шоли Bravolli Жигарранг, ёввойи 350 гр стаб / б",
+        "nameLAT": "Sholi Bravolli Jigarrang, yovvoyi 350 gr stab / b",
+        "nameRU": "Необработанный рис Bravolli Бурый, дикий 350 гр стаб/б",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01008003001000000",
+        "nameUZ": "Тритикале",
+        "nameLAT": "Tritikale",
+        "nameRU": "Тритикале",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003015001",
+        "nameUZ": "Гуруч (қадоқланган) UzRice Аланга Полипропилен пакет 950 г",
+        "nameLAT": "Guruch (qadoqlangan) UzRice Alanga Polipropilen paket 950 g",
+        "nameRU": "Рис (расфасованный и упакованный) UzRice Аланга Полипропиленовый пакет 950 г",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003015003",
+        "nameUZ": "Гуруч (қадоқланган) UzRice Мустакиллик Полипропилен пакет 950 г",
+        "nameLAT": "Guruch (qadoqlangan) UzRice Mustakillik Polipropilen paket 950 g",
+        "nameRU": "Рис (расфасованный и упакованный) UzRice Мустакиллик Полипропиленовый пакет 950 г",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003015002",
+        "nameUZ": "Гуруч (қадоқланган) UzRice Лазер Полипропилен пакет 950 г",
+        "nameLAT": "Guruch (qadoqlangan) UzRice Lazer Polipropilen paket 950 g",
+        "nameRU": "Рис (расфасованный и упакованный) UzRice Лазер Полипропиленовый пакет 950 г",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003015004",
+        "nameUZ": "Гуруч (қадоқланган) UzRice Нукус Полипропилен пакет 950 г",
+        "nameLAT": "Guruch (qadoqlangan) UzRice Nukus Polipropilen paket 950 g",
+        "nameRU": "Рис (расфасованный и упакованный) UzRice Нукус Полипропиленовый пакет 950 г",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003001006",
+        "nameUZ": "Гуруч (қадоқланган) Мистраль Фитнес эксперт 450 гр п/п",
+        "nameLAT": "Guruch (qadoqlangan) Мистраль Fitnes ekspert 450 gr p/p",
+        "nameRU": "Рис (расфасованный и упакованный) Мистраль Фитнес эксперт 450 гр п/п",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003001001",
+        "nameUZ": "Гуруч (қадоқланган) Мистраль Акватика микс 500г п / п",
+        "nameLAT": "Guruch (qadoqlangan) Мистраль Akvatika miks 500g p / p",
+        "nameRU": "Рис (расфасованный и упакованный) Мистраль Акватика mix 500 гр п/п",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003001002",
+        "nameUZ": "Гуруч (қадоқланган) Мистраль Акватика 500 гр п/п",
+        "nameLAT": "Guruch (qadoqlangan) Мистраль Akvatika 500 gr p/p",
+        "nameRU": "Рис (расфасованный и упакованный) Мистраль Акватика 500 гр п/п",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01008001001003001",
+        "nameUZ": "Гречиха Алтайская Сказка Майдаланмаган гречка 800 гр пачка",
+        "nameLAT": "Grechixa Алтайская Сказка Maydalanmagan grechka 800 gr pachka",
+        "nameRU": "Гречиха Алтайская Сказка Крупа ядрица 800 гр пачка",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01004001001000000",
+        "nameUZ": "Сўли",
+        "nameLAT": "So’li",
+        "nameRU": "Овес",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01008001001004004",
+        "nameUZ": "Гречиха Мистраль 900 гр п / п",
+        "nameLAT": "Grechixa Мистраль 900 gr p / p",
+        "nameRU": "Гречиха Мистраль 900 гр п/п",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003002001",
+        "nameUZ": "Гуруч (қадоқланган) Баракат Гуруч баракат 25 кг қоп",
+        "nameLAT": "Guruch (qadoqlangan) Баракат Guruch barakat 25 kg qop",
+        "nameRU": "Рис (расфасованный и упакованный) Баракат Рис баракат 25кг меш",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01008001001004003",
+        "nameUZ": "Гречиха Мистраль Гречиха 400 гр қути",
+        "nameLAT": "Grechixa Мистраль Grechixa 400 gr quti",
+        "nameRU": "Гречиха Мистраль Ядрице 400 гр коробка",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01001001001000000",
+        "nameUZ": "Буғдой",
+        "nameLAT": "Bug’doy",
+        "nameRU": "Пшеница",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01002001001000000",
+        "nameUZ": "Жавдари",
+        "nameLAT": "Javdari",
+        "nameRU": "Рожь",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01003001002000000",
+        "nameUZ": "Арпа уруғи",
+        "nameLAT": "Arpa urug’i",
+        "nameRU": "Ячмень семенной",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003002002",
+        "nameUZ": "Гуруч (қадоқланган) Баракат Гуруч баракат 5 кг қоп",
+        "nameLAT": "Guruch (qadoqlangan) Баракат Guruch barakat 5 kg qop",
+        "nameRU": "Рис (расфасованный и упакованный) Баракат Рис баракат 5кг меш",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003005010",
+        "nameUZ": "Гуруч (қадоқланган) Safir Аланга Полиэтилен пакет 5 000 г",
+        "nameLAT": "Guruch (qadoqlangan) Safir Alanga Polietilen paket 5 000 g",
+        "nameRU": "Рис (расфасованный и упакованный) Safir Аланга Полиэтиленовый пакет 5 000 г",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003005012",
+        "nameUZ": "Гуруч (қадоқланган) Safir Лазер Полиэтилен пакет 5 000 г",
+        "nameLAT": "Guruch (qadoqlangan) Safir Lazer Polietilen paket 5 000 g",
+        "nameRU": "Рис (расфасованный и упакованный) Safir Лазер Полиэтиленовый пакет 5 000 г",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003011003",
+        "nameUZ": "Гуруч (қадоқланган) Marfield Сайқалланган Сечка Полиэтилен пакет 500 г",
+        "nameLAT": "Guruch (qadoqlangan) Marfield Sayqallangan Sechka Polietilen paket 500 g",
+        "nameRU": "Рис (расфасованный и упакованный) Marfield Шлифованный Сечка Полиэтиленовый пакет 500 г",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003005004",
+        "nameUZ": "Гуруч (қадоқланган) Safir Аланга Полиэтилен пакет 2000 г",
+        "nameLAT": "Guruch (qadoqlangan) Safir Alanga Polietilen paket 2000 g",
+        "nameRU": "Рис (расфасованный и упакованный) Safir Аланга Полиэтиленовый пакет 2 000 г",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003011005",
+        "nameUZ": "Гуруч (қадоқланган) Marfield сайқалланган олиқ навли Лазер Полиэтилен пакет 900 г",
+        "nameLAT": "Guruch (qadoqlangan) Marfield sayqallangan oliq navli Lazer Polietilen paket 900 g",
+        "nameRU": "Рис (расфасованный и упакованный) Marfield шлифованный Лазер высший сорт Полиэтиленовый пакет 900 г",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003011006",
+        "nameUZ": "Гуруч (қадоқланган) Marfield Сайқалланган олий навли Аланга Полиэтилен пакет 1 000 г",
+        "nameLAT": "Guruch (qadoqlangan) Marfield Sayqallangan oliy navli Alanga Polietilen paket 1 000 g",
+        "nameRU": "Рис (расфасованный и упакованный) Marfield Шлифованный Аланга высший сорт Полиэтиленовый пакет 1 000 г",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003005006",
+        "nameUZ": "Гуруч (қадоқланган) Safir Лазер Полиэтилен пакет 2000 г",
+        "nameLAT": "Guruch (qadoqlangan) Safir Lazer Polietilen paket 2000 g",
+        "nameRU": "Рис (расфасованный и упакованный) Safir Лазер Полиэтиленовый пакет 2 000 г",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003005011",
+        "nameUZ": "Гуруч (қадоқланган) Safir Девзира Полиэтилен пакет 5 000 г",
+        "nameLAT": "Guruch (qadoqlangan) Safir Devzira Polietilen paket 5 000 g",
+        "nameRU": "Рис (расфасованный и упакованный) Safir Девзира Полиэтиленовый пакет 5 000 г",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003005007",
+        "nameUZ": "Гуруч (қадоқланган) Safir Аланга Полиэтилен пакет 3 000 г",
+        "nameLAT": "Guruch (qadoqlangan) Safir Alanga Polietilen paket 3 000 g",
+        "nameRU": "Рис (расфасованный и упакованный) Safir Аланга Полиэтиленовый пакет 3 000 г",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003008001",
+        "nameUZ": "Гуруч (қадоқланган) Сафина \"Лазер Хоразм\" 1 нав Полиэтилен пакет 900 г",
+        "nameLAT": "Guruch (qadoqlangan) Сафина \"Lazer Xorazm\" 1 nav Polietilen paket 900 g",
+        "nameRU": "Рис (расфасованный и упакованный) Сафина \"Лазер Хоразм\" 1 сорт Полиэтиленовый пакет 900 г",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003008002",
+        "nameUZ": "Гуруч (қадоқланган) Сафина \"Лазер Хоразм\" олий нав Полиэтилен пакет 900 г",
+        "nameLAT": "Guruch (qadoqlangan) Сафина \"Lazer Xorazm\" oliy nav Polietilen paket 900 g",
+        "nameRU": "Рис (расфасованный и упакованный) Сафина \"Лазер Хоразм\" Высший сорт Полиэтиленовый пакет 900 г",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003011012",
+        "nameUZ": "Гуруч (қадоқланган) Marfield сайқалланган 1 навли Лазер Полиэтилен қоп 25 000 г",
+        "nameLAT": "Guruch (qadoqlangan) Marfield sayqallangan 1 navli Lazer Polietilen qop 25 000 g",
+        "nameRU": "Рис (расфасованный и упакованный) Marfield шлифованный Лазер 1 сорт Полиэтиленовый мешок 25 000 г",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003011013",
+        "nameUZ": "Гуруч (қадоқланган) Marfield сайқалланган олиқ навли Лазер Полиэтилен қоп 25 000 г",
+        "nameLAT": "Guruch (qadoqlangan) Marfield sayqallangan oliq navli Lazer Polietilen qop 25 000 g",
+        "nameRU": "Рис (расфасованный и упакованный) Marfield шлифованный Лазер высший сорт Полиэтиленовый мешок 25 000 г",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003005005",
+        "nameUZ": "Гуруч (қадоқланган) Safir Девзира Полиэтилен пакет 2000 г",
+        "nameLAT": "Guruch (qadoqlangan) Safir Devzira Polietilen paket 2000 g",
+        "nameRU": "Рис (расфасованный и упакованный) Safir Девзира Полиэтиленовый пакет 2 000 г",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003005003",
+        "nameUZ": "Гуруч (қадоқланган) Safir Лазер Полиэтилен пакет 900 г",
+        "nameLAT": "Guruch (qadoqlangan) Safir Lazer Polietilen paket 900 g",
+        "nameRU": "Рис (расфасованный и упакованный) Safir Лазер Полиэтиленовый пакет 900 г",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003005001",
+        "nameUZ": "Гуруч (қадоқланган) Safir Аланга Полиэтилен пакет 900 г",
+        "nameLAT": "Guruch (qadoqlangan) Safir Alanga Polietilen paket 900 g",
+        "nameRU": "Рис (расфасованный и упакованный) Safir Аланга Полиэтиленовый пакет 900 г",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003011008",
+        "nameUZ": "Гуруч (қадоқланган) Marfield Сайқалланган олий навли Аланга Полиэтилен пакет 2 500 г",
+        "nameLAT": "Guruch (qadoqlangan) Marfield Sayqallangan oliy navli Alanga Polietilen paket 2 500 g",
+        "nameRU": "Рис (расфасованный и упакованный) Marfield Шлифованный Аланга высший сорт Полиэтиленовый пакет 2 500 г",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003005002",
+        "nameUZ": "Гуруч (қадоқланган) Safir Девзира Полиэтилен пакет 900 г",
+        "nameLAT": "Guruch (qadoqlangan) Safir Devzira Polietilen paket 900 g",
+        "nameRU": "Рис (расфасованный и упакованный) Safir Девзира Полиэтиленовый пакет 900 г",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003008005",
+        "nameUZ": "Гуруч (қадоқланган) Сафина Чунгара Полиэтилен пакет 900 г",
+        "nameLAT": "Guruch (qadoqlangan) Сафина Chungara Polietilen paket 900 g",
+        "nameRU": "Рис (расфасованный и упакованный) Сафина Чунгара Полиэтиленовый пакет 900 г",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003008004",
+        "nameUZ": "Гуруч (қадоқланган) Сафина Лазер Риштон Полиэтилен пакет 900 г",
+        "nameLAT": "Guruch (qadoqlangan) Сафина Lazer Rishton Polietilen paket 900 g",
+        "nameRU": "Рис (расфасованный и упакованный) Сафина Лазер Риштон Полиэтиленовый пакет 900 г",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003008003",
+        "nameUZ": "Гуруч (қадоқланган) Сафина оқ гуруч Полиэтилен пакет 900 г",
+        "nameLAT": "Guruch (qadoqlangan) Сафина oq guruch Polietilen paket 900 g",
+        "nameRU": "Рис (расфасованный и упакованный) Сафина Белый рис Полиэтиленовый пакет 900 г",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003011021",
+        "nameUZ": "Гуруч (қадоқланган) Marfield Сайқалланган олий нав Нукус Полиэтилен қоп 50 000 г",
+        "nameLAT": "Guruch (qadoqlangan) Marfield Sayqallangan oliy nav Nukus Polietilen qop 50 000 g",
+        "nameRU": "Рис (расфасованный и упакованный) Marfield Шлифованный Нукус высший сорт Полиэтиленовый мешок 50 000 г",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003011017",
+        "nameUZ": "Гуруч (қадоқланган) Marfield Сайқалланган олий навли Аланга Полиэтилен қоп 50 000 г",
+        "nameLAT": "Guruch (qadoqlangan) Marfield Sayqallangan oliy navli Alanga Polietilen qop 50 000 g",
+        "nameRU": "Рис (расфасованный и упакованный) Marfield Шлифованный Аланга высший сорт Полиэтиленовый мешок 50 000 г",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003011010",
+        "nameUZ": "Гуруч (қадоқланган) Marfield Сайқалланган 1 навли Аланга Полиэтилен қоп 25 000 г",
+        "nameLAT": "Guruch (qadoqlangan) Marfield Sayqallangan 1 navli Alanga Polietilen qop 25 000 g",
+        "nameRU": "Рис (расфасованный и упакованный) Marfield Шлифованный Аланга 1 сорт Полиэтиленовый мешок 25 000 г",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003011014",
+        "nameUZ": "Гуруч (қадоқланган) Marfield Сайқалланган олий нав Мустакиллик Полиэтилен қоп 25 000 г",
+        "nameLAT": "Guruch (qadoqlangan) Marfield Sayqallangan oliy nav Mustakillik Polietilen qop 25 000 g",
+        "nameRU": "Рис (расфасованный и упакованный) Marfield Шлифованный Мустакиллик высший сорт Полиэтиленовый мешок 25 000 г",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003011018",
+        "nameUZ": "Гуруч (қадоқланган) Marfield сайқалланган 1 навли Лазер Полиэтилен қоп 50 000 г",
+        "nameLAT": "Guruch (qadoqlangan) Marfield sayqallangan 1 navli Lazer Polietilen qop 50 000 g",
+        "nameRU": "Рис (расфасованный и упакованный) Marfield шлифованный Лазер 1 сорт Полиэтиленовый мешок 50 000 г",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003011002",
+        "nameUZ": "Гуруч (қадоқланган) Marfield сайқалланган олиқ навли Лазер Полиэтилен пакет 500 г",
+        "nameLAT": "Guruch (qadoqlangan) Marfield sayqallangan oliq navli Lazer Polietilen paket 500 g",
+        "nameRU": "Рис (расфасованный и упакованный) Marfield шлифованный Лазер высший сорт Полиэтиленовый пакет 500 г",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003011009",
+        "nameUZ": "Гуруч (қадоқланган) Marfield сайқалланган олиқ навли Лазер Полиэтилен пакет 2 500 г",
+        "nameLAT": "Guruch (qadoqlangan) Marfield sayqallangan oliq navli Lazer Polietilen paket 2 500 g",
+        "nameRU": "Рис (расфасованный и упакованный) Marfield шлифованный Лазер высший сорт Полиэтиленовый пакет 2 500 г",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003011016",
+        "nameUZ": "Гуруч (қадоқланган) Marfield Сайқалланган 1 навли Аланга Полиэтилен қоп 50 000 г",
+        "nameLAT": "Guruch (qadoqlangan) Marfield Sayqallangan 1 navli Alanga Polietilen qop 50 000 g",
+        "nameRU": "Рис (расфасованный и упакованный) Marfield Шлифованный Аланга 1 сорт Полиэтиленовый мешок 50 000 г",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003011019",
+        "nameUZ": "Гуруч (қадоқланган) Marfield сайқалланган олиқ навли Лазер Полиэтилен қоп 50 000 г",
+        "nameLAT": "Guruch (qadoqlangan) Marfield sayqallangan oliq navli Lazer Polietilen qop 50 000 g",
+        "nameRU": "Рис (расфасованный и упакованный) Marfield шлифованный Лазер высший сорт Полиэтиленовый мешок 50 000 г",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003011007",
+        "nameUZ": "Гуруч (қадоқланган) Marfield сайқалланган олиқ навли Лазер Полиэтилен пакет 1 000 г",
+        "nameLAT": "Guruch (qadoqlangan) Marfield sayqallangan oliq navli Lazer Polietilen paket 1 000 g",
+        "nameRU": "Рис (расфасованный и упакованный) Marfield шлифованный Лазер высший сорт Полиэтиленовый пакет 1 000 г",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003011020",
+        "nameUZ": "Гуруч (қадоқланган) Marfield Сайқалланган олий нав Мустакиллик Полиэтилен қоп 50 000 г",
+        "nameLAT": "Guruch (qadoqlangan) Marfield Sayqallangan oliy nav Mustakillik Polietilen qop 50 000 g",
+        "nameRU": "Рис (расфасованный и упакованный) Marfield Шлифованный Мустакиллик высший сорт Полиэтиленовый мешок 50 000 г",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01001001002000000",
+        "nameUZ": "Буғдой уруғи",
+        "nameLAT": "Bug’doy urug’i",
+        "nameRU": "Пшеница семенная",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003003009",
+        "nameUZ": "Гуруч (қадоқланган) Элита Лидер 10 кг қоп",
+        "nameLAT": "Guruch (qadoqlangan) Элита Lider 10 kg qop",
+        "nameRU": "Рис (расфасованный и упакованный) Элита Лидер 10кг меш",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003003017",
+        "nameUZ": "Гуруч (қадоқланган) Элита Камолино янтарь 3 кг қоп",
+        "nameLAT": "Guruch (qadoqlangan) Элита Kamolino yantar 3 kg qop",
+        "nameRU": "Рис (расфасованный и упакованный) Элита Камолино янтарь 3кг меш",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003003018",
+        "nameUZ": "Гуруч (қадоқланган) Элита Янтарь 4,5 кг қоп",
+        "nameLAT": "Guruch (qadoqlangan) Элита Yantar 4,5 kg qop",
+        "nameRU": "Рис (расфасованный и упакованный) Элита Янтарь 4,5кг меш",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003006001",
+        "nameUZ": "Гуруч (қадоқланган) Roma's Аланга Полипропилен пакет 1 000 г",
+        "nameLAT": "Guruch (qadoqlangan) Roma's Alanga Polipropilen paket 1 000 g",
+        "nameRU": "Рис (расфасованный и упакованный) Roma's Аланга Полипропиленовый пакет 1 000 г",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003006002",
+        "nameUZ": "Гуруч (қадоқланган) Roma's Девзира Полипропилен пакет 1 000 г",
+        "nameLAT": "Guruch (qadoqlangan) Roma's Devzira Polipropilen paket 1 000 g",
+        "nameRU": "Рис (расфасованный и упакованный) Roma's Девзира Полипропиленовый пакет 1 000 г",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003009001",
+        "nameUZ": "Гуруч (қадоқланган) Ramazan Авангард Полиэтилен пакет 900 г",
+        "nameLAT": "Guruch (qadoqlangan) Ramazan Avangard Polietilen paket 900 g",
+        "nameRU": "Рис (расфасованный и упакованный) Ramazan Авангард Полиэтиленовый пакет 900 г",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003009003",
+        "nameUZ": "Гуруч (қадоқланган) Ramazan Басмати Полиэтилен пакет 900 г",
+        "nameLAT": "Guruch (qadoqlangan) Ramazan Basmati Polietilen paket 900 g",
+        "nameRU": "Рис (расфасованный и упакованный) Ramazan Басмати Полиэтиленовый пакет 900 г",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003006003",
+        "nameUZ": "Гуруч (қадоқланган) Roma's Лазер Полипропилен пакет 1 000 г",
+        "nameLAT": "Guruch (qadoqlangan) Roma's Lazer Polipropilen paket 1 000 g",
+        "nameRU": "Рис (расфасованный и упакованный) Roma's Лазер Полипропиленовый пакет 1 000 г",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003009002",
+        "nameUZ": "Гуруч (қадоқланган) Ramazan Аланга Полиэтилен пакет 900 г",
+        "nameLAT": "Guruch (qadoqlangan) Ramazan Alanga Polietilen paket 900 g",
+        "nameRU": "Рис (расфасованный и упакованный) Ramazan Аланга Полиэтиленовый пакет 900 г",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003009005",
+        "nameUZ": "Гуруч (қадоқланган) Ramazan Лазер Полиэтилен пакет 900 г",
+        "nameLAT": "Guruch (qadoqlangan) Ramazan Lazer Polietilen paket 900 g",
+        "nameRU": "Рис (расфасованный и упакованный) Ramazan Лазер Полиэтиленовый пакет 900 г",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003009004",
+        "nameUZ": "Гуруч (қадоқланган) Ramazan Девзира Полиэтилен пакет 900 г",
+        "nameLAT": "Guruch (qadoqlangan) Ramazan Devzira Polietilen paket 900 g",
+        "nameRU": "Рис (расфасованный и упакованный) Ramazan Девзира Полиэтиленовый пакет 900 г",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003012001",
+        "nameUZ": "Гуруч (қадоқланган) Алтын дан Лазер OPP пакет 800 г",
+        "nameLAT": "Guruch (qadoqlangan) Алтын дан Lazer OPP paket 800 g",
+        "nameRU": "Рис (расфасованный и упакованный) Алтын дан Лазер OPP пакет 800 г",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003003010",
+        "nameUZ": "Гуруч (қадоқланган) Элита Камолино янтарь 10 кг қоп",
+        "nameLAT": "Guruch (qadoqlangan) Элита Kamolino yantar 10 kg qop",
+        "nameRU": "Рис (расфасованный и упакованный) Элита Камолино янтарь 10кг меш",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003003024",
+        "nameUZ": "Гуруч (қадоқланган) Элита Янтарь 700 гр қоп",
+        "nameLAT": "Guruch (qadoqlangan) Элита Yantar 700 gr qop",
+        "nameRU": "Рис (расфасованный и упакованный) Элита Янтарь 700 гр меш",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003003003",
+        "nameUZ": "Гуруч (қадоқланган) Элита Янтарь 25 кг қоп",
+        "nameLAT": "Guruch (qadoqlangan) Элита Yantar 25 kg qop",
+        "nameRU": "Рис (расфасованный и упакованный) Элита Янтарь 25кг меш",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003003008",
+        "nameUZ": "Гуруч (қадоқланган) Элита Камолино лидер 25 кг қоп",
+        "nameLAT": "Guruch (qadoqlangan) Элита Kamolino lider 25 kg qop",
+        "nameRU": "Рис (расфасованный и упакованный) Элита Камолино лидер 25кг меш",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003003016",
+        "nameUZ": "Гуруч (қадоқланган) Элита 25 кг қоп",
+        "nameLAT": "Guruch (qadoqlangan) Элита 25 kg qop",
+        "nameRU": "Рис (расфасованный и упакованный) Элита 25Кг меш",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003003014",
+        "nameUZ": "Гуруч (қадоқланган) Элита Камолино лидер 5 кг қоп",
+        "nameLAT": "Guruch (qadoqlangan) Элита Kamolino lider 5 kg qop",
+        "nameRU": "Рис (расфасованный и упакованный) Элита Камолино лидер 5кг меш",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003003019",
+        "nameUZ": "Гуруч (қадоқланган) Элита Янтарь 20 кг қоп",
+        "nameLAT": "Guruch (qadoqlangan) Элита Yantar 20 kg qop",
+        "nameRU": "Рис (расфасованный и упакованный) Элита Янтарь 20кг меш",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003003021",
+        "nameUZ": "Гуруч (қадоқланган) Элита Лидер 4,5 кг қоп",
+        "nameLAT": "Guruch (qadoqlangan) Элита Lider 4,5 kg qop",
+        "nameRU": "Рис (расфасованный и упакованный) Элита Лидер 4,5кг меш",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003003023",
+        "nameUZ": "Гуруч (қадоқланган) Элита Лидер 3 кг қоп",
+        "nameLAT": "Guruch (qadoqlangan) Элита Lider 3 kg qop",
+        "nameRU": "Рис (расфасованный и упакованный) Элита Лидер 3кг меш",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003003002",
+        "nameUZ": "Гуруч (қадоқланган) Элита 5 кг қоп",
+        "nameLAT": "Guruch (qadoqlangan) Элита 5 kg qop",
+        "nameRU": "Рис (расфасованный и упакованный) Элита 5кг меш",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003003007",
+        "nameUZ": "Гуруч (қадоқланган) Элита 10 кг қоп",
+        "nameLAT": "Guruch (qadoqlangan) Элита 10 kg qop",
+        "nameRU": "Рис (расфасованный и упакованный) Элита 10 кг меш",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003003001",
+        "nameUZ": "Гуруч (қадоқланган) Элита Лидер 25 кг қоп",
+        "nameLAT": "Guruch (qadoqlangan) Элита Lider 25 kg qop",
+        "nameRU": "Рис (расфасованный и упакованный) Элита Лидер 25кг меш",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003003020",
+        "nameUZ": "Гуруч (қадоқланган) Элита Лидер 20 кг қоп",
+        "nameLAT": "Guruch (qadoqlangan) Элита Lider 20 kg qop",
+        "nameRU": "Рис (расфасованный и упакованный) Элита Лидер 20кг меш",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003003004",
+        "nameUZ": "Гуруч (қадоқланган) Элита Камолино янтарь 25 кг қоп",
+        "nameLAT": "Guruch (qadoqlangan) Элита Kamolino yantar 25 kg qop",
+        "nameRU": "Рис (расфасованный и упакованный) Элита Камолино янтарь 25кг меш",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003003005",
+        "nameUZ": "Гуруч (қадоқланган) Элита Янтарь 10 кг қоп",
+        "nameLAT": "Guruch (qadoqlangan) Элита Yantar 10 kg qop",
+        "nameRU": "Рис (расфасованный и упакованный) Элита Янтарь 10 кг меш",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001001022001",
+        "nameUZ": "Тортиб сотиладиган гуруч Кора-килтирик",
+        "nameLAT": "Tortib sotiladigan guruch Кора-килтирик",
+        "nameRU": "Рис развесной Кора-килтирик",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001001019001",
+        "nameUZ": "Тортиб сотиладиган гуруч Авангард",
+        "nameLAT": "Tortib sotiladigan guruch Авангард",
+        "nameRU": "Рис развесной Авангард",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01001002001000000",
+        "nameUZ": "Меслин",
+        "nameLAT": "Meslin",
+        "nameRU": "Меслин",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01002001002000000",
+        "nameUZ": "Жавдари уруғи",
+        "nameLAT": "Javdari urug’i",
+        "nameRU": "Рожь семенная",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01008002002000000",
+        "nameUZ": "Тариқ уруғи",
+        "nameLAT": "Tariq urug’i",
+        "nameRU": "Просо семенное",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01004001002000000",
+        "nameUZ": "Сўли уруғи",
+        "nameLAT": "So’li urug’i",
+        "nameRU": "Овес семенной",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01007002001000000",
+        "nameUZ": "Жўхори (сорго)",
+        "nameLAT": "Jo’xori (sorgo)",
+        "nameRU": "Сорго",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01008001003000000",
+        "nameUZ": "Гречиха уруғи",
+        "nameLAT": "Grechixa urug’i",
+        "nameRU": "Гречиха семенная",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01007002002000000",
+        "nameUZ": "Жўхори (сорго) уруғи",
+        "nameLAT": "Jo’xori (sorgo) urug’i",
+        "nameRU": "Сорго семенное",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001001025001",
+        "nameUZ": "Тортиб сотиладиган гуруч Садри",
+        "nameLAT": "Tortib sotiladigan guruch Садри",
+        "nameRU": "Рис развесной Садри",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001001021001",
+        "nameUZ": "Тортиб сотиладиган гуруч Дастар сарык",
+        "nameLAT": "Tortib sotiladigan guruch Дастар сарык",
+        "nameRU": "Рис развесной Дастар сарык",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003000000",
+        "nameUZ": "Гуруч (қадоқланган)",
+        "nameLAT": "Guruch (qadoqlangan)",
+        "nameRU": "Рис (расфасованный и упакованный)",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001001018001",
+        "nameUZ": "Тортиб сотиладиган гуруч Аланга",
+        "nameLAT": "Tortib sotiladigan guruch Аланга",
+        "nameRU": "Рис развесной Аланга",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001001023001",
+        "nameUZ": "Тортиб сотиладиган гуруч Чунгара",
+        "nameLAT": "Tortib sotiladigan guruch Чунгара",
+        "nameRU": "Рис развесной Чунгара",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001001024001",
+        "nameUZ": "Тортиб сотиладиган гуруч Басмати",
+        "nameLAT": "Tortib sotiladigan guruch Басмати",
+        "nameRU": "Рис развесной Басмати",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001001020001",
+        "nameUZ": "Тортиб сотиладиган гуруч Девзира",
+        "nameLAT": "Tortib sotiladigan guruch Девзира",
+        "nameRU": "Рис развесной Девзира",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001001017001",
+        "nameUZ": "Тортиб сотиладиган гуруч Лазер",
+        "nameLAT": "Tortib sotiladigan guruch Лазер",
+        "nameRU": "Рис развесной Лазер",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01003001001000000",
+        "nameUZ": "Арпа",
+        "nameLAT": "Arpa",
+        "nameRU": "Ячмень",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003004003",
+        "nameUZ": "Гуруч (қадоқланган) Lazzet Нукус Полиэтилен пакет 900 г",
+        "nameLAT": "Guruch (qadoqlangan) Lazzet Nukus Polietilen paket 900 g",
+        "nameRU": "Рис (расфасованный и упакованный) Lazzet Нукус Полиэтиленовый пакет 900 г",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003010009",
+        "nameUZ": "Гуруч (қадоқланган) 365 дней Сайқалланмаган узун донли Lazer БОПП пакет 2 000 г",
+        "nameLAT": "Guruch (qadoqlangan) 365 дней Sayqallanmagan uzun donli Lazer BOPP paket 2 000 g",
+        "nameRU": "Рис (расфасованный и упакованный) 365 дней Длиннозерный Lazer нешлифованный БОПП пакет 2 000 г",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003004001",
+        "nameUZ": "Гуруч (қадоқланган) Lazzet Аланга Полиэтилен пакет 900 г",
+        "nameLAT": "Guruch (qadoqlangan) Lazzet Alanga Polietilen paket 900 g",
+        "nameRU": "Рис (расфасованный и упакованный) Lazzet Аланга Полиэтиленовый пакет 900 г",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003004002",
+        "nameUZ": "Гуруч (қадоқланган) Lazzet Лазер Полиэтилен пакет 900 г",
+        "nameLAT": "Guruch (qadoqlangan) Lazzet Lazer Polietilen paket 900 g",
+        "nameRU": "Рис (расфасованный и упакованный) Lazzet Лазер Полиэтиленовый пакет 900 г",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003004004",
+        "nameUZ": "Гуруч (қадоқланган) Lazzet Тозаланган Аланга Полиэтилен пакет 900 г",
+        "nameLAT": "Guruch (qadoqlangan) Lazzet Tozalangan Alanga Polietilen paket 900 g",
+        "nameRU": "Рис (расфасованный и упакованный) Lazzet Очищенный Аланга Полиэтиленовый пакет 900 г",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003004008",
+        "nameUZ": "Гуруч (қадоқланган) Lazzet Сайқалланган олий нав Полиэтилен пакет 1 000 г",
+        "nameLAT": "Guruch (qadoqlangan) Lazzet Sayqallangan oliy nav Polietilen paket 1 000 g",
+        "nameRU": "Рис (расфасованный и упакованный) Lazzet шлифованный высший сорт Полиэтиленовый пакет 1 000 г",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003004007",
+        "nameUZ": "Гуруч (қадоқланган) Lazzet Сайқалланган олий нав Полиэтилен пакет 900 г",
+        "nameLAT": "Guruch (qadoqlangan) Lazzet Sayqallangan oliy nav Polietilen paket 900 g",
+        "nameRU": "Рис (расфасованный и упакованный) Lazzet шлифованный высший сорт Полиэтиленовый пакет 900 г",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003004006",
+        "nameUZ": "Гуруч (қадоқланган) Lazzet Тозаланган Нукус Полиэтилен пакет 900 г",
+        "nameLAT": "Guruch (qadoqlangan) Lazzet Tozalangan Nukus Polietilen paket 900 g",
+        "nameRU": "Рис (расфасованный и упакованный) Lazzet Очищенный Нукус Полиэтиленовый пакет 900 г",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003007002",
+        "nameUZ": "Гуруч (қадоқланган) Афсона Авангард Полиэтилен пакет 1 000 г",
+        "nameLAT": "Guruch (qadoqlangan) Афсона Avangard Polietilen paket 1 000 g",
+        "nameRU": "Рис (расфасованный и упакованный) Афсона Авангард Полиэтиленовый пакет 1 000 г",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003007004",
+        "nameUZ": "Гуруч (қадоқланган) Афсона Лазер Полиэтилен пакет 1 000 г",
+        "nameLAT": "Guruch (qadoqlangan) Афсона Lazer Polietilen paket 1 000 g",
+        "nameRU": "Рис (расфасованный и упакованный) Афсона Лазер Полиэтиленовый пакет 1 000 г",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003007005",
+        "nameUZ": "Гуруч (қадоқланган) Афсона Узбегим Полиэтилен пакет 1 000 г",
+        "nameLAT": "Guruch (qadoqlangan) Афсона Uzbegim Polietilen paket 1 000 g",
+        "nameRU": "Рис (расфасованный и упакованный) Афсона Узбегим Полиэтиленовый пакет 1 000 г",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003010013",
+        "nameUZ": "Гуруч (қадоқланган) 365 дней ўртача катталикдаги Nukus БОПП пакет 2 000 г",
+        "nameLAT": "Guruch (qadoqlangan) 365 дней o’rtacha kattalikdagi Nukus BOPP paket 2 000 g",
+        "nameRU": "Рис (расфасованный и упакованный) 365 дней среднезерный сорт Nukus БОПП пакет 2 000 г",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003010001",
+        "nameUZ": "Гуруч (қадоқланган) 365 дней Сайқалланмаган узун донли Lazer БОПП пакет 900 г",
+        "nameLAT": "Guruch (qadoqlangan) 365 дней Sayqallanmagan uzun donli Lazer BOPP paket 900 g",
+        "nameRU": "Рис (расфасованный и упакованный) 365 дней Длиннозерный Lazer нешлифованный БОПП пакет 900 г",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003007003",
+        "nameUZ": "Гуруч (қадоқланган) Афсона Девзира Полиэтилен пакет 1 000 г",
+        "nameLAT": "Guruch (qadoqlangan) Афсона Devzira Polietilen paket 1 000 g",
+        "nameRU": "Рис (расфасованный и упакованный) Афсона Девзира Полиэтиленовый пакет 1 000 г",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003010008",
+        "nameUZ": "Гуруч (қадоқланган) 365 дней ўртача катталикдаги Nukus БОПП пакет 900 г",
+        "nameLAT": "Guruch (qadoqlangan) 365 дней o’rtacha kattalikdagi Nukus BOPP paket 900 g",
+        "nameRU": "Рис (расфасованный и упакованный) 365 дней среднезерный сорт Nukus БОПП пакет 900 г",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003010007",
+        "nameUZ": "Гуруч (қадоқланган) 365 дней Енгил сайқалланган ўртача узунликдаги Девзира БОПП пакет 900 г",
+        "nameLAT": "Guruch (qadoqlangan) 365 дней Yengil sayqallangan o’rtacha uzunlikdagi Devzira BOPP paket 900 g",
+        "nameRU": "Рис (расфасованный и упакованный) 365 дней Среднезерный Девзира слабошлифованный БОПП пакет 900 г",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003010012",
+        "nameUZ": "Гуруч (қадоқланган) 365 дней Думалоқ донли Alanga БОПП пакет 2 000 г",
+        "nameLAT": "Guruch (qadoqlangan) 365 дней Dumaloq donli Alanga BOPP paket 2 000 g",
+        "nameRU": "Рис (расфасованный и упакованный) 365 дней Круглозерный Alanga БОПП пакет 2 000 г",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003010010",
+        "nameUZ": "Гуруч (қадоқланган) 365 дней Сайқалланган мармар узун донли Lazer БОПП пакет 2 000 г",
+        "nameLAT": "Guruch (qadoqlangan) 365 дней Sayqallangan marmar uzun donli Lazer BOPP paket 2 000 g",
+        "nameRU": "Рис (расфасованный и упакованный) 365 дней Длиннозерный мраморный Lazer  шлифованный БОПП пакет 2 000 г",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003010006",
+        "nameUZ": "Гуруч (қадоқланган) 365 дней думалоқ донли Alanga БОПП пакет 900 г",
+        "nameLAT": "Guruch (qadoqlangan) 365 дней dumaloq donli Alanga BOPP paket 900 g",
+        "nameRU": "Рис (расфасованный и упакованный) 365 дней Круглозерный Alanga БОПП пакет 900 г",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003010005",
+        "nameUZ": "Гуруч (қадоқланган) 365 дней думалоқ донли Alanga Xorazm БОПП пакет 900 г",
+        "nameLAT": "Guruch (qadoqlangan) 365 дней dumaloq donli Alanga Xorazm BOPP paket 900 g",
+        "nameRU": "Рис (расфасованный и упакованный) 365 дней Круглозерный Alanga Xorazm БОПП пакет 900 г",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003010003",
+        "nameUZ": "Гуруч (қадоқланган) 365 дней Сайқалланган мармар узун донли Lazer БОПП пакет 900 г",
+        "nameLAT": "Guruch (qadoqlangan) 365 дней Sayqallangan marmar uzun donli Lazer BOPP paket 900 g",
+        "nameRU": "Рис (расфасованный и упакованный) 365 дней Длиннозерный мраморный Lazer  шлифованный БОПП пакет 900 г",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003001003",
+        "nameUZ": "Гуруч (қадоқланган) Мистраль Басмати олтин 500 гр п/п",
+        "nameLAT": "Guruch (qadoqlangan) Мистраль Basmati oltin 500 gr p/p",
+        "nameRU": "Рис (расфасованный и упакованный) Мистраль Басмати gold 500 гр п/п",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003001004",
+        "nameUZ": "Гуруч (қадоқланган) Мистраль Color mix 500 гр п / п",
+        "nameLAT": "Guruch (qadoqlangan) Мистраль Color mix 500 gr p / p",
+        "nameRU": "Рис (расфасованный и упакованный) Мистраль Color mix 500 гр п/п",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003010002",
+        "nameUZ": "Гуруч (қадоқланган) 365 дней Сариқ узун донли Alanga БОПП пакет 900 г",
+        "nameLAT": "Guruch (qadoqlangan) 365 дней Sariq uzun donli Alanga BOPP paket 900 g",
+        "nameRU": "Рис (расфасованный и упакованный) 365 дней Длиннозерный Басмати желтый БОПП пакет 900 г",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003010011",
+        "nameUZ": "Гуруч (қадоқланган) 365 дней Думалоқ донли Alanga Xorazm БОПП пакет 2 000 г",
+        "nameLAT": "Guruch (qadoqlangan) 365 дней Dumaloq donli Alanga Xorazm BOPP paket 2 000 g",
+        "nameRU": "Рис (расфасованный и упакованный) 365 дней Круглозерный Alanga Xorazm БОПП пакет 2 000 г",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003001005",
+        "nameUZ": "Гуруч (қадоқланган) Мистраль Жасмин red 500г п / п",
+        "nameLAT": "Guruch (qadoqlangan) Мистраль Jasmin red 500g p / p",
+        "nameRU": "Рис (расфасованный и упакованный) Мистраль Жасмин red 500 гр п/п",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003004005",
+        "nameUZ": "Гуруч (қадоқланган) Lazzet Тозаланган лазер Полиэтилен пакет 900 г",
+        "nameLAT": "Guruch (qadoqlangan) Lazzet Tozalangan lazer Polietilen paket 900 g",
+        "nameRU": "Рис (расфасованный и упакованный) Lazzet Очищенный Лазер Полиэтиленовый пакет 900 г",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003001007",
+        "nameUZ": "Гуруч (қадоқланган) Мистраль Басмати extra long 500г п/п",
+        "nameLAT": "Guruch (qadoqlangan) Мистраль Basmati extra long 500g p/p",
+        "nameRU": "Рис (расфасованный и упакованный) Мистраль Басмати extra long 500 гр п/п",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01006001003010004",
+        "nameUZ": "Гуруч (қадоқланган) 365 дней Сайқалланган майдаланган БОПП пакет 900 г",
+        "nameLAT": "Guruch (qadoqlangan) 365 дней Sayqallangan maydalangan BOPP paket 900 g",
+        "nameRU": "Рис (расфасованный и упакованный) 365 дней Дробленый шлифованный БОПП пакет 900 г",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01005001003000000",
+        "nameUZ": "Маккажўхори дони",
+        "nameLAT": "Makkajo’xori doni",
+        "nameRU": "Зерно кукурузы",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01008002001000000",
+        "nameUZ": "Тариқ",
+        "nameLAT": "Tariq",
+        "nameRU": "Просо",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01001001001000001",
+        "nameUZ": "Буғдой фермерлар ихтиёрида қоладиган",
+        "nameLAT": "Bug’doy fermerlar ixtiyorida qoladigan",
+        "nameRU": "Пшеница оставшаяся в распоряжении фермера",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01001001001000002",
+        "nameUZ": "Буғдой биржа орқали реализация қилинган",
+        "nameLAT": "Bug’doy birja orqali realizatsiya qilingan",
+        "nameRU": "Пшеница реализованная через биржу",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01008003002000000",
+        "nameUZ": "Гуруч қиноа (киноа)",
+        "nameLAT": "Guruch qinoa (kinoa)",
+        "nameRU": "Рисовая лебеда (киноа)",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01005001001000000",
+        "nameUZ": "Маккажўхори (сўта)",
+        "nameLAT": "Makkajo'xori (so'ta)",
+        "nameRU": "Кукуруза (початки)",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O‘SIMLIKLAR"
+      },
+      {
+        "mxikCode": "01008003003000000",
+        "nameUZ": "Канареечник уруғи",
+        "nameLAT": "Kanareyechnik urug’i",
+        "nameRU": "Семена канареечника",
+        "groupCODE": "010",
+        "groupNameUZ": "ДОНЛИ ЎСИМЛИКЛАР",
+        "groupNameRU": "ЗЛАКИ",
+        "groupNameLAT": "DONLI O’SIMLIKLAR"
+      }
+    ],
+    "recordTotal": 154,
+    "errors": null,
+    "permitted": false
+  }
+}

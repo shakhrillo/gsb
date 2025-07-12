@@ -1,0 +1,537 @@
+{
+  "metadata": {
+    "groupId": 107,
+    "fetchedAt": "2025-07-12T16:38:32.572Z",
+    "source": "https://tasnif.soliq.uz/api/cl-api/integration-mxik/references/group/code?group=107"
+  },
+  "data": {
+    "success": true,
+    "code": 200,
+    "reason": null,
+    "data": [
+      {
+        "mxikCode": "10701001012000000",
+        "nameUZ": "Қурилиш, ишлаб чиқариш учун ускуналар, асбоблар, қолиплар ва бошқа товарлар, қурилиш учун эҳтиёт қисмлар ва жиҳозларни ижарага бериш хизматлари",
+        "nameLAT": "Qurilish, ishlab chiqarish uchun uskunalar, asboblar, qoliplar va boshqa tovarlar, qurilish uchun ehtiyot qismlar va jihozlarni ijaraga berish xizmatlari",
+        "nameRU": "Услуги по аренде оборудования, инструментов, пресс-форм и других товаров,инструментов, деталей и приспособлений для строительства, производства",
+        "groupCODE": "107",
+        "groupNameUZ": "МАЪМУРИЙ ВА ЁРДАМЧИ ХИЗМАТЛАР ",
+        "groupNameRU": "АДМИНИСТРАТИВНЫЕ УСЛУГИ И ПОДДЕРЖКА",
+        "groupNameLAT": "MA’MURIY VA YoRDAMChI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10799001006000000",
+        "nameUZ": "Кўчмас мулк ва ер участкаларида телекоммуникация иншоотларини жойлаштириш хизматлари",
+        "nameLAT": "Ko’chmas mulk va yer uchastkalarida telekommunikatsiya inshootlarini joylashtirish xizmatlari",
+        "nameRU": "Услуги размещения сооружений телекоммуникации на объектах недвижимости и земельном участке",
+        "groupCODE": "107",
+        "groupNameUZ": "МАЪМУРИЙ ВА ЁРДАМЧИ ХИЗМАТЛАР ",
+        "groupNameRU": "АДМИНИСТРАТИВНЫЕ УСЛУГИ И ПОДДЕРЖКА",
+        "groupNameLAT": "MA’MURIY VA YORDAMCHI XIZMATLAR "
+      },
+      {
+        "mxikCode": "10702999002000000",
+        "nameUZ": "Меҳнат шароитларини баҳолаш ва иш жойларини сертификатлаш бўйича хизматлар",
+        "nameLAT": "Mehnat sharoitlarini baholash va ish joylarini sertifikatlash bo’yicha xizmatlar",
+        "nameRU": "Услуги по оценке условий труда и аттестации рабочих мест",
+        "groupCODE": "107",
+        "groupNameUZ": "МАЪМУРИЙ ВА ЁРДАМЧИ ХИЗМАТЛАР ",
+        "groupNameRU": "АДМИНИСТРАТИВНЫЕ УСЛУГИ И ПОДДЕРЖКА",
+        "groupNameLAT": "MA’MURIY VA YoRDAMChI XIZMATLAR "
+      },
+      {
+        "mxikCode": "10704009001000000",
+        "nameUZ": "Боғ хизматлари (барча турдаги хизматлар)",
+        "nameLAT": "Bog’ xizmatlari (barcha turdagi xizmatlar)",
+        "nameRU": "Садовые услуги (все виды услуг)",
+        "groupCODE": "107",
+        "groupNameUZ": "МАЪМУРИЙ ВА ЁРДАМЧИ ХИЗМАТЛАР ",
+        "groupNameRU": "АДМИНИСТРАТИВНЫЕ УСЛУГИ И ПОДДЕРЖКА",
+        "groupNameLAT": "MA’MURIY VA YoRDAMChI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10710001001000000",
+        "nameUZ": "Қутқарув хизматлари",
+        "nameLAT": "Qutqaruv xizmatlari",
+        "nameRU": "Спасательные услуги",
+        "groupCODE": "107",
+        "groupNameUZ": "МАЪМУРИЙ ВА ЁРДАМЧИ ХИЗМАТЛАР ",
+        "groupNameRU": "АДМИНИСТРАТИВНЫЕ УСЛУГИ И ПОДДЕРЖКА",
+        "groupNameLAT": "MA’MURIY VA YoRDAMChI XIZMATLAR "
+      },
+      {
+        "mxikCode": "10701001006000000",
+        "nameUZ": "Музлатгич хонасини ижарага бериш хизмати",
+        "nameLAT": "Muzlatgich xonasini ijaraga berish xizmati",
+        "nameRU": "Услуги по аренде холодильных помещений",
+        "groupCODE": "107",
+        "groupNameUZ": "МАЪМУРИЙ ВА ЁРДАМЧИ ХИЗМАТЛАР ",
+        "groupNameRU": "АДМИНИСТРАТИВНЫЕ УСЛУГИ И ПОДДЕРЖКА",
+        "groupNameLAT": "MA’MURIY VA YoRDAMChI XIZMATLAR "
+      },
+      {
+        "mxikCode": "10713007001000000",
+        "nameUZ": "Совуқ сув таъминоти хизматлари учун харажатларни қоплаб бериш",
+        "nameLAT": "Sovuq suv taminoti xizmatlari uchun xarajatlarni qoplab berish",
+        "nameRU": "Возмещение затрат (расходов) за услуги холодного водоснабжения",
+        "groupCODE": "107",
+        "groupNameUZ": "МАЪМУРИЙ ВА ЁРДАМЧИ ХИЗМАТЛАР ",
+        "groupNameRU": "АДМИНИСТРАТИВНЫЕ УСЛУГИ И ПОДДЕРЖКА",
+        "groupNameLAT": "MA’MURIY VA YoRDAMChI XIZMATLAR "
+      },
+      {
+        "mxikCode": "10713007003000000",
+        "nameUZ": "Канализация хизматлари учун харажатларни қоплаб бериш",
+        "nameLAT": "Kanalizatsiya xizmatlari uchun xarajatlarni qoplab berish",
+        "nameRU": "Возмещение затрат (расходов) за услуги канализации",
+        "groupCODE": "107",
+        "groupNameUZ": "МАЪМУРИЙ ВА ЁРДАМЧИ ХИЗМАТЛАР ",
+        "groupNameRU": "АДМИНИСТРАТИВНЫЕ УСЛУГИ И ПОДДЕРЖКА",
+        "groupNameLAT": "MA’MURIY VA YoRDAMChI XIZMATLAR "
+      },
+      {
+        "mxikCode": "10713007002000000",
+        "nameUZ": "Иссиқ сув таъминоти хизматлари учун харажатларни қоплаб бериш",
+        "nameLAT": "Issiq suv taminoti xizmatlari uchun xarajatlarni qoplab berish",
+        "nameRU": "Возмещение затрат (расходов) за услуги горячего водоснабжения",
+        "groupCODE": "107",
+        "groupNameUZ": "МАЪМУРИЙ ВА ЁРДАМЧИ ХИЗМАТЛАР ",
+        "groupNameRU": "АДМИНИСТРАТИВНЫЕ УСЛУГИ И ПОДДЕРЖКА",
+        "groupNameLAT": "MA’MURIY VA YoRDAMChI XIZMATLAR "
+      },
+      {
+        "mxikCode": "10701001019000000",
+        "nameUZ": "Ускуналар, қурилмалар ва асбобларни ижарага бериш хизматлари (бошқа субпозицияларда келтирилмаган)",
+        "nameLAT": "Uskunalar, qurilmalar va asboblarni ijaraga berish xizmatlari (boshqa subpozitsiyalarda keltirilmagan)",
+        "nameRU": "Услуги по аренде оборудования, устройств и инструментов (не перечисленные в других субпозициях)",
+        "groupCODE": "107",
+        "groupNameUZ": "МАЪМУРИЙ ВА ЁРДАМЧИ ХИЗМАТЛАР ",
+        "groupNameRU": "АДМИНИСТРАТИВНЫЕ УСЛУГИ И ПОДДЕРЖКА",
+        "groupNameLAT": "MA’MURIY VA YoRDAMChI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10713007004000000",
+        "nameUZ": "Газ таъминоти хизматлари учун харажатларни қоплаб бериш",
+        "nameLAT": "Gaz taminoti xizmatlari uchun xarajatlarni qoplab berish",
+        "nameRU": "Возмещение затрат (расходов) за услуги газоснабжения",
+        "groupCODE": "107",
+        "groupNameUZ": "МАЪМУРИЙ ВА ЁРДАМЧИ ХИЗМАТЛАР ",
+        "groupNameRU": "АДМИНИСТРАТИВНЫЕ УСЛУГИ И ПОДДЕРЖКА",
+        "groupNameLAT": "MA’MURIY VA YoRDAMChI XIZMATLAR "
+      },
+      {
+        "mxikCode": "10713007005000000",
+        "nameUZ": "Қаттиқ маиший чиқиндиларни (ҚМЧ) олиб кетиш хизматлари учун харажатларни қоплаб бериш",
+        "nameLAT": "Qattiq maishiy chiqindilarni (QMCh) olib ketish xizmatlari uchun xarajatlarni qoplab berish",
+        "nameRU": "Возмещение затрат (расходов) за услуги по вывозу твёрдых бытовых отходов (ТБО)",
+        "groupCODE": "107",
+        "groupNameUZ": "МАЪМУРИЙ ВА ЁРДАМЧИ ХИЗМАТЛАР ",
+        "groupNameRU": "АДМИНИСТРАТИВНЫЕ УСЛУГИ И ПОДДЕРЖКА",
+        "groupNameLAT": "MA’MURIY VA YoRDAMChI XIZMATLAR "
+      },
+      {
+        "mxikCode": "10701004003000000",
+        "nameUZ": "Лизинг обектларини молиявий лизингга бериш бўйича хизматлар (ҚҚС билан)",
+        "nameLAT": "Lizing obektlarini moliyaviy lizingga berish bo’yicha xizmatlar (QQS bilan)",
+        "nameRU": "Услуги по передаче объектов лизинга в финансовый лизинг (облагаемый НДС)",
+        "groupCODE": "107",
+        "groupNameUZ": "МАЪМУРИЙ ВА ЁРДАМЧИ ХИЗМАТЛАР ",
+        "groupNameRU": "АДМИНИСТРАТИВНЫЕ УСЛУГИ И ПОДДЕРЖКА",
+        "groupNameLAT": "MA’MURIY VA YoRDAMChI XIZMATLAR "
+      },
+      {
+        "mxikCode": "10713007008000000",
+        "nameUZ": "Шаҳар телефон алоқа хизматлари харажатларни қоплаб бериш",
+        "nameLAT": "Shahar telefon aloqa xizmatlari xarajatlarni qoplab berish",
+        "nameRU": "Возмещение затрат (расходов) за услуги телефонной городской связи",
+        "groupCODE": "107",
+        "groupNameUZ": "МАЪМУРИЙ ВА ЁРДАМЧИ ХИЗМАТЛАР ",
+        "groupNameRU": "АДМИНИСТРАТИВНЫЕ УСЛУГИ И ПОДДЕРЖКА",
+        "groupNameLAT": "MA’MURIY VA YoRDAMChI XIZMATLAR "
+      },
+      {
+        "mxikCode": "10713007006000000",
+        "nameUZ": "Электр энергия хизматлари учун харажатларни қоплаб бериш",
+        "nameLAT": "Elektr energiya xizmatlari uchun xarajatlarni qoplab berish",
+        "nameRU": "Возмещение затрат (расходов) за услуги электроэнергии",
+        "groupCODE": "107",
+        "groupNameUZ": "МАЪМУРИЙ ВА ЁРДАМЧИ ХИЗМАТЛАР ",
+        "groupNameRU": "АДМИНИСТРАТИВНЫЕ УСЛУГИ И ПОДДЕРЖКА",
+        "groupNameLAT": "MA’MURIY VA YoRDAMChI XIZMATLAR "
+      },
+      {
+        "mxikCode": "10713007007000000",
+        "nameUZ": "Иссиқлик таъминоти хизматлари учун харажатларни қоплаб бериш",
+        "nameLAT": "Issiqlik taminoti xizmatlari uchun xarajatlarni qoplab berish",
+        "nameRU": "Возмещение затрат (расходов) за услуги теплоснабжения",
+        "groupCODE": "107",
+        "groupNameUZ": "МАЪМУРИЙ ВА ЁРДАМЧИ ХИЗМАТЛАР ",
+        "groupNameRU": "АДМИНИСТРАТИВНЫЕ УСЛУГИ И ПОДДЕРЖКА",
+        "groupNameLAT": "MA’MURIY VA YoRDAMChI XIZMATLAR "
+      },
+      {
+        "mxikCode": "10713007009000000",
+        "nameUZ": "Интернет хизматлари учун харажатларни қоплаб бериш",
+        "nameLAT": "Internet xizmatlari uchun xarajatlarni qoplab berish",
+        "nameRU": "Возмещение затрат (расходов) за услуги интернета",
+        "groupCODE": "107",
+        "groupNameUZ": "МАЪМУРИЙ ВА ЁРДАМЧИ ХИЗМАТЛАР ",
+        "groupNameRU": "АДМИНИСТРАТИВНЫЕ УСЛУГИ И ПОДДЕРЖКА",
+        "groupNameLAT": "MA’MURIY VA YoRDAMChI XIZMATLAR "
+      },
+      {
+        "mxikCode": "10704008001000000",
+        "nameUZ": "Хавфсизлик хизматлари (ҳудуд, мол-мулк, мулк)",
+        "nameLAT": "Xavfsizlik xizmatlari (hudud, mol-mulk, mulk)",
+        "nameRU": "Услуги по охране (территории, имущества, собственности)",
+        "groupCODE": "107",
+        "groupNameUZ": "МАЪМУРИЙ ВА ЁРДАМЧИ ХИЗМАТЛАР ",
+        "groupNameRU": "АДМИНИСТРАТИВНЫЕ УСЛУГИ И ПОДДЕРЖКА",
+        "groupNameLAT": "MA’MURIY VA YoRDAMChI XIZMATLAR "
+      },
+      {
+        "mxikCode": "10715001001000000",
+        "nameUZ": "Конференциялар, кўргазмалар, тренинглар, тадбирларни ташкил этиш хизматлари (тўй тадбирларидан ташқари)",
+        "nameLAT": "Konferensiyalar, ko’rgazmalar, treninglar, tadbirlarni tashkil etish xizmatlari (to’y tadbirlaridan tashqari)",
+        "nameRU": "Услуги по организации конференций, выставок, тренингов, мероприятий (кроме свадебных мероприятий)",
+        "groupCODE": "107",
+        "groupNameUZ": "МАЪМУРИЙ ВА ЁРДАМЧИ ХИЗМАТЛАР ",
+        "groupNameRU": "АДМИНИСТРАТИВНЫЕ УСЛУГИ И ПОДДЕРЖКА",
+        "groupNameLAT": "MA’MURIY VA YoRDAMChI XIZMATLAR "
+      },
+      {
+        "mxikCode": "10799001005000000",
+        "nameUZ": "Электрон тижорат хизматлари",
+        "nameLAT": "Elektron tijorat xizmatlari",
+        "nameRU": "Услуги электронной коммерции",
+        "groupCODE": "107",
+        "groupNameUZ": "МАЪМУРИЙ ВА ЁРДАМЧИ ХИЗМАТЛАР ",
+        "groupNameRU": "АДМИНИСТРАТИВНЫЕ УСЛУГИ И ПОДДЕРЖКА",
+        "groupNameLAT": "MA’MURIY VA YoRDAMChI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10704006002000000",
+        "nameUZ": "Фумигация хизмати",
+        "nameLAT": "Fumigatsiya xizmati",
+        "nameRU": "Услуги по фумигации",
+        "groupCODE": "107",
+        "groupNameUZ": "МАЪМУРИЙ ВА ЁРДАМЧИ ХИЗМАТЛАР ",
+        "groupNameRU": "АДМИНИСТРАТИВНЫЕ УСЛУГИ И ПОДДЕРЖКА",
+        "groupNameLAT": "MA’MURIY VA YoRDAMChI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10713001001000000",
+        "nameUZ": "Канализация хизматларини кўрсатувчи ташкилотлари томонидан тақдим этиладиган канализация хизматлари тарифига махсус устама учун харажатларни қоплаб бериш",
+        "nameLAT": "Kanalizatsiya xizmatlarini ko’rsatuvchi tashkilotlari tomonidan taqdim etiladigan kanalizatsiya xizmatlari tarifiga maxsus ustama uchun xarajatlarni qoplab berish",
+        "nameRU": "Возмещение затрат (расходов) за специальную надбавку к тарифам на услуги канализации, выставляемую организациями услуг канализации",
+        "groupCODE": "107",
+        "groupNameUZ": "МАЪМУРИЙ ВА ЁРДАМЧИ ХИЗМАТЛАР ",
+        "groupNameRU": "АДМИНИСТРАТИВНЫЕ УСЛУГИ И ПОДДЕРЖКА",
+        "groupNameLAT": "MA’MURIY VA YoRDAMChI XIZMATLAR "
+      },
+      {
+        "mxikCode": "10704006001000000",
+        "nameUZ": "Дезинфекция, дезинсекция и дератизация",
+        "nameLAT": "Dezinfeksiya, dezinseksiya i deratizatsiya",
+        "nameRU": "Услуги по дезинфекции, дезинсекции и дератизации",
+        "groupCODE": "107",
+        "groupNameUZ": "МАЪМУРИЙ ВА ЁРДАМЧИ ХИЗМАТЛАР ",
+        "groupNameRU": "АДМИНИСТРАТИВНЫЕ УСЛУГИ И ПОДДЕРЖКА",
+        "groupNameLAT": "MA’MURIY VA YoRDAMChI XIZMATLAR "
+      },
+      {
+        "mxikCode": "10704001001000000",
+        "nameUZ": "Бинолар, иншоотлар ва иморатларларга (объектларга) хизмат кўрсатиш ва улардан фойдаланиш бўйича комплекс хизматлар",
+        "nameLAT": "Binolar, inshootlar va imoratlarlarga (obyektlarga) xizmat ko’rsatish va ulardan foydalanish bo’yicha kompleks xizmatlar",
+        "nameRU": "Услуги комплексные по обслуживанию и эксплуатации зданий, сооружений, помещений и территорий (объектов)",
+        "groupCODE": "107",
+        "groupNameUZ": "МАЪМУРИЙ ВА ЁРДАМЧИ ХИЗМАТЛАР ",
+        "groupNameRU": "АДМИНИСТРАТИВНЫЕ УСЛУГИ И ПОДДЕРЖКА",
+        "groupNameLAT": "MA’MURIY VA YoRDAMChI XIZMATLAR "
+      },
+      {
+        "mxikCode": "10701001010000000",
+        "nameUZ": "Транспорт воситаларини ижарага бериш хизмати",
+        "nameLAT": "Transport vositalarini ijaraga berish xizmati",
+        "nameRU": "Услуги по аренде транспортных средств",
+        "groupCODE": "107",
+        "groupNameUZ": "МАЪМУРИЙ ВА ЁРДАМЧИ ХИЗМАТЛАР ",
+        "groupNameRU": "АДМИНИСТРАТИВНЫЕ УСЛУГИ И ПОДДЕРЖКА",
+        "groupNameLAT": "MA’MURIY VA YoRDAMChI XIZMATLAR "
+      },
+      {
+        "mxikCode": "10701001011000000",
+        "nameUZ": "Хоналарни субижарага бериш хизматлари",
+        "nameLAT": "Xonalarni subijaraga berish xizmatlari",
+        "nameRU": "Услуги по субаренде помещений",
+        "groupCODE": "107",
+        "groupNameUZ": "МАЪМУРИЙ ВА ЁРДАМЧИ ХИЗМАТЛАР ",
+        "groupNameRU": "АДМИНИСТРАТИВНЫЕ УСЛУГИ И ПОДДЕРЖКА",
+        "groupNameLAT": "MA’MURIY VA YoRDAMChI XIZMATLAR "
+      },
+      {
+        "mxikCode": "10701003001000000",
+        "nameUZ": "Ер участкасини ижарага бериш хизмати (территория)",
+        "nameLAT": "Yer uchastkasini ijaraga berish xizmati (territoriya)",
+        "nameRU": "Услуги по аренде земельного участка (территории)",
+        "groupCODE": "107",
+        "groupNameUZ": "МАЪМУРИЙ ВА ЁРДАМЧИ ХИЗМАТЛАР ",
+        "groupNameRU": "АДМИНИСТРАТИВНЫЕ УСЛУГИ И ПОДДЕРЖКА",
+        "groupNameLAT": "MA’MURIY VA YoRDAMChI XIZMATLAR "
+      },
+      {
+        "mxikCode": "10701001017000000",
+        "nameUZ": "Серверлар ижараси бўйича хизматлар (маълумотларни сақлаш учун виртуал макон)",
+        "nameLAT": "Serverlar ijarasi bo’yicha xizmatlar (malumotlarni saqlash uchun virtual makon)",
+        "nameRU": "Услуга по аренде серверов (виртуального пространства для хранения данных)",
+        "groupCODE": "107",
+        "groupNameUZ": "МАЪМУРИЙ ВА ЁРДАМЧИ ХИЗМАТЛАР ",
+        "groupNameRU": "АДМИНИСТРАТИВНЫЕ УСЛУГИ И ПОДДЕРЖКА",
+        "groupNameLAT": "MA’MURIY VA YoRDAMChI XIZMATLAR "
+      },
+      {
+        "mxikCode": "10701001018000000",
+        "nameUZ": "Шахсий ҳаракатланиш воситаларини  (велосипедлар, скутерлар ва бошқалар), жиҳозларни (шу жумладан, спорт) ижарага бериш хизматлари",
+        "nameLAT": "Shaxsiy harakatlanish vositalarini  (velosipedlar, skuterlar va boshqalar), jihozlarni (shu jumladan, sport) ijaraga berish xizmatlari",
+        "nameRU": "Услуги по аренде средств индивидуальной мобильности (велосипеды,самокаты и др.),  экипировки (в т.ч. спортивной)",
+        "groupCODE": "107",
+        "groupNameUZ": "МАЪМУРИЙ ВА ЁРДАМЧИ ХИЗМАТЛАР ",
+        "groupNameRU": "АДМИНИСТРАТИВНЫЕ УСЛУГИ И ПОДДЕРЖКА",
+        "groupNameLAT": "MA’MURIY VA YoRDAMChI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10704008002000000",
+        "nameUZ": "Ўзбекистон Республикаси Ички ишлар вазирлиги ва Миллий гвардиянинг хавфсизлик ва жамоат тартибини сақлаш хизматлари",
+        "nameLAT": "O’zbekiston Respublikasi Ichki ishlar vazirligi va Milliy gvardiyaning xavfsizlik va jamoat tartibini saqlash xizmatlari",
+        "nameRU": "Охранные услуги и услуги обеспечения общественного порядка МВД и Национальной гвардии Республики Узбекистан",
+        "groupCODE": "107",
+        "groupNameUZ": "МАЪМУРИЙ ВА ЁРДАМЧИ ХИЗМАТЛАР ",
+        "groupNameRU": "АДМИНИСТРАТИВНЫЕ УСЛУГИ И ПОДДЕРЖКА",
+        "groupNameLAT": "MA’MURIY VA YoRDAMChI XIZMATLAR "
+      },
+      {
+        "mxikCode": "10704999001000000",
+        "nameUZ": "Бинолар, иншоотлар, бинолар ва ҳудудларни (объектларни)сақлаш бўйича бошқа хизматлар",
+        "nameLAT": "Binolar, inshootlar, binolar va hududlarni (obyektlarni)saqlash bo’yicha boshqa xizmatlar",
+        "nameRU": "Прочие услуги по обслуживанию зданий, сооружений, помещений и территорий (объектов)",
+        "groupCODE": "107",
+        "groupNameUZ": "МАЪМУРИЙ ВА ЁРДАМЧИ ХИЗМАТЛАР ",
+        "groupNameRU": "АДМИНИСТРАТИВНЫЕ УСЛУГИ И ПОДДЕРЖКА",
+        "groupNameLAT": "MA’MURIY VA YoRDAMChI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10705001001000000",
+        "nameUZ": "Бошқа ёрдамчи хизмат кўрсатиш",
+        "nameLAT": "Boshqa yordamchi xizmat ko’rsatish",
+        "nameRU": "Прочие вспомогательные услуги",
+        "groupCODE": "107",
+        "groupNameUZ": "МАЪМУРИЙ ВА ЁРДАМЧИ ХИЗМАТЛАР ",
+        "groupNameRU": "АДМИНИСТРАТИВНЫЕ УСЛУГИ И ПОДДЕРЖКА",
+        "groupNameLAT": "MA’MURIY VA YoRDAMChI XIZMATLAR "
+      },
+      {
+        "mxikCode": "10701001013000000",
+        "nameUZ": "Махсус техникаларни ижарага бериш хизматлари",
+        "nameLAT": "Maxsus texnikalarni ijaraga berish xizmatlari",
+        "nameRU": "Услуги по аренде спецтехники",
+        "groupCODE": "107",
+        "groupNameUZ": "МАЪМУРИЙ ВА ЁРДАМЧИ ХИЗМАТЛАР ",
+        "groupNameRU": "АДМИНИСТРАТИВНЫЕ УСЛУГИ И ПОДДЕРЖКА",
+        "groupNameLAT": "MA’MURIY VA YoRDAMChI XIZMATLAR "
+      },
+      {
+        "mxikCode": "10701001003000000",
+        "nameUZ": "Бозор расталарини ижарага бериш хизматлари",
+        "nameLAT": "Bozor rastalarini ijaraga berish xizmatlari",
+        "nameRU": "Услуги по аренде рыночных прилавков",
+        "groupCODE": "107",
+        "groupNameUZ": "МАЪМУРИЙ ВА ЁРДАМЧИ ХИЗМАТЛАР ",
+        "groupNameRU": "АДМИНИСТРАТИВНЫЕ УСЛУГИ И ПОДДЕРЖКА",
+        "groupNameLAT": "MA’MURIY VA YoRDAMChI XIZMATLAR "
+      },
+      {
+        "mxikCode": "10704004001000000",
+        "nameUZ": "Биноларни тозалаш хизматлари, тузилмалар, бинолар ва ҳудудлар, уларнинг алоҳида тузилмалари ва қисмлари (барча турдаги хизматлар)",
+        "nameLAT": "Binolarni tozalash xizmatlari, tuzilmalar, binolar va hududlar, ularning alohida tuzilmalari va qismlari (barcha turdagi xizmatlar)",
+        "nameRU": "Услуги по уборке зданий, сооружений, помещений и территорий, их отдельных конструкций и частей (все виды услуг)",
+        "groupCODE": "107",
+        "groupNameUZ": "МАЪМУРИЙ ВА ЁРДАМЧИ ХИЗМАТЛАР ",
+        "groupNameRU": "АДМИНИСТРАТИВНЫЕ УСЛУГИ И ПОДДЕРЖКА",
+        "groupNameLAT": "MA’MURIY VA YoRDAMChI XIZMATLAR "
+      },
+      {
+        "mxikCode": "10703999001000000",
+        "nameUZ": "Сайёҳлик агентликлари ва туроператорларнинг хизматлари (барча турдаги хизматлар), шу жумладан туристик пакетларни брон қилиш, сотиш",
+        "nameLAT": "Sayyohlik agentliklari va turoperatorlarning xizmatlari (barcha turdagi xizmatlar), shu jumladan turistik paketlarni bron qilish, sotish",
+        "nameRU": "Услуги туристических агентств и туроператоров (все виды услуг), в том числе бронирование, реализация турпакетов",
+        "groupCODE": "107",
+        "groupNameUZ": "МАЪМУРИЙ ВА ЁРДАМЧИ ХИЗМАТЛАР ",
+        "groupNameRU": "АДМИНИСТРАТИВНЫЕ УСЛУГИ И ПОДДЕРЖКА",
+        "groupNameLAT": "MA’MURIY VA YoRDAMChI XIZMATLAR "
+      },
+      {
+        "mxikCode": "10799001002000000",
+        "nameUZ": "Савдо ҳудуди хизмати",
+        "nameLAT": "Savdo hududi xizmati",
+        "nameRU": "Обслуживание торговой территории",
+        "groupCODE": "107",
+        "groupNameUZ": "МАЪМУРИЙ ВА ЁРДАМЧИ ХИЗМАТЛАР ",
+        "groupNameRU": "АДМИНИСТРАТИВНЫЕ УСЛУГИ И ПОДДЕРЖКА",
+        "groupNameLAT": "MA’MURIY VA YoRDAMChI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10706999001000000",
+        "nameUZ": "Бинолар, бинолар ва ҳудудларни лойиҳалаш бўйича хизматлар (безаклар, декорациялар) ",
+        "nameLAT": "Binolar, binolar va hududlarni loyihalash bo’yicha xizmatlar (bezaklar, dekoratsiyalar) ",
+        "nameRU": "Услуги по оформлению зданий, помещений и территорий (украшения, декорации)",
+        "groupCODE": "107",
+        "groupNameUZ": "МАЪМУРИЙ ВА ЁРДАМЧИ ХИЗМАТЛАР ",
+        "groupNameRU": "АДМИНИСТРАТИВНЫЕ УСЛУГИ И ПОДДЕРЖКА",
+        "groupNameLAT": "MA’MURIY VA YoRDAMChI XIZMATLAR "
+      },
+      {
+        "mxikCode": "10701001008000000",
+        "nameUZ": "Поезд, вагон ва контейнер ижараси хизматлари",
+        "nameLAT": "Poyezd, vagon va konteyner ijarasi xizmatlari",
+        "nameRU": "Услуги по аренде поездов, вагонов и контейнеров",
+        "groupCODE": "107",
+        "groupNameUZ": "МАЪМУРИЙ ВА ЁРДАМЧИ ХИЗМАТЛАР ",
+        "groupNameRU": "АДМИНИСТРАТИВНЫЕ УСЛУГИ И ПОДДЕРЖКА",
+        "groupNameLAT": "MA’MURIY VA YoRDAMChI XIZMATLAR "
+      },
+      {
+        "mxikCode": "10799001001000000",
+        "nameUZ": "Бошқа маъмурий ва қўллаб-қувватлаш хизматлари",
+        "nameLAT": "Boshqa mamuriy va qo’llab-quvvatlash xizmatlari",
+        "nameRU": "Прочие административные услуги и поддержка",
+        "groupCODE": "107",
+        "groupNameUZ": "МАЪМУРИЙ ВА ЁРДАМЧИ ХИЗМАТЛАР ",
+        "groupNameRU": "АДМИНИСТРАТИВНЫЕ УСЛУГИ И ПОДДЕРЖКА",
+        "groupNameLAT": "MA’MURIY VA YoRDAMChI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10716001001000000",
+        "nameUZ": "Барча йўналишларда воситачилик ва дилерлик хизматлари, кўчмас мулк хизматларидан ташқари",
+        "nameLAT": "Barcha yo’nalishlarda vositachilik va dilerlik xizmatlari, ko’chmas mulk xizmatlaridan tashqari",
+        "nameRU": "Посреднические и дилерские услуги, по всем направлениям, кроме риэлторских услуг",
+        "groupCODE": "107",
+        "groupNameUZ": "МАЪМУРИЙ ВА ЁРДАМЧИ ХИЗМАТЛАР ",
+        "groupNameRU": "АДМИНИСТРАТИВНЫЕ УСЛУГИ И ПОДДЕРЖКА",
+        "groupNameLAT": "MA’MURIY VA YoRDAMChI XIZMATLAR "
+      },
+      {
+        "mxikCode": "10701001004000000",
+        "nameUZ": "Турар-жой ва нотурар жой бинолари учун ижара хизматлари",
+        "nameLAT": "Turar-joy va noturar joy binolari uchun ijara xizmatlari",
+        "nameRU": "Услуги по аренде жилых и нежилых помещений",
+        "groupCODE": "107",
+        "groupNameUZ": "МАЪМУРИЙ ВА ЁРДАМЧИ ХИЗМАТЛАР ",
+        "groupNameRU": "АДМИНИСТРАТИВНЫЕ УСЛУГИ И ПОДДЕРЖКА",
+        "groupNameLAT": "MA’MURIY VA YoRDAMChI XIZMATLAR "
+      },
+      {
+        "mxikCode": "10713002001000000",
+        "nameUZ": "Ичимлик суви таъминоти хизматларини кўрсатувчи ташкилотларининг ичимлик суви таъминоти хизматлари таърифларига махсус устама учун харажатларни қоплаб бериш",
+        "nameLAT": "Ichimlik suvi taminoti xizmatlarini ko’rsatuvchi tashkilotlarining ichimlik suvi taminoti xizmatlari tariflariga maxsus ustama uchun xarajatlarni qoplab berish",
+        "nameRU": "Возмещение затрат (расходов) за специальную надбавку к тарифам на услуги питьевого водоснабжения, выставляемую организациями услуг водоснабжения",
+        "groupCODE": "107",
+        "groupNameUZ": "МАЪМУРИЙ ВА ЁРДАМЧИ ХИЗМАТЛАР ",
+        "groupNameRU": "АДМИНИСТРАТИВНЫЕ УСЛУГИ И ПОДДЕРЖКА",
+        "groupNameLAT": "MA’MURIY VA YoRDAMChI XIZMATLAR "
+      },
+      {
+        "mxikCode": "10702999001000000",
+        "nameUZ": "Бандлик\nва инсон ресурсларини бошқариш хизматлари \n(шу жумладан\n кадрлар ёзувларини бошқариш, ишга қабул қилиш ва ходимларни бошқариш ва бошқалар)",
+        "nameLAT": "Bandlik\nva inson resurslarini boshqarish xizmatlari \n(shu jumladan\n kadrlar yozuvlarini boshqarish, ishga qabul qilish va xodimlarni boshqarish va boshqalar)",
+        "nameRU": "Услуги по трудоустройству и в области управления человеческими ресурсами (в т.ч. кадрового делопроизводства, подбора и управления персоналом и прочее)",
+        "groupCODE": "107",
+        "groupNameUZ": "МАЪМУРИЙ ВА ЁРДАМЧИ ХИЗМАТЛАР ",
+        "groupNameRU": "АДМИНИСТРАТИВНЫЕ УСЛУГИ И ПОДДЕРЖКА",
+        "groupNameLAT": "MA’MURIY VA YoRDAMChI XIZMATLAR "
+      },
+      {
+        "mxikCode": "10701001002000000",
+        "nameUZ": "Кийим-кечак, заргарлик буюмлари, мебел, идишлар, маиший техника, компютерлар ва бошқа уй-рўзғор буюмлари ва уй-рўзғор буюмларини ижарага бериш хизматлари (ижара)",
+        "nameLAT": "Kiyim-kechak, zargarlik buyumlari, mebel, idishlar, maishiy texnika, kompyuterlar va boshqa uy-ro’zg’or buyumlari va uy-ro’zg’or buyumlarini ijaraga berish xizmatlari (ijara)",
+        "nameRU": "Услуги по аренде одежды, ювелирные изделие, мебели, посуды, бытовой аппаратуры, компьютеров и прочих товаров быта и обихода (прокат)",
+        "groupCODE": "107",
+        "groupNameUZ": "МАЪМУРИЙ ВА ЁРДАМЧИ ХИЗМАТЛАР ",
+        "groupNameRU": "АДМИНИСТРАТИВНЫЕ УСЛУГИ И ПОДДЕРЖКА",
+        "groupNameLAT": "MA’MURIY VA YoRDAMChI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10701001007000000",
+        "nameUZ": "Қисқа муддатли иш ижараси хизматлари (шу жумладан ходимлар), шу жумладан иш жойлари, коворкинг марказлари ва шунга ўхшаш жойлар",
+        "nameLAT": "Qisqa muddatli ish ijarasi xizmatlari (shu jumladan xodimlar), shu jumladan ish joylari, kovorking markazlari va shunga o’xshash joylar",
+        "nameRU": "Услуги по кратковременной аренде рабочих мест (в т.ч. персонал), в т.ч. воркспейсы, коворкинг центры и  аналогичные места",
+        "groupCODE": "107",
+        "groupNameUZ": "МАЪМУРИЙ ВА ЁРДАМЧИ ХИЗМАТЛАР ",
+        "groupNameRU": "АДМИНИСТРАТИВНЫЕ УСЛУГИ И ПОДДЕРЖКА",
+        "groupNameLAT": "MA’MURIY VA YoRDAMChI XIZMATLAR"
+      },
+      {
+        "mxikCode": "10701001001000000",
+        "nameUZ": "Бино ва иншоотлар ижарага бериш хизмати",
+        "nameLAT": "Bino va inshootlar ijaraga berish xizmati",
+        "nameRU": "Услуги по аренде зданий и сооружений",
+        "groupCODE": "107",
+        "groupNameUZ": "МАЪМУРИЙ ВА ЁРДАМЧИ ХИЗМАТЛАР ",
+        "groupNameRU": "АДМИНИСТРАТИВНЫЕ УСЛУГИ И ПОДДЕРЖКА",
+        "groupNameLAT": "MA’MURIY VA YoRDAMChI XIZMATLAR "
+      },
+      {
+        "mxikCode": "10702999003000000",
+        "nameUZ": "Бандлик ва меҳнатни муҳофаза қилиш соҳасидаги бошқа хизматлар",
+        "nameLAT": "Bandlik va mehnatni muhofaza qilish sohasidagi boshqa xizmatlar",
+        "nameRU": "Прочие услуги в области трудоустройства и охраны труда",
+        "groupCODE": "107",
+        "groupNameUZ": "МАЪМУРИЙ ВА ЁРДАМЧИ ХИЗМАТЛАР ",
+        "groupNameRU": "АДМИНИСТРАТИВНЫЕ УСЛУГИ И ПОДДЕРЖКА",
+        "groupNameLAT": "MA’MURIY VA YoRDAMChI XIZMATLAR "
+      },
+      {
+        "mxikCode": "10701001021000000",
+        "nameUZ": "Транспорт воситаларини субижарага бериш хизматлари",
+        "nameLAT": "Transport vositalarini subijaraga berish xizmatlari",
+        "nameRU": "Услуги по субаренде транспортных средств",
+        "groupCODE": "107",
+        "groupNameUZ": "МАЪМУРИЙ ВА ЁРДАМЧИ ХИЗМАТЛАР ",
+        "groupNameRU": "АДМИНИСТРАТИВНЫЕ УСЛУГИ И ПОДДЕРЖКА",
+        "groupNameLAT": "MA’MURIY VA YORDAMCHI XIZMATLAR "
+      },
+      {
+        "mxikCode": "10701001020000000",
+        "nameUZ": "Қуш ва ҳайвонларни ижарага бериш хизмати",
+        "nameLAT": "Qush va hayvonlarni ijaraga berish xizmati",
+        "nameRU": "Услуга по аренде животных и птиц",
+        "groupCODE": "107",
+        "groupNameUZ": "МАЪМУРИЙ ВА ЁРДАМЧИ ХИЗМАТЛАР ",
+        "groupNameRU": "АДМИНИСТРАТИВНЫЕ УСЛУГИ И ПОДДЕРЖКА",
+        "groupNameLAT": "MA’MURIY VA YORDAMCHI XIZMATLAR "
+      },
+      {
+        "mxikCode": "10799001007000000",
+        "nameUZ": "Кўчмас мулк объектлари ва ер участкасининг объектларида (телекоммуникация воситаларидан ташқари) ускуналарни жойлаштириш хизматлари",
+        "nameLAT": "Ko’chmas mulk obyektlari va yer uchastkasining obyektlarida (telekommunikatsiya vositalaridan tashqari) uskunalarni joylashtirish xizmatlari",
+        "nameRU": "Услуги размещения оборудования (кроме телекоммуникационного) на объектах недвижимости и земельном участке",
+        "groupCODE": "107",
+        "groupNameUZ": "МАЪМУРИЙ ВА ЁРДАМЧИ ХИЗМАТЛАР ",
+        "groupNameRU": "АДМИНИСТРАТИВНЫЕ УСЛУГИ И ПОДДЕРЖКА",
+        "groupNameLAT": "MA’MURIY VA YORDAMCHI XIZMATLAR "
+      },
+      {
+        "mxikCode": "10701001022000000",
+        "nameUZ": "Мол-мулкни ишончли бошқарувга топшириш хизмати",
+        "nameLAT": "Mol-mulkni ishonchli boshqaruvga topshirish xizmati",
+        "nameRU": "Услуга по передаче имущества в доверительное управление",
+        "groupCODE": "107",
+        "groupNameUZ": "МАЪМУРИЙ ВА ЁРДАМЧИ ХИЗМАТЛАР ",
+        "groupNameRU": "АДМИНИСТРАТИВНЫЕ УСЛУГИ И ПОДДЕРЖКА",
+        "groupNameLAT": "MA’MURIY VA YORDAMCHI XIZMATLAR "
+      }
+    ],
+    "recordTotal": 52,
+    "errors": null,
+    "permitted": false
+  }
+}

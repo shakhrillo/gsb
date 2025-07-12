@@ -1,0 +1,107 @@
+{
+  "metadata": {
+    "groupId": 97,
+    "fetchedAt": "2025-07-12T16:36:49.516Z",
+    "source": "https://tasnif.soliq.uz/api/cl-api/integration-mxik/references/group/code?group=97"
+  },
+  "data": {
+    "success": true,
+    "code": 200,
+    "reason": null,
+    "data": [
+      {
+        "mxikCode": "09702001001000000",
+        "nameUZ": "Гравюралар ва литографияларнинг асл нусхалари",
+        "nameLAT": "Gravyuralar va litografiyalarning asl nusxalari",
+        "nameRU": "Подлинники гравюр, эстампов и литографий",
+        "groupCODE": "097",
+        "groupNameUZ": "САНЪАТ АСАРЛАРИ ",
+        "groupNameRU": "ПРОИЗВЕДЕНИЯ ИСКУССТВА",
+        "groupNameLAT": "SAN’AT ASARLARI "
+      },
+      {
+        "mxikCode": "09705001001000000",
+        "nameUZ": "Археология, этнография ёки тарихга оид буюмлар ва тўпламлар",
+        "nameLAT": "Arxeologiya, etnografiya yoki tarixga oid buyumlar va to’plamlar",
+        "nameRU": "Коллекции и предметы коллекционирования по археологии, этнографии или истории",
+        "groupCODE": "097",
+        "groupNameUZ": "САНЪАТ АСАРЛАРИ ",
+        "groupNameRU": "ПРОИЗВЕДЕНИЯ ИСКУССТВА",
+        "groupNameLAT": "SAN’AT ASARLARI "
+      },
+      {
+        "mxikCode": "09701001001000000",
+        "nameUZ": "Расмлар, чизмалар ва пастеллар",
+        "nameLAT": "Rasmlar, chizmalar va pastellar",
+        "nameRU": "Картины, рисунки и пастели",
+        "groupCODE": "097",
+        "groupNameUZ": "САНЪАТ АСАРЛАРИ ",
+        "groupNameRU": "ПРОИЗВЕДЕНИЯ ИСКУССТВА",
+        "groupNameLAT": "SAN’AT ASARLARI "
+      },
+      {
+        "mxikCode": "09703001003000000",
+        "nameUZ": "Ҳар қандай материаллардан тайёрланган ҳайкаларнинг асл нусхалари",
+        "nameLAT": "Har qanday materiallardan tayyorlangan haykalarning asl nusxalari",
+        "nameRU": "Подлинники скульптур из любых материалов",
+        "groupCODE": "097",
+        "groupNameUZ": "САНЪАТ АСАРЛАРИ ",
+        "groupNameRU": "ПРОИЗВЕДЕНИЯ ИСКУССТВА",
+        "groupNameLAT": "SAN’AT ASARLARI "
+      },
+      {
+        "mxikCode": "09705003001000000",
+        "nameUZ": "Нумизматикага оид буюмлар ва тўпламлар",
+        "nameLAT": "Numizmatikaga oid buyumlar va to’plamlar",
+        "nameRU": "Коллекции и предметы коллекционирования по нумизматике",
+        "groupCODE": "097",
+        "groupNameUZ": "САНЪАТ АСАРЛАРИ ",
+        "groupNameRU": "ПРОИЗВЕДЕНИЯ ИСКУССТВА",
+        "groupNameLAT": "SAN’AT ASARLARI "
+      },
+      {
+        "mxikCode": "09705002001000000",
+        "nameUZ": "Зоология, ботаника, минералогия, анатомия ёки палеонтология оид тўпламлар ва буюмлар",
+        "nameLAT": "Zoologiya, botanika, mineralogiya, anatomiya yoki paleontologiya oid to’plamlar va buyumlar",
+        "nameRU": "Коллекции и предметы коллекционирования по зоологии, ботанике, минералогии, анатомии или палеонтологии",
+        "groupCODE": "097",
+        "groupNameUZ": "САНЪАТ АСАРЛАРИ ",
+        "groupNameRU": "ПРОИЗВЕДЕНИЯ ИСКУССТВА",
+        "groupNameLAT": "SAN’AT ASARLARI "
+      },
+      {
+        "mxikCode": "09704001001000000",
+        "nameUZ": "Почта тўлови белгилари ёки божхона маркалари, почта маркалари ва шунга ўхшаш маҳсулотлар",
+        "nameLAT": "Pochta to’lovi belgilari yoki bojxona markalari, pochta markalari va shunga o’xshash mahsulotlar",
+        "nameRU": "Коллекционные марки почтовые или марки госпошлин, знаки почтовой оплаты и аналогичные предметы",
+        "groupCODE": "097",
+        "groupNameUZ": "САНЪАТ АСАРЛАРИ ",
+        "groupNameRU": "ПРОИЗВЕДЕНИЯ ИСКУССТВА",
+        "groupNameLAT": "SAN’AT ASARLARI "
+      },
+      {
+        "mxikCode": "09703001001000000",
+        "nameUZ": "Ҳар қандай материаллардан тайёрланган ҳайкалчаларнинг асл нусхалари",
+        "nameLAT": "Har qanday materiallardan tayyorlangan haykalchalarning asl nusxalari",
+        "nameRU": "Подлинники статуэток из любых материалов",
+        "groupCODE": "097",
+        "groupNameUZ": "САНЪАТ АСАРЛАРИ ",
+        "groupNameRU": "ПРОИЗВЕДЕНИЯ ИСКУССТВА",
+        "groupNameLAT": "SAN’AT ASARLARI"
+      },
+      {
+        "mxikCode": "09706001001000000",
+        "nameUZ": "Ёши 100 йилдан ошган антиквариат буюмлар",
+        "nameLAT": "Yoshi 100 yildan oshgan antikvariat buyumlar",
+        "nameRU": "Антиквариат возрастом более 100 лет",
+        "groupCODE": "097",
+        "groupNameUZ": "САНЪАТ АСАРЛАРИ ",
+        "groupNameRU": "ПРОИЗВЕДЕНИЯ ИСКУССТВА",
+        "groupNameLAT": "SAN’AT ASARLARI "
+      }
+    ],
+    "recordTotal": 9,
+    "errors": null,
+    "permitted": false
+  }
+}

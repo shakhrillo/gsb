@@ -1,0 +1,267 @@
+{
+  "metadata": {
+    "groupId": 26,
+    "fetchedAt": "2025-07-12T16:31:38.568Z",
+    "source": "https://tasnif.soliq.uz/api/cl-api/integration-mxik/references/group/code?group=26"
+  },
+  "data": {
+    "success": true,
+    "code": 200,
+    "reason": null,
+    "data": [
+      {
+        "mxikCode": "02601001003000000",
+        "nameUZ": "Куйдирилган пирит",
+        "nameLAT": "Kuydirilgan pirit",
+        "nameRU": "Обожженный пирит",
+        "groupCODE": "026",
+        "groupNameUZ": "РУДАЛАР, ШЛАК ВА КУЛ",
+        "groupNameRU": "РУДЫ, ШЛАК И ЗОЛА",
+        "groupNameLAT": "RUDALAR, ShLAK VA KUL"
+      },
+      {
+        "mxikCode": "02618001001000000",
+        "nameUZ": "Шлак, дросс (гранулланган шлакдан ташкари), окалина ва қора металллар ишлаб чиқаришдаги бошқа чиқиндилар",
+        "nameLAT": "Shlak, dross (granullangan shlakdan tashkari), okalina va qora metalllar ishlab chiqarishdagi boshqa chiqindilar",
+        "nameRU": "Шлак, дросс (кроме гранулированного шлака), окалина и прочие отходы производства черных металлов",
+        "groupCODE": "026",
+        "groupNameUZ": "РУДАЛАР, ШЛАК ВА КУЛ",
+        "groupNameRU": "РУДЫ, ШЛАК И ЗОЛА",
+        "groupNameLAT": "RUDALAR, ShLAK VA KUL"
+      },
+      {
+        "mxikCode": "02607001001000000",
+        "nameUZ": "Қўрғошин рудалари ва уларнинг концентратлари",
+        "nameLAT": "Qo’rg’oshin rudalari va ularning konsentratlari",
+        "nameRU": "Свинцовые руды и их концентраты\r\n",
+        "groupCODE": "026",
+        "groupNameUZ": "РУДАЛАР, ШЛАК ВА КУЛ",
+        "groupNameRU": "РУДЫ, ШЛАК И ЗОЛА",
+        "groupNameLAT": "RUDALAR, ShLAK VA KUL"
+      },
+      {
+        "mxikCode": "02608001001000000",
+        "nameUZ": "Рух рудалари ва уларнинг концентратлари",
+        "nameLAT": "Rux rudalari va ularning konsentratlari",
+        "nameRU": "Цинковые руды и их концентраты",
+        "groupCODE": "026",
+        "groupNameUZ": "РУДАЛАР, ШЛАК ВА КУЛ",
+        "groupNameRU": "РУДЫ, ШЛАК И ЗОЛА",
+        "groupNameLAT": "RUDALAR, ShLAK VA KUL"
+      },
+      {
+        "mxikCode": "02612001001000000",
+        "nameUZ": "Уран ва торий рудалари ва уларнинг концентратлари",
+        "nameLAT": "Uran va toriy rudalari va ularning konsentratlari",
+        "nameRU": "Урановые и ториевые руды и их концентраты",
+        "groupCODE": "026",
+        "groupNameUZ": "РУДАЛАР, ШЛАК ВА КУЛ",
+        "groupNameRU": "РУДЫ, ШЛАК И ЗОЛА",
+        "groupNameLAT": "RUDALAR, ShLAK VA KUL"
+      },
+      {
+        "mxikCode": "02620001001000000",
+        "nameUZ": "Шлак, кул ва қолдиқлар",
+        "nameLAT": "Shlak, kul va qoldiqlar",
+        "nameRU": "Шлак, зола и остатки",
+        "groupCODE": "026",
+        "groupNameUZ": "РУДАЛАР, ШЛАК ВА КУЛ",
+        "groupNameRU": "РУДЫ, ШЛАК И ЗОЛА",
+        "groupNameLAT": "RUDALAR, ShLAK VA KUL"
+      },
+      {
+        "mxikCode": "02620001002000000",
+        "nameUZ": "Темир мавжуд бўлган қўшимчалар",
+        "nameLAT": "Temir mavjud bo’lgan qo’shimchalar",
+        "nameRU": "Железосодержащие добавки",
+        "groupCODE": "026",
+        "groupNameUZ": "РУДАЛАР, ШЛАК ВА КУЛ",
+        "groupNameRU": "РУДЫ, ШЛАК И ЗОЛА",
+        "groupNameLAT": "RUDALAR, ShLAK VA KUL"
+      },
+      {
+        "mxikCode": "02611001001000000",
+        "nameUZ": "Волфрам рудалари ва уларнинг концентратлари",
+        "nameLAT": "Volfram rudalari va ularning konsentratlari",
+        "nameRU": "Вольфрамовые руды и их концентраты",
+        "groupCODE": "026",
+        "groupNameUZ": "РУДАЛАР, ШЛАК ВА КУЛ",
+        "groupNameRU": "РУДЫ, ШЛАК И ЗОЛА",
+        "groupNameLAT": "RUDALAR, ShLAK VA KUL"
+      },
+      {
+        "mxikCode": "02604001001000000",
+        "nameUZ": "Никель рудалари ва уларнинг концентратлари",
+        "nameLAT": "Nikel rudalari va ularning konsentratlari",
+        "nameRU": "Никелевые руды и их концентраты",
+        "groupCODE": "026",
+        "groupNameUZ": "РУДАЛАР, ШЛАК ВА КУЛ",
+        "groupNameRU": "РУДЫ, ШЛАК И ЗОЛА",
+        "groupNameLAT": "RUDALAR, ShLAK VA KUL"
+      },
+      {
+        "mxikCode": "02610001003000000",
+        "nameUZ": "Хром аралашмаси",
+        "nameLAT": "Xrom aralashmasi",
+        "nameRU": "Хромовая смесь",
+        "groupCODE": "026",
+        "groupNameUZ": "РУДАЛАР, ШЛАК ВА КУЛ",
+        "groupNameRU": "РУДЫ, ШЛАК И ЗОЛА",
+        "groupNameLAT": "RUDALAR, ShLAK VA KUL"
+      },
+      {
+        "mxikCode": "02615001001000000",
+        "nameUZ": "Ниобий ва цирконий рудалари ва уларнинг концентратлари",
+        "nameLAT": "Niobiy va sirkoniy rudalari va ularning konsentratlari",
+        "nameRU": "Ниобиевые и цирконивые руды и их концентраты\r\n",
+        "groupCODE": "026",
+        "groupNameUZ": "РУДАЛАР, ШЛАК ВА КУЛ",
+        "groupNameRU": "РУДЫ, ШЛАК И ЗОЛА",
+        "groupNameLAT": "RUDALAR, ShLAK VA KUL"
+      },
+      {
+        "mxikCode": "02616001001000000",
+        "nameUZ": "Қимматбаҳо рудалар ва уларнинг концентратлари",
+        "nameLAT": "Qimmatbaho rudalar va ularning konsentratlari",
+        "nameRU": "Драгоценные руды и их концентраты",
+        "groupCODE": "026",
+        "groupNameUZ": "РУДАЛАР, ШЛАК ВА КУЛ",
+        "groupNameRU": "РУДЫ, ШЛАК И ЗОЛА",
+        "groupNameLAT": "RUDALAR, ShLAK VA KUL"
+      },
+      {
+        "mxikCode": "02605001001000000",
+        "nameUZ": "Кобальт рудалари ва уларнинг концентратлари",
+        "nameLAT": "Kobalt rudalari va ularning konsentratlari",
+        "nameRU": "Кобальтовые руды и их концентраты",
+        "groupCODE": "026",
+        "groupNameUZ": "РУДАЛАР, ШЛАК ВА КУЛ",
+        "groupNameRU": "РУДЫ, ШЛАК И ЗОЛА",
+        "groupNameLAT": "RUDALAR, ShLAK VA KUL"
+      },
+      {
+        "mxikCode": "02609001001000000",
+        "nameUZ": "Қалай рудалари ва уларнинг концентратлари",
+        "nameLAT": "Qalay rudalari va ularning konsentratlari",
+        "nameRU": "Оловянные руды и их концентраты",
+        "groupCODE": "026",
+        "groupNameUZ": "РУДАЛАР, ШЛАК ВА КУЛ",
+        "groupNameRU": "РУДЫ, ШЛАК И ЗОЛА",
+        "groupNameLAT": "RUDALAR, ShLAK VA KUL"
+      },
+      {
+        "mxikCode": "02613001001000000",
+        "nameUZ": "Молибден рудалари ва уларнинг концентратлари",
+        "nameLAT": "Molibden rudalari va ularning konsentratlari",
+        "nameRU": "Молибденовые руды и их концентраты",
+        "groupCODE": "026",
+        "groupNameUZ": "РУДАЛАР, ШЛАК ВА КУЛ",
+        "groupNameRU": "РУДЫ, ШЛАК И ЗОЛА",
+        "groupNameLAT": "RUDALAR, ShLAK VA KUL"
+      },
+      {
+        "mxikCode": "02602001001000000",
+        "nameUZ": "Марганец  рудалари ва концентратлари",
+        "nameLAT": "Marganets  rudalari va konsentratlari",
+        "nameRU": "Марганцевые руды и их концентраты",
+        "groupCODE": "026",
+        "groupNameUZ": "РУДАЛАР, ШЛАК ВА КУЛ",
+        "groupNameRU": "РУДЫ, ШЛАК И ЗОЛА",
+        "groupNameLAT": "RUDALAR, ShLAK VA KUL"
+      },
+      {
+        "mxikCode": "02614001001000000",
+        "nameUZ": "Титан рудалари ва уларнинг концентратлари",
+        "nameLAT": "Titan rudalari va ularning konsentratlari",
+        "nameRU": "Титановые руды и их концентраты",
+        "groupCODE": "026",
+        "groupNameUZ": "РУДАЛАР, ШЛАК ВА КУЛ",
+        "groupNameRU": "РУДЫ, ШЛАК И ЗОЛА",
+        "groupNameLAT": "RUDALAR, ShLAK VA KUL"
+      },
+      {
+        "mxikCode": "02601001001000000",
+        "nameUZ": "Темир руда",
+        "nameLAT": "Temir ruda",
+        "nameRU": "Железная руда",
+        "groupCODE": "026",
+        "groupNameUZ": "РУДАЛАР, ШЛАК ВА КУЛ",
+        "groupNameRU": "РУДЫ, ШЛАК И ЗОЛА",
+        "groupNameLAT": "RUDALAR, ShLAK VA KUL"
+      },
+      {
+        "mxikCode": "02610001002000000",
+        "nameUZ": "Хром концентрати",
+        "nameLAT": "Xrom konsentrati",
+        "nameRU": "Хромовый концентрат",
+        "groupCODE": "026",
+        "groupNameUZ": "РУДАЛАР, ШЛАК ВА КУЛ",
+        "groupNameRU": "РУДЫ, ШЛАК И ЗОЛА",
+        "groupNameLAT": "RUDALAR, ShLAK VA KUL"
+      },
+      {
+        "mxikCode": "02603001001000000",
+        "nameUZ": "Мис рудалари ва уларнинг концентратлари",
+        "nameLAT": "Mis rudalari va ularning konsentratlari",
+        "nameRU": "Медные руда и их концентраты",
+        "groupCODE": "026",
+        "groupNameUZ": "РУДАЛАР, ШЛАК ВА КУЛ",
+        "groupNameRU": "РУДЫ, ШЛАК И ЗОЛА",
+        "groupNameLAT": "RUDALAR, ShLAK VA KUL"
+      },
+      {
+        "mxikCode": "02606001001000000",
+        "nameUZ": "Алюминь  рудалари ва уларнинг концентратлари",
+        "nameLAT": "Alyumin  rudalari va ularning konsentratlari",
+        "nameRU": "Алюминиевые руды и их концентраты",
+        "groupCODE": "026",
+        "groupNameUZ": "РУДАЛАР, ШЛАК ВА КУЛ",
+        "groupNameRU": "РУДЫ, ШЛАК И ЗОЛА",
+        "groupNameLAT": "RUDALAR, ShLAK VA KUL"
+      },
+      {
+        "mxikCode": "02601001002000000",
+        "nameUZ": "Темир концентрат",
+        "nameLAT": "Temir konsentrat",
+        "nameRU": "Железный концентрат",
+        "groupCODE": "026",
+        "groupNameUZ": "РУДАЛАР, ШЛАК ВА КУЛ",
+        "groupNameRU": "РУДЫ, ШЛАК И ЗОЛА",
+        "groupNameLAT": "RUDALAR, ShLAK VA KUL"
+      },
+      {
+        "mxikCode": "02610001001000000",
+        "nameUZ": "Хром рудаси",
+        "nameLAT": "Xrom rudasi",
+        "nameRU": "Хромовая руда",
+        "groupCODE": "026",
+        "groupNameUZ": "РУДАЛАР, ШЛАК ВА КУЛ",
+        "groupNameRU": "РУДЫ, ШЛАК И ЗОЛА",
+        "groupNameLAT": "RUDALAR, ShLAK VA KUL"
+      },
+      {
+        "mxikCode": "02601001003000001",
+        "nameUZ": "Куйдирилган пирит Пирит шлаклари",
+        "nameLAT": "Kuydirilgan pirit Pirit shlaklari",
+        "nameRU": "Обожженный пирит Пиритные огарки",
+        "groupCODE": "026",
+        "groupNameUZ": "РУДАЛАР, ШЛАК ВА КУЛ",
+        "groupNameRU": "РУДЫ, ШЛАК И ЗОЛА",
+        "groupNameLAT": "RUDALAR, ShLAK VA KUL"
+      },
+      {
+        "mxikCode": "02618001001000001",
+        "nameUZ": "Шлак, дросс (гранулланган шлакдан ташкари), окалина ва қора металллар ишлаб чиқаришдаги бошқа чиқиндилар Йўл қурилиши учун қўпол cуруф қуми, фракцияси 2,5 мм",
+        "nameLAT": "Shlak, dross (granullangan shlakdan tashkari), okalina va qora metalllar ishlab chiqarishdagi boshqa chiqindilar Yo'l qurilishi uchun qo'pol cüruf qumi, fraksiyasi 2,5 mm",
+        "nameRU": "Шлак, дросс (кроме гранулированного шлака), окалина и прочие отходы производства черных металлов Песок шлаковый для дорожного строительства крупный, фракция 2,5 мм",
+        "groupCODE": "026",
+        "groupNameUZ": "РУДАЛАР, ШЛАК ВА КУЛ",
+        "groupNameRU": "РУДЫ, ШЛАК И ЗОЛА",
+        "groupNameLAT": "RUDALAR, ShLAK VA KUL"
+      }
+    ],
+    "recordTotal": 25,
+    "errors": null,
+    "permitted": false
+  }
+}
