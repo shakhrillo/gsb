@@ -16,7 +16,7 @@ router.post('/', validateUser, async (req, res) => {
       .collection('products')
       .add({
         ...newProduct,
-        merchantUid: user.uid,
+        merchantUid: user.merchantUid,
         createdAt: new Date(),
         updatedAt: new Date()
       });
