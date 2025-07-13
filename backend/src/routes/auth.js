@@ -64,6 +64,11 @@ router.post('/verify-otp', async (req, res) => {
       createdAt: new Date(),
       lastLogin: new Date(),
     });
+    
+    // Add uid field to the document
+    await userDoc.update({
+      uid: userDoc.id
+    });
   } else {
     // Update existing user
     userDoc = userSnapshot.docs[0];
