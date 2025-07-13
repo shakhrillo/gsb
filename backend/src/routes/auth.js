@@ -84,6 +84,29 @@ router.post('/verify-otp', async (req, res) => {
   res.status(200).json({ message: 'OTP verified successfully', token });
 });
 
+// Login by phone with given secret
+router.post('/login', async (req, res) => {
+  const { phone, secret } = req.body;
+  if (!phone || !secret) {
+    return res.status(400).json({ message: 'Phone number and secret are required' });
+  }
+  const userRef = db.collection('users').where('phone', '==', phone).limit(1);
+  const userSnapshot = await userRef.get();
+  if (userSnapshot.empty) {
+    return res.status(404).json({ message: 'User not found' });
+  }
+  const userDoc = userSnapshot.docs[0];
+  const user = userDoc.data();
+  if (user.secret !== secret) {
+    return res.status(403).json({ message: 'Invalid secret' });
+  }
+  // Update last login time
+  await userDoc.ref.update({ lastLogin: new Date() });
+  // Generate JWT token
+  const token = jwt.sign({ uid: userDoc.id }, JWT_SECRET_KEY, { expiresIn: '24h' });
+  res.status(200).json({ message: 'Login successful', token, user: { ...user, uid: userDoc.id } });
+});
+
 // Refresh token endpoint
 router.post('/refresh-token', validateUser, (req, res) => {
   const user = req.user;
