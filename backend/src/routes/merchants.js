@@ -142,7 +142,6 @@ router.put('/:uid/staff/:staffId', async (req, res) => {
     await staffRef.update(updatedData);
     res.json({ id: staffId, ...updatedData });
   } catch (err) {
-    console.log(err);
     res.status(500).json({ error: err.message });
   }
 });
