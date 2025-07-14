@@ -117,5 +117,53 @@ router.get('/:uid/staff', async (req, res) => {
     res.status(500).json({ error: err.message });
   }
 });
-  
+
+// Edit staff member
+router.put('/:uid/staff/:staffId', async (req, res) => {
+  try {
+    const { uid, staffId } = req.params;
+    const { phone, name, role, secret, isActive } = req.body;
+
+    const staffRef = db.collection('staff').doc(staffId);
+    const staffDoc = await staffRef.get();
+
+    if (!staffDoc.exists || staffDoc.data().merchantUid !== uid) {
+      return res.status(404).json({ message: 'Staff member not found' });
+    }
+
+    const updatedData = {
+      phone,
+      name,
+      role,
+      secret,
+      isActive,
+      updatedAt: new Date(),
+    };
+
+    await staffRef.update(updatedData);
+    res.json({ id: staffId, ...updatedData });
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+});
+
+// Delete staff member
+router.delete('/:uid/staff/:staffId', async (req, res) => {
+  try {
+    const { uid, staffId } = req.params;
+
+    const staffRef = db.collection('staff').doc(staffId);
+    const staffDoc = await staffRef.get();
+
+    if (!staffDoc.exists || staffDoc.data().merchantUid !== uid) {
+      return res.status(404).json({ message: 'Staff member not found' });
+    }
+
+    await staffRef.delete();
+    res.status(204).send();
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+});
+
 module.exports = router;
