@@ -122,7 +122,7 @@ router.get('/:uid/staff', async (req, res) => {
 router.put('/:uid/staff/:staffId', async (req, res) => {
   try {
     const { uid, staffId } = req.params;
-    const { phone, name, role, secret, isActive } = req.body;
+    const { phone, name, role, secret } = req.body;
 
     const staffRef = db.collection('staff').doc(staffId);
     const staffDoc = await staffRef.get();
@@ -136,7 +136,6 @@ router.put('/:uid/staff/:staffId', async (req, res) => {
       name,
       role,
       secret,
-      isActive,
       updatedAt: new Date(),
     };
 
