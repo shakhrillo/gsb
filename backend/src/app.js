@@ -13,6 +13,7 @@ const restaurantsRoutes = require('./routes/restaurants');
 const categoriesRoutes = require('./routes/categories');
 const swaggerSpec = require('./swagger/swaggerSpec');
 const errorMiddleware = require('./middleware/error.middleware');
+const clickRoutes = require('./routes/click');
 
 // const telegramBotInit = require('./services/telegram').telegramBotInit;
 // telegramBotInit();
@@ -37,6 +38,7 @@ app.use('/categories', categoriesRoutes);
 app.use('/merchants', merchantsRoutes);
 app.use('/cities', citiesRoutes);
 app.use('/payments', paymentsRoutes);
+app.use('/click', clickRoutes);
 app.use('/file', fileRoutes);
 app.use('/products', productRoutes);
 app.use('/orders', orderRoutes);
