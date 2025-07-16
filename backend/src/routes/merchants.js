@@ -27,6 +27,21 @@ router.get('/', async (req, res) => {
   }
 });
 
+router.get('/:uid', async (req, res) => {
+  try {
+    const uid = req.params.uid;
+    const doc = await db.collection('users').doc(uid).get();
+    if (!doc.exists) {
+      return res.status(404).json({ message: 'Merchant not found' });
+    }
+    const data = doc.data();
+    delete data.password; // Remove sensitive information
+    res.json({ ...data, id: doc.id });
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+});
+
 router.get('/:uid/products', async (req, res) => {
   try {
     const uid = req.params.uid;

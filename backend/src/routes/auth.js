@@ -41,7 +41,9 @@ router.post('/send-otp', async (req, res) => {
 router.post('/verify-otp', async (req, res) => {
   let { phone, otp } = req.body;
   if (!phone || !otp) {
-    return res.status(400).json({ message: 'Phone number and OTP are required' });
+    return res.status(400).json({ 
+      status: 'error',
+      message: 'Phone number and OTP are required' });
   }
 
   if (typeof otp === 'string') {
@@ -50,7 +52,9 @@ router.post('/verify-otp', async (req, res) => {
 
   const otpDoc = await db.collection('otps').doc(phone).get();
   if (!otpDoc.exists || otpDoc.data().otp !== otp) {
-    return res.status(400).json({ message: 'Invalid OTP' });
+    return res.status(400).json({ 
+      status: 'error',
+      message: 'Invalid OTP' });
   }
 
   // Update or create user record in the database
@@ -81,7 +85,9 @@ router.post('/verify-otp', async (req, res) => {
   // Optionally, you can delete the OTP after verification
   await db.collection('otps').doc(phone).delete();
 
-  res.status(200).json({ message: 'OTP verified successfully', token });
+  res.status(200).json({ 
+    status: 'success',
+    message: 'OTP verified successfully', token });
 });
 
 // Login by phone with given secret

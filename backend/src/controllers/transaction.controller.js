@@ -1,10 +1,11 @@
 const { PaymeMethod } = require('../enum/transaction.enum')
 const transactionService = require('../services/transaction.service')
+const axios = require('axios')
 
 class TransactionController {
 	async payme(req, res, next) {
 		try {
-			const { method, params, id } = req.body
+			const { method, params, id } = req.body;
 
 			switch (method) {
 				case PaymeMethod.CheckPerformTransaction: {
@@ -49,6 +50,26 @@ class TransactionController {
 			next(err)
 		}
 	}
+
+	async card(req, res, next) {
+		try {
+			const params = req.body;
+			const response = await axios.post(process.env.PAYME_API_URL, {
+				id: new Date().getTime(),
+				...params
+			}, {
+				headers: {
+					'X-Auth': `${process.env.PAYME_MERCHANT_ID}:${process.env.PAYME_MERCHANT_KEY}`,
+					'Cache-Control': 'no-cache'
+				}
+			});
+			return res.json(response.data)
+		} catch (err) {
+			console.error('Error creating card:', err)
+			next(err)
+		}
+	}
+
 }
 
 module.exports = new TransactionController()
