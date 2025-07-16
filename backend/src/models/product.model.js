@@ -1,11 +1,5 @@
-const { Schema, model } = require('mongoose');
+const { db } = require("../services/firebase");
 
-const productSchema = new Schema(
-  {
-    title: { type: String, required: true },
-    price: { type: Number, required: true },
-  },
-  { timestamps: true }
-);
+const productCollection = db.collection('products');
 
-module.exports = model('Product', productSchema);
+module.exports = productCollection;

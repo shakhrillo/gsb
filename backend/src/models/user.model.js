@@ -1,5 +1,5 @@
-const { Schema, model } = require('mongoose');
+const { db } = require("../services/firebase");
 
-const userSchema = new Schema({ fullName: String }, { timestamps: true });
+const userCollection = db.collection('users');
 
-module.exports = model('User', userSchema);
+module.exports = userCollection;
