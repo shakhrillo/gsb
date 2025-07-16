@@ -54,10 +54,8 @@ class TransactionController {
 	async card(req, res, next) {
 		try {
 			const params = req.body;
-			const response = await axios.post(process.env.PAYME_API_URL, {
-				id: new Date().getTime(),
-				...params
-			}, {
+			console.log('Creating card with params:', params)
+			const response = await axios.post(process.env.PAYME_API_URL, params, {
 				headers: {
 					'X-Auth': `${process.env.PAYME_MERCHANT_ID}:${process.env.PAYME_MERCHANT_KEY}`,
 					'Cache-Control': 'no-cache'
