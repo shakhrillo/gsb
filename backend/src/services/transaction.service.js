@@ -34,7 +34,26 @@ class TransactionService {
       throw new TransactionError(PaymeError.InvalidAmount, id)
     }
 
-    return product['detail'] || null
+    // return product['detail'] || null
+    return {
+      "receipt_type": 0, //тип фискального чека
+      "shipping" : { //доставка, необязательное поле
+        "title" : "Test delivery",
+        "price" : 0
+      },
+      "items" : [ //товарная позиция, необязательное поле 
+        { 
+          "discount":0, //Скидка с учетом количества товаров или услуг в тийинах
+          "title": product['name'],
+          "price": product['price'] * 100, //цена товара или услуги в тийинах
+          "count": 1, //кол-во товаров или услуг
+          "code": product['code'] || "00000000000000000", //код товара или услуги, необязательное поле
+          // "units": 241092, //значение изменится в зависимости от вида товара
+          "vat_percent": product['vat_percent'] || 12, //ставка НДС, необязательное поле
+          "package_code": product["package_code"] || "00000000000000000", //код упаковки, необязательное поле
+        }
+      ]
+    }
   }
 
   async checkTransaction(params, id) {
