@@ -87,7 +87,10 @@ router.post('/verify-otp', async (req, res) => {
 
   res.status(200).json({ 
     status: 'success',
-    message: 'OTP verified successfully', token });
+    message: 'OTP verified successfully',
+    token,
+    user: { ...userDoc.data(), uid: userDoc.id }
+  });
 });
 
 // Login by phone with given secret
