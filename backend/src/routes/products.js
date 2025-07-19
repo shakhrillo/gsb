@@ -2,6 +2,18 @@ const express = require('express');
 const router = express.Router();
 const { db } = require('../services/firebase');
 const { validateUser } = require('../middleware/validateUser');
+const { getProduct } = require('../services/findProduct');
+
+// find by barcode
+router.get('/find/:barcode', async (req, res) => {
+  const { barcode } = req.params;
+  try {
+    const product = await getProduct(barcode);
+    res.status(200).json(product);
+  } catch (err) {
+    res.status(400).json({ error: 'Failed to find product' });
+  }
+});
 
 router.post('/', validateUser, async (req, res) => {
   try {
