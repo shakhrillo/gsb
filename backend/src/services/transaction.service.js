@@ -23,7 +23,7 @@ class TransactionService {
       throw new TransactionError(PaymeError.UserNotFound, id, PaymeData.UserId)
     }
     
-    const productRef = db.collection("products").doc(account.product_id)
+    const productRef = db.collection("orders").doc(account.product_id)
     const productSnap = await productRef.get()
     if (!productSnap.exists) {
       throw new TransactionError(PaymeError.ProductNotFound, id, PaymeData.ProductId)
@@ -41,18 +41,7 @@ class TransactionService {
         "title" : "Test delivery",
         "price" : 0
       },
-      "items" : [ //товарная позиция, необязательное поле 
-        { 
-          "discount":0, //Скидка с учетом количества товаров или услуг в тийинах
-          "title": product['name'],
-          "price": product['price'] * 100, //цена товара или услуги в тийинах
-          "count": 1, //кол-во товаров или услуг
-          "code": product['code'] || "00000000000000000", //код товара или услуги, необязательное поле
-          // "units": 241092, //значение изменится в зависимости от вида товара
-          "vat_percent": product['vat_percent'] || 12, //ставка НДС, необязательное поле
-          "package_code": product["package_code"] || "00000000000000000", //код упаковки, необязательное поле
-        }
-      ]
+      "items" : product['items'] || [], //товары, необязательное поле
     }
   }
 

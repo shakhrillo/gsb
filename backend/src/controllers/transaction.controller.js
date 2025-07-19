@@ -1,6 +1,8 @@
-const { PaymeMethod } = require('../enum/transaction.enum')
+const { PaymeMethod } = require('../enum/transaction.enum');
+const { db, admin } = require('../services/firebase');
 const transactionService = require('../services/transaction.service')
 const axios = require('axios')
+const CryptoJS = require('crypto-js');
 
 class TransactionController {
 	async payme(req, res, next) {
@@ -55,7 +57,24 @@ class TransactionController {
 		try {
 			const params = req.body;
 			const method = params.method;
+			const { card } = params;
 			const isCard = method.includes('card');
+			const isCardVerify = method === 'cards.verify';
+
+			// Save card with
+			if (isCardVerify) {
+				// const encryptedCard = {
+				// 	number: CryptoJS.AES.encrypt(cardNumber, process.env.CRYPTO_SECRET).toString(),
+				// 	exp_month: CryptoJS.AES.encrypt(cardExpMonth, process.env.CRYPTO_SECRET).toString(),
+				// 	exp_year: CryptoJS.AES.encrypt(cardExpYear, process.env.CRYPTO_SECRET).toString()
+				// }
+
+				// Add to user cards
+				// await db.collection('users').doc(user.uid).update({
+				// 	cards: admin.firestore.FieldValue.arrayUnion(card)
+				// });
+			}
+
 			// console.log('Creating card with params:', params)
 			const response = await axios.post(process.env.PAYME_API_URL, params, {
 				headers: {
