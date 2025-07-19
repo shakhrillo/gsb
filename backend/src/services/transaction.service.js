@@ -41,7 +41,17 @@ class TransactionService {
         "title" : "Test delivery",
         "price" : 0
       },
-      "items" : product['items'] || [], //товары, необязательное поле
+      "items" : (product['items'] || []).map(item => {
+        return {
+          "discount": item['discount'] || 0,
+          "title": item['name'] || "Unknown",
+          "price": item['price'] || 0,
+          "count": item['count'] || 1,
+          "code": item['code'] || "00000000000000000",
+          "vat_percent": item['vat_percent'] || 12,
+          "package_code": item["units"] || "00000000000000000",
+        }
+      })
     }
   }
 
