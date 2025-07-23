@@ -1,11 +1,12 @@
 const express = require('express');
 const router = express.Router();
-const { db } = require('../services/firebase');
+const { db, FieldValue } = require('../services/firebase');
 const { validateUser } = require('../middleware/validateUser');
-const { getProduct } = require('../services/findProduct');
+const { getProduct, getProductByMxikcode } = require('../services/findProduct');
+const { findCategoryByCode } = require('../utils/category');
 
 // find by barcode
-router.get('/find/:barcode', async (req, res) => {
+router.get('/barcode/:barcode', async (req, res) => {
   const { barcode } = req.params;
   try {
     const product = await getProduct(barcode);
@@ -15,25 +16,50 @@ router.get('/find/:barcode', async (req, res) => {
   }
 });
 
+router.get('/mxikcode/:mxikCode', async (req, res) => {
+  const { mxikCode } = req.params;
+  try {
+    const product = await getProductByMxikcode(mxikCode);
+    res.status(200).json(product);
+  } catch (err) {
+    res.status(400).json({ error: 'Failed to find product' });
+  }
+});
+
 router.post('/', validateUser, async (req, res) => {
   try {
     const user = req.user;
-    
     if (!user.isMerchant) {
       return res.status(403).json({ error: 'Only merchants can add products' });
     }
 
     const newProduct = req.body;
-    const docRef = await db
-      .collection('products')
-      .add({
-        ...newProduct,
-        merchantUid: user.merchantUid,
-        createdAt: new Date(),
-        updatedAt: new Date()
-      });
-    
-    res.status(201).json({ id: docRef.id });
+    const mxikCode = newProduct.mxikCode;
+    const category = mxikCode ? mxikCode.slice(0, 3) : null;
+
+    const batch = db.batch();
+    const productRef = db.collection('products').doc(newProduct.barcode);
+    batch.set(productRef, {
+      ...newProduct,
+      category,
+      merchantUid: user.merchantUid,
+      createdAt: new Date(),
+      updatedAt: new Date()
+    });
+
+    const userRef = db.collection('users').doc(user.merchantUid);
+    batch.update(userRef, {
+      productCount: FieldValue.increment(1)
+    });
+
+    const categoryRef = userRef.collection('categories').doc(category);
+    batch.set(categoryRef, {
+      ...findCategoryByCode(category),
+      productCount: FieldValue.increment(1)
+    }, { merge: true });
+
+    await batch.commit();
+    res.status(201).json({ id: productRef.id });
   } catch (err) {
     console.error('Error adding product:', err);
     res.status(400).json({ error: err.message });

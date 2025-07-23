@@ -42,6 +42,27 @@ router.get('/:uid', async (req, res) => {
   }
 });
 
+// get categories for a merchant
+router.get('/:uid/categories', async (req, res) => {
+  try {
+    const uid = req.params.uid;
+    const snapshot = await db
+      .collection('users')
+      .doc(uid)
+      .collection('categories')
+      .get();
+
+    if (snapshot.empty) {
+      return res.status(404).json({ message: 'No categories found' });
+    }
+
+    const categories = snapshot.docs.map(doc => ({ ...doc.data(), id: doc.id }));
+    res.json(categories);
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+});
+
 router.get('/:uid/products', async (req, res) => {
   try {
     const uid = req.params.uid;

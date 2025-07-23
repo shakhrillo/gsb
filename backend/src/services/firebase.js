@@ -37,7 +37,11 @@ try {
   console.error("Firebase initialization error", error);
 }
 
+
 const db = admin.firestore();
 const auth = admin.auth();
 
-module.exports = { admin, db, auth };
+// Export FieldValue for atomic operations
+const FieldValue = admin.firestore.FieldValue;
+
+module.exports = { admin, db, auth, FieldValue };
