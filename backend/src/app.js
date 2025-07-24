@@ -14,6 +14,8 @@ const categoriesRoutes = require('./routes/categories');
 const swaggerSpec = require('./swagger/swaggerSpec');
 const errorMiddleware = require('./middleware/error.middleware');
 const clickRoutes = require('./routes/click');
+const notificationRoutes = require('./routes/notifications');
+const receiptChecker = require('./middleware/receiptChecker');
 
 // const telegramBotInit = require('./services/telegram').telegramBotInit;
 // telegramBotInit();
@@ -44,6 +46,7 @@ app.use('/products', productRoutes);
 app.use('/orders', orderRoutes);
 app.use('/track', orderRoutes);
 app.use('/restaurants', restaurantsRoutes);
+app.use('/notifications', notificationRoutes);
 
 app.use(errorMiddleware)
 
