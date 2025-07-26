@@ -66,18 +66,45 @@ router.get('/:uid/categories', async (req, res) => {
 router.get('/:uid/products', async (req, res) => {
   try {
     const uid = req.params.uid;
-    const snapshot = await db
+    
+    // Parse pagination parameters
+    const page = parseInt(req.query.page) || 1;
+    const limit = parseInt(req.query.limit) || 10;
+    const skip = (page - 1) * limit;
+
+    // Build query
+    let query = db
       .collection('products')
       .where('merchantUid', '==', uid)
-      .orderBy('createdAt', 'desc')
-      .get();
+      .orderBy('createdAt', 'desc');
 
+    // Get total count for pagination info
+    const countSnapshot = await query.get();
+    const totalItems = countSnapshot.size;
+    const totalPages = Math.ceil(totalItems / limit);
+
+    // Apply pagination
+    query = query.limit(limit).offset(skip);
+    const snapshot = await query.get();
 
     if (snapshot.empty) {
       return res.status(404).json({ message: 'No products found' });
     }
+
     const products = snapshot.docs.map(doc => ({ ...doc.data(), id: doc.id }));
-    res.json(products);
+    
+    // Return paginated response
+    res.json({
+      products,
+      pagination: {
+        currentPage: page,
+        totalPages,
+        totalItems,
+        itemsPerPage: limit,
+        hasNextPage: page < totalPages,
+        hasPreviousPage: page > 1
+      }
+    });
   } catch (err) {
     res.status(500).json({ error: err.message });
   }

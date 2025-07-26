@@ -7,6 +7,9 @@ const uploadImage = require('../middleware/uploadImage');
 router.post('/upload', validateUser, uploadImage, async (req, res) => {
   try {
     const user = req.user;
+    
+    console.log('req', req.file);
+
     const file = req.file;
 
     if (!file) {

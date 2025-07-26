@@ -6,6 +6,7 @@ const { db } = require('../services/firebase');
 const JWT_SECRET_KEY = process.env.JWT_SECRET_KEY;
 
 const validateUser = async (req, res, next) => {
+  console.log('file:', req);
   const token = req.headers.authorization?.split(' ')[1];
   console.log('Authorization token:', token);
   if (!token) {

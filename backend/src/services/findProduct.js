@@ -12,9 +12,9 @@ const getProduct = async (barcode) => {
       }
     });
     const results = response.data;
-    const mxikCode = results['data'][0]?.mxikCode;
+    const mxikCode = results['data'][0]?.mxikCode || barcode;
 
-    if (!mxikCode) {
+    if (!mxikCode && !barcode) {
       throw new Error('Product not found for the given barcode');
     }
 
