@@ -1,8 +1,6 @@
 const { PaymeMethod } = require('../enum/transaction.enum');
-const { db, admin } = require('../services/firebase');
 const transactionService = require('../services/transaction.service')
 const axios = require('axios')
-const CryptoJS = require('crypto-js');
 
 class TransactionController {
 	async payme(req, res, next) {
