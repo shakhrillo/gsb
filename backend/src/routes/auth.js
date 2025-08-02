@@ -1,182 +1,341 @@
-const express = require('express');
+/**
+ * Authentication Routes with Enhanced OTP System
+ * 
+ * Features:
+ * - Secure OTP generation and validation
+ * - Rate limiting for OTP requests
+ * - OTP expiration (5 minutes)
+ * - Attempt limiting (3 attempts max)
+ * - Automatic cleanup of expired OTPs
+ * - Phone number format validation
+ * - OTP status checking
+ * - Resend OTP functionality
+ * - Production SMS integration with Eskiz.uz
+ * - Development mode with console logging
+ * 
+ * Environment Variables Required:
+ * - ESKIZ_LOGIN: Your Eskiz.uz account email
+ * - ESKIZ_API_KEY: Your Eskiz.uz API key
+ * - SKIP_SMS: Set to 'true' to skip SMS in development
+ * - APP_ENVIRONMENT: 'development' or 'production'
+ */
 
-const jwt = require('jsonwebtoken');
-const bcrypt = require('bcryptjs');
-const JWT_SECRET_KEY = process.env.JWT_SECRET_KEY;
+const express = require('express');
+const { validateUser } = require('../middleware/validateUser');
+const authService = require('../services/auth.service');
+const userService = require('../services/user.service');
 
 const router = express.Router();
-const { db } = require('../services/firebase');
-const { validateUser } = require('../middleware/validateUser');
-// const { sendSms } = require('../services/sms');
 
 router.post('/send-otp', async (req, res) => {
-  const { phone } = req.body;
-  if (!phone) {
-    return res.status(400).json({ message: 'Phone number is required' });
+  try {
+    const { phone } = req.body;
+    
+    // Validate phone number format
+    if (!phone) {
+      return res.status(400).json({ 
+        status: 'error',
+        message: 'Phone number is required' 
+      });
+    }
+
+    // Basic phone number validation
+    if (!authService.validatePhoneNumber(phone)) {
+      return res.status(400).json({ 
+        status: 'error',
+        message: 'Invalid phone number format' 
+      });
+    }
+
+    // Check if OTP was recently sent (rate limiting)
+    const { isInCooldown, remainingTime } = await authService.checkOtpCooldown(phone);
+    if (isInCooldown) {
+      return res.status(429).json({ 
+        status: 'error',
+        message: `Please wait ${remainingTime} seconds before requesting a new OTP`,
+        remainingTime
+      });
+    }
+
+    // Generate and store OTP
+    const otp = authService.generateOtp();
+    await authService.storeOtp(phone, otp);
+
+    // Send SMS
+    const { success, error } = await authService.sendOtpSms(phone, otp);
+    if (!success) {
+      // Clean up OTP if SMS fails in production
+      await authService.cleanupOtp(phone);
+      return res.status(500).json({ 
+        status: 'error',
+        message: 'Failed to send OTP. Please try again.' 
+      });
+    }
+
+    res.status(200).json({ 
+      status: 'success',
+      message: 'OTP sent successfully',
+      expiresIn: 300 // 5 minutes in seconds
+    });
+  } catch (error) {
+    console.error('Send OTP error:', error);
+    res.status(500).json({ 
+      status: 'error',
+      message: 'Internal server error' 
+    });
   }
-
-  // Here you would integrate with an SMS service to send the OTP
-  // For example, using Twilio or another SMS gateway
-
-  // Simulating OTP sending
-  // const otp = Math.floor(100000 + Math.random() * 900000); // Generate a random 6-digit OTP
-  const otp = 123456;
-
-  // Store the OTP in memory or a cache for verification later
-  await db.collection('otps').doc(phone).set({
-    otp,
-    createdAt: new Date()
-  });
-
-  // In a real application, you would save this OTP in the database or cache for verification later
-  // try {
-  //   await sendSms(phone, `Tasdiqlash kodi: ${otp}`)
-  // } catch (error) {
-  //   return res.status(200).json({ message: 'Fake SMS sent successfully', status: 'fake' });
-  // }
-
-  res.status(200).json({ message: 'OTP sent successfully' });
 });
 
 router.post('/verify-otp', async (req, res) => {
-  let { phone, otp } = req.body;
-  if (!phone || !otp) {
-    return res.status(400).json({ 
-      status: 'error',
-      message: 'Phone number and OTP are required' });
-  }
-
-  if (typeof otp === 'string') {
-    otp = parseInt(otp, 10);
-  }
-
-  const otpDoc = await db.collection('otps').doc(phone).get();
-  if (!otpDoc.exists || otpDoc.data().otp !== otp) {
-    return res.status(400).json({ 
-      status: 'error',
-      message: 'Invalid OTP' });
-  }
-
-  // Update or create user record in the database
-  const userRef = db.collection('users').where('phone', '==', phone).limit(1);
-  const userSnapshot = await userRef.get();
-  let userDoc;
-  if (userSnapshot.empty) {
-    // Create a new user if not exists
-    userDoc = await db.collection('users').add({
-      phone,
-      createdAt: new Date(),
-      lastLogin: new Date(),
-    });
+  try {
+    let { phone, otp } = req.body;
     
-    // Add uid field to the document
-    await userDoc.update({
-      uid: userDoc.id
+    // Validate input
+    if (!phone || !otp) {
+      return res.status(400).json({ 
+        status: 'error',
+        message: 'Phone number and OTP are required' 
+      });
+    }
+
+    // Normalize OTP to number
+    if (typeof otp === 'string') {
+      otp = parseInt(otp, 10);
+    }
+
+    // Validate OTP format
+    if (!authService.validateOtpFormat(otp)) {
+      return res.status(400).json({ 
+        status: 'error',
+        message: 'OTP must be a 6-digit number' 
+      });
+    }
+
+    // Verify OTP
+    const verificationResult = await authService.verifyOtp(phone, otp);
+    if (!verificationResult.success) {
+      const status = verificationResult.error.includes('Maximum') ? 429 : 400;
+      const response = { 
+        status: 'error',
+        message: verificationResult.error
+      };
+      
+      if (verificationResult.remainingAttempts !== undefined) {
+        response.remainingAttempts = verificationResult.remainingAttempts;
+      }
+      
+      return res.status(status).json(response);
+    }
+
+    // Create or update user and generate token
+    const { userDoc, token } = await authService.createOrUpdateUser(phone);
+
+    // Clean up OTP after successful verification
+    await authService.cleanupOtp(phone);
+
+    res.status(200).json({ 
+      status: 'success',
+      message: 'OTP verified successfully',
+      token,
+      user: { ...userDoc.data(), uid: userDoc.id }
     });
-  } else {
-    // Update existing user
-    userDoc = userSnapshot.docs[0];
-    await userDoc.ref.update({ lastLogin: new Date() });
+  } catch (error) {
+    console.error('Verify OTP error:', error);
+    res.status(500).json({ 
+      status: 'error',
+      message: 'Internal server error' 
+    });
   }
-
-  // OTP is valid, generate JWT token
-  const token = jwt.sign({ uid: userDoc.id }, JWT_SECRET_KEY, { expiresIn: '24h' });
-
-  // Optionally, you can delete the OTP after verification
-  await db.collection('otps').doc(phone).delete();
-
-  res.status(200).json({ 
-    status: 'success',
-    message: 'OTP verified successfully',
-    token,
-    user: { ...userDoc.data(), uid: userDoc.id }
-  });
-});
-
-// Login by phone with given secret
-router.post('/login', async (req, res) => {
-  const { phone, secret } = req.body;
-  if (!phone || !secret) {
-    return res.status(400).json({ message: 'Phone number and secret are required' });
-  }
-  const userRef = db.collection('users').where('phone', '==', phone).limit(1);
-  const userSnapshot = await userRef.get();
-  if (userSnapshot.empty) {
-    return res.status(404).json({ message: 'User not found' });
-  }
-  const userDoc = userSnapshot.docs[0];
-  const user = userDoc.data();
-  if (user.secret !== secret) {
-    return res.status(403).json({ message: 'Invalid secret' });
-  }
-  // Update last login time
-  await userDoc.ref.update({ lastLogin: new Date() });
-  // Generate JWT token
-  const token = jwt.sign({ uid: userDoc.id }, JWT_SECRET_KEY, { expiresIn: '24h' });
-  res.status(200).json({ message: 'Login successful', token, user: { ...user, uid: userDoc.id } });
 });
 
 // Refresh token endpoint
 router.post('/refresh-token', validateUser, (req, res) => {
-  const user = req.user;
-  const newToken = jwt.sign({ uid: user.uid }, JWT_SECRET_KEY, { expiresIn: '24h' });
-  res.status(200).json({ token: newToken, user });
+  try {
+    const user = req.user;
+    const newToken = userService.generateRefreshToken(user.uid);
+    res.status(200).json({ 
+      status: 'success',
+      token: newToken, 
+      user 
+    });
+  } catch (error) {
+    console.error('Refresh token error:', error);
+    res.status(500).json({ 
+      status: 'error',
+      message: 'Internal server error' 
+    });
+  }
 });
 
 // Get current user
-router.get('/current-user', validateUser, (req, res) => {
-  const user = req.user;
-  if (!user) {
-    return res.status(404).json({ message: 'User not found' });
+router.get('/current-user', validateUser, async (req, res) => {
+  try {
+    const user = req.user;
+    
+    if (!user) {
+      return res.status(404).json({ 
+        status: 'error',
+        message: 'User not found' 
+      });
+    }
+    
+    res.status(200).json({
+      status: 'success',
+      data: user
+    });
+  } catch (error) {
+    console.error('Get current user error:', error);
+    res.status(500).json({ 
+      status: 'error',
+      message: 'Internal server error' 
+    });
   }
-  res.status(200).json(user);
 });
 
-// Update current user everything in body except phone and createdAt
+// Update current user
 router.put('/current-user', validateUser, async (req, res) => {
-  const user = req.user;
-  const updates = req.body;
+  try {
+    const user = req.user;
+    const updates = req.body;
 
-  // Ensure we don't update phone or createdAt
-  if (updates.phone || updates.createdAt) {
-    return res.status(400).json({ message: 'Cannot update phone or createdAt' });
+    const result = await userService.updateUser(user.uid, updates);
+    
+    if (!result.success) {
+      return res.status(400).json({ 
+        status: 'error',
+        message: result.error 
+      });
+    }
+
+    res.status(200).json({
+      status: 'success',
+      data: result.data
+    });
+  } catch (error) {
+    console.error('Update user error:', error);
+    res.status(500).json({ 
+      status: 'error',
+      message: 'Internal server error' 
+    });
   }
-
-  const userRef = db.collection('users').doc(user.uid);
-  await userRef.update(updates);
-
-  // Fetch updated user data
-  const updatedUserDoc = await userRef.get();
-  res.status(200).json(updatedUserDoc.data());
 });
 
 // Send request to become merchant
-router.post('/become-merchant', validateUser, async (req, res) => {
-  const user = req.user;
-  const { businessName, businessAddress, secret } = req.body;
+router.post('/become-merchant', async (req, res) => {
+  try {
+    const merchantData = req.body;
 
-  if (!businessName || !businessAddress) {
-    return res.status(400).json({ message: 'Business name and address are required' });
+    const result = await userService.requestMerchantStatus(merchantData);
+    
+    if (!result.success) {
+      return res.status(400).json({ 
+        status: 'error',
+        message: result.error 
+      });
+    }
+
+    res.status(200).json({ 
+      status: 'success',
+      message: 'Merchant request submitted successfully' 
+    });
+  } catch (error) {
+    console.error('Become merchant error:', error);
+    res.status(500).json({ 
+      status: 'error',
+      message: 'Internal server error' 
+    });
   }
+});
 
-  // Check if the user is already a merchant
-  if (user.isMerchant) {
-    return res.status(400).json({ message: 'You are already a merchant' });
+// Resend OTP endpoint
+router.post('/resend-otp', async (req, res) => {
+  try {
+    const { phone } = req.body;
+    
+    if (!phone) {
+      return res.status(400).json({ 
+        status: 'error',
+        message: 'Phone number is required' 
+      });
+    }
+
+    // Check resend cooldown and existence
+    const { isInCooldown, remainingTime, exists } = await authService.checkResendCooldown(phone);
+    
+    if (!exists) {
+      return res.status(404).json({ 
+        status: 'error',
+        message: 'No OTP request found. Please request a new OTP.' 
+      });
+    }
+
+    if (isInCooldown) {
+      return res.status(429).json({ 
+        status: 'error',
+        message: `Please wait ${remainingTime} seconds before resending OTP`,
+        remainingTime
+      });
+    }
+
+    // Generate new OTP and update
+    const otp = authService.generateOtp();
+    await authService.updateOtp(phone, otp);
+
+    // Send SMS
+    const { success, error } = await authService.sendOtpSms(phone, otp, true);
+    if (!success) {
+      return res.status(500).json({ 
+        status: 'error',
+        message: 'Failed to resend OTP. Please try again.' 
+      });
+    }
+
+    res.status(200).json({ 
+      status: 'success',
+      message: 'OTP resent successfully',
+      expiresIn: 300
+    });
+  } catch (error) {
+    console.error('Resend OTP error:', error);
+    res.status(500).json({ 
+      status: 'error',
+      message: 'Internal server error' 
+    });
   }
-  // Optional: Validate secret if needed
-  if (secret && secret !== process.env.MERCHANT_SECRET) {
-    return res.status(403).json({ message: 'Invalid secret' });
+});
+
+// Check OTP status endpoint
+router.get('/otp-status/:phone', async (req, res) => {
+  try {
+    const { phone } = req.params;
+    
+    if (!phone) {
+      return res.status(400).json({ 
+        status: 'error',
+        message: 'Phone number is required' 
+      });
+    }
+
+    const result = await authService.getOtpStatus(phone);
+    
+    if (!result.success) {
+      return res.status(404).json({ 
+        status: 'error',
+        message: result.error
+      });
+    }
+
+    res.status(200).json({ 
+      status: 'success',
+      data: result.data
+    });
+  } catch (error) {
+    console.error('OTP status error:', error);
+    res.status(500).json({ 
+      status: 'error',
+      message: 'Internal server error' 
+    });
   }
-
-  // Update user to indicate they want to become a merchant
-  await db.collection('users').doc(user.uid).update({
-    isMerchant: true,
-    businessName,
-    businessAddress,
-    merchantRequestDate: new Date(),
-  });
-
-  res.status(200).json({ message: 'Merchant request submitted successfully' });
 });
 
 module.exports = router;

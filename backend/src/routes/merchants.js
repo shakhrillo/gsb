@@ -2,6 +2,28 @@ const express = require('express');
 const router = express.Router();
 const { db } = require('../services/firebase');
 
+// Become a merchant
+router.post('/', async (req, res) => {
+  try {
+    const uid = req.body.phone.replace(/\D/g, '');
+    const userDoc = await db.collection('users').doc(uid).get();
+    if (userDoc.exists) {
+      return res.status(400).json({ error: 'User already exists' });
+    }
+    
+    await db.collection('users').doc(uid).set({
+      ...req.body,
+      isMerchant: true,
+      isActive: false,
+      createdAt: new Date(),
+    }, { merge: true });
+
+    res.status(201).json({ message: 'Successfully became a merchant' });
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+});
+
 router.get('/', async (req, res) => {
   try {
     let collectionProducts = await db.collection('users');
