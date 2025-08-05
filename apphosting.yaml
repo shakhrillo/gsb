@@ -1,0 +1,65 @@
+# Firebase App Hosting via Cloud Run
+# https://firebase.google.com/docs/app-hosting/configure#cloud-run
+
+runConfig:
+  minInstances: 0
+  maxInstances: 10
+  concurrency: 80
+  cpu: 1
+  memoryMiB: 512
+  # serviceAccount: YOUR_SERVICE_ACCOUNT_NAME@YOUR_PROJECT.iam.gserviceaccount.com  # optional
+
+# Environment variables for build/runtime
+env:
+  - variable: NODE_ENV
+    value: production
+    availability:
+      - RUNTIME
+  - variable: PORT
+    value: "8080"  # Firebase App Hosting expects apps to listen on port 8080
+    availability:
+      - RUNTIME
+  - variable: JWT_SECRET_KEY
+    secret: dioi
+    availability:
+      - RUNTIME
+  - variable: TELEGRAM_BOT_TOKEN
+    secret: 7649911743:AAF8pLk75FWXWdPWj9CcBnyM6I38ioCCkFA
+    availability:
+      - RUNTIME
+  - variable: APP_FIREBASE_PROJECT_ID
+    secret: yolda-e6aae
+    availability:
+      - RUNTIME
+
+  # Example secret
+  # - variable: API_KEY
+  #   secret: my-api-key
+  #   availability:
+  #     - RUNTIME
+
+
+
+# # Settings for Backend (on Cloud Run).
+# # See https://firebase.google.com/docs/app-hosting/configure#cloud-run
+# runConfig:
+#   minInstances: 0
+#   # maxInstances: 100
+#   # concurrency: 80
+#   # cpu: 1
+#   # memoryMiB: 512
+
+# # Environment variables and secrets.
+# # env:
+#   # Configure environment variables.
+#   # See https://firebase.google.com/docs/app-hosting/configure#user-defined-environment
+#   # - variable: MESSAGE
+#   #   value: Hello world!
+#   #   availability:
+#   #     - BUILD
+#   #     - RUNTIME
+
+#   # Grant access to secrets in Cloud Secret Manager.
+#   # See https://firebase.google.com/docs/app-hosting/configure#secret-parameters
+#   # - variable: MY_SECRET
+#   #   secret: mySecretRef

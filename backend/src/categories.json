@@ -1,0 +1,702 @@
+[{
+  "code": "001",
+  "name": "TIRIK HAYVONLAR",
+  "nameUz": "ТИРИК ҲАЙВОНЛАР",
+  "nameRu": "ЖИВЫЕ ЖИВОТНЫЕ"
+},
+{
+  "code": "002",
+  "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI",
+  "nameUz": "ГЎШТ ВА ГЎШТЛИ ОЗИҚ-ОВҚАТ СУБМАҲСУЛОТЛАРИ",
+  "nameRu": "МЯСО И ПИЩЕВЫЕ МЯСНЫЕ СУБПРОДУКТЫ"
+},
+{
+  "code": "003",
+  "name": "BALIQ VA SUVDA YASHOVCHI UMURTQASIZ BOSHQA HAYVONLAR",
+  "nameUz": "БАЛИҚ ВА СУВДА ЯШОВЧИ УМУРТҚАСИЗ БОШҚА ҲАЙВОНЛАР",
+  "nameRu": "РЫБА И ПРОЧИЕ ВОДНЫЕ БЕСПОЗВОНОЧНЫЕ"
+},
+{
+  "code": "004",
+  "name": "HAYVONLARDAN OLINADIGAN MAHSULOTLAR",
+  "nameUz": "ҲАЙВОНЛАРДАН ОЛИНАДИГАН МАҲСУЛОТЛАР",
+  "nameRu": "ПРОДУКТЫ ЖИВОТНОГО ПРОИСХОЖДЕНИЯ"
+},
+{
+  "code": "005",
+  "name": "BOSHQA JOYLARDA KO’RSATILMAGAN YOKI KIRITILMAGAN HAYVON MAHSULOTLARI",
+  "nameUz": "БОШҚА ЖОЙЛАРДА КЎРСАТИЛМАГАН ЁКИ КИРИТИЛМАГАН ҲАЙВОН МАҲСУЛОТЛАРИ",
+  "nameRu": "ПРОДУКТЫ ЖИВОТНОГО ПРОИСХОЖДЕНИЯ, В ДРУГОМ МЕСТЕ НЕ ПОИМЕНОВАННЫЕ ИЛИ НЕ ВКЛЮЧЕННЫЕ"
+},
+{
+  "code": "006",
+  "name": "TIRIK DARAXT VA O’SIMLIKLAR",
+  "nameUz": "ТИРИК ДАРАХТ ВА ЎСИМЛИКЛАР",
+  "nameRu": "ЖИВЫЕ ДЕРЕВЬЯ И РАСТЕНИЯ"
+},
+{
+  "code": "007",
+  "name": "SABZAVOTLAR",
+  "nameUz": "САБЗАВОТЛАР",
+  "nameRu": "ОВОЩИ"
+},
+{
+  "code": "008",
+  "name": "MEVALAR VA YONG’OQLAR",
+  "nameUz": "МЕВАЛАР ВА ЁНҒОҚЛАР",
+  "nameRu": "ФРУКТЫ И ОРЕХИ"
+},
+{
+  "code": "009",
+  "name": "KOFE, CHOY VA ZIRAVORLAR",
+  "nameUz": "КОФЕ, ЧОЙ ВА ЗИРАВОРЛАР",
+  "nameRu": "КОФЕ, ЧАЙ И СПЕЦИИ"
+},
+{
+  "code": "010",
+  "name": "DONLI O’SIMLIKLAR",
+  "nameUz": "ДОНЛИ ЎСИМЛИКЛАР",
+  "nameRu": "ЗЛАКИ"
+},
+{
+  "code": "011",
+  "name": "UN VA UN-DON MAHSULOTLARI",
+  "nameUz": "УН ВА УН-ДОН МАҲСУЛОТЛАРИ",
+  "nameRu": "МУКА И МУКОМОЛЬНО-КРУПЯНЫЕ ПРОДУКЦИИ"
+},
+{
+  "code": "012",
+  "name": "DORIVOR O’SIMLIKLAR URUG’LARI, MEVALARI VA TEXNIK MAQSADLARDAGI O’SIMLIKLAR",
+  "nameUz": "ДОРИВОР ЎСИМЛИКЛАР УРУҒЛАРИ, МЕВАЛАРИ ВА ТЕХНИК МАҚСАДЛАРДАГИ ЎСИМЛИКЛАР",
+  "nameRu": "СЕМЕНА, ПЛОДЫ ЛЕКАРСТВЕННЫХ РАСТЕНИЙ И РАСТЕНИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ\n"
+},
+{
+  "code": "013",
+  "name": "SHELLAK TABIIY TOZALANMAGAN; SAQICH, QATRONLAR VA BOSHQA O’SIMLIK SHARBATLARI VA EKSTRAKTLARI",
+  "nameUz": "ШЕЛЛАК ТАБИИЙ ТОЗАЛАНМАГАН; САҚИЧ, ҚАТРОНЛАР ВА БОШҚА ЎСИМЛИК ШАРБАТЛАРИ ВА ЭКСТРАКТЛАРИ",
+  "nameRu": "ШЕЛЛАК ПРИРОДНЫЙ НЕОЧИЩЕННЫЙ; КАМЕДИ, СМОЛЫ И ПРОЧИЕ РАСТИТЕЛЬНЫЕ СОКИ И ЭКСТРАКТЫ"
+},
+{
+  "code": "014",
+  "name": "TO’QILADIGAN MAHSULOTLARDA QO’LLANADIGAN O’SIMLIK MATERIALLARI",
+  "nameUz": "ТЎҚИЛАДИГАН МАҲСУЛОТЛАРДА ҚЎЛЛАНАДИГАН ЎСИМЛИК МАТЕРИАЛЛАРИ",
+  "nameRu": "РАСТИТЕЛЬНЫЕ МАТЕРИАЛЫ ДЛЯ ИЗГОТОВЛЕНИЯ ПЛЕТЕНЫХ ИЗДЕЛИЙ"
+},
+{
+  "code": "015",
+  "name": "HAYVON YOKI O’SIMLIK YOG’LARI VA ULARNING PARCHALANISHI MAHSULOTLARI",
+  "nameUz": "ҲАЙВОН ЁКИ ЎСИМЛИК ЁҒЛАРИ ВА УЛАРНИНГ ПАРЧАЛАНИШИ МАҲСУЛОТЛАРИ",
+  "nameRu": "ЖИРЫ И МАСЛА ЖИВОТНОГО ИЛИ РАСТИТЕЛЬНОГО ПРОИСХОЖДЕНИЯ И ПРОДУКТЫ ИХ РАСЩЕПЛЕНИЯ"
+},
+{
+  "code": "016",
+  "name": "GO’SHT, BALIQ YOKI BOSHQA SUVDA YASHOVCHI UMURTQASIZ HAYVONLARDAN TAYYORLANGAN MAHSULOTLAR",
+  "nameUz": "ГЎШТ, БАЛИҚ ЁКИ БОШҚА СУВДА ЯШОВЧИ УМУРТҚАСИЗ ҲАЙВОНЛАРДАН ТАЙЁРЛАНГАН МАҲСУЛОТЛАР",
+  "nameRu": "ГОТОВЫЕ ПРОДУКТЫ ИЗ МЯСА, РЫБЫ ИЛИ РАКООБРАЗНЫХ, МОЛЛЮСКОВ ИЛИ ПРОЧИХ ВОДНЫХ БЕСПОЗВОНОЧНЫХ"
+},
+{
+  "code": "017",
+  "name": "SHAKAR VA SHAKARDAN OLINADIGAN QANDOLAT MAHSULOTLARI",
+  "nameUz": "ШАКАР ВА ШАКАРДАН ОЛИНАДИГАН ҚАНДОЛАТ МАҲСУЛОТЛАРИ",
+  "nameRu": "САХАР И КОНДИТЕРСКИЕ ИЗДЕЛИЯ ИЗ САХАРА"
+},
+{
+  "code": "018",
+  "name": "KAKAO VA UNING MAHSULOTLARI",
+  "nameUz": "КАКАО ВА УНИНГ МАҲСУЛОТЛАРИ",
+  "nameRu": "КАКАО И ПРОДУКТЫ ИЗ НЕГО"
+},
+{
+  "code": "019",
+  "name": "UN, QANDOLAT VA YORMA - DON MAHSULOTLARI",
+  "nameUz": "УН, ҚАНДОЛАТ ВА ЁРМА - ДОН МАҲСУЛОТЛАРИ",
+  "nameRu": "ГОТОВЫЕ ПРОДУКТЫ ИЗ ЗЕРНА ЗЛАКОВ, МУКИ, МУЧНЫЕ КОНДИТЕРСКИЕ ИЗДЕЛИЯ"
+},
+{
+  "code": "020",
+  "name": "SABZAVOT, MEVA, YONG’OQ YOKI O’SIMLIKLARNING BOSHQA QISMLARINI QAYTA ISHLASH MAHSULOTLARI",
+  "nameUz": "САБЗАВОТ, МЕВА, ЁНҒОҚ ЁКИ ЎСИМЛИКЛАРНИНГ БОШҚА ҚИСМЛАРИНИ ҚАЙТА ИШЛАШ МАҲСУЛОТЛАРИ",
+  "nameRu": "ПРОДУКТЫ ПЕРЕРАБОТКИ ОВОЩЕЙ, ФРУКТОВ, ОРЕХОВ ИЛИ ПРОЧИХ ЧАСТЕЙ РАСТЕНИЙ"
+},
+{
+  "code": "021",
+  "name": "TURLI OZIQ-OVQAT MAHSULOTLARI",
+  "nameUz": "ТУРЛИ ОЗИҚ-ОВҚАТ МАҲСУЛОТЛАРИ",
+  "nameRu": "РАЗНЫЕ ПИЩЕВЫЕ ПРОДУКТЫ"
+},
+{
+  "code": "022",
+  "name": "ALKOGOLLI VA ALKOGOLSIZ ICHIMLIKLAR HAMDA SIRKA",
+  "nameUz": "АЛКОГОЛЛИ ВА АЛКОГОЛСИЗ ИЧИМЛИКЛАР ҲАМДА СИРКА",
+  "nameRu": "АЛКОГОЛЬНЫЕ И БЕЗАЛКОГОЛЬНЫЕ НАПИТКИ И УКСУС"
+},
+{
+  "code": "023",
+  "name": "OZIQ-OVQAT SANOATI QOLDIQLARI VA CHIQINDILARI HAMDA XAYVONLAR UCHUN TAYYOR OZUQA MAHSULOTLARI",
+  "nameUz": "ОЗИҚ-ОВҚАТ САНОАТИ ҚОЛДИҚЛАРИ ВА ЧИҚИНДИЛАРИ ҲАМДА ХАЙВОНЛАР УЧУН ТАЙЁР ОЗУҚА МАҲСУЛОТЛАРИ",
+  "nameRu": "ОСТАТКИ И ОТХОДЫ ПИЩЕВОЙ ПРОМЫШЛЕННОСТИ, А ТАКЖЕ ГОТОВЫЕ КОРМА ДЛЯ ЖИВОТНЫХ"
+},
+{
+  "code": "024",
+  "name": "TAMAKI VA TAMAKI O’RNINI BOSUVCHI MAHSULOTLAR",
+  "nameUz": "ТАМАКИ ВА ТАМАКИ ЎРНИНИ БОСУВЧИ МАҲСУЛОТЛАР",
+  "nameRu": "ТАБАК И ПРОМЫШЛЕННЫЕ ЗАМЕНИТЕЛИ ТАБАКА"
+},
+{
+  "code": "025",
+  "name": "TUZ, OLTINGUGURT, GIPS MATERIALLARI, OHAK VA SEMENT",
+  "nameUz": "ТУЗ, ОЛТИНГУГУРТ, ГИПС МАТЕРИАЛЛАРИ, ОҲАК ВА ЦЕМЕНТ",
+  "nameRu": "СОЛЬ, СЕРА, ГИПСОВЫЕ МАТЕРИАЛЫ, ИЗВЕСТЬ И ЦЕМЕНТ"
+},
+{
+  "code": "026",
+  "name": "RUDALAR, SHLAK VA KUL",
+  "nameUz": "РУДАЛАР, ШЛАК ВА КУЛ",
+  "nameRu": "РУДЫ, ШЛАК И ЗОЛА"
+},
+{
+  "code": "027",
+  "name": "MINERAL YOQILG’I VA BITUMSIMON MODDALAR",
+  "nameUz": "МИНЕРАЛ ЁҚИЛҒИ ВА БИТУМСИМОН МОДДАЛАР",
+  "nameRu": "МИНЕРАЛЬНОЕ ТОПЛИВО И БИТУМНЫЕ ВЕЩЕСТВА"
+},
+{
+  "code": "028",
+  "name": "NOORGANIK VA ORGANIK KIMYO MAHSULOTLARI",
+  "nameUz": "НООРГАНИК ВА ОРГАНИК КИМЁ МАҲСУЛОТЛАРИ",
+  "nameRu": "ПРОДУКТЫ НЕОРГАНИЧЕСКОЙ И ОРГАНИЧЕСКОЙ ХИМИИ"
+},
+{
+  "code": "029",
+  "name": "ORGANIK KIMYOVIY MODDALAR",
+  "nameUz": "ОРГАНИК КИМЁВИЙ МОДДАЛАР",
+  "nameRu": "ОРГАНИЧЕСКИЕ ХИМИЧЕСКИЕ СОЕДИНЕНИЯ"
+},
+{
+  "code": "030",
+  "name": "FARMATSEVTIKA MAHSULOTI",
+  "nameUz": "ФАРМАЦЕВТИКА МАҲСУЛОТИ",
+  "nameRu": "ФАРМАЦЕВТИЧЕСКАЯ ПРОДУКЦИЯ"
+},
+{
+  "code": "031",
+  "name": "O’G’ITLAR",
+  "nameUz": "ЎҒИТЛАР",
+  "nameRu": "УДОБРЕНИЯ"
+},
+{
+  "code": "032",
+  "name": "QORISHMA VA BO’YOQ EKSTRAKTLAR",
+  "nameUz": "ҚОРИШМА ВА БЎЁҚ ЭКСТРАКТЛАР",
+  "nameRu": "ЭКСТРАКТЫ ДУБИЛЬНЫЕ ИЛИ КРАСИЛЬНЫЕ"
+},
+{
+  "code": "033",
+  "name": "EFIR MOYLARI VA BOSHQA PARFYUMERIYA, KOSMETIKA YOKI GO’ZALLIK MAHSULOTLARI",
+  "nameUz": "ЭФИР МОЙЛАРИ ВА БОШҚА ПАРФЮМЕРИЯ, КОСМЕТИКА ЁКИ ГЎЗАЛЛИК МАҲСУЛОТЛАРИ",
+  "nameRu": "ЭФИРНЫЕ МАСЛА И РЕЗИНОИДЫ; ПАРФЮМЕРНЫЕ, КОСМЕТИЧЕСКИЕ ИЛИ ТУАЛЕТНЫЕ СРЕДСТВА"
+},
+{
+  "code": "034",
+  "name": "SOVUN, YUVISH VOSITALARI, MOYLASH MATERIALLARI, MUMLAR VA MODELLASHTIRISH MAHSULOTLARI",
+  "nameUz": "СОВУН, ЮВИШ ВОСИТАЛАРИ, МОЙЛАШ МАТЕРИАЛЛАРИ, МУМЛАР ВА МОДЕЛЛАШТИРИШ МАҲСУЛОТЛАРИ",
+  "nameRu": "МЫЛО, МОЮЩИЕ СРЕДСТВА, СМАЗКИ, ВОСКИ И МОДЕЛИРУЮЩИЕ СРЕДСТВА"
+},
+{
+  "code": "035",
+  "name": "OQSIL MODDALAR, ELIMLAR VA FERMENTLAR",
+  "nameUz": "ОҚСИЛ МОДДАЛАР, ЕЛИМЛАР ВА ФЕРМЕНТЛАР",
+  "nameRu": "БЕЛКОВЫЕ ВЕЩЕСТВА, КЛЕИ И ФЕРМЕНТЫ"
+},
+{
+  "code": "036",
+  "name": "PIROTEXNIKA MAHSULOTLARI, GUGURT VA BA’ZI YONUVCHI MODDALAR",
+  "nameUz": "ПИРОТЕХНИКА МАҲСУЛОТЛАРИ, ГУГУРТ ВА БАЪЗИ ЁНУВЧИ МОДДАЛАР",
+  "nameRu": "ПИРОТЕХНИЧЕСКИЕ ИЗДЕЛИЯ, СПИЧКИ И НЕКОТОРЫЕ ГОРЮЧИЕ ВЕЩЕСТВА"
+},
+{
+  "code": "037",
+  "name": "FOTO VA KINO MAHSULOTLARI",
+  "nameUz": "ФОТО ВА КИНО МАҲСУЛОТЛАРИ",
+  "nameRu": "ФОТО И КИНОТОВАРЫ"
+},
+{
+  "code": "038",
+  "name": "BOSHQA KIMYOVIY MAHSULOTLAR",
+  "nameUz": "БОШҚА КИМЁВИЙ МАҲСУЛОТЛАР",
+  "nameRu": "ПРОЧИЕ ХИМИЧЕСКИЕ ПРОДУКТЫ"
+},
+{
+  "code": "039",
+  "name": "PLASTMASSALAR VA PLASTMASSA MAHSULOTLAR",
+  "nameUz": "ПЛАСТМАССАЛАР ВА ПЛАСТМАССА МАҲСУЛОТЛАР",
+  "nameRu": "ПЛАСТМАССЫ И ИЗДЕЛИЯ ИЗ НИХ"
+},
+{
+  "code": "040",
+  "name": "KAUCHUK, REZINA VA ULARDAN MAHSULOTLAR",
+  "nameUz": "КАУЧУК, РЕЗИНА ВА УЛАРДАН МАҲСУЛОТЛАР",
+  "nameRu": "КАУЧУК, РЕЗИНА И ИЗДЕЛИЯ ИЗ НИХ"
+},
+{
+  "code": "041",
+  "name": "XOM VA KESILGAN TERI",
+  "nameUz": "ХОМ ВА КЕСИЛГАН ТЕРИ",
+  "nameRu": "НЕОБРАБОТАННЫЕ ШКУРЫ (КРОМЕ НАТУРАЛЬНОГО МЕХА) И ВЫДЕЛАННАЯ КОЖА"
+},
+{
+  "code": "042",
+  "name": "TERI MAHSULOTLARI",
+  "nameUz": "ТЕРИ МАҲСУЛОТЛАРИ",
+  "nameRu": "ИЗДЕЛИЯ ИЗ КОЖИ"
+},
+{
+  "code": "043",
+  "name": "MO’YNA VA MO’YNALI MAHSULOTLAR",
+  "nameUz": "МЎЙНА ВА МЎЙНАЛИ МАҲСУЛОТЛАР",
+  "nameRu": "НАТУРАЛЬНЫЙ И ИСКУССТВЕННЫЙ МЕХ; ИЗДЕЛИЯ ИЗ НЕГО"
+},
+{
+  "code": "044",
+  "name": "YOG’OCH VA UNING MAHSULOTLARI",
+  "nameUz": "ЁҒОЧ ВА УНИНГ МАҲСУЛОТЛАРИ",
+  "nameRu": "ДРЕВЕСИНА И ИЗДЕЛИЯ ИЗ НЕЕ"
+},
+{
+  "code": "045",
+  "name": "PROBKA VA UNING MAHSULOTLARI",
+  "nameUz": "ПРОБКА ВА УНИНГ МАҲСУЛОТЛАРИ",
+  "nameRu": "ПРОБКА И ИЗДЕЛИЯ ИЗ НЕЕ"
+},
+{
+  "code": "046",
+  "name": "SAVAT",
+  "nameUz": "САВАТ",
+  "nameRu": "КОРЗИНА (ИЗДЕЛИЯ ИЗ СОЛОМЫ)"
+},
+{
+  "code": "047",
+  "name": "YOG’OCH MASSASI",
+  "nameUz": "ЁҒОЧ МАССАСИ",
+  "nameRu": "МАССА ИЗ ДРЕВЕСИНЫ"
+},
+{
+  "code": "048",
+  "name": "QOG’OZ VA KARTON MAHSULOTLARI",
+  "nameUz": "ҚОҒОЗ ВА КАРТОН МАҲСУЛОТЛАРИ",
+  "nameRu": "ИЗДЕЛИЯ ИЗ БУМАГИ И КАРТОНА"
+},
+{
+  "code": "049",
+  "name": "KITOBLAR, GAZETALAR VA BOSHQA MATBAA MAHSULOTLARI ",
+  "nameUz": "КИТОБЛАР, ГАЗEТАЛАР ВА БОШҚА МАТБАА МАҲСУЛОТЛАРИ ",
+  "nameRu": "КНИГИ, ГАЗЕТЫ И ДРУГАЯ ПОЛИГРАФИЧЕСКАЯ ПРОДУКЦИЯ"
+},
+{
+  "code": "050",
+  "name": "IPAK",
+  "nameUz": "ИПАК",
+  "nameRu": "ШЕЛК"
+},
+{
+  "code": "051",
+  "name": "JUN",
+  "nameUz": "ЖУН",
+  "nameRu": "ШЕРСТЬ"
+},
+{
+  "code": "052",
+  "name": "PAXTA",
+  "nameUz": "ПАХТА",
+  "nameRu": "ХЛОПОК"
+},
+{
+  "code": "053",
+  "name": "BOSHQA O’SIMLIKLARNING TO’QIMACHILIK TOLALARI ",
+  "nameUz": "БОШҚА ЎСИМЛИКЛАРНИНГ ТЎҚИМАЧИЛИК ТОЛАЛАРИ ",
+  "nameRu": "ПРОЧИЕ РАСТИТЕЛЬНЫЕ ТЕКСТИЛЬНЫЕ ВОЛОКНА"
+},
+{
+  "code": "054",
+  "name": "KIMYOVIY IPLAR; TO’QIMACHILIK MATERIALLARINING TEKIS VA O’XSHASH UCHLARI ",
+  "nameUz": "КИМЁВИЙ ИПЛАР; ТЎҚИМАЧИЛИК МАТЕРИАЛЛАРИНИНГ ТЕКИС ВА ЎХШАШ УЧЛАРИ ",
+  "nameRu": "ХИМИЧЕСКИЕ НИТИ; ПЛОСКИЕ И АНАЛОГИЧНЫЕ НИТИ ИЗ ХИМИЧЕСКИХ ТЕКСТИЛЬНЫХ МАТЕРИАЛОВ"
+},
+{
+  "code": "055",
+  "name": "KIMYOVIY TOLALAR",
+  "nameUz": "КИМЁВИЙ ТОЛАЛАР",
+  "nameRu": "ХИМИЧЕСКИЕ ВОЛОКНА"
+},
+{
+  "code": "056",
+  "name": "YUNG VA TO’QILMAYDIGAN MATERIALLAR",
+  "nameUz": "ЮНГ ВА ТЎҚИЛМАЙДИГАН МАТEРИАЛЛАР",
+  "nameRu": "ШЕРСТЬ И НЕ ВЯЗАННЫЕ МАТЕРИАЛЫ"
+},
+{
+  "code": "057",
+  "name": "GILAMLAR",
+  "nameUz": "ГИЛАМЛАР",
+  "nameRu": "КОВРЫ"
+},
+{
+  "code": "058",
+  "name": "MATOLAR",
+  "nameUz": "МАТОЛАР",
+  "nameRu": "ТКАНИ"
+},
+{
+  "code": "059",
+  "name": "TEXNIKA MAQSADLARI UCHUN TEKSTIL MATERIALLARI",
+  "nameUz": "ТEХНИКА МАҚСАДЛАРИ УЧУН ТEКСТИЛ МАТEРИАЛЛАРИ",
+  "nameRu": "ТЕКСТИЛЬНЫЕ ИЗДЕЛИЯ ТЕХНИЧЕСКОГО НАЗНАЧЕНИЯ"
+},
+{
+  "code": "060",
+  "name": "TRIKOTAJ MATO ",
+  "nameUz": "ТРИКОТАЖ МАТО ",
+  "nameRu": "ТРИКОТАЖНЫЕ ПОЛОТНА"
+},
+{
+  "code": "061",
+  "name": "KIYIM VA KIYIM AKSESSUARLARI",
+  "nameUz": "КИЙИМ ВА КИЙИМ АКСEССУАРЛАРИ",
+  "nameRu": "ПРЕДМЕТЫ ОДЕЖДЫ И ПРИНАДЛЕЖНОСТИ К ОДЕЖДЕ"
+},
+{
+  "code": "062",
+  "name": "MASHINADA YOKI QO’LDA TO’QILGAN TRIKOTAJDAN TASHQARI KIYIM-KECHAK BUYUMLARI VA KIYIM-KECHAK JIHOZLARI",
+  "nameUz": "МАШИНАДА ЁКИ ҚЎЛДА ТЎҚИЛГАН ТРИКОТАЖДАН ТАШҚАРИ КИЙИМ-КЕЧАК БУЮМЛАРИ ВА КИЙИМ-КЕЧАК ЖИҲОЗЛАРИ",
+  "nameRu": "Предметы одежды и принадлежности к одежде, кроме трикотажных машинного или ручного вязания"
+},
+{
+  "code": "063",
+  "name": "BOSHQA TUGALLANGAN TO’QIMACHILIK MAHSULOTLARI, TO’PLAMLAR",
+  "nameUz": "БОШҚА ТУГАЛЛАНГАН ТЎҚИМАЧИЛИК МАҲСУЛОТЛАРИ, ТЎПЛАМЛАР",
+  "nameRu": "ПРОЧИЕ ГОТОВЫЕ ТЕКСТИЛЬНЫЕ ИЗДЕЛИЯ, НАБОРЫ"
+},
+{
+  "code": "064",
+  "name": "POYABZAL VA UNING TAFSILOTLARI ",
+  "nameUz": "ПОЙАБЗАЛ ВА УНИНГ ТАФСИЛОТЛАРИ ",
+  "nameRu": "ОБУВЬ И АНАЛОГИЧНЫЕ ИЗДЕЛИЯ; ИХ ДЕТАЛИ"
+},
+{
+  "code": "065",
+  "name": "SHLYAPALAR VA ULARNING QISMLARI ",
+  "nameUz": "ШЛЯПАЛАР ВА УЛАРНИНГ ҚИСМЛАРИ ",
+  "nameRu": "ГОЛОВНЫЕ УБОРЫ И ИХ ЧАСТИ"
+},
+{
+  "code": "066",
+  "name": "SOYABONLAR VA HASSALAR",
+  "nameUz": "СОЯБОНЛАР ВА ҲАССАЛАР",
+  "nameRu": "ЗОНТЫ И ТРОСТИ"
+},
+{
+  "code": "067",
+  "name": "QAYTA ISHLANGAN TUKLAR VA TUKLAR VA PATLARDAN YASALGAN BUYUMLAR; SUN'IY GULLAR; INSON SOCHLARI MAHSULOTLARI\n\n",
+  "nameUz": "ҚАЙТА ИШЛАНГАН ТУКЛАР ВА ТУКЛАР ВА ПАТЛАРДАН ЯСАЛГАН БУЮМЛАР; СУН'ИЙ ГУЛЛАР; ИНСОН СОЧЛАРИ МАҲСУЛОТЛАРИ\n\n",
+  "nameRu": "Обработанные перья и пух и изделия из перьев или пуха; искусственные цветы; изделия из человеческого волоса"
+},
+{
+  "code": "068",
+  "name": "TOSH, GIPS, SEMENT, ASBEST, MIKIKA YOKI SHUNGA O’XSHASH MATERIALLAR",
+  "nameUz": "ТОШ, ГИПС, ЦЕМЕНТ, АСБЕСТ, МИКИКА ЁКИ ШУНГА ЎХШАШ МАТЕРИАЛЛАР",
+  "nameRu": "ИЗДЕЛИЯ ИЗ КАМНЯ, ГИПСА, ЦЕМЕНТА, АСБЕСТА, СЛЮДЫ ИЛИ АНАЛОГИЧНЫХ МАТЕРИАЛОВ"
+},
+{
+  "code": "069",
+  "name": "KERAMIK MAHSULOTLAR",
+  "nameUz": "КEРАМИК МАҲСУЛОТЛАР",
+  "nameRu": "КЕРАМИЧЕСКИЕ ИЗДЕЛИЯ"
+},
+{
+  "code": "070",
+  "name": "SHISHA VA SHISHA MAHSULOTLAR",
+  "nameUz": "ШИША ВА ШИША МАҲСУЛОТЛАР",
+  "nameRu": "СТЕКЛО И ИЗДЕЛИЯ ИЗ НЕГО"
+},
+{
+  "code": "071",
+  "name": "QIMMATLI YOKI YARIM QIMMAT TOSHLAR VA METALLAR",
+  "nameUz": "ҚИММАТЛИ ЁКИ ЯРИМ ҚИММАТ ТОШЛАР ВА МEТАЛЛАР",
+  "nameRu": "ДРАГОЦЕННЫЕ ИЛИ ПОЛУДРАГОЦЕННЫЕ КАМНИ И МЕТАЛЛЫ"
+},
+{
+  "code": "072",
+  "name": "QORA METALLAR",
+  "nameUz": "ҚОРА МEТАЛЛАР",
+  "nameRu": "ЧЕРНЫЕ МЕТАЛЛЫ"
+},
+{
+  "code": "073",
+  "name": "QORA METALLARDAN MAHSULOTLAR",
+  "nameUz": "ҚОРА МEТАЛЛАРДАН МАҲСУЛОТЛАР",
+  "nameRu": "ИЗДЕЛИЯ ИЗ ЧЕРНЫХ МЕТАЛЛОВ"
+},
+{
+  "code": "074",
+  "name": "MIS VA MIS MAHSULOTLARI",
+  "nameUz": "МИС ВА МИС МАҲСУЛОТЛАРИ",
+  "nameRu": "МЕДЬ И ИЗДЕЛИЯ ИЗ НЕЕ"
+},
+{
+  "code": "075",
+  "name": "NIKEL VA UNING MAHSULOTLARI",
+  "nameUz": "НИКЕЛЬ ВА УНИНГ МАҲСУЛОТЛАРИ",
+  "nameRu": "НИКЕЛЬ И ИЗДЕЛИЯ ИЗ НЕГО"
+},
+{
+  "code": "076",
+  "name": "ALYUMINIY VA UNING MAHSULOTLARI ",
+  "nameUz": "АЛЮМИНИЙ ВА УНИНГ МАҲСУЛОТЛАРИ ",
+  "nameRu": "АЛЮМИНИЙ И ИЗДЕЛИЯ ИЗ НЕГО"
+},
+{
+  "code": "078",
+  "name": "QO’RG’OSHIN VA UNING MAHSULOTLARI",
+  "nameUz": "ҚЎРҒОШИН ВА УНИНГ МАҲСУЛОТЛАРИ",
+  "nameRu": "СВИНЕЦ И ИЗДЕЛИЯ ИЗ НЕГО"
+},
+{
+  "code": "079",
+  "name": "RUX VA UNING MAHSULOTLARI",
+  "nameUz": "РУХ ВА УНИНГ МАҲСУЛОТЛАРИ",
+  "nameRu": "ЦИНК И ИЗДЕЛИЯ ИЗ НЕГО"
+},
+{
+  "code": "080",
+  "name": "QALAY VA UNING MAHSULOTLARI",
+  "nameUz": "ҚАЛАЙ ВА УНИНГ МАҲСУЛОТЛАРИ",
+  "nameRu": "ОЛОВО И ИЗДЕЛИЯ ИЗ НЕГО"
+},
+{
+  "code": "081",
+  "name": "BOSHQA QIMMATLI BO’LMAGAN METALLAR VA KERAMIKALAR",
+  "nameUz": "БОШҚА ҚИММАТЛИ БЎЛМАГАН МEТАЛЛАР ВА КEРАМИКАЛАР",
+  "nameRu": "ПРОЧИЕ ДРАГОЦЕННЫЕ МЕТАЛЛЫ И КЕРАМИКА"
+},
+{
+  "code": "082",
+  "name": "QURILMALAR VA MOSLAMALAR",
+  "nameUz": "ҚУРИЛМАЛАР ВА МОСЛАМАЛАР",
+  "nameRu": "ИНСТРУМЕНТЫ И ПРИСПОСОБЛЕНИЯ"
+},
+{
+  "code": "083",
+  "name": "ODDIY METALLARDAN YASALGAN BOSHQA BUYUMLAR",
+  "nameUz": "ОДДИЙ МЕТАЛЛАРДАН ЯСАЛГАН БОШҚА БУЮМЛАР",
+  "nameRu": "ПРОЧИЕ ИЗДЕЛИЯ ИЗ НЕДРАГОЦЕННЫХ МЕТАЛЛОВ"
+},
+{
+  "code": "084",
+  "name": "YADRO REAKTORLARI, QOZONXONALAR, JIHOZLAR VA MEXANIK QURILMALAR; ULARNING QISMLARI",
+  "nameUz": "ЯДРО РЕАКТОРЛАРИ, ҚОЗОНХОНАЛАР, ЖИҲОЗЛАР ВА МЕХАНИК ҚУРИЛМАЛАР; УЛАРНИНГ ҚИСМЛАРИ",
+  "nameRu": "РЕАКТОРЫ ЯДЕРНЫЕ, КОТЛЫ, ОБОРУДОВАНИЕ И МЕХАНИЧЕСКИЕ УСТРОЙСТВА; ИХ ЧАСТИ"
+},
+{
+  "code": "085",
+  "name": "ELEKTR MASHINALAR, APPARAT, ASBOB-USKUNALAR VA ULARNING QISMLARI",
+  "nameUz": "ЭЛEКТР МАШИНАЛАР, АППАРАТ, АСБОБ-УСКУНАЛАР ВА УЛАРНИНГ ҚИСМЛАРИ",
+  "nameRu": "ЭЛЕКТРИЧЕСКИЕ МАШИНЫ И ОБОРУДОВАНИЕ, ИХ ЧАСТИ\n"
+},
+{
+  "code": "086",
+  "name": "TEMIR YO’L LOKOMOTIVLARI VA AVTOMOBILLAR TRAMVAY, VAGON ULARNING QISMLARI; YO’L USKUNALARI VA TEMIR YO’LLAR UCHUN JIHOZ YOKI TRAMVAY YO’LLARI VA ULARNING QISMLARI",
+  "nameUz": "ТEМИР ЙЎЛ ЛОКОМОТИВЛАРИ ВА АВТОМОБИЛЛАР ТРАМВАЙ, ВАГОН УЛАРНИНГ ҚИСМЛАРИ; ЙЎЛ УСКУНАЛАРИ ВА ТЕМИР ЙЎЛЛАР УЧУН ЖИҲОЗ ЁКИ ТРАМВАЙ ЙЎЛЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+  "nameRu": "ЖЕЛЕЗНОДОРОЖНЫЕ ЛОКОМОТИВЫ ИЛИ МОТОРНЫЕ ВАГОНЫ ТРАМВАЯ, ПОДВИЖНОЙ СОСТАВ И ИХ ЧАСТИ; ПУТЕВОЕ ОБОРУДОВАНИЕ И УСТРОЙСТВА ДЛЯ ЖЕЛЕЗНЫХ ДОРОГ ИЛИ ТРАМВАЙНЫХ ПУТЕЙ И ИХ ЧАСТИ "
+},
+{
+  "code": "087",
+  "name": "TRANSPORT VOSITASI",
+  "nameUz": "ТРАНСПОРТ ВОСИТАСИ",
+  "nameRu": "ТРАНСПОРТНОЕ СРЕДСТВО"
+},
+{
+  "code": "088",
+  "name": "HAVODA UCHUVCHI APPARATLAR, KOSMIK APPARATLARI VA ULARNING QISMLARI",
+  "nameUz": "ҲАВОДА УЧУВЧИ АППАРАТЛАР, КОСМИК АППАРАТЛАРИ ВА УЛАРНИНГ ҚИСМЛАРИ",
+  "nameRu": "ЛЕТАТЕЛЬНЫЕ АППАРАТЫ, КОСМИЧЕСКИЕ АППАРАТЫ, И ИХ ЧАСТИ"
+},
+{
+  "code": "089",
+  "name": "QAYIQ VA SUZUVCHI VOSITALAR",
+  "nameUz": "ҚАЙИҚ ВА СУЗУВЧИ ВОСИТАЛАР",
+  "nameRu": "ЛОДКИ И ПЛАВУЧИЕ КОНСТРУКЦИИ"
+},
+{
+  "code": "090",
+  "name": "ASBOB-USKUNALAR VA APPARATLAR",
+  "nameUz": "АСБОБ-УСКУНАЛАР ВА АППАРАТЛАР",
+  "nameRu": "ИНСТРУМЕНТЫ И АППАРАТЫ"
+},
+{
+  "code": "091",
+  "name": "SOATLAR",
+  "nameUz": "СОАТЛАР",
+  "nameRu": "ЧАСЫ ВСЕХ ВИДОВ И ИХ ЧАСТИ"
+},
+{
+  "code": "092",
+  "name": "MUSIQA ASBOBLARI",
+  "nameUz": "МУСИҚА АСБОБЛАРИ",
+  "nameRu": "МУЗЫКАЛЬНЫЕ ИНСТРУМЕНТЫ"
+},
+{
+  "code": "093",
+  "name": "QUROL VA O’Q-DORILAR; ULARNING QISMLARI VA JIHOZLARI",
+  "nameUz": "ҚУРОЛ ВА ЎҚ-ДОРИЛАР; УЛАРНИНГ ҚИСМЛАРИ ВА ЖИҲОЗЛАРИ",
+  "nameRu": "Оружие и боеприпасы; их части и принадлежности"
+},
+{
+  "code": "094",
+  "name": "MEBEL, YOTOQ VA LAMPALAR",
+  "nameUz": "МЕБЕЛЬ, ЁТОҚ ВА ЛАМПАЛАР",
+  "nameRu": "МЕБЕЛЬ, КРОВАТИ И СВЕТИЛЬНИКИ"
+},
+{
+  "code": "095",
+  "name": "O’YINCHOQLAR VA SPORT ASBOB-USKUNALARI",
+  "nameUz": "ЎЙИНЧОҚЛАР ВА СПОРТ АСБОБ-УСКУНАЛАРИ",
+  "nameRu": "ИГРУШКИ И СПОРТИВНЫЙ ИНВЕНТАРЫ"
+},
+{
+  "code": "096",
+  "name": "TURLI XIL TAYYOR MAHSULOTLAR ",
+  "nameUz": "ТУРЛИ ХИЛ ТАЙЁР МАҲСУЛОТЛАР ",
+  "nameRu": "РАЗНЫЕ ГОТОВЫЕ ИЗДЕЛИЯ"
+},
+{
+  "code": "097",
+  "name": "SAN’AT ASARLARI ",
+  "nameUz": "САНЪАТ АСАРЛАРИ ",
+  "nameRu": "ПРОИЗВЕДЕНИЯ ИСКУССТВА"
+},
+{
+  "code": "098",
+  "name": "BOSHQA MAHSULOTLAR",
+  "nameUz": "БОШҚА МАҲСУЛОТЛАР",
+  "nameRu": "ПРОЧИЕ ТОВАРЫ"
+},
+{
+  "code": "099",
+  "name": "KOMMUNAL XIZMATLAR",
+  "nameUz": "КОММУНАЛ ХИЗМАТЛАР",
+  "nameRu": "КОММУНАЛЬНЫЕ УСЛУГИ"
+},
+{
+  "code": "100",
+  "name": "QURILISH XIZMATLARI",
+  "nameUz": "ҚУРИЛИШ ХИЗМАТЛАРИ",
+  "nameRu": "СТРОИТЕЛЬНЫЕ УСЛУГИ"
+},
+{
+  "code": "101",
+  "name": "TASHISH VA SAQLASH XIZMATLARI",
+  "nameUz": "ТАШИШ ВА САҚЛАШ ХИЗМАТЛАРИ",
+  "nameRu": "ТРАНСПОРТИРОВКА И ХРАНЕНИЕ"
+},
+{
+  "code": "102",
+  "name": "TURARJOY VA OVQATLANISH XIZMATLARI",
+  "nameUz": "ТУРАРЖОЙ ВА ОВҚАТЛАНИШ ХИЗМАТЛАРИ",
+  "nameRu": "УСЛУГИ ПО РАЗМЕЩЕНИЮ И ОРГАНИЗАЦИИ ПИТАНИЯ"
+},
+{
+  "code": "103",
+  "name": "AXBOROT VA ALOQA SOHASIDAGI XIZMATLAR ",
+  "nameUz": "АХБОРОТ ВА АЛОҚА СОҲАСИДАГИ ХИЗМАТЛАР ",
+  "nameRu": "ИНФОРМАЦИОННО-КОММУНИКАЦИОННЫЕ УСЛУГИ"
+},
+{
+  "code": "104",
+  "name": "MOLIYAVIY XIZMATLAR",
+  "nameUz": "МОЛИЯВИЙ ХИЗМАТЛАР",
+  "nameRu": "ФИНАНСОВЫЕ УСЛУГИ"
+},
+{
+  "code": "105",
+  "name": "MULK BILAN BOG’LIQ XIZMATLAR",
+  "nameUz": "МУЛК БИЛАН БОҒЛИҚ ХИЗМАТЛАР",
+  "nameRu": "УСЛУГИ, СВЯЗАННЫЕ С СОБСТВЕННОСТЬЮ"
+},
+{
+  "code": "106",
+  "name": "PROFESSIONAL XIZMATLAR",
+  "nameUz": "ПРОФEССИОНАЛ ХИЗМАТЛАР",
+  "nameRu": "ПРОФЕССИОНАЛЬНЫЕ УСЛУГИ"
+},
+{
+  "code": "107",
+  "name": "MA’MURIY VA YORDAMCHI XIZMATLAR ",
+  "nameUz": "МАЪМУРИЙ ВА ЁРДАМЧИ ХИЗМАТЛАР ",
+  "nameRu": "АДМИНИСТРАТИВНЫЕ УСЛУГИ И ПОДДЕРЖКА"
+},
+{
+  "code": "108",
+  "name": "TA’LIM VA SPORT TAYYORLOV XIZMATLARI",
+  "nameUz": "ТАЪЛИМ ВА СПОРТ ТАЙЁРЛОВ ХИЗМАТЛАРИ",
+  "nameRu": "ОБРАЗОВАТЕЛЬНЫЕ УСЛУГИ И УСЛУГИ СПОРТИВНОЙ ПОДГОТОВКИ"
+},
+{
+  "code": "109",
+  "name": "SOG’LIQNI SAQLASH SOHASIDAGI XIZMATLAR",
+  "nameUz": "СОҒЛИҚНИ САҚЛАШ СОҲАСИДАГИ ХИЗМАТЛАР",
+  "nameRu": "МЕДИЦИНСКИЕ УСЛУГИ"
+},
+{
+  "code": "110",
+  "name": "SAN’AT, IJODKORLIK, SPORT, DAM OLISH VA KO’NGIL OCHISH",
+  "nameUz": "САНЪАТ, ИЖОДКОРЛИК, СПОРТ, ДАМ ОЛИШ ВА КЎНГИЛ ОЧИШ",
+  "nameRu": "ИСКУССТВО, ТВОРЧЕСТВО, СПОРТ, ОТДЫХ И РАЗВЛЕЧЕНИЯ"
+},
+{
+  "code": "111",
+  "name": "BOSHQA XIZMATLAR",
+  "nameUz": "БОШҚА ХИЗМАТЛАР",
+  "nameRu": "ДРУГИЕ УСЛУГИ"
+},
+{
+  "code": "112",
+  "name": "RAQAMLI AXBOROT TEXNOLOGIYALARI SOHASIDAGI XIZMATLAR",
+  "nameUz": "РАҚАМЛИ АХБОРОТ ТЕХНОЛОГИЯЛАРИ СОҲАСИДАГИ ХИЗМАТЛАР",
+  "nameRu": "УСЛУГИ В СФЕРЕ ЦИФРОВЫХ ИНФОРМАЦИОННЫХ ТЕХНОЛОГИЙ"
+},
+{
+  "code": "113",
+  "name": "TA’MIRLASH (TIKLASH), O’RNATISH VA DEMONTAJ QILISH BO’YICHA XIZMATLAR",
+  "nameUz": "ТАЪМИРЛАШ (ТИКЛАШ), ЎРНАТИШ ВА ДЕМОНТАЖ ҚИЛИШ БЎЙИЧА ХИЗМАТЛАР",
+  "nameRu": "УСЛУГИ ПО РЕМОНТУ (РЕСТАВРАЦИИ), МОНТАЖНЫМ И ДЕМОНТАЖНЫМ РАБОТАМ"
+},
+{
+  "code": "114",
+  "name": "SANOAT XIZMATLARI",
+  "nameUz": "САНОАТ ХИЗМАТЛАРИ",
+  "nameRu": "ПРОМЫШЛЕННЫЕ УСЛУГИ "
+},
+{
+  "code": "115",
+  "name": "BANDLIK VA MEHNATNI MUHOFAZA QILISH",
+  "nameUz": "БАНДЛИК ВА МЕҲНАТНИ МУҲОФАЗА ҚИЛИШ",
+  "nameRu": "ТРУДОУСТРОЙСТВО И ОХРАНА ТРУДА"
+},
+{
+  "code": "116",
+  "name": "ATROF MUHITNI MUHOFAZA QILISH",
+  "nameUz": "AТРОФ МУҲИТНИ МУҲОФАЗА ҚИЛИШ",
+  "nameRu": "ОХРАНА ОКРУЖАЮЩЕЙ СРЕДЫ"
+},
+{
+  "code": "117",
+  "name": "MAISHIY, SHAXSIY TA’MIRLASH XIZMATLARI",
+  "nameUz": "МАИШИЙ, ШАХСИЙ ТАЪМИРЛАШ ХИЗМАТЛАРИ",
+  "nameRu": "БЫТОВЫЕ, ИНДИВИДУАЛЬНЫЕ, РЕМОНТНЫЕ УСЛУГИ"
+},
+{
+  "code": "118",
+  "name": "BOSHQA DAROMADLAR",
+  "nameUz": "БОШҚА ДАРОМАДЛАР",
+  "nameRu": "Прочие доходы"
+}]
