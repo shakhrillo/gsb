@@ -139,10 +139,13 @@ router.post('/verify-otp', async (req, res) => {
     // Clean up OTP after successful verification
     await authService.cleanupOtp(phone);
 
+    const firebaseToken = await authService.generateFirebaseToken(userDoc.id);
+
     res.status(200).json({ 
       status: 'success',
       message: 'OTP verified successfully',
       token,
+      firebaseToken,
       user: { ...userDoc.data(), uid: userDoc.id }
     });
   } catch (error) {

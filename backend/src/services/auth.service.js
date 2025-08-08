@@ -5,7 +5,7 @@
  * for the authentication system.
  */
 
-const { db } = require('./firebase');
+const { db, auth } = require('./firebase');
 const { sendSms, sendTestSms } = require('./sms');
 const jwt = require('jsonwebtoken');
 
@@ -21,6 +21,22 @@ class AuthService {
     
     // Start cleanup interval
     this.startCleanupInterval();
+  }
+
+  /**
+   * Generate Firebase custom token for authentication
+   * @param {string} uid - User identifier (phone number)
+   * @param {Object} additionalClaims - Optional additional claims to include in the token
+   * @returns {Promise<string>} - Firebase custom token
+   */
+  async generateFirebaseToken(uid, additionalClaims = {}) {
+    try {
+      const customToken = await auth.createCustomToken(uid, additionalClaims);
+      return customToken;
+    } catch (error) {
+      console.error('Error generating Firebase custom token:', error);
+      throw new Error('Failed to generate Firebase authentication token');
+    }
   }
 
   /**

@@ -18,10 +18,11 @@ const clickRoutes = require('./routes/click');
 const notificationRoutes = require('./routes/notifications');
 const termsRoutes = require('./routes/terms');
 const privacyRoutes = require('./routes/privacy');
+const directionsRoutes = require('./routes/directions');
 const receiptChecker = require('./middleware/receiptChecker');
 
-const telegramBotInit = require('./services/telegram').telegramBotInit;
-telegramBotInit();
+// const telegramBotInit = require('./services/telegram').telegramBotInit;
+// telegramBotInit();
 
 const app = express();
 
@@ -52,6 +53,7 @@ app.use('/restaurants', restaurantsRoutes);
 app.use('/notifications', notificationRoutes);
 app.use('/terms', termsRoutes);
 app.use('/privacy', privacyRoutes);
+app.use('/directions', directionsRoutes);
 
 app.use(errorMiddleware)
 
