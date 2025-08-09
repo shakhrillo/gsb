@@ -66,7 +66,8 @@ class UserService {
         businessType,
         businessOwnerName,
         businessOwnerEmail,
-        businessOwnerPhone
+        businessOwnerPhone,
+        businessLocation
       } = merchantData;
 
       console.log('Merchant request data:', merchantData);
@@ -77,7 +78,8 @@ class UserService {
         "businessType": "Retail",
         "businessOwnerName": "John Doe",
         "businessOwnerEmail": "john.doe@example.com",
-        "businessOwnerPhone": "+998914446595"
+        "businessOwnerPhone": "+998914446595",
+        "businessLocation": { "latitude": 41.30184822053254, "longitude": 69.24173064529896 }
       };
 
       if (!businessName || !businessAddress || !businessType || !businessOwnerName || !businessOwnerPhone) {
@@ -109,6 +111,7 @@ class UserService {
         businessOwnerName,
         businessOwnerEmail: businessOwnerEmail || '',
         businessOwnerPhone,
+        businessLocation: businessLocation || null,
         merchantRequestStatus: 'pending',
         merchantRequestDate: new Date(),
         uid,
