@@ -106,9 +106,18 @@ class TransactionController {
 						description: receipt.description || '',
 					});
 
+					const randomLatLngBukharaUzbekistan = () => {
+						const lat = 40.0331 + Math.random() * 0.1;
+						const lng = 64.391 + Math.random() * 0.1;
+						return { lat, lng, latitude: lat, longitude: lng };
+					}
+
 					await db.collection('orders').doc(productAccount.value).update({
+						delivery_status: 'pending',
 						status: 'paid',
+						pickup_location: randomLatLngBukharaUzbekistan(),
 						pay_time: receipt.pay_time,
+						destination: randomLatLngBukharaUzbekistan()
 					});
 						
 				}
