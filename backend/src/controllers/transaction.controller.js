@@ -92,6 +92,9 @@ class TransactionController {
 				
 				if (userAccount) {
 					const receipt = response.data.result.receipt;
+					const userDoc = await db.collection('users').doc(userAccount.value).get();
+					const userLocation = userDoc.data().location;
+
 					await db.collection('users').doc(userAccount.value).collection('receipts').add({
 						receipt_id: receipt._id,
 						amount: receipt.amount,
@@ -107,8 +110,8 @@ class TransactionController {
 					});
 
 					const randomLatLngBukharaUzbekistan = () => {
-						const lat = 40.0331 + Math.random() * 0.1;
-						const lng = 64.391 + Math.random() * 0.1;
+						const lat = userLocation['latitude'];
+						const lng = userLocation['longitude'];
 						return { lat, lng, latitude: lat, longitude: lng };
 					}
 
