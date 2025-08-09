@@ -261,13 +261,17 @@ router.get('/:uid/products', async (req, res) => {
     // Parse pagination parameters
     const page = parseInt(req.query.page) || 1;
     const limit = parseInt(req.query.limit) || 10;
+    const category = req.query.category || null;
     const skip = (page - 1) * limit;
 
     // Build query
     let query = db
       .collection('products')
-      .where('merchantUid', '==', uid)
-      .orderBy('createdAt', 'desc');
+      .where('merchantUid', '==', uid);
+    query.orderBy('createdAt', 'desc');
+    if (category) {
+      query = query.where('category', '==', category);
+    }
 
     // Get total count for pagination info
     const countSnapshot = await query.get();
