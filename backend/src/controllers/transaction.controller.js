@@ -61,7 +61,8 @@ class TransactionController {
 
 			const response = await axios.post(process.env.PAYME_API_URL, params, {
 				headers: {
-					'X-Auth': `${process.env.PAYME_MERCHANT_ID}:${!isCard ? process.env.PAYME_MERCHANT_KEY : process.env.PAYME_MERCHANT_TEST_KEY}`,
+					// 'X-Auth': `${process.env.PAYME_MERCHANT_ID}:${!isCard ? process.env.PAYME_MERCHANT_KEY : process.env.PAYME_MERCHANT_TEST_KEY}`,
+					'X-Auth': isCard ? `${process.env.PAYME_MERCHANT_ID}:${process.env.PAYME_MERCHANT_KEY}` : `${process.env.PAYME_MERCHANT_ID}`
 				}
 			});
 
