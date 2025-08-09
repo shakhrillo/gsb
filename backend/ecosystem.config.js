@@ -3,7 +3,7 @@ module.exports = {
     {
       name: 'gsb-backend',
       script: 'src/app.js',
-      cwd: '/gsb2/backend',
+      cwd: '/root/gsb2/backend',
       instances: 1,
       exec_mode: 'fork',
       watch: false,
