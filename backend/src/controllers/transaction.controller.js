@@ -66,6 +66,8 @@ class TransactionController {
 				}
 			});
 
+			console.log('Payme response:', response.data);
+
 			if (response.data.error) {
 				return res.status(400).json({ error: response.data.error });
 			}
