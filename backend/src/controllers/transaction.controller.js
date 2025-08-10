@@ -57,12 +57,22 @@ class TransactionController {
 			const params = req.body;
 			const method = params.method;
 			const isCard = method.includes('card');
-			const isCardVerify = method === 'cards.verify';
+			console.log('Payme method:', method, 'Params:', params);
+			const headers = {}
+			// Для методов cards авторизация:
+			// id
+			if (isCard) {
+				headers['X-Auth'] = process.env.PAYME_MERCHANT_ID;
+			}
+			// Для методов receipts авторизация:
+			// id:key
+			if (!isCard) {
+				headers['X-Auth'] = `${process.env.PAYME_MERCHANT_ID}:${process.env.PAYME_MERCHANT_KEY}`;
+			}
 
 			const response = await axios.post(process.env.PAYME_API_URL, params, {
 				headers: {
-					// 'X-Auth': `${process.env.PAYME_MERCHANT_ID}:${!isCard ? process.env.PAYME_MERCHANT_KEY : process.env.PAYME_MERCHANT_TEST_KEY}`,
-					'X-Auth': !isCard ? `${process.env.PAYME_MERCHANT_ID}:${process.env.PAYME_MERCHANT_KEY}` : `${process.env.PAYME_MERCHANT_ID}`
+					...headers
 				}
 			});
 
