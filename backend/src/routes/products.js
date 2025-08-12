@@ -48,7 +48,7 @@ router.post('/', validateUser, async (req, res) => {
       updatedAt: new Date()
     });
 
-    const userRef = db.collection('users').doc(user.merchantUid);
+    const userRef = db.collection('businesses').doc(user.businessId);
     batch.update(userRef, {
       productCount: FieldValue.increment(1)
     });

@@ -286,6 +286,31 @@ router.get('/:businessId/products', async (req, res) => {
 });
 
 /**
+ * GET /api/businesses/:businessId/categories
+ * Get categories for a specific business
+ */
+router.get('/:businessId/categories', async (req, res) => {
+  try {
+    const { businessId } = req.params;
+    
+    const snapshot = await db
+      .collection('businesses')
+      .doc(businessId)
+      .collection('categories')
+      .get();
+
+    if (snapshot.empty) {
+      return res.json([]);
+    }
+
+    const categories = snapshot.docs.map(doc => ({ ...doc.data(), id: doc.id }));
+    res.json(categories);
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+});
+
+/**
  * POST /api/businesses/:businessId/staff
  * Add staff member to a business
  */
