@@ -53,74 +53,223 @@ class UserService {
   }
 
   /**
-   * Request to become merchant
-   * @param {string} uid - User ID
-   * @param {Object} merchantData - Merchant registration data
-   * @returns {Promise<{success: boolean, error?: string}>}
+   * Register a new business for merchant
+   * @param {string} uid - User ID from authenticated user
+   * @param {Object} businessData - Business registration data
+   * @returns {Promise<{success: boolean, businessId?: string, error?: string}>}
    */
-  async requestMerchantStatus(merchantData) {
+  async registerBusiness(uid, businessData) {
     try {
       const {
         businessName,
-        businessAddress,
         businessType,
-        businessOwnerName,
-        businessOwnerEmail,
-        businessOwnerPhone,
-        businessLocation
-      } = merchantData;
+        businessLocation,
+        innPinfl,
+        bankAccount,
+        mfoCode,
+        businessLicenseUrl,
+        directorPassportUrl,
+        businessLogoUrl
+      } = businessData;
 
-      console.log('Merchant request data:', merchantData);
+      console.log('Business registration data:', innPinfl);
+      console.log('User ID:', uid);
 
-      const dataExample = {
-        "businessName": "Example Business",
-        "businessAddress": "123 Example St, City, Country",
-        "businessType": "Retail",
-        "businessOwnerName": "John Doe",
-        "businessOwnerEmail": "john.doe@example.com",
-        "businessOwnerPhone": "+998914446595",
-        "businessLocation": { "latitude": 41.30184822053254, "longitude": 69.24173064529896 }
-      };
-
-      if (!businessName || !businessAddress || !businessType || !businessOwnerName || !businessOwnerPhone) {
-        return { success: false, error: 'Business name, address, type, owner name, and owner phone are required' };
+      // Validate required fields
+      if (!businessName || !businessType || !innPinfl || !bankAccount || !mfoCode || !businessLicenseUrl || !directorPassportUrl || !businessLogoUrl) {
+        return { 
+          success: false, 
+          error: 'Business name, type, INN/PINFL, bank account, MFO code, business license URL, director passport URL, and business logo URL are required' 
+        };
       }
 
-      // Validate phone number format
-      const isValidPhone = authService.validatePhoneNumber(businessOwnerPhone);
-      if (!isValidPhone) {
-        return { success: false, error: 'Invalid phone number format' };
+      // Validate business location if provided
+      if (businessLocation && (!businessLocation.latitude || !businessLocation.longitude)) {
+        return { 
+          success: false, 
+          error: 'Business location must include both latitude and longitude' 
+        };
       }
 
-      const uid = businessOwnerPhone.replace(/\D/g, '');
+      // Check if innPinfl is already registered in businesses collection
+      const existingBusinessQuery = await db.collection('businesses')
+        .where('innPinfl', '==', innPinfl)
+        .get();
+
+      if (!existingBusinessQuery.empty) {
+        const existingBusiness = existingBusinessQuery.docs[0];
+        const existingData = existingBusiness.data();
+        
+        if (existingData.status === 'active') {
+          return { 
+            success: false, 
+            error: 'This INN/PINFL is already registered as an active business' 
+          };
+        }
+        
+        if (existingData.status === 'pending') {
+          return { 
+            success: false, 
+            error: 'This INN/PINFL already has a pending business registration request' 
+          };
+        }
+      }
 
       // Get current user data
       const userRef = db.collection('users').doc(uid);
       const userDoc = await userRef.get();
       
-      if (userDoc.exists && userDoc.data().isMerchant) {
-        return { success: false, error: 'You are already a merchant' };
+      if (!userDoc.exists) {
+        return { success: false, error: 'User not found' };
       }
 
-      // Update user to indicate they want to become a merchant
-      await userRef.set({
-        isMerchant: true,
+      // Create new business document
+      const businessRef = db.collection('businesses').doc();
+      const businessId = businessRef.id;
+
+      await businessRef.set({
+        businessId,
+        ownerId: uid,
         businessName,
-        businessAddress,
         businessType,
-        businessOwnerName,
-        businessOwnerEmail: businessOwnerEmail || '',
-        businessOwnerPhone,
         businessLocation: businessLocation || null,
-        merchantRequestStatus: 'pending',
-        merchantRequestDate: new Date(),
-        uid,
-        createdAt: new Date()
-      }, { merge: true });
+        innPinfl,
+        bankAccount,
+        mfoCode,
+        businessLicenseUrl,
+        directorPassportUrl,
+        businessLogoUrl,
+        status: 'pending', // pending, active, rejected
+        requestDate: new Date(),
+        createdAt: new Date(),
+        updatedAt: new Date()
+      });
+
+      // Update user to mark as having businesses (if not already)
+      const userData = userDoc.data();
+      if (!userData.hasBusiness) {
+        await userRef.update({
+          hasBusiness: true,
+          updatedAt: new Date()
+        });
+      }
+
+      return { success: true, businessId };
+    } catch (error) {
+      console.error('Business registration error:', error);
+      return { success: false, error: 'Internal server error' };
+    }
+  }
+
+  /**
+   * Get user's businesses
+   * @param {string} uid - User ID
+   * @param {string} status - Filter by status (optional): 'pending', 'active', 'rejected'
+   * @returns {Promise<{success: boolean, data?: any[], error?: string}>}
+   */
+  async getUserBusinesses(uid, status = null) {
+    try {
+      let query = db.collection('businesses').where('ownerId', '==', uid);
+      
+      if (status) {
+        query = query.where('status', '==', status);
+      }
+
+      const snapshot = await query.orderBy('createdAt', 'desc').get();
+      
+      if (snapshot.empty) {
+        return { success: true, data: [] };
+      }
+
+      const businesses = snapshot.docs.map(doc => ({
+        id: doc.id,
+        ...doc.data()
+      }));
+
+      return { success: true, data: businesses };
+    } catch (error) {
+      console.error('Get user businesses error:', error);
+      return { success: false, error: 'Internal server error' };
+    }
+  }
+
+  /**
+   * Update business status (for admin approval/rejection)
+   * @param {string} businessId - Business ID
+   * @param {string} status - New status: 'active', 'rejected'
+   * @param {string} rejectionReason - Reason for rejection (optional)
+   * @returns {Promise<{success: boolean, error?: string}>}
+   */
+  async updateBusinessStatus(businessId, status, rejectionReason = null) {
+    try {
+      const businessRef = db.collection('businesses').doc(businessId);
+      const businessDoc = await businessRef.get();
+      
+      if (!businessDoc.exists) {
+        return { success: false, error: 'Business not found' };
+      }
+
+      const updateData = {
+        status,
+        updatedAt: new Date()
+      };
+
+      if (status === 'active') {
+        updateData.approvedAt = new Date();
+      } else if (status === 'rejected' && rejectionReason) {
+        updateData.rejectionReason = rejectionReason;
+        updateData.rejectedAt = new Date();
+      }
+
+      await businessRef.update(updateData);
 
       return { success: true };
     } catch (error) {
-      console.error('Merchant request error:', error);
+      console.error('Update business status error:', error);
+      return { success: false, error: 'Internal server error' };
+    }
+  }
+
+  /**
+   * Request to become merchant (backward compatibility)
+   * This is now just an alias for registerBusiness
+   * @param {string} uid - User ID from authenticated user
+   * @param {Object} merchantData - Merchant registration data
+   * @returns {Promise<{success: boolean, error?: string}>}
+   */
+  async requestMerchantStatus(uid, merchantData) {
+    const result = await this.registerBusiness(uid, merchantData);
+    // Remove businessId from response to maintain backward compatibility
+    if (result.success) {
+      return { success: true };
+    }
+    return result;
+  }
+
+  /**
+   * Check if user has any active businesses (merchant status)
+   * @param {string} uid - User ID
+   * @returns {Promise<{success: boolean, isMerchant?: boolean, activeBusinessCount?: number, error?: string}>}
+   */
+  async checkMerchantStatus(uid) {
+    try {
+      const activeBusinesses = await this.getUserBusinesses(uid, 'active');
+      
+      if (!activeBusinesses.success) {
+        return activeBusinesses;
+      }
+
+      const isMerchant = activeBusinesses.data.length > 0;
+      const activeBusinessCount = activeBusinesses.data.length;
+
+      return { 
+        success: true, 
+        isMerchant, 
+        activeBusinessCount,
+        businesses: activeBusinesses.data 
+      };
+    } catch (error) {
+      console.error('Check merchant status error:', error);
       return { success: false, error: 'Internal server error' };
     }
   }

@@ -42,7 +42,8 @@ router.post('/', validateUser, async (req, res) => {
     batch.set(productRef, {
       ...newProduct,
       category,
-      merchantUid: user.merchantUid,
+      businessId: user.businessId,
+      // merchantUid: user.merchantUid,
       createdAt: new Date(),
       updatedAt: new Date()
     });

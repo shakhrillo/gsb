@@ -230,13 +230,16 @@ router.put('/current-user', validateUser, async (req, res) => {
 });
 
 // Send request to become merchant
-router.post('/become-merchant', async (req, res) => {
+router.post('/become-merchant', validateUser, async (req, res) => {
   try {
+    const user = req.user;
     const merchantData = req.body;
 
-    const result = await userService.requestMerchantStatus(merchantData);
+    // Pass user information along with merchant data
+    const result = await userService.requestMerchantStatus(user.uid, merchantData);
     
     if (!result.success) {
+      console.error('Merchant request error:', result.error);
       return res.status(400).json({ 
         status: 'error',
         message: result.error 

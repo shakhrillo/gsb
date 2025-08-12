@@ -5,6 +5,7 @@ const cors = require('cors');
 const swaggerUi = require('swagger-ui-express');
 const authRoutes = require('./routes/auth');
 const merchantsRoutes = require('./routes/merchants');
+const businessesRoutes = require('./routes/businesses');
 const citiesRoutes = require('./routes/cities');
 const paymentsRoutes = require('./routes/payments');
 const fileRoutes = require('./routes/file');
@@ -42,6 +43,7 @@ app.get('/', (req, res) => {
 app.use('/auth', authRoutes);
 app.use('/categories', categoriesRoutes);
 app.use('/merchants', merchantsRoutes);
+app.use('/businesses', businessesRoutes);
 app.use('/cities', citiesRoutes);
 app.use('/payments', paymentsRoutes);
 app.use('/click', clickRoutes);
