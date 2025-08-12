@@ -5,7 +5,8 @@ const businessService = require('../services/business.service');
 const staffService = require('../services/staff.service');
 const { validateUser } = require('../middleware/validateUser');
 const { uploadImages } = require('../middleware/uploadImage');
-const { db } = require('../services/firebase');
+const { db, FieldValue } = require('../services/firebase');
+const { findCategoryByCode } = require('../utils/category');
 
 /**
  * POST /api/businesses
@@ -220,6 +221,95 @@ router.put('/:businessId/reject', async (req, res) => {
   }
 });
 
+router.post('/:businessId/products', validateUser, async (req, res) => {
+  try {
+    const user = req.user;
+    if (!user.isMerchant) {
+      return res.status(403).json({ error: 'Only merchants can add products' });
+    }
+
+    console.log('Adding product for business:', req.body);
+
+    const newProduct = req.body;
+    const mxikCode = newProduct.mxikCode;
+    const category = mxikCode ? mxikCode.slice(0, 3) : null;
+
+    const batch = db.batch();
+    // Handle empty barcode by using auto-generated ID
+    const productRef = newProduct.barcode && newProduct.barcode.trim() !== '' 
+      ? db.collection('products').doc(newProduct.barcode)
+      : db.collection('products').doc();
+    batch.set(productRef, {
+      ...newProduct,
+      category,
+      businessId: req.params.businessId,
+      // merchantUid: user.merchantUid,
+      createdAt: new Date(),
+      updatedAt: new Date()
+    });
+
+    const userRef = db.collection('businesses').doc(req.params.businessId);
+    batch.update(userRef, {
+      productCount: FieldValue.increment(1)
+    });
+
+    const categoryRef = userRef.collection('categories').doc(category);
+    batch.set(categoryRef, {
+      ...findCategoryByCode(category),
+      productCount: FieldValue.increment(1)
+    }, { merge: true });
+
+    await batch.commit();
+    res.status(201).json({ id: productRef.id });
+  } catch (err) {
+    console.error('Error adding product:', err);
+    res.status(400).json({ error: err.message });
+  }
+});
+
+router.put('/:businessId/products/:id', validateUser, async (req, res) => {
+  const { id } = req.params;
+  const updatedData = req.body;
+  
+  try {
+    const user = req.user;
+    const productDoc = await db.collection('products').doc(id).get();
+    
+    if (!productDoc.exists) {
+      return res.status(404).json({ error: 'Product not found' });
+    }
+    
+    const productData = productDoc.data();
+    if (productData.merchantUid !== user.email) {
+      return res.status(403).json({ error: 'You do not have permission to update this product' });
+    }
+    
+    await db.collection('products').doc(id).update(updatedData);
+    res.status(200).json({ message: 'Product updated successfully' });
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+});
+
+router.delete('/:businessId/products/:id', validateUser, async (req, res) => {
+  const { id } = req.params;
+  try {
+    const user = req.user;
+    const productDoc = await db.collection('products').doc(id).get();
+    if (!productDoc.exists) {
+      return res.status(404).json({ error: 'Product not found' });
+    }
+    const productData = productDoc.data();
+    if (productData.merchantUid !== user.email) {
+      return res.status(403).json({ error: 'You do not have permission to delete this product' });
+    }
+    await db.collection('products').doc(id).delete();
+    res.status(200).json({ message: 'Product deleted successfully' });
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+});
+
 /**
  * GET /api/businesses/:businessId/products
  * Get products for a specific business
@@ -292,7 +382,7 @@ router.get('/:businessId/products', async (req, res) => {
 router.get('/:businessId/categories', async (req, res) => {
   try {
     const { businessId } = req.params;
-    
+
     const snapshot = await db
       .collection('businesses')
       .doc(businessId)
