@@ -130,11 +130,41 @@ class UserService {
       const businessId = businessRef.id;
 
       // Prepare business data
-      const businessData = {
+      // const businessData = {
+      //   businessId,
+      //   ownerId: uid,
+      //   businessName,
+      //   businessType,
+      //   businessLocation: businessLocation || null,
+      //   innPinfl,
+      //   bankAccount,
+      //   mfoCode,
+      //   businessLicenseUrl,
+      //   directorPassportUrl,
+      //   businessLogoUrl,
+      //   status: 'pending', // pending, active, rejected
+      //   requestDate: new Date(),
+      //   createdAt: new Date(),
+      //   updatedAt: new Date()
+      // };
+
+      const hash = geofire.geohashForLocation([businessLocation.latitude, businessLocation.longitude]);
+      // businessData.geohash = hash;
+
+      // // Add GeoPoint if location is provided
+      // if (businessLocation && businessLocation.latitude && businessLocation.longitude) {
+      //   businessData.geoLocation = new admin.firestore.GeoPoint(
+      //     businessLocation.latitude,
+      //     businessLocation.longitude
+      //   );
+      // }
+
+      await businessRef.set({
         businessId,
         ownerId: uid,
         businessName,
         businessType,
+        geohash: hash,
         businessLocation: businessLocation || null,
         innPinfl,
         bankAccount,
@@ -146,20 +176,7 @@ class UserService {
         requestDate: new Date(),
         createdAt: new Date(),
         updatedAt: new Date()
-      };
-
-      const hash = geofire.geohashForLocation([businessLocation.latitude, businessLocation.longitude]);
-      businessData.geohash = hash;
-
-      // Add GeoPoint if location is provided
-      if (businessLocation && businessLocation.latitude && businessLocation.longitude) {
-        businessData.geoLocation = new admin.firestore.GeoPoint(
-          businessLocation.latitude,
-          businessLocation.longitude
-        );
-      }
-
-      await businessRef.set(businessData);
+      });
 
       // Update user to mark as having businesses (if not already)
       const userData = userDoc.data();
