@@ -456,7 +456,7 @@ router.get('/nearby', async (req, res) => {
 
 /**
  * POST /api/businesses/migrate-location
- * Migrate existing business location data to GeoPoint format
+ * Migrate existing business location data to GeoPoint format and add missing geohashes
  * Admin only endpoint for data migration
  */
 router.post('/migrate-location', validateUser, async (req, res) => {
@@ -475,7 +475,8 @@ router.post('/migrate-location', validateUser, async (req, res) => {
 
     res.json({
       message: 'Location data migration completed',
-      migratedCount: result.migrated,
+      migratedGeoPoints: result.migrated,
+      geohashesAdded: result.geohashesAdded,
       timestamp: new Date().toISOString()
     });
   } catch (error) {

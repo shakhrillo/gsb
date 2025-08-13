@@ -7,6 +7,7 @@
 
 const { db } = require('./firebase');
 const admin = require('firebase-admin');
+const geofire = require('geofire-common');
 
 class BusinessService {
   /**
@@ -90,10 +91,24 @@ class BusinessService {
         );
       }
 
-      // Location-based filtering
+      // Rating filters
+      if (minRating !== undefined) {
+        businesses = businesses.filter(business => 
+          business.rating !== undefined && business.rating >= minRating
+        );
+      }
+
+      if (maxRating !== undefined) {
+        businesses = businesses.filter(business => 
+          business.rating !== undefined && business.rating <= maxRating
+        );
+      }
+
+      // Location-based filtering using geohash optimization when available
       if (circlecenter && radius) {
         const [centerLat, centerLng] = circlecenter.split(',').map(parseFloat);
-        console.log('Circle center filtering:', { centerLat, centerLng, radius });
+        const radiusKm = parseFloat(radius);
+        console.log('Circle center filtering:', { centerLat, centerLng, radiusKm });
         
         businesses = businesses.filter(business => {
           // Handle different location formats: GeoPoint, businessLocation GeoPoint, legacy formats
@@ -121,13 +136,13 @@ class BusinessService {
             return false;
           }
           
-          const distance = this.calculateDistance(
-            centerLat, centerLng, lat, lng
-          );
+          // Use geofire-common for more accurate distance calculation
+          const distanceInMeters = geofire.distanceBetween([centerLat, centerLng], [lat, lng]);
+          const distance = distanceInMeters / 1000; // Convert to km
           
-          console.log(`Business ${business.businessName} (${business.id}): lat=${lat}, lng=${lng}, distance=${distance}km, within radius: ${distance <= radius}`);
+          console.log(`Business ${business.businessName} (${business.id}): lat=${lat}, lng=${lng}, distance=${distance}km, within radius: ${distance <= radiusKm}`);
           
-          return distance <= radius;
+          return distance <= radiusKm;
         });
       }
 
@@ -317,9 +332,9 @@ class BusinessService {
   }
 
   /**
-   * Get businesses near a location using optimized geospatial queries
+   * Get businesses near a specific location using optimized geohash queries
    * @param {number} latitude - Center latitude
-   * @param {number} longitude - Center longitude
+   * @param {number} longitude - Center longitude  
    * @param {number} radiusKm - Search radius in kilometers
    * @param {Object} additionalFilters - Additional filters to apply
    * @param {Object} pagination - Pagination options
@@ -327,44 +342,68 @@ class BusinessService {
    */
   async getBusinessesNearLocation(latitude, longitude, radiusKm = 10, additionalFilters = {}, pagination = {}) {
     try {
-      // Convert radius from kilometers to degrees (approximate)
-      // 1 degree ≈ 111 km at the equator
-      const radiusDegrees = radiusKm / 111;
+      // Convert radius from km to meters for geofire-common
+      const radiusInMeters = radiusKm * 1000;
       
-      const minLat = latitude - radiusDegrees;
-      const maxLat = latitude + radiusDegrees;
-      const minLng = longitude - radiusDegrees;
-      const maxLng = longitude + radiusDegrees;
-
-      // Create a bounding box query
-      let query = db.collection('businesses');
-
-      // Apply additional filters first
-      const { status, businessType, category, city, isVerified } = additionalFilters;
+      // Get geohash query bounds for the area
+      const bounds = geofire.geohashQueryBounds([latitude, longitude], radiusInMeters);
+      console.log('Geohash query bounds:', bounds);
       
-      if (status) {
-        query = query.where('status', '==', status);
-      }
-      if (businessType) {
-        query = query.where('businessType', '==', businessType);
-      }
-      if (category) {
-        query = query.where('category', '==', category);
-      }
-      if (city) {
-        query = query.where('city', '==', city);
-      }
-      if (isVerified !== undefined) {
-        query = query.where('isVerified', '==', isVerified);
+      // Collect all query promises
+      const queries = [];
+      
+      for (const bound of bounds) {
+        // Create base query
+        let query = db.collection('businesses');
+        
+        // Apply additional filters first (to leverage composite indexes)
+        const { status, businessType, category, city, isVerified } = additionalFilters;
+        
+        if (status) {
+          query = query.where('status', '==', status);
+        }
+        if (businessType) {
+          query = query.where('businessType', '==', businessType);
+        }
+        if (category) {
+          query = query.where('category', '==', category);
+        }
+        if (city) {
+          query = query.where('city', '==', city);
+        }
+        if (isVerified !== undefined) {
+          query = query.where('isVerified', '==', isVerified);
+        }
+        
+        // Apply geohash range query
+        query = query
+          .where('geohash', '>=', bound[0])
+          .where('geohash', '<=', bound[1]);
+          
+        queries.push(query.get());
       }
 
-      const snapshot = await query.get();
-      let businesses = snapshot.docs.map(doc => ({
-        id: doc.id,
-        ...doc.data()
-      }));
+      // Execute all queries in parallel
+      const snapshots = await Promise.all(queries);
+      
+      // Combine results and remove duplicates
+      const businessMap = new Map();
+      
+      for (const snapshot of snapshots) {
+        for (const doc of snapshot.docs) {
+          if (!businessMap.has(doc.id)) {
+            businessMap.set(doc.id, {
+              id: doc.id,
+              ...doc.data()
+            });
+          }
+        }
+      }
+      
+      let businesses = Array.from(businessMap.values());
+      console.log(`Found ${businesses.length} businesses in geohash bounds`);
 
-      // Filter by bounding box and calculate exact distance
+      // Filter by exact distance and calculate distance for each business
       businesses = businesses.filter(business => {
         // Handle different location formats: GeoPoint, businessLocation GeoPoint, legacy formats
         let lat, lng;
@@ -387,21 +426,23 @@ class BusinessService {
         }
         
         if (!lat || !lng) {
+          console.log('Business has no valid location:', business.id, business.businessName);
           return false;
         }
 
-        // Check if within bounding box
-        if (lat < minLat || lat > maxLat || lng < minLng || lng > maxLng) {
-          return false;
-        }
-
-        // Calculate exact distance and filter by radius
-        const distance = this.calculateDistance(latitude, longitude, lat, lng);
-        business.distance = distance; // Add distance to the business object
-        return distance <= radiusKm;
+        // Calculate exact distance using geofire-common
+        const distanceInMeters = geofire.distanceBetween([latitude, longitude], [lat, lng]);
+        const distanceInKm = distanceInMeters / 1000;
+        business.distance = distanceInKm; // Add distance to the business object
+        
+        console.log(`Business ${business.businessName} (${business.id}): distance=${distanceInKm}km, within radius: ${distanceInKm <= radiusKm}`);
+        
+        return distanceInKm <= radiusKm;
       });
 
-      // Sort by distance
+      console.log(`${businesses.length} businesses within ${radiusKm}km radius`);
+
+      // Sort by distance (closest first)
       businesses.sort((a, b) => a.distance - b.distance);
 
       // Apply pagination
@@ -427,9 +468,7 @@ class BusinessService {
       console.error('Get businesses near location error:', error);
       return { success: false, error: 'Internal server error' };
     }
-  }
-
-  /**
+  }  /**
    * Convert location data to Firestore GeoPoint
    * @param {number} latitude - Latitude
    * @param {number} longitude - Longitude
@@ -440,42 +479,89 @@ class BusinessService {
   }
 
   /**
-   * Migrate existing businessLocation data to GeoPoint format
-   * This method helps migrate old location format to new GeoPoint format
-   * @returns {Promise<{success: boolean, migrated?: number, error?: string}>}
+   * Migrate existing businessLocation data to GeoPoint format and add geohashes
+   * This method helps migrate old location format to new GeoPoint format and ensures geohashes are present
+   * @returns {Promise<{success: boolean, migrated?: number, geohashesAdded?: number, error?: string}>}
    */
   async migrateLocationDataToGeoPoint() {
     try {
       const snapshot = await db.collection('businesses').get();
       let migratedCount = 0;
+      let geohashesAdded = 0;
       const batch = db.batch();
 
       snapshot.docs.forEach(doc => {
         const data = doc.data();
-        
-        // Check if business has old format location data and no geoLocation
-        if (data.businessLocation?.latitude && data.businessLocation?.longitude && !data.geoLocation) {
-          const geoPoint = this.createGeoPoint(
-            data.businessLocation.latitude, 
+        let needsUpdate = false;
+        const updates = {};
+
+        // Check if GeoPoint migration is needed
+        if (data.businessLocation && 
+            typeof data.businessLocation === 'object' && 
+            data.businessLocation.latitude && 
+            data.businessLocation.longitude &&
+            !data.geoLocation) {
+          
+          const geoPoint = new admin.firestore.GeoPoint(
+            data.businessLocation.latitude,
             data.businessLocation.longitude
           );
           
-          batch.update(doc.ref, {
-            geoLocation: geoPoint,
-            updatedAt: new Date()
-          });
-          
+          updates.geoLocation = geoPoint;
           migratedCount++;
+          needsUpdate = true;
+        }
+
+        // Check if geohash is missing and can be generated
+        if (!data.geohash) {
+          let lat, lng;
+          
+          // Try to get coordinates from various location formats
+          if (data.geoLocation && data.geoLocation._latitude !== undefined) {
+            lat = data.geoLocation._latitude;
+            lng = data.geoLocation._longitude;
+          } else if (updates.geoLocation) {
+            lat = updates.geoLocation._latitude;
+            lng = updates.geoLocation._longitude;
+          } else if (data.businessLocation && data.businessLocation._latitude !== undefined) {
+            lat = data.businessLocation._latitude;
+            lng = data.businessLocation._longitude;
+          } else if (data.businessLocation?.latitude && data.businessLocation?.longitude) {
+            lat = data.businessLocation.latitude;
+            lng = data.businessLocation.longitude;
+          } else if (data.location?.lat && data.location?.lng) {
+            lat = data.location.lat;
+            lng = data.location.lng;
+          }
+          
+          if (lat && lng) {
+            try {
+              const geohash = geofire.geohashForLocation([lat, lng]);
+              updates.geohash = geohash;
+              geohashesAdded++;
+              needsUpdate = true;
+              console.log(`Generated geohash for business ${doc.id}: ${geohash}`);
+            } catch (error) {
+              console.error(`Failed to generate geohash for business ${doc.id}:`, error);
+            }
+          }
+        }
+
+        if (needsUpdate) {
+          updates.updatedAt = new Date();
+          batch.update(doc.ref, updates);
         }
       });
 
-      if (migratedCount > 0) {
+      if (migratedCount > 0 || geohashesAdded > 0) {
         await batch.commit();
+        console.log(`Migration completed: ${migratedCount} GeoPoints migrated, ${geohashesAdded} geohashes added`);
       }
 
       return {
         success: true,
-        migrated: migratedCount
+        migrated: migratedCount,
+        geohashesAdded: geohashesAdded
       };
     } catch (error) {
       console.error('Migration error:', error);
