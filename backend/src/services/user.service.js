@@ -10,6 +10,7 @@ const admin = require('firebase-admin');
 const jwt = require('jsonwebtoken');
 const bcrypt = require('bcryptjs');
 const authService = require('./auth.service');
+const geofire = require('geofire-common');
 
 const JWT_SECRET_KEY = process.env.JWT_SECRET_KEY;
 
@@ -146,6 +147,9 @@ class UserService {
         createdAt: new Date(),
         updatedAt: new Date()
       };
+
+      const hash = geofire.geohashForLocation([businessLocation.latitude, businessLocation.longitude]);
+      businessData.geohash = hash;
 
       // Add GeoPoint if location is provided
       if (businessLocation && businessLocation.latitude && businessLocation.longitude) {

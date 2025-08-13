@@ -93,28 +93,40 @@ class BusinessService {
       // Location-based filtering
       if (circlecenter && radius) {
         const [centerLat, centerLng] = circlecenter.split(',').map(parseFloat);
+        console.log('Circle center filtering:', { centerLat, centerLng, radius });
+        
         businesses = businesses.filter(business => {
-          // Prefer GeoPoint if available, fallback to businessLocation, then legacy location format
+          // Handle different location formats: GeoPoint, businessLocation GeoPoint, legacy formats
           let lat, lng;
           
           if (business.geoLocation && business.geoLocation._latitude !== undefined) {
             lat = business.geoLocation._latitude;
             lng = business.geoLocation._longitude;
+          } else if (business.businessLocation && business.businessLocation._latitude !== undefined) {
+            // Handle GeoPoint format in businessLocation
+            lat = business.businessLocation._latitude;
+            lng = business.businessLocation._longitude;
           } else if (business.businessLocation?.latitude && business.businessLocation?.longitude) {
+            // Handle legacy object format
             lat = business.businessLocation.latitude;
             lng = business.businessLocation.longitude;
           } else if (business.location?.lat && business.location?.lng) {
+            // Handle legacy location format
             lat = business.location.lat;
             lng = business.location.lng;
           }
           
           if (!lat || !lng) {
+            console.log('Business has no valid location:', business.id, business.businessName);
             return false;
           }
           
           const distance = this.calculateDistance(
             centerLat, centerLng, lat, lng
           );
+          
+          console.log(`Business ${business.businessName} (${business.id}): lat=${lat}, lng=${lng}, distance=${distance}km, within radius: ${distance <= radius}`);
+          
           return distance <= radius;
         });
       }
@@ -127,16 +139,22 @@ class BusinessService {
         const maxLng = Math.max(lng1, lng2);
         
         businesses = businesses.filter(business => {
-          // Prefer GeoPoint if available, fallback to businessLocation, then legacy location format
+          // Handle different location formats: GeoPoint, businessLocation GeoPoint, legacy formats
           let lat, lng;
           
           if (business.geoLocation && business.geoLocation._latitude !== undefined) {
             lat = business.geoLocation._latitude;
             lng = business.geoLocation._longitude;
+          } else if (business.businessLocation && business.businessLocation._latitude !== undefined) {
+            // Handle GeoPoint format in businessLocation
+            lat = business.businessLocation._latitude;
+            lng = business.businessLocation._longitude;
           } else if (business.businessLocation?.latitude && business.businessLocation?.longitude) {
+            // Handle legacy object format
             lat = business.businessLocation.latitude;
             lng = business.businessLocation.longitude;
           } else if (business.location?.lat && business.location?.lng) {
+            // Handle legacy location format
             lat = business.location.lat;
             lng = business.location.lng;
           }
@@ -199,12 +217,20 @@ class BusinessService {
                     lat: business.geoLocation._latitude,
                     lng: business.geoLocation._longitude
                   };
+                } else if (business.businessLocation && business.businessLocation._latitude !== undefined) {
+                  // Handle GeoPoint format in businessLocation
+                  return {
+                    lat: business.businessLocation._latitude,
+                    lng: business.businessLocation._longitude
+                  };
                 } else if (business.businessLocation?.latitude && business.businessLocation?.longitude) {
+                  // Handle legacy object format
                   return {
                     lat: business.businessLocation.latitude,
                     lng: business.businessLocation.longitude
                   };
                 } else if (business.location?.lat && business.location?.lng) {
+                  // Handle legacy location format
                   return {
                     lat: business.location.lat,
                     lng: business.location.lng
@@ -340,16 +366,22 @@ class BusinessService {
 
       // Filter by bounding box and calculate exact distance
       businesses = businesses.filter(business => {
-        // Prefer GeoPoint if available, fallback to businessLocation, then legacy location format
+        // Handle different location formats: GeoPoint, businessLocation GeoPoint, legacy formats
         let lat, lng;
         
         if (business.geoLocation && business.geoLocation._latitude !== undefined) {
           lat = business.geoLocation._latitude;
           lng = business.geoLocation._longitude;
+        } else if (business.businessLocation && business.businessLocation._latitude !== undefined) {
+          // Handle GeoPoint format in businessLocation
+          lat = business.businessLocation._latitude;
+          lng = business.businessLocation._longitude;
         } else if (business.businessLocation?.latitude && business.businessLocation?.longitude) {
+          // Handle legacy object format
           lat = business.businessLocation.latitude;
           lng = business.businessLocation.longitude;
         } else if (business.location?.lat && business.location?.lng) {
+          // Handle legacy location format
           lat = business.location.lat;
           lng = business.location.lng;
         }
