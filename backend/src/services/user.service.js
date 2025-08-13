@@ -6,6 +6,7 @@
  */
 
 const { db } = require('./firebase');
+const admin = require('firebase-admin');
 const jwt = require('jsonwebtoken');
 const bcrypt = require('bcryptjs');
 const authService = require('./auth.service');
@@ -127,7 +128,8 @@ class UserService {
       const businessRef = db.collection('businesses').doc();
       const businessId = businessRef.id;
 
-      await businessRef.set({
+      // Prepare business data
+      const businessData = {
         businessId,
         ownerId: uid,
         businessName,
@@ -143,7 +145,17 @@ class UserService {
         requestDate: new Date(),
         createdAt: new Date(),
         updatedAt: new Date()
-      });
+      };
+
+      // Add GeoPoint if location is provided
+      if (businessLocation && businessLocation.latitude && businessLocation.longitude) {
+        businessData.geoLocation = new admin.firestore.GeoPoint(
+          businessLocation.latitude,
+          businessLocation.longitude
+        );
+      }
+
+      await businessRef.set(businessData);
 
       // Update user to mark as having businesses (if not already)
       const userData = userDoc.data();

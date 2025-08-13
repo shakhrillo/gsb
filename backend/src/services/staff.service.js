@@ -287,20 +287,24 @@ class StaffService {
   }
 
   /**
-   * Get all staff members across businesses (admin function)
+   * Get all staff members across businesses with enhanced filtering (admin function)
    * @param {Object} filters - Filter options
    * @param {Object} pagination - Pagination options
+   * @param {Object} sorting - Sorting options
    * @returns {Promise<{success: boolean, data?: any[], pagination?: any, error?: string}>}
    */
-  async getAllStaffMembers(filters = {}, pagination = {}) {
+  async getAllStaffMembers(filters = {}, pagination = {}, sorting = {}) {
     try {
-      const { businessId, role, isActive } = filters;
+      const { 
+        businessId, role, isActive, name, email, phone, search 
+      } = filters;
       const { page = 1, limit = 10 } = pagination;
+      const { sortBy = 'createdAt', sortOrder = 'desc' } = sorting;
       const skip = (page - 1) * limit;
 
       let query = db.collection('users').where('isStaff', '==', true);
 
-      // Apply filters
+      // Apply basic filters that Firestore can handle
       if (businessId) {
         query = query.where('businessId', '==', businessId);
       }
@@ -311,27 +315,91 @@ class StaffService {
         query = query.where('isActive', '==', isActive);
       }
 
-      // Get total count for pagination
-      const countSnapshot = await query.get();
-      const totalItems = countSnapshot.size;
-      const totalPages = Math.ceil(totalItems / limit);
-
-      // Apply pagination
-      query = query.orderBy('createdAt', 'desc').limit(limit).offset(skip);
+      // Get all matching documents for client-side filtering
       const snapshot = await query.get();
-
-      const staffMembers = snapshot.docs.map(doc => {
+      let staffMembers = snapshot.docs.map(doc => {
         const data = doc.data();
-        delete data.password;
+        delete data.password; // Remove sensitive data
         return {
           ...data,
           uid: doc.id,
         };
       });
 
+      // Apply client-side filters
+      if (name) {
+        const searchTerm = name.toLowerCase();
+        staffMembers = staffMembers.filter(staff => 
+          staff.name && staff.name.toLowerCase().includes(searchTerm)
+        );
+      }
+
+      if (email) {
+        const searchTerm = email.toLowerCase();
+        staffMembers = staffMembers.filter(staff => 
+          staff.email && staff.email.toLowerCase().includes(searchTerm)
+        );
+      }
+
+      if (phone) {
+        const searchTerm = phone.replace(/\D/g, ''); // Remove non-digits
+        staffMembers = staffMembers.filter(staff => 
+          staff.phone && staff.phone.replace(/\D/g, '').includes(searchTerm)
+        );
+      }
+
+      if (search) {
+        const searchTerm = search.toLowerCase();
+        staffMembers = staffMembers.filter(staff => 
+          (staff.name && staff.name.toLowerCase().includes(searchTerm)) ||
+          (staff.email && staff.email.toLowerCase().includes(searchTerm)) ||
+          (staff.phone && staff.phone.replace(/\D/g, '').includes(searchTerm.replace(/\D/g, ''))) ||
+          (staff.role && staff.role.toLowerCase().includes(searchTerm))
+        );
+      }
+
+      // Apply sorting
+      staffMembers.sort((a, b) => {
+        let aValue, bValue;
+        
+        switch (sortBy) {
+          case 'name':
+            aValue = (a.name || '').toLowerCase();
+            bValue = (b.name || '').toLowerCase();
+            break;
+          case 'role':
+            aValue = (a.role || '').toLowerCase();
+            bValue = (b.role || '').toLowerCase();
+            break;
+          case 'isActive':
+            aValue = a.isActive ? 1 : 0;
+            bValue = b.isActive ? 1 : 0;
+            break;
+          case 'createdAt':
+          case 'updatedAt':
+            aValue = a[sortBy] ? new Date(a[sortBy].toDate ? a[sortBy].toDate() : a[sortBy]) : new Date(0);
+            bValue = b[sortBy] ? new Date(b[sortBy].toDate ? b[sortBy].toDate() : b[sortBy]) : new Date(0);
+            break;
+          default:
+            aValue = a[sortBy] || '';
+            bValue = b[sortBy] || '';
+        }
+
+        if (aValue < bValue) return sortOrder === 'asc' ? -1 : 1;
+        if (aValue > bValue) return sortOrder === 'asc' ? 1 : -1;
+        return 0;
+      });
+
+      // Calculate pagination info
+      const totalItems = staffMembers.length;
+      const totalPages = Math.ceil(totalItems / limit);
+
+      // Apply pagination
+      const paginatedStaffMembers = staffMembers.slice(skip, skip + limit);
+
       return {
         success: true,
-        data: staffMembers,
+        data: paginatedStaffMembers,
         pagination: {
           currentPage: page,
           totalPages,
