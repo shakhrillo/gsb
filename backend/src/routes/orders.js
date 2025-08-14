@@ -7,6 +7,9 @@ router.post('/', validateUser, async (req, res) => {
   try {
     const orderData = req.body;
     const user = req.user;
+
+    console.log('Creating order for user:', user.uid);
+    console.log('Order data:', orderData);
     
     const orderRef = await db.collection('orders').add({
       ...orderData,

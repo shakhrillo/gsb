@@ -26,7 +26,7 @@ const firebasekeys = {
   "client_x509_cert_url": CLIENT_X509_CERT_URL,
   "universe_domain": UNIVERSE_DOMAIN,
 };
-console.log('Firebase keys:', firebasekeys);
+
 try {
   admin.initializeApp({
     projectId: `${process.env.APP_FIREBASE_PROJECT_ID}`,

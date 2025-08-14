@@ -8,7 +8,6 @@ const JWT_SECRET_KEY = process.env.JWT_SECRET_KEY;
 
 const validateUser = async (req, res, next) => {
   const authorization = req.headers.authorization;
-  console.log('Authorization header:', authorization);
   const isFirebaseToken = !authorization?.startsWith('Bearer ') && !!authorization;
 
   if (isFirebaseToken) {
@@ -35,7 +34,6 @@ const validateUser = async (req, res, next) => {
 
   try {
     const decoded = jwt.verify(token, JWT_SECRET_KEY);
-    console.log('Decoded token:', decoded);
     
     // Check if token is blacklisted (if jti is present)
     if (decoded.jti) {
