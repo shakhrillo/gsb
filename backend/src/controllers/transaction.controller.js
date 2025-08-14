@@ -106,8 +106,8 @@ class TransactionController {
 				if (userAccount) {
 					const receipt = response.data.result.receipt;
 					console.log('🧾 [DEBUG] Receipt data:', JSON.stringify(receipt));
-					const userDoc = await db.collection('users').doc(userAccount.value).get();
-					const userLocation = userDoc.data().location;
+					// const userDoc = await db.collection('users').doc(userAccount.value).get();
+					// const userLocation = userDoc.data().location;
 
 					await db.collection('users').doc(userAccount.value).collection('receipts').add({
 						receipt_id: receipt._id,
@@ -123,19 +123,19 @@ class TransactionController {
 						description: receipt.description || '',
 					});
 
-					const randomLatLngBukharaUzbekistan = () => {
-						const lat = userLocation['latitude'];
-						const lng = userLocation['longitude'];
-						return { lat, lng, latitude: lat, longitude: lng };
-					}
+					// const randomLatLngBukharaUzbekistan = () => {
+					// 	const lat = userLocation['latitude'];
+					// 	const lng = userLocation['longitude'];
+					// 	return { lat, lng, latitude: lat, longitude: lng };
+					// }
 
-					await db.collection('orders').doc(productAccount.value).update({
-						delivery_status: 'pending',
-						status: 'paid',
-						pickup_location: randomLatLngBukharaUzbekistan(),
-						pay_time: receipt.pay_time,
-						destination: randomLatLngBukharaUzbekistan()
-					});
+					// await db.collection('orders').doc(productAccount.value).update({
+					// 	delivery_status: 'pending',
+					// 	status: 'paid',
+					// 	pickup_location: randomLatLngBukharaUzbekistan(),
+					// 	pay_time: receipt.pay_time,
+					// 	destination: randomLatLngBukharaUzbekistan()
+					// });
 						
 				}
 				return res.json({
