@@ -50,8 +50,8 @@ class TransactionService {
     const receiptData = {
       "receipt_type": 0, //тип фискального чека
       "shipping" : { //доставка, необязательное поле
-        "title" : `${item?.['deliveryLocation']?.['address']}`,
-        "price" : item?.['deliveryFee']
+        "title" : `${product?.['deliveryLocation']?.['address']}`,
+        "price" : product?.['deliveryFee']
       },
       "items" : (product['items'] || []).map(item => {
         return {
