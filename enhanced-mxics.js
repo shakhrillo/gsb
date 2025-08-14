@@ -19,11 +19,9 @@ class EnhancedMXIKFetcher extends MXIKFetcher {
                 const data = await fs.promises.readFile(this.progressFile, 'utf8');
                 const progress = JSON.parse(data);
                 this.allCodes = progress.codes || [];
-                console.log(`Loaded ${this.allCodes.length} existing codes from progress file`);
                 return progress.lastProcessed || {};
             }
         } catch (error) {
-            console.log('No existing progress found, starting fresh');
         }
         return {};
     }
@@ -39,7 +37,6 @@ class EnhancedMXIKFetcher extends MXIKFetcher {
             };
 
             await fs.promises.writeFile(this.progressFile, JSON.stringify(progress, null, 2));
-            console.log(`Progress saved: ${this.allCodes.length} codes`);
         } catch (error) {
             console.error('Error saving progress:', error.message);
         }
@@ -71,7 +68,6 @@ class EnhancedMXIKFetcher extends MXIKFetcher {
 
     // Enhanced main method with resume capability
     async fetchAllDataWithResume() {
-        console.log('Starting enhanced MXIK data fetch with resume capability...');
         const startTime = Date.now();
         
         // Load existing progress
@@ -79,48 +75,39 @@ class EnhancedMXIKFetcher extends MXIKFetcher {
         
         try {
             const groups = await this.fetchGroups();
-            console.log(`Processing ${groups.length} groups...`);
             
             for (const group of groups) {
                 if (this.shouldSkip(group.code, null, null, null, lastProcessed)) {
-                    console.log(`Skipping group ${group.code} (already processed)`);
                     continue;
                 }
                 
-                console.log(`\n🔄 Processing group: ${group.code} - ${group.name}`);
                 await this.sleep(this.delay);
                 
                 const classes = await this.fetchClasses(group.code);
                 
                 for (const classItem of classes) {
                     if (this.shouldSkip(group.code, classItem.code, null, null, lastProcessed)) {
-                        console.log(`  Skipping class ${classItem.code}`);
                         continue;
                     }
                     
-                    console.log(`  📂 Processing class: ${classItem.code} - ${classItem.name}`);
                     await this.sleep(this.delay);
                     
                     const positions = await this.fetchPositions(classItem.code);
                     
                     for (const position of positions) {
                         if (this.shouldSkip(group.code, classItem.code, position.code, null, lastProcessed)) {
-                            console.log(`    Skipping position ${position.code}`);
                             continue;
                         }
                         
-                        console.log(`    📄 Processing position: ${position.code} - ${position.name}`);
                         await this.sleep(this.delay);
                         
                         const subpositions = await this.fetchSubpositions(position.code);
                         
                         for (const subposition of subpositions) {
                             if (this.shouldSkip(group.code, classItem.code, position.code, subposition.code, lastProcessed)) {
-                                console.log(`      Skipping subposition ${subposition.code}`);
                                 continue;
                             }
                             
-                            console.log(`      📝 Processing subposition: ${subposition.code} - ${subposition.name}`);
                             await this.sleep(this.delay);
                             
                             const mxikCodes = await this.fetchMXIKCodes(subposition.code);
@@ -159,7 +146,6 @@ class EnhancedMXIKFetcher extends MXIKFetcher {
                                 };
                                 
                                 this.allCodes.push(completeEntry);
-                                console.log(`        ✅ ${mxikCode.code} - ${mxikCode.name}`);
                                 
                                 // Save progress every batch
                                 if (this.allCodes.length % this.batchSize === 0) {
@@ -182,8 +168,6 @@ class EnhancedMXIKFetcher extends MXIKFetcher {
             const endTime = Date.now();
             const duration = Math.round((endTime - startTime) / 1000);
             
-            console.log(`\n🎉 Fetch completed in ${duration} seconds`);
-            console.log(`📊 Total MXIK codes collected: ${this.allCodes.length}`);
             
             return this.allCodes;
             
@@ -199,7 +183,6 @@ class EnhancedMXIKFetcher extends MXIKFetcher {
         try {
             // Save JSON
             await fs.promises.writeFile(this.outputFile, JSON.stringify(this.allCodes, null, 2));
-            console.log(`📁 Final data saved to: ${this.outputFile}`);
             
             // Save CSV
             await this.saveToCSV('mxik_codes_complete.csv');
@@ -215,7 +198,6 @@ class EnhancedMXIKFetcher extends MXIKFetcher {
             };
             
             await fs.promises.writeFile('mxik_summary.json', JSON.stringify(summary, null, 2));
-            console.log('📈 Summary saved to: mxik_summary.json');
             
         } catch (error) {
             console.error('Error saving final results:', error.message);

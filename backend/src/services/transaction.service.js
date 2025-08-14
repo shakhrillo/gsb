@@ -50,18 +50,18 @@ class TransactionService {
     const receiptData = {
       "receipt_type": 0, //тип фискального чека
       "shipping" : { //доставка, необязательное поле
-        "title" : "Test delivery",
-        "price" : 0
+        "title" : `${item?.['deliveryLocation']?.['address']}`,
+        "price" : item?.['deliveryFee']
       },
       "items" : (product['items'] || []).map(item => {
         return {
           "discount": item['discount'] || 0,
-          "title": item['name'] || "Unknown",
-          "price": item['price'] || 0,
-          "count": item['quantity'] || 1,
-          "code": item['mxikCode'] || "00000000000000000",
-          "vat_percent": item['vat'] || 12,
-          "package_code": item["packageType"] || "00000000000000000",
+          "title": item['name'],
+          "price": item['price'],
+          "count": item['quantity'],
+          "code": item['mxikCode'],
+          "vat_percent": item['vat'],
+          "package_code": item["packageType"],
         }
       })
     }

@@ -105,6 +105,7 @@ class TransactionController {
 				
 				if (userAccount) {
 					const receipt = response.data.result.receipt;
+					console.log('🧾 [DEBUG] Receipt data:', JSON.stringify(receipt));
 					const userDoc = await db.collection('users').doc(userAccount.value).get();
 					const userLocation = userDoc.data().location;
 
