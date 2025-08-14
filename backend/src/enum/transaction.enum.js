@@ -4,6 +4,7 @@ exports.PaymeMethod = {
 	CreateTransaction: 'CreateTransaction',
 	PerformTransaction: 'PerformTransaction',
 	CancelTransaction: 'CancelTransaction',
+	SetFiscalData: 'SetFiscalData',
 	GetStatement: 'GetStatement',
 }
 

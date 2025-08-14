@@ -294,6 +294,110 @@ class TransactionService {
     return result
   }
 
+  async SetFiscalData(params, id) {
+    console.log('🧾 [DEBUG] SetFiscalData called with params:', JSON.stringify(params), 'id:', id)
+    
+    try {
+      const { id: transactionId, type, fiscal_data } = params
+
+      if (!transactionId) {
+        console.log('❌ [DEBUG] Transaction ID is required')
+        throw new Error('Transaction ID is required')
+      }
+
+      if (!type || (type !== 'PERFORM' && type !== 'CANCEL')) {
+        console.log('❌ [DEBUG] Invalid type:', type)
+        throw new Error('Type must be either PERFORM or CANCEL')
+      }
+
+      if (!fiscal_data) {
+        console.log('❌ [DEBUG] Fiscal data is required')
+        throw new Error('Fiscal data is required')
+      }
+
+      // Check if transaction exists
+      const txRef = db.collection("transactions").doc(transactionId)
+      const txSnap = await txRef.get()
+
+      if (!txSnap.exists) {
+        console.log('❌ [DEBUG] Transaction not found:', transactionId)
+        throw new TransactionError(PaymeError.TransactionNotFound, id)
+      }
+
+      const transaction = txSnap.data()
+      console.log('✅ [DEBUG] Transaction found:', JSON.stringify(transaction))
+
+      // Prepare fiscal data to store
+      const fiscalDataToStore = {
+        receipt_id: fiscal_data.receipt_id,
+        status_code: fiscal_data.status_code,
+        message: fiscal_data.message,
+        terminal_id: fiscal_data.terminal_id,
+        fiscal_sign: fiscal_data.fiscal_sign,
+        qr_code_url: fiscal_data.qr_code_url,
+        date: fiscal_data.date,
+        timestamp: Date.now()
+      }
+
+      // Get existing fiscal data or create new structure
+      let existingFiscal = transaction.fiscal || {}
+      
+      if (type === 'PERFORM') {
+        existingFiscal.perform_data = fiscalDataToStore
+        console.log('💾 [DEBUG] Storing PERFORM fiscal data')
+      } else if (type === 'CANCEL') {
+        existingFiscal.cancel_data = fiscalDataToStore
+        console.log('💾 [DEBUG] Storing CANCEL fiscal data')
+      }
+
+      // Update transaction with fiscal data
+      await txRef.update({
+        fiscal: existingFiscal,
+        last_fiscal_update: Date.now()
+      })
+
+      console.log('✅ [DEBUG] Fiscal data successfully stored for transaction:', transactionId)
+      
+      return {
+        success: true
+      }
+
+    } catch (error) {
+      console.error('❌ [DEBUG] Error in SetFiscalData:', error)
+      
+      // Handle specific transaction errors
+      if (error instanceof TransactionError) {
+        throw error
+      }
+      
+      // Handle validation errors
+      if (error.message.includes('Transaction ID is required') || 
+          error.message.includes('Type must be either') ||
+          error.message.includes('Fiscal data is required')) {
+        throw new TransactionError({
+          name: 'InvalidParams',
+          code: -32602,
+          message: {
+            uz: 'Yaroqsiz parametrlar',
+            ru: 'Не валидные параметры',
+            en: error.message,
+          },
+        }, id)
+      }
+      
+      // Handle JSON parsing errors
+      throw new TransactionError({
+        name: 'InvalidJSON',
+        code: -32700,
+        message: {
+          uz: 'Yaroqsiz JSON obyekt',
+          ru: 'Отправлен не валидный JSON объект',
+          en: 'Invalid JSON object sent',
+        },
+      }, id)
+    }
+  }
+
   async getStatement(params) {
     console.log('📊 [DEBUG] getStatement called with params:', JSON.stringify(params))
     const { from, to } = params
