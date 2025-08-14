@@ -53,26 +53,29 @@ class TransactionService {
         "title" : `${product?.['deliveryLocation']?.['address']}`,
         "price" : product?.['deliveryFee']
       },
-      "items" : (product['items'] || []).push({
+      "items" : [
+        ...(product['items'] || []).map(item => {
+          return {
+            "discount": item['discount'] || 0,
+            "title": item['name'],
+            "price": item['price'],
+            "count": item['quantity'],
+            "code": item['mxikCode'],
+            "vat_percent": item['vat'],
+            "package_code": item["packageType"],
+          }
+        }),
+        {
         // 10112006002000000 Махсулотларни етказиб бериш хизмати
-        "discount": 0,
-        "title": `${product?.['deliveryLocation']?.['address']}`,
-        "price": product?.['deliveryFee'],
-        "count": 1,
-        "code": "10112006002000000",
-        "vat_percent": 12,
-        "package_code": "1542432"
-      }).map(item => {
-        return {
-          "discount": item['discount'] || 0,
-          "title": item['name'],
-          "price": item['price'],
-          "count": item['quantity'],
-          "code": item['mxikCode'],
-          "vat_percent": item['vat'],
-          "package_code": item["packageType"],
+          "discount": 0,
+          "title": `${product?.['deliveryLocation']?.['address']}`,
+          "price": product?.['deliveryFee'],
+          "count": 1,
+          "code": "10112006002000000",
+          "vat_percent": 12,
+          "package_code": "1542432"
         }
-      })
+      ]
     }
     console.log('🧾 [DEBUG] Generated receipt data:', JSON.stringify(receiptData))
     return receiptData
