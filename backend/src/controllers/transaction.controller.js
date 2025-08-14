@@ -123,7 +123,7 @@ class TransactionController {
 				}
 
 				// Send receipts to user
-				const response = await axios.post(process.env.PAYME_API_URL, {
+				await axios.post(process.env.PAYME_API_URL, {
 					"id": Math.random().toString(36).substring(2, 15),
 					"method": "receipts.send",
 					"params": {
