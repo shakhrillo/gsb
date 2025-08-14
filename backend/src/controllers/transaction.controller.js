@@ -123,18 +123,22 @@ class TransactionController {
 				}
 
 				// Send receipts to user
-				await axios.post(process.env.PAYME_API_URL, {
-					"id": Math.random().toString(36).substring(2, 15),
-					"method": "receipts.send",
-					"params": {
-						"id": receipt._id,
-						"phone": receipt?.payer?.phone
-					}
-				}, {
-					headers: {
-						...headers
-					}
-				});
+				try {
+					await axios.post(process.env.PAYME_API_URL, {
+						"id": Math.random().toString(36).substring(2, 15),
+						"method": "receipts.send",
+						"params": {
+							"id": receipt._id,
+							"phone": receipt?.payer?.phone
+						}
+					}, {
+						headers: {
+							...headers
+						}
+					});
+				} catch (error) {
+					console.error('Error sending receipt:', error);
+				}
 
 				return res.json({
 					id: receipt._id
