@@ -16,12 +16,35 @@ const JWT_SECRET_KEY = process.env.JWT_SECRET_KEY;
 
 class UserService {
   /**
-   * Generate refresh token for user
+   * Generate refresh token for user with enhanced security
    * @param {string} uid - User ID
+   * @param {Object} options - Additional options for token generation
    * @returns {string} - New JWT token
    */
-  generateRefreshToken(uid) {
-    return jwt.sign({ uid }, JWT_SECRET_KEY, { expiresIn: '24h' });
+  generateRefreshToken(uid, options = {}) {
+    const payload = {
+      uid,
+      type: 'access',
+      iat: Math.floor(Date.now() / 1000),
+      jti: this.generateTokenId(), // Unique token identifier for revocation if needed
+      ...options.additionalClaims
+    };
+
+    const tokenOptions = {
+      expiresIn: options.expiresIn || '24h',
+      issuer: 'gsb-app',
+      audience: 'gsb-users'
+    };
+
+    return jwt.sign(payload, JWT_SECRET_KEY, tokenOptions);
+  }
+
+  /**
+   * Generate unique token ID for JWT tracking
+   * @returns {string} - Unique token identifier
+   */
+  generateTokenId() {
+    return `${Date.now()}-${Math.random().toString(36).substr(2, 9)}`;
   }
 
   /**

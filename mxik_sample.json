@@ -1,0 +1,4034 @@
+[
+  {
+    "group": {
+      "code": "001",
+      "name": "TIRIK HAYVONLAR"
+    },
+    "class": {
+      "code": "00101",
+      "name": "Tirik otlar, eshaklar"
+    },
+    "position": {
+      "code": "00101001",
+      "name": "Tirik otlar va eshaklar"
+    },
+    "subposition": {
+      "code": "00101001001",
+      "name": "Tirik otlar"
+    },
+    "mxik": {
+      "code": "00101001001000000",
+      "name": "Final code for 00101001001",
+      "details": {
+        "code": "00101001001000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:20:45.790Z"
+  },
+  {
+    "group": {
+      "code": "001",
+      "name": "TIRIK HAYVONLAR"
+    },
+    "class": {
+      "code": "00101",
+      "name": "Tirik otlar, eshaklar"
+    },
+    "position": {
+      "code": "00101001",
+      "name": "Tirik otlar va eshaklar"
+    },
+    "subposition": {
+      "code": "00101001003",
+      "name": "Tirik otlar (so’yish vaznida)"
+    },
+    "mxik": {
+      "code": "00101001003000000",
+      "name": "Final code for 00101001003",
+      "details": {
+        "code": "00101001003000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:20:46.217Z"
+  },
+  {
+    "group": {
+      "code": "001",
+      "name": "TIRIK HAYVONLAR"
+    },
+    "class": {
+      "code": "00101",
+      "name": "Tirik otlar, eshaklar"
+    },
+    "position": {
+      "code": "00101001",
+      "name": "Tirik otlar va eshaklar"
+    },
+    "subposition": {
+      "code": "00101001007",
+      "name": "Tirik eshaklar"
+    },
+    "mxik": {
+      "code": "00101001007000000",
+      "name": "Final code for 00101001007",
+      "details": {
+        "code": "00101001007000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:20:46.532Z"
+  },
+  {
+    "group": {
+      "code": "001",
+      "name": "TIRIK HAYVONLAR"
+    },
+    "class": {
+      "code": "00102",
+      "name": "Yirik shoxli tirik uy qoramollari"
+    },
+    "position": {
+      "code": "00102001",
+      "name": "Tirik yirik shoxli uy qoramollari"
+    },
+    "subposition": {
+      "code": "00102001001",
+      "name": "Tirik buqalar"
+    },
+    "mxik": {
+      "code": "00102001001000000",
+      "name": "Final code for 00102001001",
+      "details": {
+        "code": "00102001001000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:20:47.103Z"
+  },
+  {
+    "group": {
+      "code": "001",
+      "name": "TIRIK HAYVONLAR"
+    },
+    "class": {
+      "code": "00102",
+      "name": "Yirik shoxli tirik uy qoramollari"
+    },
+    "position": {
+      "code": "00102001",
+      "name": "Tirik yirik shoxli uy qoramollari"
+    },
+    "subposition": {
+      "code": "00102001002",
+      "name": "Tirik sigirlar"
+    },
+    "mxik": {
+      "code": "00102001002000000",
+      "name": "Final code for 00102001002",
+      "details": {
+        "code": "00102001002000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:20:47.426Z"
+  },
+  {
+    "group": {
+      "code": "001",
+      "name": "TIRIK HAYVONLAR"
+    },
+    "class": {
+      "code": "00102",
+      "name": "Yirik shoxli tirik uy qoramollari"
+    },
+    "position": {
+      "code": "00102001",
+      "name": "Tirik yirik shoxli uy qoramollari"
+    },
+    "subposition": {
+      "code": "00102001003",
+      "name": "Buzoqlar"
+    },
+    "mxik": {
+      "code": "00102001003000000",
+      "name": "Final code for 00102001003",
+      "details": {
+        "code": "00102001003000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:20:47.748Z"
+  },
+  {
+    "group": {
+      "code": "001",
+      "name": "TIRIK HAYVONLAR"
+    },
+    "class": {
+      "code": "00102",
+      "name": "Yirik shoxli tirik uy qoramollari"
+    },
+    "position": {
+      "code": "00102001",
+      "name": "Tirik yirik shoxli uy qoramollari"
+    },
+    "subposition": {
+      "code": "00102001004",
+      "name": "Tirik buqalar, sigirlar va buzoqlar (so’yish vaznida)"
+    },
+    "mxik": {
+      "code": "00102001004000000",
+      "name": "Final code for 00102001004",
+      "details": {
+        "code": "00102001004000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:20:48.064Z"
+  },
+  {
+    "group": {
+      "code": "001",
+      "name": "TIRIK HAYVONLAR"
+    },
+    "class": {
+      "code": "00103",
+      "name": "Tirik cho’chqalar"
+    },
+    "position": {
+      "code": "00103001",
+      "name": "Tirik cho’chqalar"
+    },
+    "subposition": {
+      "code": "00103001001",
+      "name": "Tirik cho’chqalar"
+    },
+    "mxik": {
+      "code": "00103001001000000",
+      "name": "Final code for 00103001001",
+      "details": {
+        "code": "00103001001000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:20:48.621Z"
+  },
+  {
+    "group": {
+      "code": "001",
+      "name": "TIRIK HAYVONLAR"
+    },
+    "class": {
+      "code": "00103",
+      "name": "Tirik cho’chqalar"
+    },
+    "position": {
+      "code": "00103001",
+      "name": "Tirik cho’chqalar"
+    },
+    "subposition": {
+      "code": "00103001003",
+      "name": "Tirik cho’chqalar (so’yish vaznida)"
+    },
+    "mxik": {
+      "code": "00103001003000000",
+      "name": "Final code for 00103001003",
+      "details": {
+        "code": "00103001003000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:20:48.938Z"
+  },
+  {
+    "group": {
+      "code": "001",
+      "name": "TIRIK HAYVONLAR"
+    },
+    "class": {
+      "code": "00104",
+      "name": "Tirik qo’ylar va echkilar"
+    },
+    "position": {
+      "code": "00104001",
+      "name": "Tirik qo’ylar va echkilar "
+    },
+    "subposition": {
+      "code": "00104001001",
+      "name": "Tirik qo’ylar"
+    },
+    "mxik": {
+      "code": "00104001001000000",
+      "name": "Final code for 00104001001",
+      "details": {
+        "code": "00104001001000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:20:49.508Z"
+  },
+  {
+    "group": {
+      "code": "001",
+      "name": "TIRIK HAYVONLAR"
+    },
+    "class": {
+      "code": "00104",
+      "name": "Tirik qo’ylar va echkilar"
+    },
+    "position": {
+      "code": "00104001",
+      "name": "Tirik qo’ylar va echkilar "
+    },
+    "subposition": {
+      "code": "00104001003",
+      "name": "Tirik echkilar"
+    },
+    "mxik": {
+      "code": "00104001003000000",
+      "name": "Final code for 00104001003",
+      "details": {
+        "code": "00104001003000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:20:49.825Z"
+  },
+  {
+    "group": {
+      "code": "001",
+      "name": "TIRIK HAYVONLAR"
+    },
+    "class": {
+      "code": "00104",
+      "name": "Tirik qo’ylar va echkilar"
+    },
+    "position": {
+      "code": "00104001",
+      "name": "Tirik qo’ylar va echkilar "
+    },
+    "subposition": {
+      "code": "00104001005",
+      "name": "Tirik qo’ylar va echkilar (so’yish vaznida)"
+    },
+    "mxik": {
+      "code": "00104001005000000",
+      "name": "Final code for 00104001005",
+      "details": {
+        "code": "00104001005000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:20:50.132Z"
+  },
+  {
+    "group": {
+      "code": "001",
+      "name": "TIRIK HAYVONLAR"
+    },
+    "class": {
+      "code": "00105",
+      "name": "Tirik parrandalar (uy tovuqlari, o’rdaklar, g’ozlar va kurkalar)"
+    },
+    "position": {
+      "code": "00105001",
+      "name": "Tovuqlar, xo’rozlar va jo’jalar"
+    },
+    "subposition": {
+      "code": "00105001001",
+      "name": "Tovuqlar"
+    },
+    "mxik": {
+      "code": "00105001001000000",
+      "name": "Final code for 00105001001",
+      "details": {
+        "code": "00105001001000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:20:50.723Z"
+  },
+  {
+    "group": {
+      "code": "001",
+      "name": "TIRIK HAYVONLAR"
+    },
+    "class": {
+      "code": "00105",
+      "name": "Tirik parrandalar (uy tovuqlari, o’rdaklar, g’ozlar va kurkalar)"
+    },
+    "position": {
+      "code": "00105001",
+      "name": "Tovuqlar, xo’rozlar va jo’jalar"
+    },
+    "subposition": {
+      "code": "00105001002",
+      "name": "Xo’rozlar"
+    },
+    "mxik": {
+      "code": "00105001002000000",
+      "name": "Final code for 00105001002",
+      "details": {
+        "code": "00105001002000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:20:51.039Z"
+  },
+  {
+    "group": {
+      "code": "001",
+      "name": "TIRIK HAYVONLAR"
+    },
+    "class": {
+      "code": "00105",
+      "name": "Tirik parrandalar (uy tovuqlari, o’rdaklar, g’ozlar va kurkalar)"
+    },
+    "position": {
+      "code": "00105001",
+      "name": "Tovuqlar, xo’rozlar va jo’jalar"
+    },
+    "subposition": {
+      "code": "00105001003",
+      "name": "Tovuq jo’jalar"
+    },
+    "mxik": {
+      "code": "00105001003000000",
+      "name": "Final code for 00105001003",
+      "details": {
+        "code": "00105001003000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:20:51.351Z"
+  },
+  {
+    "group": {
+      "code": "001",
+      "name": "TIRIK HAYVONLAR"
+    },
+    "class": {
+      "code": "00105",
+      "name": "Tirik parrandalar (uy tovuqlari, o’rdaklar, g’ozlar va kurkalar)"
+    },
+    "position": {
+      "code": "00105002",
+      "name": "Kurka"
+    },
+    "subposition": {
+      "code": "00105002001",
+      "name": "Kurkalar"
+    },
+    "mxik": {
+      "code": "00105002001000000",
+      "name": "Final code for 00105002001",
+      "details": {
+        "code": "00105002001000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:20:51.817Z"
+  },
+  {
+    "group": {
+      "code": "001",
+      "name": "TIRIK HAYVONLAR"
+    },
+    "class": {
+      "code": "00105",
+      "name": "Tirik parrandalar (uy tovuqlari, o’rdaklar, g’ozlar va kurkalar)"
+    },
+    "position": {
+      "code": "00105003",
+      "name": "G’ozlar"
+    },
+    "subposition": {
+      "code": "00105003001",
+      "name": "G’ozlar"
+    },
+    "mxik": {
+      "code": "00105003001000000",
+      "name": "Final code for 00105003001",
+      "details": {
+        "code": "00105003001000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:20:52.258Z"
+  },
+  {
+    "group": {
+      "code": "001",
+      "name": "TIRIK HAYVONLAR"
+    },
+    "class": {
+      "code": "00105",
+      "name": "Tirik parrandalar (uy tovuqlari, o’rdaklar, g’ozlar va kurkalar)"
+    },
+    "position": {
+      "code": "00105004",
+      "name": "O’rdaklar"
+    },
+    "subposition": {
+      "code": "00105004001",
+      "name": "O’rdaklar"
+    },
+    "mxik": {
+      "code": "00105004001000000",
+      "name": "Final code for 00105004001",
+      "details": {
+        "code": "00105004001000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:20:52.698Z"
+  },
+  {
+    "group": {
+      "code": "001",
+      "name": "TIRIK HAYVONLAR"
+    },
+    "class": {
+      "code": "00199",
+      "name": "Boshqa tirik hayvonlar"
+    },
+    "position": {
+      "code": "00199001",
+      "name": "Hashoratlar"
+    },
+    "subposition": {
+      "code": "00199001001",
+      "name": "Oltinko’z"
+    },
+    "mxik": {
+      "code": "00199001001000000",
+      "name": "Final code for 00199001001",
+      "details": {
+        "code": "00199001001000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:20:53.283Z"
+  },
+  {
+    "group": {
+      "code": "001",
+      "name": "TIRIK HAYVONLAR"
+    },
+    "class": {
+      "code": "00199",
+      "name": "Boshqa tirik hayvonlar"
+    },
+    "position": {
+      "code": "00199001",
+      "name": "Hashoratlar"
+    },
+    "subposition": {
+      "code": "00199001002",
+      "name": "Gabrobrakon"
+    },
+    "mxik": {
+      "code": "00199001002000000",
+      "name": "Final code for 00199001002",
+      "details": {
+        "code": "00199001002000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:20:53.709Z"
+  },
+  {
+    "group": {
+      "code": "001",
+      "name": "TIRIK HAYVONLAR"
+    },
+    "class": {
+      "code": "00199",
+      "name": "Boshqa tirik hayvonlar"
+    },
+    "position": {
+      "code": "00199001",
+      "name": "Hashoratlar"
+    },
+    "subposition": {
+      "code": "00199001003",
+      "name": "Trixogramma"
+    },
+    "mxik": {
+      "code": "00199001003000000",
+      "name": "Final code for 00199001003",
+      "details": {
+        "code": "00199001003000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:20:54.027Z"
+  },
+  {
+    "group": {
+      "code": "001",
+      "name": "TIRIK HAYVONLAR"
+    },
+    "class": {
+      "code": "00199",
+      "name": "Boshqa tirik hayvonlar"
+    },
+    "position": {
+      "code": "00199001",
+      "name": "Hashoratlar"
+    },
+    "subposition": {
+      "code": "00199001004",
+      "name": "Zuluk"
+    },
+    "mxik": {
+      "code": "00199001004000000",
+      "name": "Final code for 00199001004",
+      "details": {
+        "code": "00199001004000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:20:54.347Z"
+  },
+  {
+    "group": {
+      "code": "001",
+      "name": "TIRIK HAYVONLAR"
+    },
+    "class": {
+      "code": "00199",
+      "name": "Boshqa tirik hayvonlar"
+    },
+    "position": {
+      "code": "00199001",
+      "name": "Hashoratlar"
+    },
+    "subposition": {
+      "code": "00199001007",
+      "name": "Chuvalchang"
+    },
+    "mxik": {
+      "code": "00199001007000000",
+      "name": "Final code for 00199001007",
+      "details": {
+        "code": "00199001007000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:20:54.780Z"
+  },
+  {
+    "group": {
+      "code": "001",
+      "name": "TIRIK HAYVONLAR"
+    },
+    "class": {
+      "code": "00199",
+      "name": "Boshqa tirik hayvonlar"
+    },
+    "position": {
+      "code": "00199001",
+      "name": "Hashoratlar"
+    },
+    "subposition": {
+      "code": "00199001008",
+      "name": "Asalari oilalari (paketlar)"
+    },
+    "mxik": {
+      "code": "00199001008000000",
+      "name": "Final code for 00199001008",
+      "details": {
+        "code": "00199001008000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:20:55.105Z"
+  },
+  {
+    "group": {
+      "code": "001",
+      "name": "TIRIK HAYVONLAR"
+    },
+    "class": {
+      "code": "00199",
+      "name": "Boshqa tirik hayvonlar"
+    },
+    "position": {
+      "code": "00199001",
+      "name": "Hashoratlar"
+    },
+    "subposition": {
+      "code": "00199001010",
+      "name": "Ipak qurti"
+    },
+    "mxik": {
+      "code": "00199001010000000",
+      "name": "Final code for 00199001010",
+      "details": {
+        "code": "00199001010000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:20:55.419Z"
+  },
+  {
+    "group": {
+      "code": "001",
+      "name": "TIRIK HAYVONLAR"
+    },
+    "class": {
+      "code": "00199",
+      "name": "Boshqa tirik hayvonlar"
+    },
+    "position": {
+      "code": "00199001",
+      "name": "Hashoratlar"
+    },
+    "subposition": {
+      "code": "00199001011",
+      "name": "Boshqa xashoratlar"
+    },
+    "mxik": {
+      "code": "00199001011000000",
+      "name": "Final code for 00199001011",
+      "details": {
+        "code": "00199001011000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:20:55.734Z"
+  },
+  {
+    "group": {
+      "code": "001",
+      "name": "TIRIK HAYVONLAR"
+    },
+    "class": {
+      "code": "00199",
+      "name": "Boshqa tirik hayvonlar"
+    },
+    "position": {
+      "code": "00199002",
+      "name": "Sudralib yuruvchilar (shu jumladan ilon va toshbaqalar)"
+    },
+    "subposition": {
+      "code": "00199002001",
+      "name": "Sudralib yuruvchilar (shu jumladan ilonlar va toshbaqalar)"
+    },
+    "mxik": {
+      "code": "00199002001000000",
+      "name": "Final code for 00199002001",
+      "details": {
+        "code": "00199002001000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:20:56.204Z"
+  },
+  {
+    "group": {
+      "code": "001",
+      "name": "TIRIK HAYVONLAR"
+    },
+    "class": {
+      "code": "00199",
+      "name": "Boshqa tirik hayvonlar"
+    },
+    "position": {
+      "code": "00199003",
+      "name": "Qushlar"
+    },
+    "subposition": {
+      "code": "00199003001",
+      "name": "To’tiqushlar"
+    },
+    "mxik": {
+      "code": "00199003001000000",
+      "name": "Final code for 00199003001",
+      "details": {
+        "code": "00199003001000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:20:56.770Z"
+  },
+  {
+    "group": {
+      "code": "001",
+      "name": "TIRIK HAYVONLAR"
+    },
+    "class": {
+      "code": "00199",
+      "name": "Boshqa tirik hayvonlar"
+    },
+    "position": {
+      "code": "00199003",
+      "name": "Qushlar"
+    },
+    "subposition": {
+      "code": "00199003002",
+      "name": "Tovuslar"
+    },
+    "mxik": {
+      "code": "00199003002000000",
+      "name": "Final code for 00199003002",
+      "details": {
+        "code": "00199003002000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:20:57.092Z"
+  },
+  {
+    "group": {
+      "code": "001",
+      "name": "TIRIK HAYVONLAR"
+    },
+    "class": {
+      "code": "00199",
+      "name": "Boshqa tirik hayvonlar"
+    },
+    "position": {
+      "code": "00199003",
+      "name": "Qushlar"
+    },
+    "subposition": {
+      "code": "00199003003",
+      "name": "Oltin tustovuqlar"
+    },
+    "mxik": {
+      "code": "00199003003000000",
+      "name": "Final code for 00199003003",
+      "details": {
+        "code": "00199003003000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:20:57.404Z"
+  },
+  {
+    "group": {
+      "code": "001",
+      "name": "TIRIK HAYVONLAR"
+    },
+    "class": {
+      "code": "00199",
+      "name": "Boshqa tirik hayvonlar"
+    },
+    "position": {
+      "code": "00199003",
+      "name": "Qushlar"
+    },
+    "subposition": {
+      "code": "00199003004",
+      "name": "Tuyaqushlar"
+    },
+    "mxik": {
+      "code": "00199003004000000",
+      "name": "Final code for 00199003004",
+      "details": {
+        "code": "00199003004000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:20:57.712Z"
+  },
+  {
+    "group": {
+      "code": "001",
+      "name": "TIRIK HAYVONLAR"
+    },
+    "class": {
+      "code": "00199",
+      "name": "Boshqa tirik hayvonlar"
+    },
+    "position": {
+      "code": "00199003",
+      "name": "Qushlar"
+    },
+    "subposition": {
+      "code": "00199003006",
+      "name": "Lochinlar"
+    },
+    "mxik": {
+      "code": "00199003006000000",
+      "name": "Final code for 00199003006",
+      "details": {
+        "code": "00199003006000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:20:58.029Z"
+  },
+  {
+    "group": {
+      "code": "001",
+      "name": "TIRIK HAYVONLAR"
+    },
+    "class": {
+      "code": "00199",
+      "name": "Boshqa tirik hayvonlar"
+    },
+    "position": {
+      "code": "00199003",
+      "name": "Qushlar"
+    },
+    "subposition": {
+      "code": "00199003007",
+      "name": "Amadinalar"
+    },
+    "mxik": {
+      "code": "00199003007000000",
+      "name": "Final code for 00199003007",
+      "details": {
+        "code": "00199003007000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:20:58.339Z"
+  },
+  {
+    "group": {
+      "code": "001",
+      "name": "TIRIK HAYVONLAR"
+    },
+    "class": {
+      "code": "00199",
+      "name": "Boshqa tirik hayvonlar"
+    },
+    "position": {
+      "code": "00199003",
+      "name": "Qushlar"
+    },
+    "subposition": {
+      "code": "00199003008",
+      "name": "Kakliklar"
+    },
+    "mxik": {
+      "code": "00199003008000000",
+      "name": "Final code for 00199003008",
+      "details": {
+        "code": "00199003008000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:20:58.654Z"
+  },
+  {
+    "group": {
+      "code": "001",
+      "name": "TIRIK HAYVONLAR"
+    },
+    "class": {
+      "code": "00199",
+      "name": "Boshqa tirik hayvonlar"
+    },
+    "position": {
+      "code": "00199003",
+      "name": "Qushlar"
+    },
+    "subposition": {
+      "code": "00199003009",
+      "name": "Bedana"
+    },
+    "mxik": {
+      "code": "00199003009000000",
+      "name": "Final code for 00199003009",
+      "details": {
+        "code": "00199003009000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:20:58.967Z"
+  },
+  {
+    "group": {
+      "code": "001",
+      "name": "TIRIK HAYVONLAR"
+    },
+    "class": {
+      "code": "00199",
+      "name": "Boshqa tirik hayvonlar"
+    },
+    "position": {
+      "code": "00199003",
+      "name": "Qushlar"
+    },
+    "subposition": {
+      "code": "00199003011",
+      "name": "Boshqa parrandalar"
+    },
+    "mxik": {
+      "code": "00199003011000000",
+      "name": "Final code for 00199003011",
+      "details": {
+        "code": "00199003011000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:20:59.285Z"
+  },
+  {
+    "group": {
+      "code": "001",
+      "name": "TIRIK HAYVONLAR"
+    },
+    "class": {
+      "code": "00199",
+      "name": "Boshqa tirik hayvonlar"
+    },
+    "position": {
+      "code": "00199008",
+      "name": "Sutemizuvchilar"
+    },
+    "subposition": {
+      "code": "00199008001",
+      "name": "Tirik tuyalar va tuya oilasiga kiruvchi boshqa hayvonlar"
+    },
+    "mxik": {
+      "code": "00199008001000000",
+      "name": "Final code for 00199008001",
+      "details": {
+        "code": "00199008001000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:20:59.740Z"
+  },
+  {
+    "group": {
+      "code": "001",
+      "name": "TIRIK HAYVONLAR"
+    },
+    "class": {
+      "code": "00199",
+      "name": "Boshqa tirik hayvonlar"
+    },
+    "position": {
+      "code": "00199008",
+      "name": "Sutemizuvchilar"
+    },
+    "subposition": {
+      "code": "00199008002",
+      "name": "Tirik tuyalar (so’yish vaznida)"
+    },
+    "mxik": {
+      "code": "00199008002000000",
+      "name": "Final code for 00199008002",
+      "details": {
+        "code": "00199008002000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:00.069Z"
+  },
+  {
+    "group": {
+      "code": "001",
+      "name": "TIRIK HAYVONLAR"
+    },
+    "class": {
+      "code": "00199",
+      "name": "Boshqa tirik hayvonlar"
+    },
+    "position": {
+      "code": "00199008",
+      "name": "Sutemizuvchilar"
+    },
+    "subposition": {
+      "code": "00199008003",
+      "name": "Quyonlar"
+    },
+    "mxik": {
+      "code": "00199008003000000",
+      "name": "Final code for 00199008003",
+      "details": {
+        "code": "00199008003000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:00.414Z"
+  },
+  {
+    "group": {
+      "code": "001",
+      "name": "TIRIK HAYVONLAR"
+    },
+    "class": {
+      "code": "00199",
+      "name": "Boshqa tirik hayvonlar"
+    },
+    "position": {
+      "code": "00199008",
+      "name": "Sutemizuvchilar"
+    },
+    "subposition": {
+      "code": "00199008004",
+      "name": "Sichqonlar"
+    },
+    "mxik": {
+      "code": "00199008004000000",
+      "name": "Final code for 00199008004",
+      "details": {
+        "code": "00199008004000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:00.804Z"
+  },
+  {
+    "group": {
+      "code": "001",
+      "name": "TIRIK HAYVONLAR"
+    },
+    "class": {
+      "code": "00199",
+      "name": "Boshqa tirik hayvonlar"
+    },
+    "position": {
+      "code": "00199008",
+      "name": "Sutemizuvchilar"
+    },
+    "subposition": {
+      "code": "00199008006",
+      "name": "Dengiz cho’chqalari"
+    },
+    "mxik": {
+      "code": "00199008006000000",
+      "name": "Final code for 00199008006",
+      "details": {
+        "code": "00199008006000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:01.111Z"
+  },
+  {
+    "group": {
+      "code": "001",
+      "name": "TIRIK HAYVONLAR"
+    },
+    "class": {
+      "code": "00199",
+      "name": "Boshqa tirik hayvonlar"
+    },
+    "position": {
+      "code": "00199008",
+      "name": "Sutemizuvchilar"
+    },
+    "subposition": {
+      "code": "00199008007",
+      "name": "Xomyaklar"
+    },
+    "mxik": {
+      "code": "00199008007000000",
+      "name": "Final code for 00199008007",
+      "details": {
+        "code": "00199008007000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:01.458Z"
+  },
+  {
+    "group": {
+      "code": "001",
+      "name": "TIRIK HAYVONLAR"
+    },
+    "class": {
+      "code": "00199",
+      "name": "Boshqa tirik hayvonlar"
+    },
+    "position": {
+      "code": "00199008",
+      "name": "Sutemizuvchilar"
+    },
+    "subposition": {
+      "code": "00199008008",
+      "name": "Itlar"
+    },
+    "mxik": {
+      "code": "00199008008000000",
+      "name": "Final code for 00199008008",
+      "details": {
+        "code": "00199008008000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:01.878Z"
+  },
+  {
+    "group": {
+      "code": "001",
+      "name": "TIRIK HAYVONLAR"
+    },
+    "class": {
+      "code": "00199",
+      "name": "Boshqa tirik hayvonlar"
+    },
+    "position": {
+      "code": "00199008",
+      "name": "Sutemizuvchilar"
+    },
+    "subposition": {
+      "code": "00199008009",
+      "name": "Yenotlar"
+    },
+    "mxik": {
+      "code": "00199008009000000",
+      "name": "Final code for 00199008009",
+      "details": {
+        "code": "00199008009000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:02.196Z"
+  },
+  {
+    "group": {
+      "code": "001",
+      "name": "TIRIK HAYVONLAR"
+    },
+    "class": {
+      "code": "00199",
+      "name": "Boshqa tirik hayvonlar"
+    },
+    "position": {
+      "code": "00199008",
+      "name": "Sutemizuvchilar"
+    },
+    "subposition": {
+      "code": "00199008013",
+      "name": "Boshqa sut emizuvchilar"
+    },
+    "mxik": {
+      "code": "00199008013000000",
+      "name": "Final code for 00199008013",
+      "details": {
+        "code": "00199008013000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:02.535Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00201",
+      "name": "Yangi, sovutilgan yoki muzlatilgan qoramol go’shti"
+    },
+    "position": {
+      "code": "00201001",
+      "name": "Yangi, sovutilgan yoki muzlatilgan lahm yirik qoramol go’shti"
+    },
+    "subposition": {
+      "code": "00201001001",
+      "name": "Sovutilgan lahm mol go’shti"
+    },
+    "mxik": {
+      "code": "00201001001000000",
+      "name": "Final code for 00201001001",
+      "details": {
+        "code": "00201001001000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:03.354Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00201",
+      "name": "Yangi, sovutilgan yoki muzlatilgan qoramol go’shti"
+    },
+    "position": {
+      "code": "00201001",
+      "name": "Yangi, sovutilgan yoki muzlatilgan lahm yirik qoramol go’shti"
+    },
+    "subposition": {
+      "code": "00201001002",
+      "name": "Muzlatilgan suyaksiz go’sht (mol go’shti)"
+    },
+    "mxik": {
+      "code": "00201001002000000",
+      "name": "Final code for 00201001002",
+      "details": {
+        "code": "00201001002000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:03.871Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00201",
+      "name": "Yangi, sovutilgan yoki muzlatilgan qoramol go’shti"
+    },
+    "position": {
+      "code": "00201001",
+      "name": "Yangi, sovutilgan yoki muzlatilgan lahm yirik qoramol go’shti"
+    },
+    "subposition": {
+      "code": "00201001003",
+      "name": "Muzlatilgan suyaksiz mol go’shti, maydalangan"
+    },
+    "mxik": {
+      "code": "00201001003000000",
+      "name": "Final code for 00201001003",
+      "details": {
+        "code": "00201001003000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:04.215Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00201",
+      "name": "Yangi, sovutilgan yoki muzlatilgan qoramol go’shti"
+    },
+    "position": {
+      "code": "00201001",
+      "name": "Yangi, sovutilgan yoki muzlatilgan lahm yirik qoramol go’shti"
+    },
+    "subposition": {
+      "code": "00201001004",
+      "name": "Mol go’shtidan farsh"
+    },
+    "mxik": {
+      "code": "00201001004000000",
+      "name": "Final code for 00201001004",
+      "details": {
+        "code": "00201001004000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:04.543Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00201",
+      "name": "Yangi, sovutilgan yoki muzlatilgan qoramol go’shti"
+    },
+    "position": {
+      "code": "00201002",
+      "name": "Yangi, sovutilgan yoki muzlatilgan qoramollarning to’liq va yarim qovurg’a suyaklari"
+    },
+    "subposition": {
+      "code": "00201002001",
+      "name": "Yangi, sovutilgan yirik qoramol to’liq va yarim qovurg’a go’shti (mol go’shti)"
+    },
+    "mxik": {
+      "code": "00201002001000000",
+      "name": "Final code for 00201002001",
+      "details": {
+        "code": "00201002001000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:05.156Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00201",
+      "name": "Yangi, sovutilgan yoki muzlatilgan qoramol go’shti"
+    },
+    "position": {
+      "code": "00201002",
+      "name": "Yangi, sovutilgan yoki muzlatilgan qoramollarning to’liq va yarim qovurg’a suyaklari"
+    },
+    "subposition": {
+      "code": "00201002002",
+      "name": "Muzlatilgan yirik qoramol to’liq va yarim qovurg’a go’shti (mol go’shti)"
+    },
+    "mxik": {
+      "code": "00201002002000000",
+      "name": "Final code for 00201002002",
+      "details": {
+        "code": "00201002002000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:05.511Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00201",
+      "name": "Yangi, sovutilgan yoki muzlatilgan qoramol go’shti"
+    },
+    "position": {
+      "code": "00201003",
+      "name": "Yangi, sovutilgan yoki muzlatilgan, kesib olingan lahm yirik qoramol go’shti"
+    },
+    "subposition": {
+      "code": "00201003001",
+      "name": "Yangi, sovutilgan suyakli mol go’shti"
+    },
+    "mxik": {
+      "code": "00201003001000000",
+      "name": "Final code for 00201003001",
+      "details": {
+        "code": "00201003001000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:06.142Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00201",
+      "name": "Yangi, sovutilgan yoki muzlatilgan qoramol go’shti"
+    },
+    "position": {
+      "code": "00201003",
+      "name": "Yangi, sovutilgan yoki muzlatilgan, kesib olingan lahm yirik qoramol go’shti"
+    },
+    "subposition": {
+      "code": "00201003002",
+      "name": "Suyakli mol go’shti, muzlatilgan"
+    },
+    "mxik": {
+      "code": "00201003002000000",
+      "name": "Final code for 00201003002",
+      "details": {
+        "code": "00201003002000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:06.469Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00203",
+      "name": "Cho’chqa go’shti, yangi so’yilgan, sovutilgan yoki muzlatilgan"
+    },
+    "position": {
+      "code": "00203001",
+      "name": "Lahm go’sht"
+    },
+    "subposition": {
+      "code": "00203001001",
+      "name": "Sovutilgan lahm cho’chqa go’shti"
+    },
+    "mxik": {
+      "code": "00203001001000000",
+      "name": "Final code for 00203001001",
+      "details": {
+        "code": "00203001001000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:07.125Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00203",
+      "name": "Cho’chqa go’shti, yangi so’yilgan, sovutilgan yoki muzlatilgan"
+    },
+    "position": {
+      "code": "00203001",
+      "name": "Lahm go’sht"
+    },
+    "subposition": {
+      "code": "00203001002",
+      "name": "Cho’chqa go’shti qiymasi"
+    },
+    "mxik": {
+      "code": "00203001002000000",
+      "name": "Final code for 00203001002",
+      "details": {
+        "code": "00203001002000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:07.441Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00203",
+      "name": "Cho’chqa go’shti, yangi so’yilgan, sovutilgan yoki muzlatilgan"
+    },
+    "position": {
+      "code": "00203001",
+      "name": "Lahm go’sht"
+    },
+    "subposition": {
+      "code": "00203001003",
+      "name": "Muzlatilgan lahm cho’chqa go’shti"
+    },
+    "mxik": {
+      "code": "00203001003000000",
+      "name": "Final code for 00203001003",
+      "details": {
+        "code": "00203001003000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:07.786Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00203",
+      "name": "Cho’chqa go’shti, yangi so’yilgan, sovutilgan yoki muzlatilgan"
+    },
+    "position": {
+      "code": "00203002",
+      "name": "Yangi, sovutilgan yoki muzlatilgan lahm cho’chqa go’shti"
+    },
+    "subposition": {
+      "code": "00203002001",
+      "name": "Yangi, sovutilgan bo’lingan cho’chqa go’shti"
+    },
+    "mxik": {
+      "code": "00203002001000000",
+      "name": "Final code for 00203002001",
+      "details": {
+        "code": "00203002001000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:08.389Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00203",
+      "name": "Cho’chqa go’shti, yangi so’yilgan, sovutilgan yoki muzlatilgan"
+    },
+    "position": {
+      "code": "00203002",
+      "name": "Yangi, sovutilgan yoki muzlatilgan lahm cho’chqa go’shti"
+    },
+    "subposition": {
+      "code": "00203002002",
+      "name": "Muzlatilgan bo’lingan cho’chqa go’shti"
+    },
+    "mxik": {
+      "code": "00203002002000000",
+      "name": "Final code for 00203002002",
+      "details": {
+        "code": "00203002002000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:08.735Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00203",
+      "name": "Cho’chqa go’shti, yangi so’yilgan, sovutilgan yoki muzlatilgan"
+    },
+    "position": {
+      "code": "00203003",
+      "name": "Yangi, sovutilgan yoki muzlatilgan qovurg’a yoki yarim qovurg’a suyaklari"
+    },
+    "subposition": {
+      "code": "00203003001",
+      "name": "Muzlatilgan qovurg’a yoki yarim qovurg’a suyaklari cho’chqa go’shti"
+    },
+    "mxik": {
+      "code": "00203003001000000",
+      "name": "Final code for 00203003001",
+      "details": {
+        "code": "00203003001000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:09.212Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00203",
+      "name": "Cho’chqa go’shti, yangi so’yilgan, sovutilgan yoki muzlatilgan"
+    },
+    "position": {
+      "code": "00203003",
+      "name": "Yangi, sovutilgan yoki muzlatilgan qovurg’a yoki yarim qovurg’a suyaklari"
+    },
+    "subposition": {
+      "code": "00203003002",
+      "name": "Yangi so’yilgan qovurg’a yoki yarim qovurg’a, sovutilgan cho’chqa go’shti"
+    },
+    "mxik": {
+      "code": "00203003002000000",
+      "name": "Final code for 00203003002",
+      "details": {
+        "code": "00203003002000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:09.529Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00204",
+      "name": "Qo’y yoki echki go’shti yangi so’yilgan, sovutilgan yoki muzlatilgan"
+    },
+    "position": {
+      "code": "00204001",
+      "name": "Yangi, sovutilgan yoki muzlatilgan lahm qo’y go’shti"
+    },
+    "subposition": {
+      "code": "00204001001",
+      "name": "Bo’lingan yangi, sovutilgan lahm qo’y go’shti"
+    },
+    "mxik": {
+      "code": "00204001001000000",
+      "name": "Final code for 00204001001",
+      "details": {
+        "code": "00204001001000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:10.183Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00204",
+      "name": "Qo’y yoki echki go’shti yangi so’yilgan, sovutilgan yoki muzlatilgan"
+    },
+    "position": {
+      "code": "00204001",
+      "name": "Yangi, sovutilgan yoki muzlatilgan lahm qo’y go’shti"
+    },
+    "subposition": {
+      "code": "00204001005",
+      "name": "Bo’lingan muzlatilgan lahm qo’y go’shti"
+    },
+    "mxik": {
+      "code": "00204001005000000",
+      "name": "Final code for 00204001005",
+      "details": {
+        "code": "00204001005000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:10.523Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00204",
+      "name": "Qo’y yoki echki go’shti yangi so’yilgan, sovutilgan yoki muzlatilgan"
+    },
+    "position": {
+      "code": "00204002",
+      "name": "Lahm qo’y go’shti"
+    },
+    "subposition": {
+      "code": "00204002001",
+      "name": "Sovutilgan, yangi so’yilgan lahm qo’y go’shti"
+    },
+    "mxik": {
+      "code": "00204002001000000",
+      "name": "Final code for 00204002001",
+      "details": {
+        "code": "00204002001000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:10.974Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00204",
+      "name": "Qo’y yoki echki go’shti yangi so’yilgan, sovutilgan yoki muzlatilgan"
+    },
+    "position": {
+      "code": "00204002",
+      "name": "Lahm qo’y go’shti"
+    },
+    "subposition": {
+      "code": "00204002002",
+      "name": "Muzlatilgan qo’y go’shti"
+    },
+    "mxik": {
+      "code": "00204002002000000",
+      "name": "Final code for 00204002002",
+      "details": {
+        "code": "00204002002000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:11.351Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00204",
+      "name": "Qo’y yoki echki go’shti yangi so’yilgan, sovutilgan yoki muzlatilgan"
+    },
+    "position": {
+      "code": "00204002",
+      "name": "Lahm qo’y go’shti"
+    },
+    "subposition": {
+      "code": "00204002003",
+      "name": "Qo’y go’shti qiymasi"
+    },
+    "mxik": {
+      "code": "00204002003000000",
+      "name": "Final code for 00204002003",
+      "details": {
+        "code": "00204002003000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:11.676Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00204",
+      "name": "Qo’y yoki echki go’shti yangi so’yilgan, sovutilgan yoki muzlatilgan"
+    },
+    "position": {
+      "code": "00204003",
+      "name": "Yangi, sovutilgan yoki muzlatilgan qo’y qovurg’asi yoki yarim qovurg’a suyaklari"
+    },
+    "subposition": {
+      "code": "00204003001",
+      "name": "Yangi so’yilgan, sovutilgan qo’y qovurg’asi yoki yarim qovurg’a go’shti"
+    },
+    "mxik": {
+      "code": "00204003001000000",
+      "name": "Final code for 00204003001",
+      "details": {
+        "code": "00204003001000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:12.165Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00204",
+      "name": "Qo’y yoki echki go’shti yangi so’yilgan, sovutilgan yoki muzlatilgan"
+    },
+    "position": {
+      "code": "00204003",
+      "name": "Yangi, sovutilgan yoki muzlatilgan qo’y qovurg’asi yoki yarim qovurg’a suyaklari"
+    },
+    "subposition": {
+      "code": "00204003002",
+      "name": "Muzlatilgan qo’y qovurg’asi yoki yarim qovurg’a suyaklari"
+    },
+    "mxik": {
+      "code": "00204003002000000",
+      "name": "Final code for 00204003002",
+      "details": {
+        "code": "00204003002000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:12.499Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00204",
+      "name": "Qo’y yoki echki go’shti yangi so’yilgan, sovutilgan yoki muzlatilgan"
+    },
+    "position": {
+      "code": "00204004",
+      "name": "Bo’lingan yangi, sovutilgan yoki muzlatilgan lahm echki go’shti"
+    },
+    "subposition": {
+      "code": "00204004001",
+      "name": "Bo’lingan yangi, sovutilgan echki go’shti"
+    },
+    "mxik": {
+      "code": "00204004001000000",
+      "name": "Final code for 00204004001",
+      "details": {
+        "code": "00204004001000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:12.981Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00204",
+      "name": "Qo’y yoki echki go’shti yangi so’yilgan, sovutilgan yoki muzlatilgan"
+    },
+    "position": {
+      "code": "00204004",
+      "name": "Bo’lingan yangi, sovutilgan yoki muzlatilgan lahm echki go’shti"
+    },
+    "subposition": {
+      "code": "00204004002",
+      "name": "Bo’lingan muzlatilgan echki go’shti"
+    },
+    "mxik": {
+      "code": "00204004002000000",
+      "name": "Final code for 00204004002",
+      "details": {
+        "code": "00204004002000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:13.399Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00204",
+      "name": "Qo’y yoki echki go’shti yangi so’yilgan, sovutilgan yoki muzlatilgan"
+    },
+    "position": {
+      "code": "00204005",
+      "name": "Lahm echki go’shti"
+    },
+    "subposition": {
+      "code": "00204005001",
+      "name": "Yangi, sovutilgan echki go’shti"
+    },
+    "mxik": {
+      "code": "00204005001000000",
+      "name": "Final code for 00204005001",
+      "details": {
+        "code": "00204005001000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:13.966Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00204",
+      "name": "Qo’y yoki echki go’shti yangi so’yilgan, sovutilgan yoki muzlatilgan"
+    },
+    "position": {
+      "code": "00204005",
+      "name": "Lahm echki go’shti"
+    },
+    "subposition": {
+      "code": "00204005002",
+      "name": "Muzlatilgan echki go’shti"
+    },
+    "mxik": {
+      "code": "00204005002000000",
+      "name": "Final code for 00204005002",
+      "details": {
+        "code": "00204005002000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:14.355Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00204",
+      "name": "Qo’y yoki echki go’shti yangi so’yilgan, sovutilgan yoki muzlatilgan"
+    },
+    "position": {
+      "code": "00204005",
+      "name": "Lahm echki go’shti"
+    },
+    "subposition": {
+      "code": "00204005003",
+      "name": "Echki go’shti qiymasi"
+    },
+    "mxik": {
+      "code": "00204005003000000",
+      "name": "Final code for 00204005003",
+      "details": {
+        "code": "00204005003000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:14.680Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00204",
+      "name": "Qo’y yoki echki go’shti yangi so’yilgan, sovutilgan yoki muzlatilgan"
+    },
+    "position": {
+      "code": "00204006",
+      "name": "Yangi, sovutilgan yoki muzlatilgan echki qovurg’asi yoki yarim qovurg’a suyaklari"
+    },
+    "subposition": {
+      "code": "00204006001",
+      "name": "Yangi so’yilgan, sovutilgan echki qovurg’asi yoki yarim qovurg’a suyaklari"
+    },
+    "mxik": {
+      "code": "00204006001000000",
+      "name": "Final code for 00204006001",
+      "details": {
+        "code": "00204006001000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:15.250Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00204",
+      "name": "Qo’y yoki echki go’shti yangi so’yilgan, sovutilgan yoki muzlatilgan"
+    },
+    "position": {
+      "code": "00204006",
+      "name": "Yangi, sovutilgan yoki muzlatilgan echki qovurg’asi yoki yarim qovurg’a suyaklari"
+    },
+    "subposition": {
+      "code": "00204006002",
+      "name": "Muzlatilgan echki qovurg’asi yoki yarim qovurg’a suyaklari"
+    },
+    "mxik": {
+      "code": "00204006002000000",
+      "name": "Final code for 00204006002",
+      "details": {
+        "code": "00204006002000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:15.566Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00205",
+      "name": "Otlar, eshaklar, yoki xachirlar go’shti yangi so’yilgan, sovutilgan yoki muzlatilgan"
+    },
+    "position": {
+      "code": "00205001",
+      "name": "Bo’lingan, sovutilgan yoki muzlatilgan lahm ot go’shti"
+    },
+    "subposition": {
+      "code": "00205001001",
+      "name": "Yangi, sovutilgan ot go’shti"
+    },
+    "mxik": {
+      "code": "00205001001000000",
+      "name": "Final code for 00205001001",
+      "details": {
+        "code": "00205001001000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:16.319Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00205",
+      "name": "Otlar, eshaklar, yoki xachirlar go’shti yangi so’yilgan, sovutilgan yoki muzlatilgan"
+    },
+    "position": {
+      "code": "00205001",
+      "name": "Bo’lingan, sovutilgan yoki muzlatilgan lahm ot go’shti"
+    },
+    "subposition": {
+      "code": "00205001005",
+      "name": "Muzlatilgan ot go’shti"
+    },
+    "mxik": {
+      "code": "00205001005000000",
+      "name": "Final code for 00205001005",
+      "details": {
+        "code": "00205001005000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:16.634Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00205",
+      "name": "Otlar, eshaklar, yoki xachirlar go’shti yangi so’yilgan, sovutilgan yoki muzlatilgan"
+    },
+    "position": {
+      "code": "00205002",
+      "name": "Lahm ot go’shti"
+    },
+    "subposition": {
+      "code": "00205002001",
+      "name": "Yangi so’yilgan, sovutilgan lahm ot go’shti"
+    },
+    "mxik": {
+      "code": "00205002001000000",
+      "name": "Final code for 00205002001",
+      "details": {
+        "code": "00205002001000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:17.111Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00205",
+      "name": "Otlar, eshaklar, yoki xachirlar go’shti yangi so’yilgan, sovutilgan yoki muzlatilgan"
+    },
+    "position": {
+      "code": "00205002",
+      "name": "Lahm ot go’shti"
+    },
+    "subposition": {
+      "code": "00205002002",
+      "name": "Muzlatilgan lahm ot go’shti"
+    },
+    "mxik": {
+      "code": "00205002002000000",
+      "name": "Final code for 00205002002",
+      "details": {
+        "code": "00205002002000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:17.541Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00205",
+      "name": "Otlar, eshaklar, yoki xachirlar go’shti yangi so’yilgan, sovutilgan yoki muzlatilgan"
+    },
+    "position": {
+      "code": "00205002",
+      "name": "Lahm ot go’shti"
+    },
+    "subposition": {
+      "code": "00205002003",
+      "name": "Ot go’shtidan qiyma"
+    },
+    "mxik": {
+      "code": "00205002003000000",
+      "name": "Final code for 00205002003",
+      "details": {
+        "code": "00205002003000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:17.872Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00205",
+      "name": "Otlar, eshaklar, yoki xachirlar go’shti yangi so’yilgan, sovutilgan yoki muzlatilgan"
+    },
+    "position": {
+      "code": "00205003",
+      "name": "Yangi, sovutilgan yoki muzlatilgan ot qovurg’asi yoki yarim qovurg’asi"
+    },
+    "subposition": {
+      "code": "00205003001",
+      "name": "Yangi so’yilgan, sovutilgan ot qovurg’asi yoki yarim qovurg’asi"
+    },
+    "mxik": {
+      "code": "00205003001000000",
+      "name": "Final code for 00205003001",
+      "details": {
+        "code": "00205003001000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:18.333Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00205",
+      "name": "Otlar, eshaklar, yoki xachirlar go’shti yangi so’yilgan, sovutilgan yoki muzlatilgan"
+    },
+    "position": {
+      "code": "00205003",
+      "name": "Yangi, sovutilgan yoki muzlatilgan ot qovurg’asi yoki yarim qovurg’asi"
+    },
+    "subposition": {
+      "code": "00205003002",
+      "name": "Muzlatilgan ot qovurg’asi yoki yarim qovurg’asi"
+    },
+    "mxik": {
+      "code": "00205003002000000",
+      "name": "Final code for 00205003002",
+      "details": {
+        "code": "00205003002000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:18.632Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00205",
+      "name": "Otlar, eshaklar, yoki xachirlar go’shti yangi so’yilgan, sovutilgan yoki muzlatilgan"
+    },
+    "position": {
+      "code": "00205004",
+      "name": "Ot, eshak va xachirlarning bo’lingan yangi, sovutilgan yoki muzlatilgan, suyakdan ajratilmagan"
+    },
+    "subposition": {
+      "code": "00205004001",
+      "name": "Bo’lingan yangi ot, eshak, xachir go’shti"
+    },
+    "mxik": {
+      "code": "00205004001000000",
+      "name": "Final code for 00205004001",
+      "details": {
+        "code": "00205004001000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:19.096Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00205",
+      "name": "Otlar, eshaklar, yoki xachirlar go’shti yangi so’yilgan, sovutilgan yoki muzlatilgan"
+    },
+    "position": {
+      "code": "00205004",
+      "name": "Ot, eshak va xachirlarning bo’lingan yangi, sovutilgan yoki muzlatilgan, suyakdan ajratilmagan"
+    },
+    "subposition": {
+      "code": "00205004002",
+      "name": "Bo’lingan, muzlatilgan eshak, xachir go’shti"
+    },
+    "mxik": {
+      "code": "00205004002000000",
+      "name": "Final code for 00205004002",
+      "details": {
+        "code": "00205004002000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:19.410Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00205",
+      "name": "Otlar, eshaklar, yoki xachirlar go’shti yangi so’yilgan, sovutilgan yoki muzlatilgan"
+    },
+    "position": {
+      "code": "00205005",
+      "name": "Ot, eshak yoki xachirning suyakdan ajratilgan go’sht"
+    },
+    "subposition": {
+      "code": "00205005001",
+      "name": "Yangi so’yilgan, sovutilgan, eshak, xachir suyaksiz go’shti"
+    },
+    "mxik": {
+      "code": "00205005001000000",
+      "name": "Final code for 00205005001",
+      "details": {
+        "code": "00205005001000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:19.877Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00205",
+      "name": "Otlar, eshaklar, yoki xachirlar go’shti yangi so’yilgan, sovutilgan yoki muzlatilgan"
+    },
+    "position": {
+      "code": "00205005",
+      "name": "Ot, eshak yoki xachirning suyakdan ajratilgan go’sht"
+    },
+    "subposition": {
+      "code": "00205005002",
+      "name": "Muzlatilgan eshak, xachir go’shti"
+    },
+    "mxik": {
+      "code": "00205005002000000",
+      "name": "Final code for 00205005002",
+      "details": {
+        "code": "00205005002000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:20.190Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00205",
+      "name": "Otlar, eshaklar, yoki xachirlar go’shti yangi so’yilgan, sovutilgan yoki muzlatilgan"
+    },
+    "position": {
+      "code": "00205006",
+      "name": "Eshaklar yoki xachirlarning tana va yarim tana go’shtlari"
+    },
+    "subposition": {
+      "code": "00205006001",
+      "name": "Yangi so’yilgan, eshak, xachir qovurg’a yoki yarim qovurg’asi"
+    },
+    "mxik": {
+      "code": "00205006001000000",
+      "name": "Final code for 00205006001",
+      "details": {
+        "code": "00205006001000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:20.655Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00205",
+      "name": "Otlar, eshaklar, yoki xachirlar go’shti yangi so’yilgan, sovutilgan yoki muzlatilgan"
+    },
+    "position": {
+      "code": "00205006",
+      "name": "Eshaklar yoki xachirlarning tana va yarim tana go’shtlari"
+    },
+    "subposition": {
+      "code": "00205006002",
+      "name": "Muzlatilgan ot, eshak, xachir qovurg’asi yoki yarim qovurg’a suyaklari"
+    },
+    "mxik": {
+      "code": "00205006002000000",
+      "name": "Final code for 00205006002",
+      "details": {
+        "code": "00205006002000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:20.976Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00206",
+      "name": "Yirik shoxli qoramol, cho’chqa, qo’y, echki, ot, eshak, xachirlarning ozuqabop mahsulotlari (yangi so’yilgan, sovutilgan yoki muzlatilgan)"
+    },
+    "position": {
+      "code": "00206001",
+      "name": "Yangi, sovutilgan yoki muzlatilgan qoramollar, cho’chqalar, qo’ylar, echkilar, otlar, eshaklar, xachirlar va ularning ichak-chovoqlari"
+    },
+    "subposition": {
+      "code": "00206001001",
+      "name": "Til"
+    },
+    "mxik": {
+      "code": "00206001001000000",
+      "name": "Final code for 00206001001",
+      "details": {
+        "code": "00206001001000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:21.571Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00206",
+      "name": "Yirik shoxli qoramol, cho’chqa, qo’y, echki, ot, eshak, xachirlarning ozuqabop mahsulotlari (yangi so’yilgan, sovutilgan yoki muzlatilgan)"
+    },
+    "position": {
+      "code": "00206001",
+      "name": "Yangi, sovutilgan yoki muzlatilgan qoramollar, cho’chqalar, qo’ylar, echkilar, otlar, eshaklar, xachirlar va ularning ichak-chovoqlari"
+    },
+    "subposition": {
+      "code": "00206001002",
+      "name": "Jigar"
+    },
+    "mxik": {
+      "code": "00206001002000000",
+      "name": "Final code for 00206001002",
+      "details": {
+        "code": "00206001002000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:21.878Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00206",
+      "name": "Yirik shoxli qoramol, cho’chqa, qo’y, echki, ot, eshak, xachirlarning ozuqabop mahsulotlari (yangi so’yilgan, sovutilgan yoki muzlatilgan)"
+    },
+    "position": {
+      "code": "00206001",
+      "name": "Yangi, sovutilgan yoki muzlatilgan qoramollar, cho’chqalar, qo’ylar, echkilar, otlar, eshaklar, xachirlar va ularning ichak-chovoqlari"
+    },
+    "subposition": {
+      "code": "00206001003",
+      "name": "O’pka\r\n"
+    },
+    "mxik": {
+      "code": "00206001003000000",
+      "name": "Final code for 00206001003",
+      "details": {
+        "code": "00206001003000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:22.197Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00206",
+      "name": "Yirik shoxli qoramol, cho’chqa, qo’y, echki, ot, eshak, xachirlarning ozuqabop mahsulotlari (yangi so’yilgan, sovutilgan yoki muzlatilgan)"
+    },
+    "position": {
+      "code": "00206001",
+      "name": "Yangi, sovutilgan yoki muzlatilgan qoramollar, cho’chqalar, qo’ylar, echkilar, otlar, eshaklar, xachirlar va ularning ichak-chovoqlari"
+    },
+    "subposition": {
+      "code": "00206001004",
+      "name": "Dum"
+    },
+    "mxik": {
+      "code": "00206001004000000",
+      "name": "Final code for 00206001004",
+      "details": {
+        "code": "00206001004000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:22.508Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00206",
+      "name": "Yirik shoxli qoramol, cho’chqa, qo’y, echki, ot, eshak, xachirlarning ozuqabop mahsulotlari (yangi so’yilgan, sovutilgan yoki muzlatilgan)"
+    },
+    "position": {
+      "code": "00206001",
+      "name": "Yangi, sovutilgan yoki muzlatilgan qoramollar, cho’chqalar, qo’ylar, echkilar, otlar, eshaklar, xachirlar va ularning ichak-chovoqlari"
+    },
+    "subposition": {
+      "code": "00206001005",
+      "name": "Boldir"
+    },
+    "mxik": {
+      "code": "00206001005000000",
+      "name": "Final code for 00206001005",
+      "details": {
+        "code": "00206001005000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:22.823Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00206",
+      "name": "Yirik shoxli qoramol, cho’chqa, qo’y, echki, ot, eshak, xachirlarning ozuqabop mahsulotlari (yangi so’yilgan, sovutilgan yoki muzlatilgan)"
+    },
+    "position": {
+      "code": "00206001",
+      "name": "Yangi, sovutilgan yoki muzlatilgan qoramollar, cho’chqalar, qo’ylar, echkilar, otlar, eshaklar, xachirlar va ularning ichak-chovoqlari"
+    },
+    "subposition": {
+      "code": "00206001006",
+      "name": "Yurak"
+    },
+    "mxik": {
+      "code": "00206001006000000",
+      "name": "Final code for 00206001006",
+      "details": {
+        "code": "00206001006000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:23.144Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00206",
+      "name": "Yirik shoxli qoramol, cho’chqa, qo’y, echki, ot, eshak, xachirlarning ozuqabop mahsulotlari (yangi so’yilgan, sovutilgan yoki muzlatilgan)"
+    },
+    "position": {
+      "code": "00206001",
+      "name": "Yangi, sovutilgan yoki muzlatilgan qoramollar, cho’chqalar, qo’ylar, echkilar, otlar, eshaklar, xachirlar va ularning ichak-chovoqlari"
+    },
+    "subposition": {
+      "code": "00206001007",
+      "name": "Dum (muzlatilgan)"
+    },
+    "mxik": {
+      "code": "00206001007000000",
+      "name": "Final code for 00206001007",
+      "details": {
+        "code": "00206001007000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:23.454Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00206",
+      "name": "Yirik shoxli qoramol, cho’chqa, qo’y, echki, ot, eshak, xachirlarning ozuqabop mahsulotlari (yangi so’yilgan, sovutilgan yoki muzlatilgan)"
+    },
+    "position": {
+      "code": "00206001",
+      "name": "Yangi, sovutilgan yoki muzlatilgan qoramollar, cho’chqalar, qo’ylar, echkilar, otlar, eshaklar, xachirlar va ularning ichak-chovoqlari"
+    },
+    "subposition": {
+      "code": "00206001008",
+      "name": "Til (muzlatilgan)"
+    },
+    "mxik": {
+      "code": "00206001008000000",
+      "name": "Final code for 00206001008",
+      "details": {
+        "code": "00206001008000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:23.888Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00206",
+      "name": "Yirik shoxli qoramol, cho’chqa, qo’y, echki, ot, eshak, xachirlarning ozuqabop mahsulotlari (yangi so’yilgan, sovutilgan yoki muzlatilgan)"
+    },
+    "position": {
+      "code": "00206001",
+      "name": "Yangi, sovutilgan yoki muzlatilgan qoramollar, cho’chqalar, qo’ylar, echkilar, otlar, eshaklar, xachirlar va ularning ichak-chovoqlari"
+    },
+    "subposition": {
+      "code": "00206001009",
+      "name": "Tabiiy yog’"
+    },
+    "mxik": {
+      "code": "00206001009000000",
+      "name": "Final code for 00206001009",
+      "details": {
+        "code": "00206001009000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:24.314Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00206",
+      "name": "Yirik shoxli qoramol, cho’chqa, qo’y, echki, ot, eshak, xachirlarning ozuqabop mahsulotlari (yangi so’yilgan, sovutilgan yoki muzlatilgan)"
+    },
+    "position": {
+      "code": "00206001",
+      "name": "Yangi, sovutilgan yoki muzlatilgan qoramollar, cho’chqalar, qo’ylar, echkilar, otlar, eshaklar, xachirlar va ularning ichak-chovoqlari"
+    },
+    "subposition": {
+      "code": "00206001010",
+      "name": "Yurak (muzlatilgan)"
+    },
+    "mxik": {
+      "code": "00206001010000000",
+      "name": "Final code for 00206001010",
+      "details": {
+        "code": "00206001010000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:24.637Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00206",
+      "name": "Yirik shoxli qoramol, cho’chqa, qo’y, echki, ot, eshak, xachirlarning ozuqabop mahsulotlari (yangi so’yilgan, sovutilgan yoki muzlatilgan)"
+    },
+    "position": {
+      "code": "00206001",
+      "name": "Yangi, sovutilgan yoki muzlatilgan qoramollar, cho’chqalar, qo’ylar, echkilar, otlar, eshaklar, xachirlar va ularning ichak-chovoqlari"
+    },
+    "subposition": {
+      "code": "00206001012",
+      "name": "Qoramol suyagi"
+    },
+    "mxik": {
+      "code": "00206001012000000",
+      "name": "Final code for 00206001012",
+      "details": {
+        "code": "00206001012000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:24.943Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00206",
+      "name": "Yirik shoxli qoramol, cho’chqa, qo’y, echki, ot, eshak, xachirlarning ozuqabop mahsulotlari (yangi so’yilgan, sovutilgan yoki muzlatilgan)"
+    },
+    "position": {
+      "code": "00206001",
+      "name": "Yangi, sovutilgan yoki muzlatilgan qoramollar, cho’chqalar, qo’ylar, echkilar, otlar, eshaklar, xachirlar va ularning ichak-chovoqlari"
+    },
+    "subposition": {
+      "code": "00206001013",
+      "name": "Ot suyagi"
+    },
+    "mxik": {
+      "code": "00206001013000000",
+      "name": "Final code for 00206001013",
+      "details": {
+        "code": "00206001013000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:25.254Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00206",
+      "name": "Yirik shoxli qoramol, cho’chqa, qo’y, echki, ot, eshak, xachirlarning ozuqabop mahsulotlari (yangi so’yilgan, sovutilgan yoki muzlatilgan)"
+    },
+    "position": {
+      "code": "00206001",
+      "name": "Yangi, sovutilgan yoki muzlatilgan qoramollar, cho’chqalar, qo’ylar, echkilar, otlar, eshaklar, xachirlar va ularning ichak-chovoqlari"
+    },
+    "subposition": {
+      "code": "00206001014",
+      "name": "Cho’chqa terisi va suyagi"
+    },
+    "mxik": {
+      "code": "00206001014000000",
+      "name": "Final code for 00206001014",
+      "details": {
+        "code": "00206001014000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:25.569Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00206",
+      "name": "Yirik shoxli qoramol, cho’chqa, qo’y, echki, ot, eshak, xachirlarning ozuqabop mahsulotlari (yangi so’yilgan, sovutilgan yoki muzlatilgan)"
+    },
+    "position": {
+      "code": "00206001",
+      "name": "Yangi, sovutilgan yoki muzlatilgan qoramollar, cho’chqalar, qo’ylar, echkilar, otlar, eshaklar, xachirlar va ularning ichak-chovoqlari"
+    },
+    "subposition": {
+      "code": "00206001015",
+      "name": "Qo’y suyagi"
+    },
+    "mxik": {
+      "code": "00206001015000000",
+      "name": "Final code for 00206001015",
+      "details": {
+        "code": "00206001015000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:25.882Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00207",
+      "name": "Yangi, sovutilgan yoki muzlatilgan parranda go’shti va ularning ichak-chovoqlari"
+    },
+    "position": {
+      "code": "00207001",
+      "name": "Yangi, sovutilgan yoki muzlatilgan tovuq go’shti va ularning ichak-chovoqlari"
+    },
+    "subposition": {
+      "code": "00207001001",
+      "name": "Yangi so’yilgan sovutilgan tovuq go’shti (tovuq)"
+    },
+    "mxik": {
+      "code": "00207001001000000",
+      "name": "Final code for 00207001001",
+      "details": {
+        "code": "00207001001000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:26.457Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00207",
+      "name": "Yangi, sovutilgan yoki muzlatilgan parranda go’shti va ularning ichak-chovoqlari"
+    },
+    "position": {
+      "code": "00207001",
+      "name": "Yangi, sovutilgan yoki muzlatilgan tovuq go’shti va ularning ichak-chovoqlari"
+    },
+    "subposition": {
+      "code": "00207001008",
+      "name": "Tovuq ko’krak go’shti"
+    },
+    "mxik": {
+      "code": "00207001008000000",
+      "name": "Final code for 00207001008",
+      "details": {
+        "code": "00207001008000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:26.877Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00207",
+      "name": "Yangi, sovutilgan yoki muzlatilgan parranda go’shti va ularning ichak-chovoqlari"
+    },
+    "position": {
+      "code": "00207001",
+      "name": "Yangi, sovutilgan yoki muzlatilgan tovuq go’shti va ularning ichak-chovoqlari"
+    },
+    "subposition": {
+      "code": "00207001009",
+      "name": "Muzlatilgan tovuq go’shti"
+    },
+    "mxik": {
+      "code": "00207001009000000",
+      "name": "Final code for 00207001009",
+      "details": {
+        "code": "00207001009000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:27.192Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00207",
+      "name": "Yangi, sovutilgan yoki muzlatilgan parranda go’shti va ularning ichak-chovoqlari"
+    },
+    "position": {
+      "code": "00207001",
+      "name": "Yangi, sovutilgan yoki muzlatilgan tovuq go’shti va ularning ichak-chovoqlari"
+    },
+    "subposition": {
+      "code": "00207001010",
+      "name": "Muzlatilgan tovuq oyog’i"
+    },
+    "mxik": {
+      "code": "00207001010000000",
+      "name": "Final code for 00207001010",
+      "details": {
+        "code": "00207001010000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:27.505Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00207",
+      "name": "Yangi, sovutilgan yoki muzlatilgan parranda go’shti va ularning ichak-chovoqlari"
+    },
+    "position": {
+      "code": "00207001",
+      "name": "Yangi, sovutilgan yoki muzlatilgan tovuq go’shti va ularning ichak-chovoqlari"
+    },
+    "subposition": {
+      "code": "00207001011",
+      "name": "Muzlatilgan tovuq go’shti (qiyma)"
+    },
+    "mxik": {
+      "code": "00207001011000000",
+      "name": "Final code for 00207001011",
+      "details": {
+        "code": "00207001011000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:27.808Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00207",
+      "name": "Yangi, sovutilgan yoki muzlatilgan parranda go’shti va ularning ichak-chovoqlari"
+    },
+    "position": {
+      "code": "00207001",
+      "name": "Yangi, sovutilgan yoki muzlatilgan tovuq go’shti va ularning ichak-chovoqlari"
+    },
+    "subposition": {
+      "code": "00207001012",
+      "name": "Muzlatilgan tovuq go’shti (terisi)"
+    },
+    "mxik": {
+      "code": "00207001012000000",
+      "name": "Final code for 00207001012",
+      "details": {
+        "code": "00207001012000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:28.127Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00207",
+      "name": "Yangi, sovutilgan yoki muzlatilgan parranda go’shti va ularning ichak-chovoqlari"
+    },
+    "position": {
+      "code": "00207002",
+      "name": "Yangi, sovutilgan yoki muzlatilgan o’rdaklarning go’shti"
+    },
+    "subposition": {
+      "code": "00207002003",
+      "name": "Sovutilgan o’rdak go’shti"
+    },
+    "mxik": {
+      "code": "00207002003000000",
+      "name": "Final code for 00207002003",
+      "details": {
+        "code": "00207002003000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:28.598Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00207",
+      "name": "Yangi, sovutilgan yoki muzlatilgan parranda go’shti va ularning ichak-chovoqlari"
+    },
+    "position": {
+      "code": "00207002",
+      "name": "Yangi, sovutilgan yoki muzlatilgan o’rdaklarning go’shti"
+    },
+    "subposition": {
+      "code": "00207002008",
+      "name": "Muzlatilgan o’rdak go’shti"
+    },
+    "mxik": {
+      "code": "00207002008000000",
+      "name": "Final code for 00207002008",
+      "details": {
+        "code": "00207002008000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:28.917Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00207",
+      "name": "Yangi, sovutilgan yoki muzlatilgan parranda go’shti va ularning ichak-chovoqlari"
+    },
+    "position": {
+      "code": "00207002",
+      "name": "Yangi, sovutilgan yoki muzlatilgan o’rdaklarning go’shti"
+    },
+    "subposition": {
+      "code": "00207002009",
+      "name": "Muzlatilggan o’rdak go’shti (qiyma)"
+    },
+    "mxik": {
+      "code": "00207002009000000",
+      "name": "Final code for 00207002009",
+      "details": {
+        "code": "00207002009000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:29.231Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00207",
+      "name": "Yangi, sovutilgan yoki muzlatilgan parranda go’shti va ularning ichak-chovoqlari"
+    },
+    "position": {
+      "code": "00207003",
+      "name": "Yangi, sovutilgan yoki muzlatilgan g’ozlarning go’shti"
+    },
+    "subposition": {
+      "code": "00207003001",
+      "name": "Sovutilgan g’oz go’shti"
+    },
+    "mxik": {
+      "code": "00207003001000000",
+      "name": "Final code for 00207003001",
+      "details": {
+        "code": "00207003001000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:29.682Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00207",
+      "name": "Yangi, sovutilgan yoki muzlatilgan parranda go’shti va ularning ichak-chovoqlari"
+    },
+    "position": {
+      "code": "00207003",
+      "name": "Yangi, sovutilgan yoki muzlatilgan g’ozlarning go’shti"
+    },
+    "subposition": {
+      "code": "00207003002",
+      "name": "Muzlatilgan g’oz go’shti"
+    },
+    "mxik": {
+      "code": "00207003002000000",
+      "name": "Final code for 00207003002",
+      "details": {
+        "code": "00207003002000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:29.994Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00207",
+      "name": "Yangi, sovutilgan yoki muzlatilgan parranda go’shti va ularning ichak-chovoqlari"
+    },
+    "position": {
+      "code": "00207003",
+      "name": "Yangi, sovutilgan yoki muzlatilgan g’ozlarning go’shti"
+    },
+    "subposition": {
+      "code": "00207003003",
+      "name": "Muzlatigan g’oz go’shti (qiyma)"
+    },
+    "mxik": {
+      "code": "00207003003000000",
+      "name": "Final code for 00207003003",
+      "details": {
+        "code": "00207003003000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:30.303Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00207",
+      "name": "Yangi, sovutilgan yoki muzlatilgan parranda go’shti va ularning ichak-chovoqlari"
+    },
+    "position": {
+      "code": "00207004",
+      "name": "Yangi, sovutilgan yoki muzlatilgan kurkalarning go’shti"
+    },
+    "subposition": {
+      "code": "00207004003",
+      "name": "Sovutilgan kurka go’shti"
+    },
+    "mxik": {
+      "code": "00207004003000000",
+      "name": "Final code for 00207004003",
+      "details": {
+        "code": "00207004003000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:30.758Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00207",
+      "name": "Yangi, sovutilgan yoki muzlatilgan parranda go’shti va ularning ichak-chovoqlari"
+    },
+    "position": {
+      "code": "00207004",
+      "name": "Yangi, sovutilgan yoki muzlatilgan kurkalarning go’shti"
+    },
+    "subposition": {
+      "code": "00207004004",
+      "name": "Muzlatilgan kurka go’shti"
+    },
+    "mxik": {
+      "code": "00207004004000000",
+      "name": "Final code for 00207004004",
+      "details": {
+        "code": "00207004004000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:31.065Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00207",
+      "name": "Yangi, sovutilgan yoki muzlatilgan parranda go’shti va ularning ichak-chovoqlari"
+    },
+    "position": {
+      "code": "00207004",
+      "name": "Yangi, sovutilgan yoki muzlatilgan kurkalarning go’shti"
+    },
+    "subposition": {
+      "code": "00207004005",
+      "name": "Muzlatilgan kurka go’shti (qiyma)"
+    },
+    "mxik": {
+      "code": "00207004005000000",
+      "name": "Final code for 00207004005",
+      "details": {
+        "code": "00207004005000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:31.386Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00207",
+      "name": "Yangi, sovutilgan yoki muzlatilgan parranda go’shti va ularning ichak-chovoqlari"
+    },
+    "position": {
+      "code": "00207005",
+      "name": "Yangi, sovutilgan yoki muzlatilgan bedana go’shti"
+    },
+    "subposition": {
+      "code": "00207005001",
+      "name": "Yangi, sovutilgan yoki muzlatilgan bedana go’shti"
+    },
+    "mxik": {
+      "code": "00207005001000000",
+      "name": "Final code for 00207005001",
+      "details": {
+        "code": "00207005001000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:31.841Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00207",
+      "name": "Yangi, sovutilgan yoki muzlatilgan parranda go’shti va ularning ichak-chovoqlari"
+    },
+    "position": {
+      "code": "00207006",
+      "name": "Yangi, sovutilgan yoki muzlatilgan parrandaning boshqa ozuqabop mahsulotlari"
+    },
+    "subposition": {
+      "code": "00207006001",
+      "name": "Muzlatilgan tovuq oyoqchalari"
+    },
+    "mxik": {
+      "code": "00207006001000000",
+      "name": "Final code for 00207006001",
+      "details": {
+        "code": "00207006001000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:32.300Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00207",
+      "name": "Yangi, sovutilgan yoki muzlatilgan parranda go’shti va ularning ichak-chovoqlari"
+    },
+    "position": {
+      "code": "00207006",
+      "name": "Yangi, sovutilgan yoki muzlatilgan parrandaning boshqa ozuqabop mahsulotlari"
+    },
+    "subposition": {
+      "code": "00207006002",
+      "name": "Tovuq oshqozoni"
+    },
+    "mxik": {
+      "code": "00207006002000000",
+      "name": "Final code for 00207006002",
+      "details": {
+        "code": "00207006002000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:32.618Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00207",
+      "name": "Yangi, sovutilgan yoki muzlatilgan parranda go’shti va ularning ichak-chovoqlari"
+    },
+    "position": {
+      "code": "00207006",
+      "name": "Yangi, sovutilgan yoki muzlatilgan parrandaning boshqa ozuqabop mahsulotlari"
+    },
+    "subposition": {
+      "code": "00207006003",
+      "name": "Tovuq jigari"
+    },
+    "mxik": {
+      "code": "00207006003000000",
+      "name": "Final code for 00207006003",
+      "details": {
+        "code": "00207006003000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:32.928Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00207",
+      "name": "Yangi, sovutilgan yoki muzlatilgan parranda go’shti va ularning ichak-chovoqlari"
+    },
+    "position": {
+      "code": "00207006",
+      "name": "Yangi, sovutilgan yoki muzlatilgan parrandaning boshqa ozuqabop mahsulotlari"
+    },
+    "subposition": {
+      "code": "00207006004",
+      "name": "Tovuq suyagi"
+    },
+    "mxik": {
+      "code": "00207006004000000",
+      "name": "Final code for 00207006004",
+      "details": {
+        "code": "00207006004000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:33.239Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00207",
+      "name": "Yangi, sovutilgan yoki muzlatilgan parranda go’shti va ularning ichak-chovoqlari"
+    },
+    "position": {
+      "code": "00207006",
+      "name": "Yangi, sovutilgan yoki muzlatilgan parrandaning boshqa ozuqabop mahsulotlari"
+    },
+    "subposition": {
+      "code": "00207006005",
+      "name": "Parrandalarning boshqa ozuqabop mahsulotlari"
+    },
+    "mxik": {
+      "code": "00207006005000000",
+      "name": "Final code for 00207006005",
+      "details": {
+        "code": "00207006005000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:33.550Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00208",
+      "name": "Boshqa go’sht va ozuqabop mahsulotlar yangi so’yilgan, sovutilgan yoki muzlatilgan"
+    },
+    "position": {
+      "code": "00208001",
+      "name": "Yangi so’yilgan, sovutilgan yoki muzlatilgan boshqa go’sht va go’shtli oziq-ovqat submahsulotlari"
+    },
+    "subposition": {
+      "code": "00208001001",
+      "name": "Yangi so’yilgan quyon go’shti"
+    },
+    "mxik": {
+      "code": "00208001001000000",
+      "name": "Final code for 00208001001",
+      "details": {
+        "code": "00208001001000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:34.273Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00208",
+      "name": "Boshqa go’sht va ozuqabop mahsulotlar yangi so’yilgan, sovutilgan yoki muzlatilgan"
+    },
+    "position": {
+      "code": "00208001",
+      "name": "Yangi so’yilgan, sovutilgan yoki muzlatilgan boshqa go’sht va go’shtli oziq-ovqat submahsulotlari"
+    },
+    "subposition": {
+      "code": "00208001002",
+      "name": "Yangi so’yilgan tuya go’shti"
+    },
+    "mxik": {
+      "code": "00208001002000000",
+      "name": "Final code for 00208001002",
+      "details": {
+        "code": "00208001002000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:34.697Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00209",
+      "name": "Cho’chqa yog’i, yangi, sovutilgan, muzlatilgan, tuzlangan, sho’r suvda, quritilgan yoki dudlangan"
+    },
+    "position": {
+      "code": "00209001",
+      "name": "Yangi cho’chqa yog’i, sovutilgan, muzlatilgan, tuzlangan, sho’r suvda, quritilgan yoki dudlangan cho’chqa yog’lari"
+    },
+    "subposition": {
+      "code": "00209001001",
+      "name": "Dudlangan cho’chqa yog’i"
+    },
+    "mxik": {
+      "code": "00209001001000000",
+      "name": "Final code for 00209001001",
+      "details": {
+        "code": "00209001001000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:35.305Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00209",
+      "name": "Cho’chqa yog’i, yangi, sovutilgan, muzlatilgan, tuzlangan, sho’r suvda, quritilgan yoki dudlangan"
+    },
+    "position": {
+      "code": "00209001",
+      "name": "Yangi cho’chqa yog’i, sovutilgan, muzlatilgan, tuzlangan, sho’r suvda, quritilgan yoki dudlangan cho’chqa yog’lari"
+    },
+    "subposition": {
+      "code": "00209001002",
+      "name": "Muzlatilgan cho’chqa yog’i"
+    },
+    "mxik": {
+      "code": "00209001002000000",
+      "name": "Final code for 00209001002",
+      "details": {
+        "code": "00209001002000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:35.616Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00209",
+      "name": "Cho’chqa yog’i, yangi, sovutilgan, muzlatilgan, tuzlangan, sho’r suvda, quritilgan yoki dudlangan"
+    },
+    "position": {
+      "code": "00209001",
+      "name": "Yangi cho’chqa yog’i, sovutilgan, muzlatilgan, tuzlangan, sho’r suvda, quritilgan yoki dudlangan cho’chqa yog’lari"
+    },
+    "subposition": {
+      "code": "00209001003",
+      "name": "Sovutilgan, yangi so’yilgan cho’chqa yog’i"
+    },
+    "mxik": {
+      "code": "00209001003000000",
+      "name": "Final code for 00209001003",
+      "details": {
+        "code": "00209001003000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:35.928Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00210",
+      "name": "Go’sht va ichak-chovoqlar, tuzlangan, namokoblangan, quritilgan yoki dudlangan"
+    },
+    "position": {
+      "code": "00210001",
+      "name": "Qoramol go’shti va ularning ichak-chovoqlari: tuzlangan, quritilgan, dudlangan"
+    },
+    "subposition": {
+      "code": "00210001001",
+      "name": "Tuzlangan mol go’shti"
+    },
+    "mxik": {
+      "code": "00210001001000000",
+      "name": "Final code for 00210001001",
+      "details": {
+        "code": "00210001001000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:36.640Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00210",
+      "name": "Go’sht va ichak-chovoqlar, tuzlangan, namokoblangan, quritilgan yoki dudlangan"
+    },
+    "position": {
+      "code": "00210001",
+      "name": "Qoramol go’shti va ularning ichak-chovoqlari: tuzlangan, quritilgan, dudlangan"
+    },
+    "subposition": {
+      "code": "00210001008",
+      "name": "Quritilgan mol go’shti va uning ozuqabop mahsulotlari"
+    },
+    "mxik": {
+      "code": "00210001008000000",
+      "name": "Final code for 00210001008",
+      "details": {
+        "code": "00210001008000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:36.954Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00210",
+      "name": "Go’sht va ichak-chovoqlar, tuzlangan, namokoblangan, quritilgan yoki dudlangan"
+    },
+    "position": {
+      "code": "00210001",
+      "name": "Qoramol go’shti va ularning ichak-chovoqlari: tuzlangan, quritilgan, dudlangan"
+    },
+    "subposition": {
+      "code": "00210001009",
+      "name": "Dudlangan mol go’shti va uning ozuqabop mahsulotlari"
+    },
+    "mxik": {
+      "code": "00210001009000000",
+      "name": "Final code for 00210001009",
+      "details": {
+        "code": "00210001009000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:37.269Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00210",
+      "name": "Go’sht va ichak-chovoqlar, tuzlangan, namokoblangan, quritilgan yoki dudlangan"
+    },
+    "position": {
+      "code": "00210004",
+      "name": "Cho’chqa go’shti va boshqa ozuqabop mahsulotlari: tuzlangan, quritilgan, dudlangan"
+    },
+    "subposition": {
+      "code": "00210004001",
+      "name": "Tuzlangan cho’chqa go’shti"
+    },
+    "mxik": {
+      "code": "00210004001000000",
+      "name": "Final code for 00210004001",
+      "details": {
+        "code": "00210004001000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:37.721Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00210",
+      "name": "Go’sht va ichak-chovoqlar, tuzlangan, namokoblangan, quritilgan yoki dudlangan"
+    },
+    "position": {
+      "code": "00210004",
+      "name": "Cho’chqa go’shti va boshqa ozuqabop mahsulotlari: tuzlangan, quritilgan, dudlangan"
+    },
+    "subposition": {
+      "code": "00210004002",
+      "name": "Quritilgan cho’chqa go’shti va uning ozuqabop mahsulotlari"
+    },
+    "mxik": {
+      "code": "00210004002000000",
+      "name": "Final code for 00210004002",
+      "details": {
+        "code": "00210004002000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:38.029Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00210",
+      "name": "Go’sht va ichak-chovoqlar, tuzlangan, namokoblangan, quritilgan yoki dudlangan"
+    },
+    "position": {
+      "code": "00210004",
+      "name": "Cho’chqa go’shti va boshqa ozuqabop mahsulotlari: tuzlangan, quritilgan, dudlangan"
+    },
+    "subposition": {
+      "code": "00210004003",
+      "name": "Dudlangan cho’chqa go’shti va uning ozuqabop mahsulotlari"
+    },
+    "mxik": {
+      "code": "00210004003000000",
+      "name": "Final code for 00210004003",
+      "details": {
+        "code": "00210004003000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:38.347Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00210",
+      "name": "Go’sht va ichak-chovoqlar, tuzlangan, namokoblangan, quritilgan yoki dudlangan"
+    },
+    "position": {
+      "code": "00210005",
+      "name": "Qo’y go’shti (echki) va ularning boshqa ozuqabop mahsulotlari: tuzlangan, quritilgan, dudlangan"
+    },
+    "subposition": {
+      "code": "00210005001",
+      "name": "Tuzlangan qo’y go’shti"
+    },
+    "mxik": {
+      "code": "00210005001000000",
+      "name": "Final code for 00210005001",
+      "details": {
+        "code": "00210005001000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:38.806Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00210",
+      "name": "Go’sht va ichak-chovoqlar, tuzlangan, namokoblangan, quritilgan yoki dudlangan"
+    },
+    "position": {
+      "code": "00210005",
+      "name": "Qo’y go’shti (echki) va ularning boshqa ozuqabop mahsulotlari: tuzlangan, quritilgan, dudlangan"
+    },
+    "subposition": {
+      "code": "00210005002",
+      "name": "Tuzlangan echki go’shti"
+    },
+    "mxik": {
+      "code": "00210005002000000",
+      "name": "Final code for 00210005002",
+      "details": {
+        "code": "00210005002000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:39.115Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00210",
+      "name": "Go’sht va ichak-chovoqlar, tuzlangan, namokoblangan, quritilgan yoki dudlangan"
+    },
+    "position": {
+      "code": "00210005",
+      "name": "Qo’y go’shti (echki) va ularning boshqa ozuqabop mahsulotlari: tuzlangan, quritilgan, dudlangan"
+    },
+    "subposition": {
+      "code": "00210005003",
+      "name": "Quritilgan qo’zichoq, echki go’shti va boshqa ozuqabop mahsulotlari"
+    },
+    "mxik": {
+      "code": "00210005003000000",
+      "name": "Final code for 00210005003",
+      "details": {
+        "code": "00210005003000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:39.432Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00210",
+      "name": "Go’sht va ichak-chovoqlar, tuzlangan, namokoblangan, quritilgan yoki dudlangan"
+    },
+    "position": {
+      "code": "00210005",
+      "name": "Qo’y go’shti (echki) va ularning boshqa ozuqabop mahsulotlari: tuzlangan, quritilgan, dudlangan"
+    },
+    "subposition": {
+      "code": "00210005004",
+      "name": "Dudlangan qo’zichoq, echki go’shti va ichaklari"
+    },
+    "mxik": {
+      "code": "00210005004000000",
+      "name": "Final code for 00210005004",
+      "details": {
+        "code": "00210005004000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:39.742Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00210",
+      "name": "Go’sht va ichak-chovoqlar, tuzlangan, namokoblangan, quritilgan yoki dudlangan"
+    },
+    "position": {
+      "code": "00210006",
+      "name": "Ot go’shti va boshqa ozuqabop mahsulotlari: tuzlangan, quritilgan, dudlangan"
+    },
+    "subposition": {
+      "code": "00210006001",
+      "name": "Tuzlangan ot go’shti"
+    },
+    "mxik": {
+      "code": "00210006001000000",
+      "name": "Final code for 00210006001",
+      "details": {
+        "code": "00210006001000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:40.201Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00210",
+      "name": "Go’sht va ichak-chovoqlar, tuzlangan, namokoblangan, quritilgan yoki dudlangan"
+    },
+    "position": {
+      "code": "00210006",
+      "name": "Ot go’shti va boshqa ozuqabop mahsulotlari: tuzlangan, quritilgan, dudlangan"
+    },
+    "subposition": {
+      "code": "00210006003",
+      "name": "Dudlangan ot go’shti"
+    },
+    "mxik": {
+      "code": "00210006003000000",
+      "name": "Final code for 00210006003",
+      "details": {
+        "code": "00210006003000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:40.522Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00210",
+      "name": "Go’sht va ichak-chovoqlar, tuzlangan, namokoblangan, quritilgan yoki dudlangan"
+    },
+    "position": {
+      "code": "00210006",
+      "name": "Ot go’shti va boshqa ozuqabop mahsulotlari: tuzlangan, quritilgan, dudlangan"
+    },
+    "subposition": {
+      "code": "00210006004",
+      "name": "Quritilgan ot go’shti va uning qo’shimcha mahsulotlari"
+    },
+    "mxik": {
+      "code": "00210006004000000",
+      "name": "Final code for 00210006004",
+      "details": {
+        "code": "00210006004000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:40.850Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00210",
+      "name": "Go’sht va ichak-chovoqlar, tuzlangan, namokoblangan, quritilgan yoki dudlangan"
+    },
+    "position": {
+      "code": "00210006",
+      "name": "Ot go’shti va boshqa ozuqabop mahsulotlari: tuzlangan, quritilgan, dudlangan"
+    },
+    "subposition": {
+      "code": "00210006005",
+      "name": null
+    },
+    "mxik": {
+      "code": "00210006005000000",
+      "name": "Final code for 00210006005",
+      "details": {
+        "code": "00210006005000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:41.169Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00210",
+      "name": "Go’sht va ichak-chovoqlar, tuzlangan, namokoblangan, quritilgan yoki dudlangan"
+    },
+    "position": {
+      "code": "00210007",
+      "name": "Parranda go’shti va boshqa ozuqabop mahsulotlari: tuzlangan, quritilgan, dudlangan"
+    },
+    "subposition": {
+      "code": "00210007001",
+      "name": "Tuzlangan parranda go’shti"
+    },
+    "mxik": {
+      "code": "00210007001000000",
+      "name": "Final code for 00210007001",
+      "details": {
+        "code": "00210007001000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:41.617Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00210",
+      "name": "Go’sht va ichak-chovoqlar, tuzlangan, namokoblangan, quritilgan yoki dudlangan"
+    },
+    "position": {
+      "code": "00210007",
+      "name": "Parranda go’shti va boshqa ozuqabop mahsulotlari: tuzlangan, quritilgan, dudlangan"
+    },
+    "subposition": {
+      "code": "00210007002",
+      "name": "Quritilgan parranda go’shti va uning ozuqabop mahsulotlari"
+    },
+    "mxik": {
+      "code": "00210007002000000",
+      "name": "Final code for 00210007002",
+      "details": {
+        "code": "00210007002000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:41.919Z"
+  },
+  {
+    "group": {
+      "code": "002",
+      "name": "GO’SHT VA GO’SHTLI OZIQ-OVQAT SUBMAHSULOTLARI"
+    },
+    "class": {
+      "code": "00210",
+      "name": "Go’sht va ichak-chovoqlar, tuzlangan, namokoblangan, quritilgan yoki dudlangan"
+    },
+    "position": {
+      "code": "00210007",
+      "name": "Parranda go’shti va boshqa ozuqabop mahsulotlari: tuzlangan, quritilgan, dudlangan"
+    },
+    "subposition": {
+      "code": "00210007003",
+      "name": "Dudlangan parranda go’shti"
+    },
+    "mxik": {
+      "code": "00210007003000000",
+      "name": "Final code for 00210007003",
+      "details": {
+        "code": "00210007003000000",
+        "name": "Details not available",
+        "fetchError": true
+      }
+    },
+    "fetchedAt": "2025-08-13T20:21:42.236Z"
+  }
+]
