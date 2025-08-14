@@ -99,12 +99,12 @@ class TransactionController {
 					id: response.data.result.receipt._id
 				});
 			} else if (method === "receipts.pay") {
-				const accounts = response.data.result.receipt.account || [];
+				const receipt = response.data.result.receipt;
+				const accounts = receipt.account || [];
 				const userAccount = accounts.find(acc => acc.name === 'user_id');
 				const productAccount = accounts.find(acc => acc.name === 'product_id');
 				
 				if (userAccount) {
-					const receipt = response.data.result.receipt;
 					console.log('🧾 [DEBUG] Receipt data:', JSON.stringify(receipt));
 
 					await db.collection('users').doc(userAccount.value).collection('receipts').add({
