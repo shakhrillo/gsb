@@ -53,7 +53,16 @@ class TransactionService {
         "title" : `${product?.['deliveryLocation']?.['address']}`,
         "price" : product?.['deliveryFee']
       },
-      "items" : (product['items'] || []).map(item => {
+      "items" : (product['items'] || []).push({
+        // 10112006002000000 Махсулотларни етказиб бериш хизмати
+        "discount": 0,
+        "title": `${product?.['deliveryLocation']?.['address']}`,
+        "price": product?.['deliveryFee'],
+        "count": 1,
+        "code": "10112006002000000",
+        "vat_percent": 12,
+        "package_code": "1542432"
+      }).map(item => {
         return {
           "discount": item['discount'] || 0,
           "title": item['name'],
