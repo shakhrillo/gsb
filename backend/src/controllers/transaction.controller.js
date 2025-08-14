@@ -106,8 +106,6 @@ class TransactionController {
 				if (userAccount) {
 					const receipt = response.data.result.receipt;
 					console.log('🧾 [DEBUG] Receipt data:', JSON.stringify(receipt));
-					// const userDoc = await db.collection('users').doc(userAccount.value).get();
-					// const userLocation = userDoc.data().location;
 
 					await db.collection('users').doc(userAccount.value).collection('receipts').add({
 						receipt_id: receipt._id,
@@ -122,24 +120,24 @@ class TransactionController {
 						commission: receipt.commission || 0,
 						description: receipt.description || '',
 					});
-
-					// const randomLatLngBukharaUzbekistan = () => {
-					// 	const lat = userLocation['latitude'];
-					// 	const lng = userLocation['longitude'];
-					// 	return { lat, lng, latitude: lat, longitude: lng };
-					// }
-
-					// await db.collection('orders').doc(productAccount.value).update({
-					// 	delivery_status: 'pending',
-					// 	status: 'paid',
-					// 	pickup_location: randomLatLngBukharaUzbekistan(),
-					// 	pay_time: receipt.pay_time,
-					// 	destination: randomLatLngBukharaUzbekistan()
-					// });
-						
 				}
+
+				// Send receipts to user
+				const response = await axios.post(process.env.PAYME_API_URL, {
+					"id": Math.random().toString(36).substring(2, 15),
+					"method": "receipts.send",
+					"params": {
+						"id": receipt._id,
+						"phone": receipt?.payer?.phone
+					}
+				}, {
+					headers: {
+						...headers
+					}
+				});
+
 				return res.json({
-					id: response.data.result.receipt._id
+					id: receipt._id
 				});
 			}
 
