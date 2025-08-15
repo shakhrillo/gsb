@@ -156,6 +156,30 @@ class TransactionController {
 		}
 	}
 
+	async getReceipts(req, res, next) {
+		const { id } = req.params;
+
+		try {
+			const response = await axios.post(process.env.PAYME_API_URL, {
+				id: new Date().getTime(),
+				method: "receipts.get",
+				params: {
+					id
+				}
+			}, {
+				headers: {
+					'X-Auth': `${process.env.PAYME_MERCHANT_ID}:${process.env.PAYME_MERCHANT_KEY}`
+				}
+			});
+
+			const receipt = response.data.result.receipt;
+			console.log('🧾 [DEBUG] Receipt data:', JSON.stringify(receipt));
+			return res.json(receipt);
+		} catch (err) {
+			next(err);
+		}
+	}
+
 }
 
 module.exports = new TransactionController()

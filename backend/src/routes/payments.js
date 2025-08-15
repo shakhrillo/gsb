@@ -7,5 +7,6 @@ const { validateUser } = require('../middleware/validateUser');
 router.post('/', paymeCheckToken, transactionController.payme);
 router.post('/checkout', validateUser, transactionController.checkout);
 router.post('/cards', validateUser, transactionController.card);
+router.get('/receipts/:id', validateUser, transactionController.getReceipts);
 
 module.exports = router;
