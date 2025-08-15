@@ -126,6 +126,15 @@ class TransactionController {
 					});
 				}
 
+				if (productAccount) {
+					console.log('📦 [DEBUG] Product data:', JSON.stringify(productAccount));
+
+					await db.collection('orders').doc(productAccount.value).set({
+						receipt_id: receipt._id,
+						state: receipt.state
+					});
+				}
+
 				// Send receipts to user
 				try {
 					await axios.post(process.env.PAYME_API_URL, {

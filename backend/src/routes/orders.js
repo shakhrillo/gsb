@@ -74,19 +74,29 @@ router.get('/', validateUser, async (req, res) => {
     // Get total count for pagination metadata
     const countQuery = db.collection('orders')
       .where('uid', '==', user.uid)
-      .where('status', '==', 'paid');
+      .where('state', '==', '4');
     
     const countSnapshot = await countQuery.get();
     const totalItems = countSnapshot.size;
     
     if (totalItems === 0) {
-      return res.status(404).json({ message: 'No orders found' });
+      return res.json({
+        orders: [],
+        pagination: {
+          currentPage: page,
+          totalPages: 1,
+          totalItems: 0,
+          itemsPerPage: limit,
+          hasNextPage: false,
+          hasPrevPage: false
+        }
+      });
     }
     
     // Get paginated orders
     const collectionOrder = db.collection('orders')
       .where('uid', '==', user.uid)
-      .where('status', '==', 'paid')
+      .where('state', '==', '4')
       .orderBy('createdAt', 'desc')
       .offset(offset)
       .limit(limit);
