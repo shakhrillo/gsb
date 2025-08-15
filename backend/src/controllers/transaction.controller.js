@@ -129,7 +129,7 @@ class TransactionController {
 				if (productAccount) {
 					console.log('📦 [DEBUG] Product data:', JSON.stringify(productAccount));
 
-					await db.collection('orders').doc(productAccount.value).set({
+					await db.collection('orders').doc(productAccount.value).update({
 						receipt_id: receipt._id,
 						state: receipt.state
 					});
