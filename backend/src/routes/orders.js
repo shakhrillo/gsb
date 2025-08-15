@@ -74,10 +74,12 @@ router.get('/', validateUser, async (req, res) => {
     // Get total count for pagination metadata
     const countQuery = db.collection('orders')
       .where('uid', '==', user.uid)
-      .where('state', '==', '4');
+      .where('state', '==', 4);
     
     const countSnapshot = await countQuery.get();
     const totalItems = countSnapshot.size;
+
+    console.log(`Total items for user ${user.uid}:`, totalItems);
     
     if (totalItems === 0) {
       return res.json({
@@ -96,7 +98,7 @@ router.get('/', validateUser, async (req, res) => {
     // Get paginated orders
     const collectionOrder = db.collection('orders')
       .where('uid', '==', user.uid)
-      .where('state', '==', '4')
+      .where('state', '==', 4)
       .orderBy('createdAt', 'desc')
       .offset(offset)
       .limit(limit);
@@ -122,6 +124,22 @@ router.get('/', validateUser, async (req, res) => {
       }
     });
   } catch (err) {
+    console.error('Error fetching orders:', err);
+    res.status(500).json({ error: err.message });
+  }
+});
+
+router.get('/courier', validateUser, async (req, res) => {
+  try {
+    const user = req.user;
+
+    const courier_orders = db.collection('user').doc(user.uid).collection('courier_orders');
+    const snapshot = await courier_orders.get();
+
+    const orders = snapshot.docs.map(doc => ({ id: doc.id, ...doc.data() })) || [];
+    res.json(orders);
+  } catch (err) {
+    console.error('Error fetching orders:', err);
     res.status(500).json({ error: err.message });
   }
 });
