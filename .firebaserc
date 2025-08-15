@@ -1,8 +1,5 @@
 {
   "projects": {
-    "default": "yolda-e6aae",
-    "staging": "yolda-e6aae"
-  },
-  "targets": {},
-  "etags": {}
+    "default": "yulda24uz"
+  }
 }
